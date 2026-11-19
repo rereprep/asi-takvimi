@@ -55,7 +55,7 @@
     }
     s += "<dl class='bilgi'><dt>Ürün adı</dt><dd>" + esc(a.tamAd) + "</dd><dt>Bileşim</dt><dd>" + esc(a.bilesim) + "</dd><dt>Üretici</dt><dd>" + esc(a.uretici) + "</dd><dt>Ruhsat sahibi</dt><dd>" + esc(a.ruhsat) + "</dd></dl>";
     if (a.fotolar.length) {
-      s += "<h3>Prospektüs fotoğrafı</h3><div class='fotolar'>" + a.fotolar.map((f) => "<button class='foto' data-dosya='" + f.dosya + "' data-baslik='" + esc(a.urun + " · " + f.baslik) + "'><img src='" + kucuk(f.dosya) + "' alt='" + esc(a.urun + " " + f.baslik) + "' loading='lazy'><span>" + esc(f.baslik) + "</span></button>").join("") + "</div>";
+      s += "<h3>Prospektüs fotoğrafı</h3><div class='fotolar'>" + a.fotolar.map((f) => "<button class='foto-dugme' data-dosya='" + f.dosya + "' data-baslik='" + esc(a.urun + " · " + f.baslik) + "'><img src='" + kucuk(f.dosya) + "' alt='" + esc(a.urun + " " + f.baslik) + "' loading='lazy'><span>" + esc(f.baslik) + "</span></button>").join("") + "</div>";
     }
     s += "<h3>Belgeler</h3><ul class='belgeler'>" + a.belgeler.map((b) => "<li class='belge'><a href='" + esc(b.url) + "' target='_blank' rel='noopener'><span class='tur " + esc(b.tur) + "'>" + esc(b.tur) + "</span><span>" + esc(b.ad) + "<small>" + esc(b.kaynak) + (b.tarih ? " · " + esc(b.tarih) : "") + "</small></span></a></li>").join("") + "</ul>";
     if (a.not) s += "<p class='not'>" + esc(a.not) + "</p>";
@@ -75,7 +75,7 @@
   document.addEventListener("click", (e) => {
     const b = e.target.closest("[data-id]");
     if (b) { ac(b.dataset.id); return; }
-    const f = e.target.closest(".foto");
+    const f = e.target.closest(".foto-dugme");
     if (f) buyut(f.dataset.dosya, f.dataset.baslik);
   });
   $("#panel-kapat").addEventListener("click", () => kapat());

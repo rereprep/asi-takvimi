@@ -19,7 +19,7 @@ h2{font-size:1.35rem;margin:0 0 12px}
 .kaynak-link{font-size:.95rem;font-weight:600}
 .tablo-kap{overflow-x:auto;background:var(--beyaz);border:1px solid var(--cizgi);border-radius:14px;box-shadow:0 1px 3px rgba(0,0,0,.05)}
 table.takvim{border-collapse:collapse;width:100%;min-width:900px}
-.takvim th,.takvim td{border-bottom:1px solid var(--cizgi);border-right:1px solid var(--cizgi);padding:0;text-align:center}
+.takvim th,.takvim td{border-bottom:1px solid var(--cizgi);border-right:1px solid var(--cizgi);padding:0;text-align:center;height:1px}
 .takvim tr:last-child td,.takvim tr:last-child th{border-bottom:0}
 .takvim th:last-child,.takvim td:last-child{border-right:0}
 .takvim thead th{background:var(--mor-cok-acik);color:var(--mor-koyu);font-size:.82rem;padding:10px 4px;line-height:1.2;font-weight:700}
@@ -29,7 +29,7 @@ table.takvim{border-collapse:collapse;width:100%;min-width:900px}
 .asi-dugme strong{display:block;font-size:.98rem}
 .asi-dugme small{display:block;color:var(--soluk);font-size:.78rem;line-height:1.25}
 .asi-dugme:hover,.asi-dugme:focus-visible{background:var(--mor-cok-acik)}
-.doz-dugme{all:unset;box-sizing:border-box;display:flex;align-items:center;justify-content:center;width:100%;min-height:52px;cursor:pointer;background:var(--mor-acik);color:var(--mor-koyu);font-weight:800;font-size:.95rem;transition:background .15s}
+.doz-dugme{all:unset;box-sizing:border-box;display:flex;align-items:center;justify-content:center;width:100%;height:100%;min-height:52px;cursor:pointer;background:var(--mor-acik);color:var(--mor-koyu);font-weight:800;font-size:.95rem;transition:background .15s}
 .doz-dugme.metin{font-size:.74rem;letter-spacing:.03em;text-transform:uppercase}
 .doz-dugme:hover,.doz-dugme:focus-visible{background:var(--mor);color:#fff}
 .doz-dugme.yeni{box-shadow:inset 0 0 0 3px var(--turuncu)}
@@ -62,9 +62,10 @@ table.takvim{border-collapse:collapse;width:100%;min-width:900px}
 .bilgi dt{color:var(--soluk)} .bilgi dd{margin:0}
 .panel h3{font-size:1.02rem;margin:22px 0 10px}
 .fotolar{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
-.foto{all:unset;cursor:zoom-in;border:1px solid var(--cizgi);border-radius:10px;overflow:hidden;background:#f3f3f3}
-.foto img{display:block;width:100%;height:200px;object-fit:cover;object-position:top}
-.foto span{display:block;padding:6px 8px;font-size:.8rem;color:var(--soluk)}
+.foto-dugme{all:unset;box-sizing:border-box;cursor:zoom-in;border:1px solid var(--cizgi);border-radius:10px;overflow:hidden;background:#f3f3f3}
+.foto-dugme:hover,.foto-dugme:focus-visible{border-color:var(--mor)}
+.foto-dugme img{display:block;width:100%;height:200px;object-fit:cover;object-position:top}
+.foto-dugme span{display:block;padding:6px 8px;font-size:.8rem;color:var(--soluk)}
 .belgeler{list-style:none;margin:0;padding:0;display:grid;gap:8px}
 .belge a{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--metin);border:1px solid var(--cizgi);border-radius:10px;padding:10px 12px}
 .belge a:hover{border-color:var(--mor);background:var(--mor-cok-acik)}
