@@ -25,7 +25,7 @@ window.ASILAR = [
     urun: "SII-BCG", tamAd: "BCG Aşısı 1 mL ID, enjeksiyonluk süspansiyon için liyofilize toz içeren çok dozlu flakon (canlı, attenüe)",
     bilesim: "Bir dozda (0,1 mL) 2 × 10⁵ – 8 × 10⁵ CFU canlı attenüe BCG (Bacillus Calmette-Guérin).",
     uretici: "Serum Institute of India Pvt. Ltd. (Hindistan)", ruhsat: "Keymen İlaç San. ve Tic. A.Ş.",
-    fotolar: [ { dosya: "bcg", baslik: "Kısa ürün bilgisi (fotoğrafın sağ yarısı; solda Tetraxim talimatının devamı görünüyor)" } ],
+    fotolar: [ { dosya: "bcg", baslik: "Kısa ürün bilgisi (sayfanın sol ve sağ kenarı fotoğrafta kesik)" } ],
     belgeler: [
       { tur: "KÜB", ad: "SII-BCG kısa ürün bilgisi", url: "https://www.keymen.com.tr/files/sii-bcg-kub-onayli-ocak-2018.pdf", kaynak: "Keymen", tarih: "Ocak 2018" },
       { tur: "KT", ad: "SII-BCG kullanma talimatı", url: "https://www.keymen.com.tr/files/sii-bcg-kt-onayli-ocak-2018.pdf", kaynak: "Keymen", tarih: "Ocak 2018" }
@@ -72,7 +72,7 @@ window.ASILAR = [
     id: "vzv", kisa: "Suçiçeği", ad: "Suçiçeği (varisella) aşısı",
     dozlar: { 5: "I", 8: "II" },
     urun: "Canlı Suçiçeği Aşısı", tamAd: "Canlı Suçiçeği Aşısı (tek dozluk flakon, steril)",
-    bilesim: "Sulandırıldıktan sonra 0,5 mL'lik bir dozda en az 3,3 lg PFU canlı varisella zoster virüsü (Oka suşu).",
+    bilesim: "Sulandırıldıktan sonra 0,5 mL'lik bir dozda en az 3.3 lg PFU canlı varisella zoster virüsü (Oka suşu).",
     uretici: "Gönderilen belgede görünmüyor", ruhsat: "Gönderilen belgede görünmüyor",
     fotolar: [ { dosya: "sucicegi", baslik: "Kullanma talimatı, 1. sayfa" } ],
     belgeler: [

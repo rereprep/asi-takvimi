@@ -7,6 +7,59 @@
   const kucuk = (d) => "img/kucuk/" + d + ".jpg";
   const tam = (d) => "img/tam/" + d + ".jpg";
 
+
+  // Basit Markdown görüntüleyici (OCR metinleri için)
+  function satirIci(s) {
+    return esc(s)
+      .replace(/\\\*/g, "&#42;")
+      .replace(/\*\*\*([^*]+)\*\*\*/g, "<strong><em>$1</em></strong>")
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/(^|[\s(>\]“"'])\*(?=\S)([^*]+?)\*(?=[\s).,;:!?”"'<\[]|$)/g, "$1<em>$2</em>")
+      .replace(/(^|[\s(>])_(?=\S)([^_]+?)_(?=[\s).,;:<]|$)/g, "$1<em>$2</em>")
+      .replace(/\[(kesik|okunamadı|\?)\]/g, "<mark class='isaret'>[$1]</mark>");
+  }
+
+  function md2html(md) {
+    const L = md.replace(/\r/g, "").split("\n");
+    let out = [], i = 0;
+    while (i < L.length) {
+      let l = L[i];
+      if (!l.trim()) { i++; continue; }
+      let m;
+      if ((m = l.match(/^(#{1,4})\s+(.*)/))) { const n = Math.min(m[1].length + 2, 6); out.push("<h" + n + ">" + satirIci(m[2]) + "</h" + n + ">"); i++; continue; }
+      if (/^\|/.test(l)) {
+        const rows = []; while (i < L.length && /^\|/.test(L[i])) rows.push(L[i++]);
+        const cells = (r) => r.replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
+        let h = "<div class='md-tablo'><table>";
+        rows.forEach((r, k) => { if (/^\|?\s*:?-{2,}/.test(r.replace(/^\|/, ""))) return; const tag = k === 0 ? "th" : "td"; h += "<tr>" + cells(r).map((c) => "<" + tag + ">" + satirIci(c) + "</" + tag + ">").join("") + "</tr>"; });
+        out.push(h + "</table></div>"); continue;
+      }
+      if (/^>/.test(l)) {
+        const q = []; while (i < L.length && /^>/.test(L[i])) q.push(L[i++].replace(/^>\s?/, ""));
+        out.push("<blockquote>" + md2html(q.join("\n")) + "</blockquote>"); continue;
+      }
+      if (/^\s*([-*•]|\d+[.)])\s+/.test(l)) {
+        const ord = /^\s*\d+[.)]\s+/.test(l); const it = [];
+        while (i < L.length && /^\s*([-*•]|\d+[.)])\s+/.test(L[i])) { let t = L[i++].replace(/^\s*([-*•]|\d+[.)])\s+/, ""); while (i < L.length && /^\s{2,}\S/.test(L[i]) && !/^\s*([-*•]|\d+[.)])\s+/.test(L[i])) t += " " + L[i++].trim(); it.push(t); }
+        out.push((ord ? "<ol>" : "<ul>") + it.map((t) => "<li>" + satirIci(t) + "</li>").join("") + (ord ? "</ol>" : "</ul>")); continue;
+      }
+      const p = []; while (i < L.length && L[i].trim() && !/^(#{1,4}\s|\||>|\s*([-*•]|\d+[.)])\s+)/.test(L[i])) p.push(L[i++]);
+      out.push("<p>" + p.map(satirIci).join("<br>") + "</p>");
+    }
+    return out.join("\n");
+  }
+  const metinOnbellek = {};
+  function metinYukle(kutu) {
+    const d = kutu.dataset.metin;
+    const alan = kutu.querySelector(".metin-govde");
+    if (alan.dataset.yuklendi) return;
+    alan.dataset.yuklendi = "1";
+    const p = metinOnbellek[d] || (metinOnbellek[d] = fetch("metin/" + d + ".md").then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); }));
+    p.then((t) => { alan.innerHTML = md2html(t); }).catch(() => { alan.innerHTML = "<p>Metin yüklenemedi.</p>"; });
+  }
+  document.addEventListener("toggle", (e) => { if (e.target.matches && e.target.matches("details.metin") && e.target.open) metinYukle(e.target); }, true);
+
+
   // Takvim tablosu
   const tablo = $("#takvim");
   let h = "<thead><tr><th scope='col'>Aşı</th>" + Z.map((z) => "<th scope='col'>" + esc(z).replace(" ", "<br>") + "</th>").join("") + "</tr></thead><tbody>";
@@ -57,11 +110,13 @@
     if (a.fotolar.length) {
       s += "<h3>Prospektüs fotoğrafı</h3><div class='fotolar'>" + a.fotolar.map((f) => "<button class='foto-dugme' data-dosya='" + f.dosya + "' data-baslik='" + esc(a.urun + " · " + f.baslik) + "'><img src='" + kucuk(f.dosya) + "' alt='" + esc(a.urun + " " + f.baslik) + "' loading='lazy'><span>" + esc(f.baslik) + "</span></button>").join("") + "</div>";
     }
+    if (a.fotolar.length) { s += "<h3>Prospektüs metni</h3><p class='metin-aciklama'>Fotoğraftan metne aktarıldı ve fotoğrafla karşılaştırıldı. Fotoğrafta kesik ya da okunamayan yerler işaretlidir.</p>" + a.fotolar.map((f, k) => "<details class='metin' data-metin='" + f.dosya + "'" + (k === 0 ? " open" : "") + "><summary>" + esc(f.baslik) + "<a class='indir' href='metin/" + f.dosya + ".md' download onclick='event.stopPropagation()'>Metni indir</a></summary><div class='metin-govde'><p>Yükleniyor…</p></div></details>").join(""); }
     s += "<h3>Belgeler</h3><ul class='belgeler'>" + a.belgeler.map((b) => "<li class='belge'><a href='" + esc(b.url) + "' target='_blank' rel='noopener'><span class='tur " + esc(b.tur) + "'>" + esc(b.tur) + "</span><span>" + esc(b.ad) + "<small>" + esc(b.kaynak) + (b.tarih ? " · " + esc(b.tarih) : "") + "</small></span></a></li>").join("") + "</ul>";
     if (a.not) s += "<p class='not'>" + esc(a.not) + "</p>";
     icerik.innerHTML = s;
     panel.hidden = false; perde.hidden = false;
     panel.scrollTop = 0;
+    icerik.querySelectorAll("details.metin[open]").forEach(metinYukle);
     document.body.style.overflow = "hidden";
     $("#panel-kapat").focus();
     if (!gecmis && location.hash !== "#" + id) history.pushState(null, "", "#" + id);
