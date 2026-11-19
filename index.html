@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Türkiye Aşı Takvimi 2026 · Prospektüs ve Kısa Ürün Bilgileri</title>
+<meta name="description" content="Türkiye Ulusal Çocukluk Dönemi Aşılama Takvimi (1 Eylül 2026) ve takvimde kullanılan aşıların prospektüs, kısa ürün bilgisi ve kullanma talimatları.">
+<link rel="stylesheet" href="css/stil.css">
+</head>
+<body>
+<header class="ust">
+  <div class="kap">
+    <p class="ust-etiket">T.C. Sağlık Bakanlığı · 1 Eylül 2026 itibarıyla</p>
+    <h1>Ulusal Çocukluk Dönemi Aşılama Takvimi</h1>
+    <p class="ust-aciklama">Bir aşıya ya da doz kutusuna tıklayın; o aşı için kullanılan ürünü, prospektüs fotoğrafını, kısa ürün bilgisi (KÜB) ve kullanma talimatı (KT) belgelerini görün.</p>
+  </div>
+</header>
+
+<main class="kap">
+  <section aria-labelledby="takvim-baslik">
+    <div class="bolum-bas">
+      <h2 id="takvim-baslik">Aşı takvimi</h2>
+      <a class="kaynak-link" href="belgeler/2026-ulusal-cocukluk-donemi-asilama-takvimi.pdf" target="_blank" rel="noopener">Resmî takvim (PDF)</a>
+    </div>
+    <div class="tablo-kap" tabindex="0" aria-label="Aşı takvimi tablosu, yatay kaydırılabilir">
+      <table class="takvim" id="takvim"></table>
+    </div>
+    <p class="dipnot">I, II, III: doz sırası · Rapel: pekiştirme dozu · Ek doz: 9. ayda uygulanan KKK ek dozu. Suçiçeği aşısının ikinci dozu 1 Eylül 2026'dan itibaren 48. ayda yapılıyor.</p>
+  </section>
+
+  <section aria-labelledby="kartlar-baslik">
+    <h2 id="kartlar-baslik">Aşılar ve ürünler</h2>
+    <div class="kartlar" id="kartlar"></div>
+  </section>
+
+  <section aria-labelledby="diger-baslik">
+    <h2 id="diger-baslik">Erişkin ve risk grubu aşıları</h2>
+    <p class="bolum-aciklama">Çocukluk takviminde yer almayan, Sağlık Bakanlığı'nın erişkin aşı uygulamaları sayfasında önerilen iki aşı.</p>
+    <div class="kartlar" id="diger-kartlar"></div>
+  </section>
+
+  <section class="kaynaklar" aria-labelledby="kaynak-baslik">
+    <h2 id="kaynak-baslik">Kaynaklar</h2>
+    <ul>
+      <li><a href="https://dosyaism.saglik.gov.tr/Eklenti/284982/0/ek2026-ulusal-cocukluk-donemi-asilama-takvimipdf.pdf" target="_blank" rel="noopener">Sağlık Bakanlığı, Ulusal Çocukluk Dönemi Aşılama Takvimi (2026)</a></li>
+      <li><a href="https://www.titck.gov.tr/kubkt" target="_blank" rel="noopener">TİTCK KÜB/KT sorgulama</a>: her ürünün en güncel onaylı belgesi burada aranabilir.</li>
+      <li><a href="https://asi.saglik.gov.tr" target="_blank" rel="noopener">asi.saglik.gov.tr</a></li>
+      <li><a href="img/tam/takvim-urun-listesi.jpg" target="_blank" rel="noopener">Takvimde kullanılan ürünlerin listesi (fotoğraf)</a></li>
+    </ul>
+    <p>Prospektüs fotoğrafları, aşı uygulamasında kullanılan ürünlerin kutularından çıkan belgelerdir. Firma ve DSÖ bağlantıları, belgenin dijital kopyasına ulaşmak içindir; tarihleri belgenin üzerinde yazar. Bu site bilgilendirme amaçlıdır.</p>
+  </section>
+</main>
+
+<div class="perde" id="perde" hidden></div>
+<aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="panel-baslik" hidden>
+  <button class="kapat" id="panel-kapat" aria-label="Kapat">×</button>
+  <div id="panel-icerik"></div>
+</aside>
+
+<div class="buyutec" id="buyutec" role="dialog" aria-modal="true" aria-label="Prospektüs fotoğrafı" hidden>
+  <div class="buyutec-ust">
+    <span id="buyutec-baslik"></span>
+    <span class="buyutec-dugmeler">
+      <button id="yakinlas" type="button">Yakınlaştır</button>
+      <a id="buyutec-ac" target="_blank" rel="noopener">Yeni sekmede aç</a>
+      <button id="buyutec-kapat" type="button" aria-label="Kapat">×</button>
+    </span>
+  </div>
+  <div class="buyutec-alan" id="buyutec-alan"><img id="buyutec-img" alt=""></div>
+</div>
+
+<script src="js/veri.js"></script>
+<script src="js/uygulama.js"></script>
+</body>
+</html>
+
