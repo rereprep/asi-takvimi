@@ -1,0 +1,104 @@
+---
+title: "Aşı prospektüslerinde soru işareti yaratabilecek içerikler"
+subtitle: "Ulusal Çocukluk Dönemi Aşılama Takvimi (1 Eylül 2026) ürünleri ile Adacel ve MenFive"
+lang: tr-TR
+---
+
+Bu rapor, gönderilen prospektüs fotoğraflarından aktarılan metinlerin bileşen ve uyarı bölümlerine dayanır. Fotoğrafta görünmeyen yardımcı madde listeleri firmaların Türkçe kısa ürün bilgilerinden (KÜB) tamamlandı. Aşı bilgisinin kaynağı her satırda harfle gösterilir:
+
+- **F**: Gönderilen prospektüs fotoğrafı
+- **K**: Firmanın Türkçe kısa ürün bilgisi
+- **D**: Doğrulanmamış eşleşme veya yabancı kaynak
+
+"Bilimsel bilgi" sütunundaki köşeli parantezli numaralar sondaki kaynakçaya karşılık gelir. Kaynak numarası olmayan notlar yalnız ürün belgelerine dayanır.
+
+# 1. Madde bazında
+
+| Madde | Hangi aşılarda | Neden soru işareti yaratıyor | Bilimsel bilgi |
+|---|---|---|---|
+| **Alüminyum tuzları (adjuvan).** Bağışıklık yanıtını güçlendirmek için eklenen yardımcı madde (alüminyum hidroksit veya alüminyum fosfat). | DaBT-İPA-Hib-HepB: 0,6 mg Al³⁺; takvimdeki en yüksek miktar (F) • DaBT-İPA: 0,3 mg Al³⁺ (F) • KPA: 0,125 mg alüminyum (F) • Hep-B: alüminyum hidroksit; miktar fotoğrafta yok (F) • Hep-A: alüminyum hidroksit; miktar yok (F) • Td: alüminyum fosfat (F) • Tdab: alüminyum fosfat (K) | Sinir sistemi hasarı, otizm, otoimmün hastalık ve vücutta birikim iddiaları. Takvimde en çok aşıda bulunan madde olduğu için toplam miktar da tartışılır. | Avrupa Farmakopesi, aşının tek dozundaki alüminyum için 1,25 mg üst sınır koyar; takvimdeki miktarlar bu sınırın altındadır. FDA'ya göre alüminyumla en sık karşılaşma besin ve su yoluyla olur. Bir model çalışması (Mitkus 2011), bebeklerde aşı ve besinden gelen alüminyum birikiminin ABD zehirli maddeler ajansının (ATSDR) en düşük risk düzeyi eğrisinin altında kaldığını hesapladı. Bu çalışma ölçüm değil modeldir; bazı varsayımları az sayıda hayvan ve tek bir yetişkinin verisine dayanır. [1, 2, 3] |
+| **Tiyomersal (cıva içeren koruyucu).** Çok dozlu flakonlarda mikrop üremesini önlemek için kullanılan koruyucu. | Td: %0,005; doz başına yaklaşık 25 µg tiyomersal, yaklaşık 12,5 µg cıva (hesaplanan) (K) • Hep-B: koruyucu olarak; miktar fotoğrafta yok (F) | "Aşıda cıva var" itirazı; otizm ve sinir sistemi hasarı iddiaları. Td-VAC belgesinin tiyomersale alerji olasılığını yazması da alıntılanabilir. | Tiyomersaldeki cıva etilcıvadır; balıkta biriken metilcıvadan farklıdır ve vücuttan daha hızlı atılır. Bebeklerde yapılan bir çalışmada kandaki yarılanma ömrü yaklaşık 7 gün bulundu (Pichichero 2002). DSÖ Küresel Aşı Güvenliği Danışma Komitesi, aşılardaki tiyomersalin zararlı olduğuna dair kanıt bulmamıştır. [4, 5, 6] |
+| **Formaldehit.** Virüsleri ve bakteri toksinlerini etkisizleştirmek için üretimde kullanılır; bazı ürünlerde yardımcı madde ya da artık olarak bulunur. | DaBT-İPA: doz başına 10 µg; yardımcı maddeler arasında (F) • DaBT-İPA-Hib-HepB: eser miktarda (F) • Tdab: eser miktarda (K) • Hep-A: kontrendikasyon bölümünde yardımcı madde olarak anılıyor (F) | "Kanserojen madde", "mumyalama sıvısı" söylemi. | FDA'ya göre formaldehit üretim sırasında seyreltilir; aşılardaki miktar vücutta doğal olarak bulunan formaldehite göre çok küçüktür. Vücut formaldehiti normal metabolizmasının parçası olarak kendisi üretir. Bir model çalışması (Mitkus 2013), bir aşı ziyaretinde alınan yaklaşık 200 µg formaldehitin enjeksiyon yerinden 30 dakikada dağıldığını ve bebeğin kendi ürettiği miktarın %1'inden az bir artış yarattığını hesapladı. [2, 7] |
+| **Glutaraldehit.** Üretimde antijenleri etkisizleştirmek için kullanılan madde. | DaBT-İPA-Hib-HepB: eser miktarda (F) • DaBT-İPA: eser miktarda (F) • Tdab: eser miktarda (K) | Formaldehitle birlikte "aşıda kimyasal var" itirazı. | Ürün belgeleri bu maddeyi "tespit edilemeyen eser" olarak bildirir; uyarı yalnız bu maddeye aşırı duyarlılığı olan kişiler içindir. |
+| **Antibiyotik artıkları.** Hücre kültüründe bakteri üremesini önlemek için üretimde kullanılan antibiyotiklerin kalıntısı. | DaBT-İPA-Hib-HepB: neomisin, streptomisin, polimiksin B (eser) (F) • DaBT-İPA: neomisin, streptomisin, polimiksin B (eser) (F) • KKK: neomisin (eser) (F) • OPA: eritromisin en fazla 2 mcg, kanamisin en fazla 10 mcg (F) • Hep-A: gentamisin sülfat (F) | "Bebeğe antibiyotik veriliyor"; direnç ve bağırsak florası iddiaları. | FDA'ya göre ağır alerjiye en sık yol açan antibiyotikler (penisilinler, sefalosporinler, sülfa ilaçları) aşı üretiminde kullanılmaz; aşılardaki çok küçük miktarlar ağır alerjik tepkilerle açıkça ilişkilendirilmemiştir. CDC'ye göre neomisine daha önce anafilaksi geçirmek KKK için engeldir; gecikmiş deri tepkisi engel değildir. [2, 8] |
+| **İnsan diploid hücreleri (2BS).** Hepatit A virüsünün üretildiği insan hücre dizisi. | Hep-A: "İnsan diploid (2BS) hücrelerinde üretilmiştir"; ürün adında da geçiyor (F) | Dinî ve etik itiraz: "aşıda cenin dokusu var" söylemi. Türkiye'de helal tartışmasıyla birleşebilir. | 2BS, 1973'te Pekin Biyolojik Ürünler Enstitüsü'nde 3 aylık bir fetüsün akciğer dokusundan kurulmuş diploid fibroblast hücre dizisidir; aşı üretimi için yeni fetal doku kullanılmaz. Virüs bu hücrelerde üretilir, saflaştırılır ve formalinle etkisizleştirilir. Hücre dizisinin kökeni için kullanılan kaynak bir patent metnidir; bilimsel yayında birincil kaynakla desteklenmelidir. [9, 10, 11] |
+| **Vero hücreleri.** Polio virüsünün üretildiği maymun böbrek hücre dizisi. | DaBT-İPA-Hib-HepB: polio bileşeni Vero hücrelerinde üretiliyor (F) • DaBT-İPA: polio bileşeni Vero hücrelerinde üretiliyor (F) | "Aşıda hayvan hücresi", "maymun virüsü" itirazı. | Vero, 1962'de Japonya'da Chiba Üniversitesi'nde sağlıklı bir Afrika yeşil maymununun böbreğinden kurulmuş sürekli hücre dizisidir. Aşı virüsü bu hücrelerde üretilir, sonra etkisizleştirilip saflaştırılır. [12, 13, 14] |
+| **Maya hücrelerinde üretilen antijen (rekombinant DNA).** Hepatit B yüzey proteininin genetik mühendislikle maya hücrelerinde üretilmesi. | DaBT-İPA-Hib-HepB: hepatit B antijeni Hansenula polymorpha maya hücrelerinde üretiliyor (F) • Hep-B: "Rekombinant DNA teknolojisi ile üretilmiştir" (F) | "Genetiği değiştirilmiş aşı", "DNA'yı değiştirir" söylemi. | Aşıda saflaştırılmış hepatit B yüzey proteini bulunur; maya yalnız bu proteini üretmek için kullanılır. [15] |
+| **Etanol (alkol).** Üretimde kullanılan çözücü. | DaBT-İPA: susuz etanol; KÜB'e göre doz başına 2,5 mikrolitre (yaklaşık 2 mg); prospektüs "100 mg'dan az" diyor (F) | Dinî açıdan "alkol içeren aşı" itirazı. | Tetraxim belgesi, bu miktardaki alkolün "gözle görülür bir etkisi olması olası değildir" der. |
+| **Jelatin.** Bazı canlı aşılarda kullanılan dengeleyici (stabilizatör). | KKK: GBP'deki KKK'nin yardımcı madde listesi fotoğrafta yok; doğrulanmalı (D) | "Domuz kaynaklı jelatin" ve helal itirazı; Türkiye'de en etkili konulardan biri. | FDA'ya göre jelatin bazı aşılarda dengeleyici olarak kullanılır. CDC'ye göre KKK'ye bağlı alerjik tepkilerin çoğu jelatin gibi bileşenlerle ilişkilidir ve jelatine anafilaksi öyküsü KKK için engeldir. Türkiye'de ruhsatlı başka bir SII KKK ürünü olan TRESIVAC'ın talimatında jelatin geçer; GBP'deki KKK'nin jelatin içerip içermediği ve jelatinin kaynağı doğrulanmamıştır. Gönderilen suçiçeği, OPA ve diğer aşıların görünen yardımcı madde listelerinde jelatin yoktur. [2, 16, 17] |
+| **Yumurta ve inek sütü proteinleri.** KKK prospektüsünde alerji uyarısı olarak geçen besin proteinleri. | KKK: yumurtaya anafilaksi öyküsü "mutlak kontrendikasyon"; inek sütü alerjisinde "son derece nadir" aşırı duyarlılık bildirimi (F) | "Aşıda hayvansal protein var"; alerji kaygısı. | CDC'ye göre yumurta alerjisi, ağır olsa bile, KKK için engel ya da önlem gerektiren durum değildir. GBP'deki KKK prospektüsü ise yumurtaya anafilaksi öyküsünü mutlak kontrendikasyon olarak yazar; bu ifade CDC rehberinden daha katıdır. [16, 8] |
+| **Polisorbat 80.** Bileşenlerin karışık kalmasını sağlayan emülgatör. | KPA: doz başına 0,1 mg (K) | "Kısırlık yapar" söylemi. | İddia, yeni doğmuş sıçanlara karın içine çok yüksek dozlarda verilen bir çalışmaya dayanır. DSÖ Avrupa ve CHOP, aşılardaki miktarın kısırlığa yol açtığına dair kanıt olmadığını belirtir. [18, 19] |
+| **CRM₁₉₇ (zehirsiz difteri toksini türevi).** Konjuge aşılarda polisakkaritin bağlandığı taşıyıcı protein. | KPA: doz başına yaklaşık 32 µg (F) • Meningokok: C, W, Y bileşenlerinin taşıyıcısı (D) | "Aşıda toksin var" söylemi. | CRM₁₉₇, difteri toksininin doğal olarak oluşmuş türevidir. Tek bir amino asit değişikliği (52. sırada glisin yerine glutamik asit) toksinin hücrede protein yapımını durduran işlevini ortadan kaldırır. [20, 21] |
+| **Fenilalanin ve "fenol kırmızısı".** Besiyerindeki bir amino asit; fenol kırmızısı ise bir pH göstergesi. | DaBT-İPA: "fenilketonürisi olanlarda tehlikeli olabilir"; KÜB'e göre doz başına 12,5 µg; "fenol kırmızısı içermeyen" besiyeri (F) • DaBT-İPA-Hib-HepB: L-fenilalanin içeren amino asitler (F) | "Tehlikeli olabilir" ifadesi ve "fenol" sözcüğü bağlamından koparılabilir. | Uyarı yalnız fenilketonüri hastalarını ilgilendirir. "Fenol kırmızısı içermeyen" ifadesi bu maddenin aşıda bulunmadığını söyler. |
+| **Fenoksietanol.** Koruyucu madde. | DaBT-İPA: KÜB'e göre doz başına 2,5 mikrolitre (F) • Tdab: 2-fenoksietanol (K) | "Kimyasal koruyucu" itirazı. | Bu iki üründe tiyomersal yerine koruyucu olarak kullanılır. |
+| **Sodyum glutamat ("MSG").** Dengeleyici olarak kullanılan bir amino asit tuzu. | BCG: doz başına 0,75 mg (F) • Suçiçeği: yardımcı maddeler arasında (F) | "MSG bebek beynine zarar verir" söylemi. | FDA'ya göre glutamik asidin sodyum tuzu gibi amino asitler aşılarda dengeleyici olarak kullanılır; şekerler, amino asitler ve proteinler aşılara özgü değildir, günlük besinlerde ve vücutta doğal olarak bulunur. [2] |
+
+# 2. Aşı bazında
+
+| Aşı (ürün) | Soru doğurabilecek içerikler |
+|---|---|
+| Hep-B (Bevac) | Alüminyum tuzları (adjuvan): alüminyum hidroksit; miktar fotoğrafta yok (F) • Tiyomersal (cıva içeren koruyucu): koruyucu olarak; miktar fotoğrafta yok (F) • Maya hücrelerinde üretilen antijen (rekombinant DNA): "Rekombinant DNA teknolojisi ile üretilmiştir" (F) |
+| BCG (SII-BCG) | Sodyum glutamat ("MSG"): doz başına 0,75 mg (F) |
+| KPA (Prevenar 13) | Alüminyum tuzları (adjuvan): 0,125 mg alüminyum (F) • Polisorbat 80: doz başına 0,1 mg (K) • CRM₁₉₇ (zehirsiz difteri toksini türevi): doz başına yaklaşık 32 µg (F) |
+| DaBT-İPA-Hib-HepB (Hexaxim) | Alüminyum tuzları (adjuvan): 0,6 mg Al³⁺; takvimdeki en yüksek miktar (F) • Formaldehit: eser miktarda (F) • Glutaraldehit: eser miktarda (F) • Antibiyotik artıkları: neomisin, streptomisin, polimiksin B (eser) (F) • Vero hücreleri: polio bileşeni Vero hücrelerinde üretiliyor (F) • Maya hücrelerinde üretilen antijen (rekombinant DNA): hepatit B antijeni Hansenula polymorpha maya hücrelerinde üretiliyor (F) • Fenilalanin ve "fenol kırmızısı": L-fenilalanin içeren amino asitler (F) |
+| OPA (Bivalan Oral Polio) | Antibiyotik artıkları: eritromisin en fazla 2 mcg, kanamisin en fazla 10 mcg (F) |
+| Suçiçeği (Canlı Suçiçeği Aşısı) | Sodyum glutamat ("MSG"): yardımcı maddeler arasında (F) |
+| KKK (KKK Aşısı (MMR)) | Antibiyotik artıkları: neomisin (eser) (F) • Jelatin: GBP'deki KKK'nin yardımcı madde listesi fotoğrafta yok; doğrulanmalı (D) • Yumurta ve inek sütü proteinleri: yumurtaya anafilaksi öyküsü "mutlak kontrendikasyon"; inek sütü alerjisinde "son derece nadir" aşırı duyarlılık bildirimi (F) |
+| Hep-A (Healive (pediatrik)) | Alüminyum tuzları (adjuvan): alüminyum hidroksit; miktar yok (F) • Formaldehit: kontrendikasyon bölümünde yardımcı madde olarak anılıyor (F) • Antibiyotik artıkları: gentamisin sülfat (F) • İnsan diploid hücreleri (2BS): "İnsan diploid (2BS) hücrelerinde üretilmiştir"; ürün adında da geçiyor (F) |
+| DaBT-İPA (Tetraxim) | Alüminyum tuzları (adjuvan): 0,3 mg Al³⁺ (F) • Formaldehit: doz başına 10 µg; yardımcı maddeler arasında (F) • Glutaraldehit: eser miktarda (F) • Antibiyotik artıkları: neomisin, streptomisin, polimiksin B (eser) (F) • Vero hücreleri: polio bileşeni Vero hücrelerinde üretiliyor (F) • Etanol (alkol): susuz etanol; KÜB'e göre doz başına 2,5 mikrolitre (yaklaşık 2 mg); prospektüs "100 mg'dan az" diyor (F) • Fenilalanin ve "fenol kırmızısı": "fenilketonürisi olanlarda tehlikeli olabilir"; KÜB'e göre doz başına 12,5 µg; "fenol kırmızısı içermeyen" besiyeri (F) • Fenoksietanol: KÜB'e göre doz başına 2,5 mikrolitre (F) |
+| Td (Td-VAC) | Alüminyum tuzları (adjuvan): alüminyum fosfat (F) • Tiyomersal (cıva içeren koruyucu): %0,005; doz başına yaklaşık 25 µg tiyomersal, yaklaşık 12,5 µg cıva (hesaplanan) (K) |
+| Tdab (Adacel) | Alüminyum tuzları (adjuvan): alüminyum fosfat (K) • Formaldehit: eser miktarda (K) • Glutaraldehit: eser miktarda (K) • Fenoksietanol: 2-fenoksietanol (K) |
+| Meningokok (MenFive) | CRM₁₉₇ (zehirsiz difteri toksini türevi): C, W, Y bileşenlerinin taşıyıcısı (D) |
+
+# 3. Prospektüslerde dikkat çekebilecek ifadeler
+
+Alıntılar gönderilen prospektüs fotoğraflarından birebir aktarılmıştır.
+
+| Aşı | İfade | Neden | Bilimsel bilgi |
+|---|---|---|---|
+| OPA (Bivalan Oral Polio) | "Çok nadiren aşıya bağlı paralizi gelişebilir (uygulanan 1 milyon dozda bir vaka). Yakın zamanda aşılanan bir çocukla yakın temas halinde olan kişiler nadiren de olsa aşıya bağlı paralitik poliomyelit riski altında olabilirler." | "Aşı felç yapıyor" ve "aşılı çocuk başkasına bulaştırır" söyleminin doğrudan kaynağı olabilir. | DSÖ'ye göre üç bileşenli oral aşı kullanan ülkelerde her 1 milyon doğumda yaklaşık 3,8 olgu görülür (2,9–4,7) ve risk en çok ilk dozdadır. Prospektüsteki oran bu aralıkla uyumludur. Bu risk yalnız canlı oral aşıda vardır; takvimdeki inaktif polio (Hexaxim ve Tetraxim içindeki İPA) felç yapmaz. [22, 23] |
+| Suçiçeği (Canlı Suçiçeği Aşısı) | "Aşı virüsünün bulaşması nadiren gerçekleşebilir." | Aşılı çocuğun başkasına hastalık bulaştıracağı kaygısı. | CDC'ye göre 2018'e kadar bağışıklığı normal 11 aşılı kişiden 13 bulaşma olgusu kaydedildi; hepsi aşıdan sonra döküntü çıkan kişilerdendi ve bulaşan hastalık genellikle hafifti. Döküntüsü olmayan aşılı kişinin bulaştırması çok olası değildir. [24, 25] |
+| Suçiçeği (Canlı Suçiçeği Aşısı) | "... tüm aşılanan kişileri doğal yollardan edinilmiş suçiçeğine karşı tamamen korumayabilir." | "Aşı zaten korumuyor" argümanı. Benzer ifade BCG'de de var: "aşılanan kişilerin tümünde koruma sağlamayabilir." |  |
+| Hep-B (Bevac) | "Gebelik kategorisi: C. Gebe kadınların rekombinant hepatit-B aşısı ile rutin olarak aşılanması, fetüs üzerindeki etkilerine ilişkin verilerin yetersiz olması nedeniyle önerilmemektedir." | Gebelikte aşı güvenliği konusunda kuşku. | Harf kategorileri tek başına zarar kanıtı değildir. FDA, A, B, C, D ve X gebelik harf kategorilerini 30 Haziran 2015'te yürürlüğe giren gebelik ve emzirme etiketleme kuralıyla kaldırdı. [26] |
+| KKK (KKK Aşısı (MMR)) | "Teorik olarak mümkün olan ama kanıtlanmamış teratojenik riskler nedeniyle hamile kadınlara KKK aşısı yapılmamalıdır." | "Sakat doğuma yol açar" söylemi. | Prospektüsün kendisi riskin kanıtlanmamış olduğunu, farkında olmadan yapılan aşının kürtaj nedeni olmadığını ve Doğumsal Kızamıkçık Sendromu olgusu bildirilmediğini belirtir. |
+| BCG (SII-BCG) | "HIV pozitif olduğu tespit edilen çocuklarda ... muhtemel "BCG-itis" gelişme olasılığı ... kontrendikedir. Aşılama sonrasında enjeksiyon yerinde keloid ve lupoid reaksiyon gelişme olasılığı vardır." | Yan etki kaygısı. |  |
+| Td (Td-VAC) | "Bu tıbbi ürün koruyucu olarak tiyomersal ihtiva etmektedir ve sizin ya da çocuğunuzun alerjik reaksiyon göstermesi ihtimali vardır." | Cıva itirazını belgenin kendisi doğruluyor gibi okunabilir. | Bkz. tiyomersal. [4] |
+| DaBT-İPA (Tetraxim) | "TETRAXIM fenilalanin içerdiğinden fenilketonürisi olanlarda tehlikeli olabilir." | "Tehlikeli" sözcüğü bağlamından koparılabilir. | Uyarı yalnız fenilketonüri hastalarını ilgilendirir. |
+| DaBT-İPA-Hib-HepB (Hexaxim) | "Aşı, üretim prosesi sırasında kullanılan eser miktarda glutaraldehit, formaldehit, neomisin, streptomisin ve polimiksin B içerebilir." | "İçeriği belli olmayan kimyasallar" algısı. Aynı ifade Tetraxim'de de var. | Bkz. formaldehit, glutaraldehit ve antibiyotik artıkları. [2] |
+
+# 4. Doğrulanması gerekenler
+
+1. KKK'nin tam bileşimi: GBP'de kullanılan KKK'nin üreticisi ve yardımcı madde listesi; özellikle jelatin içerip içermediği ve jelatinin kaynağı.
+2. Bevac'taki tiyomersal ve alüminyum miktarı: Fotoğrafta yazmıyor.
+3. Healive ve suçiçeği için Türkçe kısa ürün bilgisi bulunamadı; değerlendirme fotoğrafların görünen kısmına dayanıyor.
+4. MenFive'ın Türkiye'deki ruhsatı ve kullanımı doğrulanmadı; bilgiler DSÖ belgesinden.
+5. Fotoğraflar çoğu belgenin yalnız bir yüzünü gösteriyor; eksik sayfalar istendi.
+
+# Kaynakça
+
+1. Avrupa Farmakopesi (EDQM), aşı metinleri; 0153 Vaccines for human use. https://www.edqm.eu/documents/52006/277487/Free%2Baccess%2Bto%2Bsupportive%2Bpharmacopoeial%2Btexts%2Bin%2Bthe%2Bfield%2Bof%2Bvaccines%2Bfor%2Bhuman%2Buse%2Bduring%2Bthe%2Bcoronavirus%2Bdisease%2B%28COVID-19%29%2Bpandemic%2BUpdated%2Bpackage%2B-%2BOctober%2B2020.pdf/72875b16-432e-3854-36ca-51422e221d68?download=true&version=1.1
+2. FDA, Common Ingredients in U.S. Licensed Vaccines. https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/common-ingredients-us-licensed-vaccines
+3. Mitkus RJ ve ark. Updated aluminum pharmacokinetics following infant exposures through diet and vaccination. Vaccine. 2011;29(51):9538–9543. https://pubmed.ncbi.nlm.nih.gov/22001122/
+4. DSÖ Küresel Aşı Güvenliği Danışma Komitesi (GACVS), Thiomersal vaccines. https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/thiomersal-and-vaccines/thiomersal-vaccines
+5. DSÖ, Vaccines and immunization: Thiomersal (soru-cevap). https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-thiomersal
+6. Pichichero ME ve ark. Mercury concentrations and metabolism in infants receiving vaccines containing thiomersal. Lancet. 2002;360(9347):1737–1741. https://pubmed.ncbi.nlm.nih.gov/12480426/
+7. Mitkus RJ, Hess MA, Schwartz SL. Pharmacokinetic modeling as an approach to assessing the safety of residual formaldehyde in infant vaccines. Vaccine. 2013;31(25):2738–2743. https://pubmed.ncbi.nlm.nih.gov/23583892/
+8. CDC, Contraindications and Precautions. https://www.cdc.gov/vaccines/hcp/imz-best-practices/contraindications-precautions.html
+9. CN115627252A patent metni (2BS hücre dizisinin kökeni). https://patents.google.com/patent/CN115627252A/en
+10. Healive hepatit A aşısının 10 yıllık pazar deneyimi, Human Vaccines & Immunotherapeutics. https://www.tandfonline.com/doi/full/10.4161/hv.21909
+11. DSÖ ön yeterlilik kaydı, Healive. https://extranet.who.int/prequal/vaccines/fvp-p-344
+12. ATCC, Vero CCL-81. https://www.atcc.org/products/ccl-81
+13. ECACC, Vero hücre dizisi profili. https://www.culturecollections.org.uk/products/cell-cultures/ecacc-cell-line-profiles/vero/
+14. Matrix and Backstage: Cellular Substrates for Viral Vaccines (PMC4014716). https://pmc.ncbi.nlm.nih.gov/articles/PMC4014716/
+15. Children's Hospital of Philadelphia (CHOP), Vaccine Ingredients. https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients
+16. CDC Pink Book, Bölüm 2: General Best Practice Guidance. https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-2-general-best-practice-guidance.html
+17. TRESIVAC kullanma talimatı (Türkiye'de ruhsatlı başka bir SII KKK ürünü). https://ilac-kullanma-talimat.web.tr/tresivac-0-5-ml-s-c-enjeksiyonluk-coezelti-tozu-ve-coezuecue-281019/kullanma-talimati
+18. DSÖ Avrupa, Vaccine Safety and False Contraindications to Vaccination (2017). https://iris.who.int/bitstream/handle/10665/350968/WHO-EURO-2017-4683-44446-62833-eng.pdf
+19. Children's Hospital of Philadelphia (CHOP), Polysorbate 80. https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/polysorbate-80
+20. CRM45 ve CRM197'nin amino asit dizisi (PMC318816). https://pmc.ncbi.nlm.nih.gov/articles/PMC318816/
+21. CRM197'nin zehirsizliğinin yapısal temeli (PMC3325714). https://pmc.ncbi.nlm.nih.gov/articles/PMC3325714/
+22. DSÖ, Polio vaccines: WHO position paper, Haziran 2022 (WER 97/25). https://www.who.int/publications/i/item/who-wer9725-277-300
+23. DSÖ, Poliomyelitis (soru-cevap). https://www.who.int/news-room/questions-and-answers/item/poliomyelitis
+24. CDC Pink Book, Bölüm 22: Varicella. https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-22-varicella.html
+25. CDC, Varicella vaccine considerations for specific groups. https://www.cdc.gov/chickenpox/hcp/vaccine-considerations/specific-groups.html
+26. FDA, Pregnancy and Lactation Labeling (Drugs) Final Rule. https://www.fda.gov/drugs/labeling-information-drug-products/pregnancy-and-lactation-labeling-drugs-final-rule

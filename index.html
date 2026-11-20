@@ -13,6 +13,7 @@
     <p class="ust-etiket">T.C. Sağlık Bakanlığı · 1 Eylül 2026 itibarıyla</p>
     <h1>Ulusal Çocukluk Dönemi Aşılama Takvimi</h1>
     <p class="ust-aciklama">Bir aşıya ya da doz kutusuna tıklayın; o aşı için kullanılan ürünü, prospektüs fotoğrafını, kısa ürün bilgisi (KÜB) ve kullanma talimatı (KT) belgelerini görün.</p>
+    <nav class="ust-nav" aria-label="Bölümler"><a href="#takvim-baslik">Takvim</a><a href="#kartlar-baslik">Aşılar</a><a href="#icerik-baslik">İçerik maddeleri</a><a href="#ifade-baslik">Prospektüs ifadeleri</a><a href="#kaynak-baslik">Kaynaklar</a></nav>
   </div>
 </header>
 
@@ -39,6 +40,23 @@
     <div class="kartlar" id="diger-kartlar"></div>
   </section>
 
+  <section aria-labelledby="icerik-baslik">
+    <h2 id="icerik-baslik">İçerik maddeleri</h2>
+    <p class="bolum-aciklama">Prospektüslerde geçen ve sık soru sorulan içerik maddeleri. Her maddede hangi aşıda geçtiği, neden soru işareti yarattığı ve kaynaklı bilimsel bilgi yer alır. Aşı adına tıklayınca o aşının paneli açılır.</p>
+    <p class="lejant"><span class="kaynak-rozet F">F</span> Prospektüs fotoğrafı <span class="kaynak-rozet K">K</span> Firmanın kısa ürün bilgisi <span class="kaynak-rozet D">D</span> Doğrulanmamış eşleşme veya yabancı kaynak</p>
+    <div id="maddeler" class="maddeler"></div>
+  </section>
+
+  <section aria-labelledby="ifade-baslik">
+    <h2 id="ifade-baslik">Prospektüslerde dikkat çekebilecek ifadeler</h2>
+    <p class="bolum-aciklama">Bileşen olmayan ama bağlamından koparılarak sık alıntılanabilecek cümleler. Alıntılar gönderilen prospektüs fotoğraflarından birebir aktarılmıştır.</p>
+    <div id="ifadeler" class="ifadeler"></div>
+    <h3 class="alt-baslik">Doğrulanması gerekenler</h3>
+    <ul id="acik" class="acik"></ul>
+    <h3 class="alt-baslik">İçerik notlarının kaynakları</h3>
+    <ol id="icerik-kaynakca" class="kaynakca"></ol>
+  </section>
+
   <section class="kaynaklar" aria-labelledby="kaynak-baslik">
     <h2 id="kaynak-baslik">Kaynaklar</h2>
     <ul>
@@ -47,8 +65,9 @@
       <li><a href="https://asi.saglik.gov.tr" target="_blank" rel="noopener">asi.saglik.gov.tr</a></li>
       <li><a href="img/tam/takvim-urun-listesi.jpg" target="_blank" rel="noopener">Takvimde kullanılan ürünlerin listesi (fotoğraf)</a></li>
       <li>Bütün prospektüs metinleri tek dosyada: <a href="belgeler/prospektus-metinleri-ocr.docx" download>Word</a> · <a href="belgeler/prospektus-metinleri-ocr.md" target="_blank" rel="noopener">düz metin</a></li>
+      <li>İçerik maddeleri raporu (kaynakçalı): <a href="belgeler/icerik-raporu.docx" download>Word</a> · <a href="belgeler/icerik-raporu.md" target="_blank" rel="noopener">düz metin</a></li>
     </ul>
-    <p>Prospektüs fotoğrafları, aşı uygulamasında kullanılan ürünlerin kutularından çıkan belgelerdir. Fotoğrafların arka planı temizlendi; metinleri fotoğraftan aktarılıp fotoğrafla karşılaştırıldı ve yalnız görünen kısmı içerir. Firma ve DSÖ bağlantıları, belgenin dijital kopyasına ulaşmak içindir; tarihleri belgenin üzerinde yazar. Bu site bilgilendirme amaçlıdır.</p>
+    <p>Prospektüs fotoğrafları, aşı uygulamasında kullanılan ürünlerin kutularından çıkan belgelerdir. Firma ve DSÖ bağlantıları, belgenin dijital kopyasına ulaşmak içindir; tarihleri belgenin üzerinde yazar. Bu site bilgilendirme amaçlıdır.</p>
   </section>
 </main>
 
@@ -71,6 +90,7 @@
 </div>
 
 <script src="js/veri.js"></script>
+<script src="js/icerik.js"></script>
 <script src="js/uygulama.js"></script>
 </body>
 </html>

@@ -659,7 +659,7 @@ Canlı Suçiçeği Aşısının araç veya makine kullanma becerisi üzerindeki 
 Çocuğunuza başka herhangi ilaçlar (veya başka aşılar) uygulanıyorsa veya yakın bir tarihte uygulanmışsa doktorunuza veya eczacınıza söyleyiniz.
 Aşılama, diğer canlı zayıflatılmış aşıların kullanımını takiben bir ay ertelenmelidir.
 Aşılama, immunglobulin uygulanmasını takiben en az 3 ay veya diğer canlı zayıflatılmış aşıların kullanımını takiben en az 1 ay ertelenmelidir.
-[okunamıyor] Canlı Suçiçeği Aşısı uygulamasını takiben 6 hafta boyunca aspirin (salisilatlar) veya salisilat içeren ürünleri kullanmaktan kaçınmalıdır.
+[okunamadı] Canlı Suçiçeği Aşısı uygulamasını takiben 6 hafta boyunca aspirin (salisilatlar) veya salisilat içeren ürünleri kullanmaktan kaçınmalıdır.
 
 ## 3. Canlı Suçiçeği Aşısı nasıl kullanılır?
 
