@@ -45,7 +45,7 @@ Healive, 1 yaşından büyük ve 16 yaşından küçük çocuklar için hepatit 
 
 ## Pozoloji ve Uygulama Şekli
 
-**Pozoloji**
+**Pozoloji:**
 
 Tavsiye edilen dozaj ve takvim aşağıda verilmiştir:
 
@@ -120,9 +120,11 @@ _Bağışıklık sistemi hastalıkları:_
 Seyrek: Anafilaksi
 
 _Sinir sistemi hastalıkları:_  
-Yaygın olmayan: Baş ağrısı
+Yaygın olmayan: Başağrısı
 
 ### Notlar
+
+- Basılı yazım: “Başağrısı” kaynakta bitişik yazılmıştır.
 
 - Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
 - Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
@@ -132,7 +134,7 @@ Yaygın olmayan: Baş ağrısı
 
 _(Fotoğraf 2: healive-y2 — Gastrointestinal hastalıklar → Mümessil Adı ve Adresi)_
 
-### Gastrointestinal hastalıklar:
+_Gastrointestinal hastalıklar:_
 
 Yaygın olmayan: Kusma, bulantı, abdominal ağrı  
 Seyrek: Diyare
@@ -140,7 +142,7 @@ Seyrek: Diyare
 _Solunum, göğüs bozuklukları ve mediastinal hastalıklar:_  
 Yaygın olmayan: Öksürük
 
-_Deri ve deri altı doku hastalıkları:_  
+_Deri ve derialtı doku hastalıkları:_  
 Seyrek: Döküntü
 
 ### Satış-sonrası gözetimi
@@ -157,7 +159,7 @@ Havale, kasılma, uyuşukluk
 _Solunum, göğüs bozuklukları ve mediastinal hastalıklar:_  
 Üst solunum yolu enfeksiyonları
 
-_Deri ve deri altı doku hastalıkları:_  
+_Deri ve derialtı doku hastalıkları:_  
 Kaşıntı, ürtiker, akut ürtiker, eritema induratum, anjioödem
 
 _Vasküler (ekstrakardiyak) hastalıklar:_  
@@ -173,7 +175,7 @@ Farmakoterapötik grup: Viral aşı, ATC kodu: J07BC02.
 
 Healive, immünoglobulin ile pasif immünizasyondan sonra elde edilenden daha yüksek antikor titreleri oluşturarak hepatit A virüsüne karşı bağışıklık sağlar. Antikorlar, ilk enjeksiyondan kısa bir süre sonra ortaya çıkar ve aşılamadan 14 gün sonra immünokompetan bireylerde seroproteksiyon oranı (titre>20 mIU/ml) %56.7-%93’tür. İlk dozdan bir ay sonra, bireylerin %69.4-%95.5’inde antikor titreleri 20 mIU/ml’nin üzerindedir.
 
-Healive’ın etkinliği farklı toplumsal salgınlarda değerlendirilmiştir. Bu çalışmalar, tek doz Healive uygulamasının salgınların sona ermesine katkıda bulunduğunu göstermiştir. Bir çalışmada, HAV salgınının zirvesi birincil enjeksiyondan 2 hafta sonra azalmaya başlamıştır. Başka bir çalışmada aşı olan öğrencilerde koruyucu etkinlik %100 olarak bulunmuştur.
+Healive’in etkinliği farklı toplumsal salgınlarda değerlendirilmiştir. Bu çalışmalar, tek doz Healive uygulamasının salgınların sona ermesine katkıda bulunduğunu göstermiştir. Bir çalışmada, HAV salgınının zirvesi birincil enjeksiyondan 2 hafta sonra azalmaya başlamıştır. Başka bir çalışmada aşı olan öğrencilerde koruyucu etkinlik %100 olarak bulunmuştur.
 
 Uzun süreli koruma sağlamak için, birinci dozdan 6 ila 12 ay sonra bir rapel doz uygulanmalıdır. Klinik çalışmalarda, aşılananların neredeyse tamamının, rapel dozdan bir ay sonra seropozitif olduğu gösterilmiştir.
 
@@ -218,17 +220,17 @@ VVM’nin yorumlanması kolaydır. Merkezi kareye odaklanın. Renk kademeli olar
 Yukarıda belirtilen saklama koşullarına (özellikle soğuk zincir) uyulduğundan emin olmak kesinlikle çok önemlidir. Sinovac, Healive*’in saklama talimatlarına uygun olarak saklanmaması durumunda hiçbir sorumluluk kabul etmeyecektir. Ayrıca, Sinovac bir VVM’nin herhangi bir nedenle kusurlu olması durumunda hiçbir sorumluluk kabul etmez.
 
 - İç kare dış halkadan daha açık renkte.  
-  Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.
+  **Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.**
 - Sonraki bir zaman, iç kare dış halkadan hala daha açık renkte.  
-  Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.
+  **Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.**
 - İmha noktası: iç kare dış halka ile aynı renkte.  
-  Aşıyı KULLANMAYINIZ.
+  **Aşıyı KULLANMAYINIZ.**
 - İmha noktasının ötesi: iç kare dış halkadan daha koyu renkli.  
-  Aşıyı KULLANMAYINIZ.
+  **Aşıyı KULLANMAYINIZ.**
 
 ## Üretici Adı ve Adresi
 
-SINOVAC BIOTECH CO., LTD.  
+**SINOVAC BIOTECH CO., LTD.**  
 Adres: PKU BIOCITY, No.39, Shangdi Xi Road, Haidian District, Beijing-100085, PRC  
 Tel: 86-10-82890088  
 Faks: 86-10-62966910  
@@ -236,7 +238,7 @@ http://www.sinovac.com
 
 ## Mümessil Adı ve Adresi
 
-KEYVAC BİYOLOJİK ÜRÜNLER SAN. ve TİC. A.Ş.  
+**KEYVAC BİYOLOJİK ÜRÜNLER SAN. ve TİC. A.Ş.**  
 Alcı OSB Mah. 2002. Cad. No:1 Sincan-ANKARA  
 Tel: 0 312 557 52 57  
 Faks: 0 312 512 62 68  
@@ -244,6 +246,6 @@ E-posta: keyvac@keyvac.com.tr
 
 ### Notlar
 
-- Baskı hataları: Metindeki “degrade”, “Geçimlilik” ve “Hala” biçimleri görüntüde bu şekilde basılmıştır.
+- Baskı hataları: Metindeki “degrade”, “geçimlilik” ve “hala” biçimleri görüntüde bu şekilde basılmıştır.
 - Belirsiz okumalar: Yok.
 - Kesik/okunamayan yerler: Yok.

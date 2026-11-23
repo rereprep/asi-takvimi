@@ -119,13 +119,8 @@ PREVENAR 13’ün araç ve makine kul [kesik]
 yan etkiler geçici olarak araç ve makine [kesik]
 
 ### 4.8. İstenmeyen etkiler
-Pazarlama sonrası analiz raporlarına gö [kesik]
-ile birlikte veya tek başına seyreden kon [kesik]
 
-Pazarlama sonrası deneyimlerden elde e [kesik]
-sırasına göre aşağıdaki tabloda listelenm [kesik]
-Sıklık şu şekilde tarif edilmiştir: çok yay [kesik]
-çok seyrek (<1/10.000), bilinmiyor (elde [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **Pediyatrik yaş grubu (6 hafta – 5 yaş)**
 Aşının güvenliliği, 6. haftada ilk bağış [kesik]
@@ -136,13 +131,7 @@ Daha önceden aşılanmamış 354 çocukta [kesik]
 6 haftalık-5 yaş arası bebek ve çocuklar [kesik]
 uykuda artma ve/veya azalmadır.
 
-2, 3 ve 4. aylarda aşılanmış bebeklerde y [kesik]
-Infanrix hexa’yı tek başına alan çocukla [kesik]
-uygulanan rapel doz sonrasında PREVE [kesik]
-tek başına kullanan bebeklerde ise %33 [kesik]
-
-12 aydan daha büyük olan çocuklarda g [kesik]
-gözlemlenenlere kıyasla daha yüksek o [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 *Klinik Çalışmalardaki Advers Reaksiy [kesik]*
 Klinik çalışmalarda, PREVENAR 13’ [kesik]
@@ -205,18 +194,8 @@ Orak hücreli anemi hastalığı, HIV e [kesik]
 görülme sıklığı benzerdir. Sadece b [kesik]
 
 **Erişkin yaş grubu (18 yaş ve üzer [kesik]**
-18 ila 101 yaşları arasındaki 91,593 [kesik]
-uygulanmış; 2,616’sı (%5,4) 50 ile 6 [kesik]
-23-valanlı polisakkarid aşı ile aşılan [kesik]
-13 uygulananlardan 1,916 erişkin d [kesik]
-46,890’ı ise 23-valanlı polisakkarid [kesik]
 
-Yan etkilerin sıklıkları yaşın ilerlem [kesik]
-bağımsız olarak gençlerden daha az [kesik]
-
-Genel olarak bakıldığında, 18-49 y [kesik]
-erişkinlerde çok yaygın diğer yaş gru [kesik]
-bölgesi reaksiyonları (ağrı, şişlik) ve [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.

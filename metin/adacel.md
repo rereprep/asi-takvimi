@@ -15,7 +15,7 @@ _(Fotoğraf 1: adacel-y1 — KULLANMA TALİMATI / Adacel → 3. ADACEL’i nası
 
 Steril
 
-Difterî, Tetanoz, Boğmaca (aselüler, bileşenlerden) adsorbe edilmiş aşı (azaltılmış antijen içeriği)
+Difteri, Tetanoz, Boğmaca (aselüler, bileşenlerden) adsorbe edilmiş aşı (azaltılmış antijen içeriği)
 
 Kas içine uygulanır.
 
@@ -30,7 +30,7 @@ Kas içine uygulanır.
 | Boğmaca Toksoidi (PT) | 2,5 mikrogram |
 | Filamentöz Hemaglutinin (FHA) | 5 mikrogram |
 | Pertaktin (PRN) | 3 mikrogram |
-| Fimbria Tip 2 ve 3 (FIM) | 5 mikrogram |
+| Fimbriae Tip 2 ve 3 (FIM) | 5 mikrogram |
 
 **Yardımcı maddeler:** Alüminyum fosfat (adjuvan), 2-fenoksietanol ve enjeksiyonluk su.  
 Aşı, üretim işlemleri sırasında kullanılan, eser miktarda; glutaraldehit ve formaldehit içerebilir.
@@ -39,14 +39,14 @@ Aşı, üretim işlemleri sırasında kullanılan, eser miktarda; glutaraldehit 
 >
 > - Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
 > - Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
-> - Bu aşı kişiye özel olarak reçete edilmiştir, başkalarına vermeyiniz.
+> - Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
 > - Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.
 > - Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
 
 ## Bu Kullanma Talimatında:
 
 1. ADACEL nedir ve ne için kullanılır?
-2. ADACEL’i kullanmadan önce dikkat edilmesi gerekenler
+2. ADACEL kullanmadan önce dikkat edilmesi gerekenler
 3. ADACEL nasıl kullanılır?
 4. Olası yan etkiler nelerdir?
 5. ADACEL’in saklanması
@@ -92,7 +92,7 @@ Eğer siz veya çocuğunuz:
 
 Eğer siz veya çocuğunuz aşağıda belirtilen durumlardan birine sahip ise, ADACEL almadan önce doktorunuza veya hemşirenize danışınız:
 
-- Son 4 hafta içinde difteri ve tetanoz için destekleyici doz aşı aldıysanız. Bu durumda siz veya çocuğunuz ADACEL almamalısınız ve doktorunuz resmi önerilere dayanarak sizin veya çocuğunuzun ne zaman daha fazla aşılanabileceğine karar verecektir.
+- Son 4 hafta içinde difteri ve tetanoz için destekleyici doz aşı aldıysanız. Bu durumda siz veya çocuğunuz ADACEL almamalısınız ve doktorunuz resmi önerilere dayanarak sizin veya çocuğunuzun ne zaman daha fazla aşılanabileceğinize karar verecektir.
 - Tetanoz içeren bir aşının daha önceki bir dozu sonrasında 6 hafta içerisinde vücudun tamamında veya bir kısmında geçici olarak hareket ve his kaybı (Guillain-Barre sendromu) veya hareket kaybı yaşadıysa. Doktorunuz size veya çocuğunuza ADACEL aşısı yapılıp yapılmayacağına karar verecektir.
 - İlerleyen bir beyin veya sinir sistemi bozukluğu ve/veya kontrol edilemeyen nöbetler yaşıyorsanız. Doktorunuz öncelikle hastalığı tedavi etmeye başlayacak ve ancak sağlık durumu stabil hale geldikten sonra aşı yapacaktır.
 - Aşağıdakilere bağlı olarak zayıflamış bağışıklık sisteminiz varsa:
@@ -116,17 +116,17 @@ Yeterli veri mevcut değildir.
 
 ### Hamilelik
 
-Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+_Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız._
 
 _[sağ sütun]_
 
 Hamileyseniz ya da hamile olduğunuzu düşünüyorsanız ya da bebek sahibi olmayı planlıyorsanız, bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız. Hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar vermeniz için doktorunuz yardımcı olacaktır.
 
-Tedaviniz sırasında hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.
+_Tedaviniz sırasında hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız._
 
 ### Emzirme
 
-Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.  
+_Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız._  
 Eğer emziriyorsanız, bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
 
 ### Araç ve makine kullanımı
@@ -141,11 +141,11 @@ Eser miktarda tespit edilmemiş formaldehit ve glutaraldehit içerebildikleri i�
 
 Siz veya çocuğunuz başka ilaçlar alıyorsanız, yakın zamanda aldıysanız veya alma ihtimaliniz varsa doktorunuza, eczacınıza veya hemşirenize söyleyiniz.
 
-ADACEL canlı bakteri içermez ve bu nedenle diğer aşılar veya immünoglobulinlerle aynı anda ancak farklı enjeksiyon bölgelerinde uygulanabilir. Klinik çalışmalar ADACEL’in hepatit B aşısı, inaktif çocuk felci aşısı (enjeksiyon veya ağızdan aşılama için), inaktif grip aşısı ve rekombinant insan papilloma virüsü aşısı ile aynı anda uygulanabileceğini göstermiştir. Birden fazla aşının enjeksiyonu, aynı anda farklı uzuvlara uygulama yoluyla gerçekleşir.
+ADACEL canlı bakteri içermez ve bu nedenle diğer aşılar veya immünoglobulinlerle aynı anda ancak farklı enjeksiyon bölgelerinde uygulanabilir. Klinik çalışmalar ADACEL’in hepatit B aşısı, çocuk felci aşısı (enjeksiyon veya ağızdan aşılama için), inaktif grip aşısı ve rekombinant insan papilloma virüsü aşısı ile aynı anda uygulanabileceğini göstermiştir. Birden fazla aşının enjeksiyonu, aynı anda farklı uzuvlara uygulama yoluyla gerçekleşir.
 
 Siz veya çocuğunuz şu anda kan veya bağışıklık sistemini etkileyen tıbbi tedavi görüyorsanız (örn. kan sulandırıcı ilaçlar, kortikosteroidler veya kemoterapi), lütfen yukarıdaki “ADACEL’i aşağıdaki durumlarda DİKKATLİ KULLANINIZ” bölümüne bakınız.
 
-Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.
+_Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz._
 
 ## 3. ADACEL nasıl kullanılır?
 
@@ -162,9 +162,8 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ### Notlar
 
-- Baskı hataları: Prospektüste “Diğer ilaçlar veya aşılar ile birlikte kullanımı” ve “ADACEL’in içeriğinde bulunan bazı yardımcı maddeler” ifadeleri fotoğraftaki biçimleriyle aktarılmıştır.
-- Belirsiz okumalar: Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri görüntüde “Lf” olarak okunmaktadır.
-- Kesik/okunamayan yerler: Fotoğrafta okunabilen bölümler aktarılmıştır; dış kenar veya kat çizgilerinde kalan silik metnin seçilemeyen küçük kısımları [okunamadı] olarak işaretlenmiştir.
+- Baskıda “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi bu biçimde yer almaktadır.
+- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri “Lf” olarak okunmaktadır.
 
 ---
 
@@ -202,13 +201,13 @@ Yeterli veri yoktur.
 
 ### Kullanmanız gerekenden daha fazla ADACEL kullandıysanız:
 
-ADACEL’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.
+*ADACEL’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.*
 
 ### ADACEL’i kullanmayı unutursanız
 
 Bu aşı için uygulanabilir değildir.
 
-Unutulan dozları dengelemek için çift doz almayınız. **ADACEL ile tedavi sonlandırıldığında oluşabilecek etkiler** Bu aşı için uygulanabilir değildir.
+*Unutulan dozları dengelemek için çift doz almayınız.* **ADACEL ile tedavi sonlandırıldığında oluşabilecek etkiler** Bu aşı için uygulanabilir değildir.
 
 ## 4. Olası yan etkiler nelerdir?
 
@@ -327,7 +326,7 @@ _[sağ sütun]_
 
 - aşının enjekte edildiği bölgede hassasiyet veya ağrı, aşının enjekte edildiği bölgede küçük bir yumru, morarma veya apse.
 
-Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız, doktorunuzu veya eczacınızı bilgilendiriniz.
+*Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız, doktorunuzu veya eczacınızı bilgilendiriniz.*
 
 ### Yan etkilerin raporlanması
 
@@ -335,7 +334,7 @@ Kullanma Talimatında yer alan veya almayan herhangi bir yan etki meydana gelmes
 
 ## 5. ADACEL’in Saklanması
 
-ADACEL’i çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.
+*ADACEL’i çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.*
 
 Ürünü 2°C - 8°C arasında buzdolabında saklayınız. Aşı dondurulmamalıdır. Aşı donmuş ise imha ediniz.
 
@@ -343,21 +342,21 @@ Işıktan korumak için orijinal ambalajında saklayınız.
 
 **Son kullanma tarihi ile uyumlu olarak kullanınız.**
 
-Ambalajdaki son kullanma tarihinden sonra ADACEL’i kullanmayınız. Son kullanma tarihi kutu üstünde belirtilen ayın son günüdür.
+*Ambalajdaki son kullanma tarihinden sonra ADACEL’i kullanmayınız. Son kullanma tarihi kutu üstünde belirtilen ayın son günüdür.*
 
 Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca belirlenen toplama sistemine veriniz.
 
-**Ruhsat sahibi:**  
+***Ruhsat sahibi:***  
 Sanofi Pasteur Aşı Tic. A. Ş.  
 Şişli-İstanbul
 
-**Üretim Yeri:**  
+***Üretim Yeri:***  
 Sanofi Pasteur Limited  
 1755 Steeles Avenue West  
 Toronto, Ontario  
 Kanada M2R 3T4
 
-Bu kullanma talimatı 22/10/2024 tarihinde onaylanmıştır.
+*Bu kullanma talimatı 22/10/2024 tarihinde onaylanmıştır.*
 
 ## AŞAĞIDAKİ BİLGİLER BU AŞIYI UYGULAYACAK SAĞLIK PERSONELİ İÇİNDİR
 
@@ -374,3 +373,4 @@ Tıpalı bir flakondan doz uygulanırken, tıpa veya tıpanın üzerindeki alüm
 ### Notlar
 
 - Metin fotoğrafta soldan sağa ardışık sütunlar halinde okunmuştur.
+- Basılı metinde “Aşıyı uygulamadan önce ... kullanmadan önce” ifadesinde “önce” tekrarı bulunmaktadır; aynen korunmuştur.

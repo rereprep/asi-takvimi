@@ -125,7 +125,6 @@ Tablo 11: Serogrup Başına rSBA Geom[kesik]
 | W | 21225.3 (19061.[kesik] |
 | X | 9587.1 (8590.[kesik] |
 
-
 GMT için iki taraflı %97,5 CI’ler, log dönüş[kesik]
 GMT’sini hesaplamak için, titrelerin log dönü[kesik]
 %97,5 güven sınırlarının antilogu, her tedavi gr[kesik]
@@ -134,14 +133,8 @@ GMT’sini hesaplamak için, titrelerin log dönü[kesik]
 MenACWY-D grubunda, rSBA titreleri ≥[kesik]
 için en az %97,8 idi.
 
-DMID 20-0024 Çalışması (Infant: 9-11[kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
-Bu çalışma, MenFive’ın 9 ila 11 aylık beb[kesik]
-olarak daha düşük olmadığını göstermişt[kesik]
-sarı humma ile eş zamanlı uygulanmasın[kesik]
-MenACWY-TT grubuna (%85.0) göre b[kesik]
-
-Protokol popülasyonunda 29. günde rS[kesik]
 Tablo 12’de sunulmaktadır.
 
 Serogrup A için, seroprotektif yanıt ora[kesik]

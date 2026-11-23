@@ -131,91 +131,11 @@ Buna karşılık, soğuk algınlı [kesik]
 ### 4.4. Özel kullanım uyarıla [kesik]
 **İntravasküler olarak uygul [kesik]**
 
-Enjektabl tüm aşılarda olduğ [kesik]
-uygun tıbbi tedavi ve gözetim [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (41 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
-Kas içi enjeksiyonun kontren [kesik]
-uygulanmamalıdır. Fakat bu [kesik]
-olarak uygulanabilir (bkz. b [kesik]
-
-PREVENAR 13 yalnızca aşı [kesik]
-mediaya neden olan diğer m [kesik]
-hepsinde pnömokokal hastal [kesik]
-
-İmmunosupresif tedavi, gen [kesik]
-bağışıklamaya karşı azalmı [kesik]
-
-Orak hücreli anemi hastalığ [kesik]
-ve immünojenite verileri m [kesik]
-nefrotik sendromlu) bireyl [kesik]
-düzeyde ele alınması gere [kesik]
-
-6 haftalık-5 yaş arası beb [kesik]
-
-PREVENAR 13, klinik ç [kesik]
-dozundan sonra ortaya ç [kesik]
-belleğinin indüksiyonun [kesik]
-
-Serotip 1, 3 ve 5’e karşı [kesik]
-geri kalan ek aşı serotip [kesik]
-bilinmemektedir (bkz. b [kesik]
-
-Kısıtlı veriler, PREVEN [kesik]
-gruplarda gözlenene ben [kesik]
-
-2 yaşın altındaki çocukla [kesik]
-Streptococcus pneumoni [kesik]
-anemi, aspleni, HIV enfe [kesik]
-tutmaz. Önerildiği takdi [kesik]
-polisakkarid aşısını alma [kesik]
-süre, 8 haftadan daha az [kesik]
-
-Serotip 1, 3 ve 5’e karşı [kesik]
-geri kalan ek aşı serotip [kesik]
-bilinmemektedir (bkz. b [kesik]
-
-Kısıtlı veriler, PREVEN [kesik]
-gruplarda gözlenene ben [kesik]
-
-2 yaşın altındaki çocuklar [kesik]
-Streptococcus pneumoni [kesik]
-anemi, aspleni, HIV enf [kesik]
-tutmaz. Önerildiği takdi [kesik]
-polisakkarid aşısını alma [kesik]
-süre, 8 haftadan daha az [kesik]
-pnömokokal aşısı verilm [kesik]
 veri mevcut değildir.
 
-İleri prematüre bebekler [kesik]
-bağışıklama serisi uygul [kesik]
-aşılamanın faydaları yük [kesik]
-
-Aşı serotipleri için otitis [kesik]
-bulunan pnömokokal se [kesik]
-düşük olması beklenir (b [kesik]
-
-PREVENAR 13, Infanri [kesik]
-ve Infanrix hexa eş zam [kesik]
-ile konvülsiyon (ateşin eş [kesik]
-
-Nöbet bozukluğu olan v [kesik]
-uygulandığı çocuklar [kesik]
-
-PREVENAR 13, 0,5 m [kesik]
-
-### 4.5. Diğer tıbbi ürün [kesik]
-6 haftalık-5 yaş arası b [kesik]
-
-PREVENAR 13, aşağ [kesik]
-Difteri, tetanoz, aselül [kesik]
-meningokokkal serog [kesik]
-
-PREVENAR 13, 12- [kesik]
-ile konjuge meningok [kesik]
-
-Antipiretik ajanların ( [kesik]
-pazarlama sonrası kli [kesik]
-immün cevabı düşürd [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (22 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **6-17 yaş arası çocuk [kesik]**
 Bu aşının diğer aşılar [kesik]
@@ -224,24 +144,8 @@ Bu aşının diğer aşılar [kesik]
 Bu aşının diğer aşıla [kesik]
 
 **50 yaş ve üzeri erişk [kesik]**
-PREVENAR 13 eri [kesik]
 
-50-59 ve 65 yaş ve ü [kesik]
-[okunamadı] [kesik]
-verilmesi durumu [kesik]
-
-PREVENAR 13 Tİ [kesik]
-olan antikor seviye [kesik]
-
-50-93 yaş arasında [kesik]
-birlikte kullanılab [kesik]
-dört QIV suşuna k [kesik]
-
-PREVENAR 13 il [kesik]
-benzerdir. Üç val [kesik]
-bağışıklık cevabı [kesik]
-
-Diğer aşılarla bir [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (13 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.

@@ -151,7 +151,7 @@ TETRAXIM’in 0,5 mL’lik tek dozunda 10 mikrogram formaldehit bulunmaktadır. 
 
 TETRAXIM az miktarda, her 0,5 mL’lik dozda 100 mg’dan daha az, etanol (alkol) içermektedir. Bu ilaçtaki az miktarda alkolün gözle görülür bir etkisi olması olası değildir.
 
-Her bir doz tespit edilemeyen glutaraldehit, neomisin, streptomisin ve polimiksin B izleri içerebileceğinden, bu maddelere karşı aşırı duyarlılığı olan kişilere uygulanırken önlem alınmalıdır.
+_Her bir doz tespit edilemeyen glutaraldehit, neomisin, streptomisin ve polimiksin B izleri içerebileceğinden, bu maddelere karşı aşırı duyarlılığı olan kişilere uygulanırken önlem alınmalıdır._
 
 TETRAXIM fenilalanin içerdiğinden fenilketonürisi olanlarda tehlikeli olabilir.
 
@@ -214,7 +214,7 @@ _Eğer TETRAXIM’in etkisinin çok güçlü veya zayıf olduğuna dair bir izle
 
 **Kullanmanız gerekenden daha fazla TETRAXIM kullandıysanız:**
 
-_TETRAXIM’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz._
+_TETRAXIM’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz_
 
 _(foto: tetraxim-y6)_
 
@@ -238,7 +238,7 @@ _(foto: tetraxim-y6)_
 
 _Tüm ilaçlar gibi, TETRAXIM’in içeriğinde bulunan maddelere ve aşının kendisine duyarlı olan kişilerde yan etkilere neden olabilir._
 
-_Yan etkiler aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştır._
+_Yan etkile aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştır._
 
 | | |
 |---|---|
@@ -249,16 +249,16 @@ _Yan etkiler aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştı
 | Çok seyrek | 10.000 hastanın birinden az görülebilir. |
 | Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
 
-**_Ciddi alerjik reaksiyonlar:_**
+**Ciddi alerjik reaksiyonlar:**
 
-_Ciddi alerjik reaksiyonlar, çok seyrek de olsa genellikle çocuğunuz hala aşılandığı yerdeyken aşılamanın ardından gerçekleşebilir. Bu reaksiyonlara nefes almada güçlük, dil ve dudaklarda mavimsi renk değişikliği, baş dönmesine neden olan düşük kan basıncı ve bayılma (kollaps) da dahildir._
+Ciddi alerjik reaksiyonlar, çok seyrek de olsa genellikle çocuğunuz hala aşılandığı yerdeyken aşılamanın ardından gerçekleşebilir. Bu reaksiyonlara nefes almada güçlük, dil ve dudaklarda mavimsi renk değişikliği, baş dönmesine neden olan düşük kan basıncı ve bayılma (kollaps) da dahildir.
 
-**_Aşağıdakilerden herhangi birini farkederseniz, hemen doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:_**
+**Aşağıdakilerden herhangi birini farkederseniz, hemen doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
 
-- _Yüzde, dudaklarda, dilde şişme (yüz ödemi), yüzde veya boyunda ani şişme (anjiyoödem, Quincke ödemi)_
-- _Baş dönmesi ve bilinç kaybına neden olan kan basıncında düşme ile ani ve ciddi halsizlik, solunum bozuklukları ile bağlantılı kalp ritmi hızlanması (anafilaktik reaksiyon)_
+- Yüzde, dudaklarda, dilde şişme (yüz ödemi), yüzde veya boyunda ani şişme (anjiyoödem, Quincke ödemi)
+- Baş dönmesi ve bilinç kaybına neden olan kan basıncında düşme ile ani ve ciddi halsizlik, solunum bozuklukları ile bağlantılı kalp ritmi hızlanması (anafilaktik reaksiyon)
 
-_Bunların hepsi ciddi yan etkilerdir. Acil tıbbi müdahale gerekebilir._
+Bunların hepsi ciddi yan etkilerdir. Acil tıbbi müdahale gerekebilir.
 
 _(foto: tetraxim-y5)_
 
@@ -367,6 +367,6 @@ Kullanmadan önce enjektörü “iyice” çalkalayınız. Sadece intramüsküle
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”; dipnotta “Alüminyum” yazılmıştır.
+- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”, “Yan etkile”; dipnotta “Alüminyum” yazılmıştır.
 - Belirsiz okumalar: Yok olarak işaretlendi; fotoğraflardaki küçük baskı ve kıvrımlar okumayı güçleştirmektedir.
 - Eksik/kesik bölümler: Kullanma talimatının 1–5 numaralı bölümleri görüntülerde yer alıyor. Kısa Ürün Bilgisi fotoğraflarda bulunmadığından onun 2 ve 6.1 bölümleri görülemiyor. El yazısı ve fosforlu kalem işaretleri aktarılmadı.

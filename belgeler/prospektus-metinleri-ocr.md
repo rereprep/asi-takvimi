@@ -1,6 +1,6 @@
 # Aşı prospektüsleri: fotoğraflardan aktarılan metinler
 
-Bu dosya, 18 ve 23 Kasım 2026'da gönderilen prospektüs fotoğraflarının metne aktarılmış hâlidir. 23 Kasım'da gelen fotoğraflar belgelerin büyük bölümünü gösterdiği için metinler bu fotoğraflardan yeniden aktarıldı. Bevac'ın iki sayfası ve takvim listesi ilk gönderilen fotoğraflardan alındı.
+Bu dosya, 18 ve 23 Kasım 2026'da gönderilen prospektüs fotoğraflarının metne aktarılmış hâlidir. Metinler fotoğraflardan aktarıldı ve fotoğrafla satır satır ikinci kez karşılaştırıldı. Bevac'ın iki sayfası ve takvim listesi ilk gönderilen fotoğraflardan alındı.
 
 Yalnız fotoğrafta görünen metin aktarıldı. Basılı yazım ve baskı hataları olduğu gibi korundu; her belgenin sonundaki notlarda listelendi. Metindeki işaretler şunlardır:
 
@@ -8,7 +8,7 @@ Yalnız fotoğrafta görünen metin aktarıldı. Basılı yazım ve baskı hatal
 - **[?]**: Okuma kesin değil; en olası okuma yazıldı.
 - **[okunamadı]**: Fotoğrafta okunamayan yer.
 
-Prevenar 13 ve MenFive kısa ürün bilgilerinde her fotoğrafın metni ayrı verildi; bu iki belgede klinik çalışma tablolarının ve küçük yazının bir kısmı okunamadı.
+Prevenar 13 ve MenFive kısa ürün bilgilerinde her fotoğrafın metni ayrı verildi. Prevenar 13'ün 6. fotoğrafındaki klinik çalışma tabloları büyük ölçüde okunamadı; bu bölümler için Pfizer'in yayımladığı kısa ürün bilgisine bakılmalıdır.
 
 
 
@@ -680,91 +680,11 @@ Buna karşılık, soğuk algınlı [kesik]
 ### 4.4. Özel kullanım uyarıla [kesik]
 **İntravasküler olarak uygul [kesik]**
 
-Enjektabl tüm aşılarda olduğ [kesik]
-uygun tıbbi tedavi ve gözetim [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (41 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
-Kas içi enjeksiyonun kontren [kesik]
-uygulanmamalıdır. Fakat bu [kesik]
-olarak uygulanabilir (bkz. b [kesik]
-
-PREVENAR 13 yalnızca aşı [kesik]
-mediaya neden olan diğer m [kesik]
-hepsinde pnömokokal hastal [kesik]
-
-İmmunosupresif tedavi, gen [kesik]
-bağışıklamaya karşı azalmı [kesik]
-
-Orak hücreli anemi hastalığ [kesik]
-ve immünojenite verileri m [kesik]
-nefrotik sendromlu) bireyl [kesik]
-düzeyde ele alınması gere [kesik]
-
-6 haftalık-5 yaş arası beb [kesik]
-
-PREVENAR 13, klinik ç [kesik]
-dozundan sonra ortaya ç [kesik]
-belleğinin indüksiyonun [kesik]
-
-Serotip 1, 3 ve 5’e karşı [kesik]
-geri kalan ek aşı serotip [kesik]
-bilinmemektedir (bkz. b [kesik]
-
-Kısıtlı veriler, PREVEN [kesik]
-gruplarda gözlenene ben [kesik]
-
-2 yaşın altındaki çocukla [kesik]
-Streptococcus pneumoni [kesik]
-anemi, aspleni, HIV enfe [kesik]
-tutmaz. Önerildiği takdi [kesik]
-polisakkarid aşısını alma [kesik]
-süre, 8 haftadan daha az [kesik]
-
-Serotip 1, 3 ve 5’e karşı [kesik]
-geri kalan ek aşı serotip [kesik]
-bilinmemektedir (bkz. b [kesik]
-
-Kısıtlı veriler, PREVEN [kesik]
-gruplarda gözlenene ben [kesik]
-
-2 yaşın altındaki çocuklar [kesik]
-Streptococcus pneumoni [kesik]
-anemi, aspleni, HIV enf [kesik]
-tutmaz. Önerildiği takdi [kesik]
-polisakkarid aşısını alma [kesik]
-süre, 8 haftadan daha az [kesik]
-pnömokokal aşısı verilm [kesik]
 veri mevcut değildir.
 
-İleri prematüre bebekler [kesik]
-bağışıklama serisi uygul [kesik]
-aşılamanın faydaları yük [kesik]
-
-Aşı serotipleri için otitis [kesik]
-bulunan pnömokokal se [kesik]
-düşük olması beklenir (b [kesik]
-
-PREVENAR 13, Infanri [kesik]
-ve Infanrix hexa eş zam [kesik]
-ile konvülsiyon (ateşin eş [kesik]
-
-Nöbet bozukluğu olan v [kesik]
-uygulandığı çocuklar [kesik]
-
-PREVENAR 13, 0,5 m [kesik]
-
-### 4.5. Diğer tıbbi ürün [kesik]
-6 haftalık-5 yaş arası b [kesik]
-
-PREVENAR 13, aşağ [kesik]
-Difteri, tetanoz, aselül [kesik]
-meningokokkal serog [kesik]
-
-PREVENAR 13, 12- [kesik]
-ile konjuge meningok [kesik]
-
-Antipiretik ajanların ( [kesik]
-pazarlama sonrası kli [kesik]
-immün cevabı düşürd [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (22 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **6-17 yaş arası çocuk [kesik]**
 Bu aşının diğer aşılar [kesik]
@@ -773,24 +693,8 @@ Bu aşının diğer aşılar [kesik]
 Bu aşının diğer aşıla [kesik]
 
 **50 yaş ve üzeri erişk [kesik]**
-PREVENAR 13 eri [kesik]
 
-50-59 ve 65 yaş ve ü [kesik]
-[okunamadı] [kesik]
-verilmesi durumu [kesik]
-
-PREVENAR 13 Tİ [kesik]
-olan antikor seviye [kesik]
-
-50-93 yaş arasında [kesik]
-birlikte kullanılab [kesik]
-dört QIV suşuna k [kesik]
-
-PREVENAR 13 il [kesik]
-benzerdir. Üç val [kesik]
-bağışıklık cevabı [kesik]
-
-Diğer aşılarla bir [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (13 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.
@@ -918,13 +822,8 @@ PREVENAR 13’ün araç ve makine kul [kesik]
 yan etkiler geçici olarak araç ve makine [kesik]
 
 ### 4.8. İstenmeyen etkiler
-Pazarlama sonrası analiz raporlarına gö [kesik]
-ile birlikte veya tek başına seyreden kon [kesik]
 
-Pazarlama sonrası deneyimlerden elde e [kesik]
-sırasına göre aşağıdaki tabloda listelenm [kesik]
-Sıklık şu şekilde tarif edilmiştir: çok yay [kesik]
-çok seyrek (<1/10.000), bilinmiyor (elde [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **Pediyatrik yaş grubu (6 hafta – 5 yaş)**
 Aşının güvenliliği, 6. haftada ilk bağış [kesik]
@@ -935,13 +834,7 @@ Daha önceden aşılanmamış 354 çocukta [kesik]
 6 haftalık-5 yaş arası bebek ve çocuklar [kesik]
 uykuda artma ve/veya azalmadır.
 
-2, 3 ve 4. aylarda aşılanmış bebeklerde y [kesik]
-Infanrix hexa’yı tek başına alan çocukla [kesik]
-uygulanan rapel doz sonrasında PREVE [kesik]
-tek başına kullanan bebeklerde ise %33 [kesik]
-
-12 aydan daha büyük olan çocuklarda g [kesik]
-gözlemlenenlere kıyasla daha yüksek o [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 *Klinik Çalışmalardaki Advers Reaksiy [kesik]*
 Klinik çalışmalarda, PREVENAR 13’ [kesik]
@@ -1004,18 +897,8 @@ Orak hücreli anemi hastalığı, HIV e [kesik]
 görülme sıklığı benzerdir. Sadece b [kesik]
 
 **Erişkin yaş grubu (18 yaş ve üzer [kesik]**
-18 ila 101 yaşları arasındaki 91,593 [kesik]
-uygulanmış; 2,616’sı (%5,4) 50 ile 6 [kesik]
-23-valanlı polisakkarid aşı ile aşılan [kesik]
-13 uygulananlardan 1,916 erişkin d [kesik]
-46,890’ı ise 23-valanlı polisakkarid [kesik]
 
-Yan etkilerin sıklıkları yaşın ilerlem [kesik]
-bağımsız olarak gençlerden daha az [kesik]
-
-Genel olarak bakıldığında, 18-49 y [kesik]
-erişkinlerde çok yaygın diğer yaş gru [kesik]
-bölgesi reaksiyonları (ağrı, şişlik) ve [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
@@ -1179,14 +1062,9 @@ dengesinin sürekli olarak izle [kesik]
 Merkezi (TÜFAM)’ne bildirim [kesik]
 
 ### 4.9. Doz aşımı ve tedavisi
-Kullanıma hazır şırınga form [kesik]
-PREVENAR 13 kullanımı ile [kesik]
-sürenin bulunduğu vakalar şek [kesik]
-önerilen pediyatrik bağışıkla [kesik]
 
-## 5. FARMAKOLOJİK ÖZE [kesik]
-### 5.1. Farmakodinamik özell [kesik]
-Farmakoterapötik grup: Pnöm [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+
 ATC kod: J07AL02
 
 Bir taşıyıcı proteine (CRM₁₉₇) [kesik]
@@ -1199,15 +1077,7 @@ olarak 6 polisakkarid (1, 3, 5, 6 [kesik]
 
 *6 hafta-5 yaş arası bebek ve ço [kesik]*
 
-PREVENAR’ın 7V içeren form [kesik]
-PREVENAR 13’ün, 5 yaşın alt [kesik]
-değişebilir) kapsadığı tahmin e [kesik]
-formülasyonunun kullanımıyla [kesik]
-
-Akut otitis media (AOM), farklı [kesik]
-sorumlu olabilir. S. pneumonia [kesik]
-
-PREVENAR 13’ün, antimikro [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 *6-17 yaş arası çocuk ve adöles [kesik]*
 
@@ -1216,19 +1086,7 @@ mortalite riskinde artış oluşur.
 
 *18 yaş ve üstü erişkinler ve yaş [kesik]*
 
-Pnömoni, erişkinlerde pnömok [kesik]
-
-Avrupa’da raporlanan toplum k [kesik]
-50 yaşından itibaren artmaya b [kesik]
-ülkelerde erişkinlerin hastaneye [kesik]
-
-Bakteriyemik pnömoni (erişkin [kesik]
-göstergesidir. Çocukluk aşılam [kesik]
-göre PREVENAR 13 içindeki p [kesik]
-
-Erişkinlerde TKP ve İPH riski [kesik]
-kardiyovasküler hastalık, kroni [kesik]
-baskılanmış olan HIV enfeksiy [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **İnfantlar, çocuklar ve adölesan [kesik]**
 
@@ -1448,13 +1306,13 @@ _Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik
 
 ### Tablo 1
 
-| Serotip | <5 yaş: 2008/09 | 2013/14 | [okunamadı] |
+| Serotip | <5 yaş: 2009/10 | 2013/14 | % İnsidans azalması (%95 GA*) |
 |---|---|---|---|
-| 1 | 59 (54) | 5 (5) | [okunamadı] |
-| 3 | 26 (24) | 8 (8) | [okunamadı] |
-| 6A | 10 (9) | 0 (0) | [okunamadı] |
-| 7F | 90 (82) | 8 (8) | [okunamadı] |
-| 19A | 85 (77) | 7 (7) | [okunamadı] |
+| 1 | 59 (54) | 5 (5) | %91 ([okunamadı])** |
+| 3 | 26 (24) | 8 (8) | %68 ([okunamadı]) |
+| 6A | 10 (9) | 0 (0) | %100 ([okunamadı])** |
+| 7F | 90 (82) | 8 (8) | %91 ([okunamadı])** |
+| 19A | 85 (77) | 7 (7) | %91 ([okunamadı])** |
 
 [okunamadı]
 
@@ -1488,22 +1346,22 @@ Konjuge pnömokokal aşılamasının nazofaringeal taşıyıcılığa etkisi [ok
 
 | Test | N | VE | %95 GA |
 |---|---|---|---|
-| NCKP: Aşı-serotipine bağlı IPD | [okunamadı] | [okunamadı] | [okunamadı] |
-| NCKP: Toraks röntgeninde anormallik ile birlikte klinik pnömoni | [okunamadı] | [okunamadı] | [okunamadı] |
-| NCKP: Akut Otitis Media (AOM) | [okunamadı] | [okunamadı] | [okunamadı] |
+| NCKP: Aşı-serotipine bağlı IPD³ | 30.258[?] | 97[?] | [okunamadı] |
+| NCKP: Toraks röntgeninde anormallik ile birlikte klinik pnömoni | 23.746[?] | [okunamadı] | [okunamadı] |
+| NCKP: Akut Otitis Media (AOM)⁴ | 23.746[?] | [okunamadı] | [okunamadı] |
 | Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tekrarlayan AOM (6 ayda 3 epizod veya 1 yılda 4 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tekrarlayan AOM (6 ayda 5 epizod veya 1 yılda 6 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
 | Timpanostomi tüpü yerleştirilmesi | [okunamadı] | [okunamadı] | [okunamadı] |
-| FinOM: AOM | [okunamadı] | [okunamadı] | [okunamadı] |
+| FinOM: AOM | 1.662[?] | [okunamadı] | [okunamadı] |
 | Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tüm pnömokokal AOM | [okunamadı] | [okunamadı] | [okunamadı] |
 | Aşı-serotipine bağlı AOM | [okunamadı] | [okunamadı] | [okunamadı] |
 
-Protokolü tamamlayan hastalar  
-Aşı etkinliği  
-Ekim 1995-20 Nisan 1999  
-Ekim 1995-30 Nisan 1998
+¹ Protokolü tamamlayan hastalar  
+² Aşı etkinliği  
+³ Ekim 1995-20 Nisan 1999  
+⁴ Ekim 1995-30 Nisan 1998
 
 ### 65 yaş ve üzeri erişkinlerde etkililik çalışmaları
 
@@ -2131,7 +1989,7 @@ _Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (bivalan-opa-y1, bivalan-opa
 
 _(Fotoğraf 1: bivalan-opa-y1 — Genelge uyarısı → 4.8 İstenmeyen etkiler)_
 
-> Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
+> **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.**
 
 ## KISA ÜRÜN BİLGİSİ
 
@@ -2140,12 +1998,12 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3
 (20 DOZLUK)
 
 ## 2. KALİTATİF VE KANTİTATİF BİLEŞİM
-Etkin Madde:  
+**Etkin Madde:**  
 Beher doz (2 damla=0.1 ml) içeriği:  
 Tip 1 poliomyelit virüsü (Sabin suş) en az 10⁶·⁰ CCID₅₀  
 Tip 3 poliomyelit virüsü (Sabin suş) en az 10⁵·⁸ CCID₅₀
 
-Yardımcı maddeler:
+**Yardımcı maddeler:**
 
 | | |
 |---|---|
@@ -2167,7 +2025,7 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 sadece ağız yoluyla verilmelidi
 ### 4.3 Kontrendikasyonlar:
 Hasta bir çocuğa BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 verilmesinin herhangi bir yan etkisi yoktur.
 
-İmmün yetmezlik
+**İmmün yetmezlik**
 
 İnsan İmmun Yetmezlik Virüsü (HİV) ile enfekte
 
@@ -2270,16 +2128,16 @@ E-mail : mail@biofarma.co.id
 GKL1502907036A1
 
 ## 9. İLK RUHSAT TARİHİ VE YENİLEME TARİHİ
-İlk Ruhsat Tarihi:  
+**İlk Ruhsat Tarihi:**  
 18 Şubat 2010  
-Ruhsat Yenileme Tarihi:  
+**Ruhsat Yenileme Tarihi:**  
 15 Şubat 2020
 
 ## 10. METNİN REVİZYON TARİHİ
 Mayıs 2020
 
 ### Notlar
-- Metindeki “28 güne kullanımı” ifadesi baskıdaki biçimiyle korunmuştur.
+- Metindeki “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki biçimiyle korunmuştur.
 
 ---
 
@@ -2801,7 +2659,7 @@ Healive, 1 yaşından büyük ve 16 yaşından küçük çocuklar için hepatit 
 
 ## Pozoloji ve Uygulama Şekli
 
-**Pozoloji**
+**Pozoloji:**
 
 Tavsiye edilen dozaj ve takvim aşağıda verilmiştir:
 
@@ -2876,9 +2734,11 @@ _Bağışıklık sistemi hastalıkları:_
 Seyrek: Anafilaksi
 
 _Sinir sistemi hastalıkları:_  
-Yaygın olmayan: Baş ağrısı
+Yaygın olmayan: Başağrısı
 
 ### Notlar
+
+- Basılı yazım: “Başağrısı” kaynakta bitişik yazılmıştır.
 
 - Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
 - Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
@@ -2888,7 +2748,7 @@ Yaygın olmayan: Baş ağrısı
 
 _(Fotoğraf 2: healive-y2 — Gastrointestinal hastalıklar → Mümessil Adı ve Adresi)_
 
-### Gastrointestinal hastalıklar:
+_Gastrointestinal hastalıklar:_
 
 Yaygın olmayan: Kusma, bulantı, abdominal ağrı  
 Seyrek: Diyare
@@ -2896,7 +2756,7 @@ Seyrek: Diyare
 _Solunum, göğüs bozuklukları ve mediastinal hastalıklar:_  
 Yaygın olmayan: Öksürük
 
-_Deri ve deri altı doku hastalıkları:_  
+_Deri ve derialtı doku hastalıkları:_  
 Seyrek: Döküntü
 
 ### Satış-sonrası gözetimi
@@ -2913,7 +2773,7 @@ Havale, kasılma, uyuşukluk
 _Solunum, göğüs bozuklukları ve mediastinal hastalıklar:_  
 Üst solunum yolu enfeksiyonları
 
-_Deri ve deri altı doku hastalıkları:_  
+_Deri ve derialtı doku hastalıkları:_  
 Kaşıntı, ürtiker, akut ürtiker, eritema induratum, anjioödem
 
 _Vasküler (ekstrakardiyak) hastalıklar:_  
@@ -2929,7 +2789,7 @@ Farmakoterapötik grup: Viral aşı, ATC kodu: J07BC02.
 
 Healive, immünoglobulin ile pasif immünizasyondan sonra elde edilenden daha yüksek antikor titreleri oluşturarak hepatit A virüsüne karşı bağışıklık sağlar. Antikorlar, ilk enjeksiyondan kısa bir süre sonra ortaya çıkar ve aşılamadan 14 gün sonra immünokompetan bireylerde seroproteksiyon oranı (titre>20 mIU/ml) %56.7-%93’tür. İlk dozdan bir ay sonra, bireylerin %69.4-%95.5’inde antikor titreleri 20 mIU/ml’nin üzerindedir.
 
-Healive’ın etkinliği farklı toplumsal salgınlarda değerlendirilmiştir. Bu çalışmalar, tek doz Healive uygulamasının salgınların sona ermesine katkıda bulunduğunu göstermiştir. Bir çalışmada, HAV salgınının zirvesi birincil enjeksiyondan 2 hafta sonra azalmaya başlamıştır. Başka bir çalışmada aşı olan öğrencilerde koruyucu etkinlik %100 olarak bulunmuştur.
+Healive’in etkinliği farklı toplumsal salgınlarda değerlendirilmiştir. Bu çalışmalar, tek doz Healive uygulamasının salgınların sona ermesine katkıda bulunduğunu göstermiştir. Bir çalışmada, HAV salgınının zirvesi birincil enjeksiyondan 2 hafta sonra azalmaya başlamıştır. Başka bir çalışmada aşı olan öğrencilerde koruyucu etkinlik %100 olarak bulunmuştur.
 
 Uzun süreli koruma sağlamak için, birinci dozdan 6 ila 12 ay sonra bir rapel doz uygulanmalıdır. Klinik çalışmalarda, aşılananların neredeyse tamamının, rapel dozdan bir ay sonra seropozitif olduğu gösterilmiştir.
 
@@ -2974,17 +2834,17 @@ VVM’nin yorumlanması kolaydır. Merkezi kareye odaklanın. Renk kademeli olar
 Yukarıda belirtilen saklama koşullarına (özellikle soğuk zincir) uyulduğundan emin olmak kesinlikle çok önemlidir. Sinovac, Healive*’in saklama talimatlarına uygun olarak saklanmaması durumunda hiçbir sorumluluk kabul etmeyecektir. Ayrıca, Sinovac bir VVM’nin herhangi bir nedenle kusurlu olması durumunda hiçbir sorumluluk kabul etmez.
 
 - İç kare dış halkadan daha açık renkte.  
-  Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.
+  **Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.**
 - Sonraki bir zaman, iç kare dış halkadan hala daha açık renkte.  
-  Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.
+  **Son kullanma tarihi geçmemişse aşıyı KULLANINIZ.**
 - İmha noktası: iç kare dış halka ile aynı renkte.  
-  Aşıyı KULLANMAYINIZ.
+  **Aşıyı KULLANMAYINIZ.**
 - İmha noktasının ötesi: iç kare dış halkadan daha koyu renkli.  
-  Aşıyı KULLANMAYINIZ.
+  **Aşıyı KULLANMAYINIZ.**
 
 ## Üretici Adı ve Adresi
 
-SINOVAC BIOTECH CO., LTD.  
+**SINOVAC BIOTECH CO., LTD.**  
 Adres: PKU BIOCITY, No.39, Shangdi Xi Road, Haidian District, Beijing-100085, PRC  
 Tel: 86-10-82890088  
 Faks: 86-10-62966910  
@@ -2992,7 +2852,7 @@ http://www.sinovac.com
 
 ## Mümessil Adı ve Adresi
 
-KEYVAC BİYOLOJİK ÜRÜNLER SAN. ve TİC. A.Ş.  
+**KEYVAC BİYOLOJİK ÜRÜNLER SAN. ve TİC. A.Ş.**  
 Alcı OSB Mah. 2002. Cad. No:1 Sincan-ANKARA  
 Tel: 0 312 557 52 57  
 Faks: 0 312 512 62 68  
@@ -3000,7 +2860,7 @@ E-posta: keyvac@keyvac.com.tr
 
 ### Notlar
 
-- Baskı hataları: Metindeki “degrade”, “Geçimlilik” ve “Hala” biçimleri görüntüde bu şekilde basılmıştır.
+- Baskı hataları: Metindeki “degrade”, “geçimlilik” ve “hala” biçimleri görüntüde bu şekilde basılmıştır.
 - Belirsiz okumalar: Yok.
 - Kesik/okunamayan yerler: Yok.
 
@@ -3159,7 +3019,7 @@ TETRAXIM’in 0,5 mL’lik tek dozunda 10 mikrogram formaldehit bulunmaktadır. 
 
 TETRAXIM az miktarda, her 0,5 mL’lik dozda 100 mg’dan daha az, etanol (alkol) içermektedir. Bu ilaçtaki az miktarda alkolün gözle görülür bir etkisi olması olası değildir.
 
-Her bir doz tespit edilemeyen glutaraldehit, neomisin, streptomisin ve polimiksin B izleri içerebileceğinden, bu maddelere karşı aşırı duyarlılığı olan kişilere uygulanırken önlem alınmalıdır.
+_Her bir doz tespit edilemeyen glutaraldehit, neomisin, streptomisin ve polimiksin B izleri içerebileceğinden, bu maddelere karşı aşırı duyarlılığı olan kişilere uygulanırken önlem alınmalıdır._
 
 TETRAXIM fenilalanin içerdiğinden fenilketonürisi olanlarda tehlikeli olabilir.
 
@@ -3222,7 +3082,7 @@ _Eğer TETRAXIM’in etkisinin çok güçlü veya zayıf olduğuna dair bir izle
 
 **Kullanmanız gerekenden daha fazla TETRAXIM kullandıysanız:**
 
-_TETRAXIM’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz._
+_TETRAXIM’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz_
 
 _(foto: tetraxim-y6)_
 
@@ -3246,7 +3106,7 @@ _(foto: tetraxim-y6)_
 
 _Tüm ilaçlar gibi, TETRAXIM’in içeriğinde bulunan maddelere ve aşının kendisine duyarlı olan kişilerde yan etkilere neden olabilir._
 
-_Yan etkiler aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştır._
+_Yan etkile aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştır._
 
 | | |
 |---|---|
@@ -3257,16 +3117,16 @@ _Yan etkiler aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştı
 | Çok seyrek | 10.000 hastanın birinden az görülebilir. |
 | Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
 
-**_Ciddi alerjik reaksiyonlar:_**
+**Ciddi alerjik reaksiyonlar:**
 
-_Ciddi alerjik reaksiyonlar, çok seyrek de olsa genellikle çocuğunuz hala aşılandığı yerdeyken aşılamanın ardından gerçekleşebilir. Bu reaksiyonlara nefes almada güçlük, dil ve dudaklarda mavimsi renk değişikliği, baş dönmesine neden olan düşük kan basıncı ve bayılma (kollaps) da dahildir._
+Ciddi alerjik reaksiyonlar, çok seyrek de olsa genellikle çocuğunuz hala aşılandığı yerdeyken aşılamanın ardından gerçekleşebilir. Bu reaksiyonlara nefes almada güçlük, dil ve dudaklarda mavimsi renk değişikliği, baş dönmesine neden olan düşük kan basıncı ve bayılma (kollaps) da dahildir.
 
-**_Aşağıdakilerden herhangi birini farkederseniz, hemen doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:_**
+**Aşağıdakilerden herhangi birini farkederseniz, hemen doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
 
-- _Yüzde, dudaklarda, dilde şişme (yüz ödemi), yüzde veya boyunda ani şişme (anjiyoödem, Quincke ödemi)_
-- _Baş dönmesi ve bilinç kaybına neden olan kan basıncında düşme ile ani ve ciddi halsizlik, solunum bozuklukları ile bağlantılı kalp ritmi hızlanması (anafilaktik reaksiyon)_
+- Yüzde, dudaklarda, dilde şişme (yüz ödemi), yüzde veya boyunda ani şişme (anjiyoödem, Quincke ödemi)
+- Baş dönmesi ve bilinç kaybına neden olan kan basıncında düşme ile ani ve ciddi halsizlik, solunum bozuklukları ile bağlantılı kalp ritmi hızlanması (anafilaktik reaksiyon)
 
-_Bunların hepsi ciddi yan etkilerdir. Acil tıbbi müdahale gerekebilir._
+Bunların hepsi ciddi yan etkilerdir. Acil tıbbi müdahale gerekebilir.
 
 _(foto: tetraxim-y5)_
 
@@ -3375,7 +3235,7 @@ Kullanmadan önce enjektörü “iyice” çalkalayınız. Sadece intramüsküle
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”; dipnotta “Alüminyum” yazılmıştır.
+- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”, “Yan etkile”; dipnotta “Alüminyum” yazılmıştır.
 - Belirsiz okumalar: Yok olarak işaretlendi; fotoğraflardaki küçük baskı ve kıvrımlar okumayı güçleştirmektedir.
 - Eksik/kesik bölümler: Kullanma talimatının 1–5 numaralı bölümleri görüntülerde yer alıyor. Kısa Ürün Bilgisi fotoğraflarda bulunmadığından onun 2 ve 6.1 bölümleri görülemiyor. El yazısı ve fosforlu kalem işaretleri aktarılmadı.
 
@@ -3604,7 +3464,7 @@ _(Fotoğraf 1: adacel-y1 — KULLANMA TALİMATI / Adacel → 3. ADACEL’i nası
 
 Steril
 
-Difterî, Tetanoz, Boğmaca (aselüler, bileşenlerden) adsorbe edilmiş aşı (azaltılmış antijen içeriği)
+Difteri, Tetanoz, Boğmaca (aselüler, bileşenlerden) adsorbe edilmiş aşı (azaltılmış antijen içeriği)
 
 Kas içine uygulanır.
 
@@ -3619,7 +3479,7 @@ Kas içine uygulanır.
 | Boğmaca Toksoidi (PT) | 2,5 mikrogram |
 | Filamentöz Hemaglutinin (FHA) | 5 mikrogram |
 | Pertaktin (PRN) | 3 mikrogram |
-| Fimbria Tip 2 ve 3 (FIM) | 5 mikrogram |
+| Fimbriae Tip 2 ve 3 (FIM) | 5 mikrogram |
 
 **Yardımcı maddeler:** Alüminyum fosfat (adjuvan), 2-fenoksietanol ve enjeksiyonluk su.  
 Aşı, üretim işlemleri sırasında kullanılan, eser miktarda; glutaraldehit ve formaldehit içerebilir.
@@ -3628,14 +3488,14 @@ Aşı, üretim işlemleri sırasında kullanılan, eser miktarda; glutaraldehit 
 >
 > - Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
 > - Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
-> - Bu aşı kişiye özel olarak reçete edilmiştir, başkalarına vermeyiniz.
+> - Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
 > - Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.
 > - Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
 
 ## Bu Kullanma Talimatında:
 
 1. ADACEL nedir ve ne için kullanılır?
-2. ADACEL’i kullanmadan önce dikkat edilmesi gerekenler
+2. ADACEL kullanmadan önce dikkat edilmesi gerekenler
 3. ADACEL nasıl kullanılır?
 4. Olası yan etkiler nelerdir?
 5. ADACEL’in saklanması
@@ -3681,7 +3541,7 @@ Eğer siz veya çocuğunuz:
 
 Eğer siz veya çocuğunuz aşağıda belirtilen durumlardan birine sahip ise, ADACEL almadan önce doktorunuza veya hemşirenize danışınız:
 
-- Son 4 hafta içinde difteri ve tetanoz için destekleyici doz aşı aldıysanız. Bu durumda siz veya çocuğunuz ADACEL almamalısınız ve doktorunuz resmi önerilere dayanarak sizin veya çocuğunuzun ne zaman daha fazla aşılanabileceğine karar verecektir.
+- Son 4 hafta içinde difteri ve tetanoz için destekleyici doz aşı aldıysanız. Bu durumda siz veya çocuğunuz ADACEL almamalısınız ve doktorunuz resmi önerilere dayanarak sizin veya çocuğunuzun ne zaman daha fazla aşılanabileceğinize karar verecektir.
 - Tetanoz içeren bir aşının daha önceki bir dozu sonrasında 6 hafta içerisinde vücudun tamamında veya bir kısmında geçici olarak hareket ve his kaybı (Guillain-Barre sendromu) veya hareket kaybı yaşadıysa. Doktorunuz size veya çocuğunuza ADACEL aşısı yapılıp yapılmayacağına karar verecektir.
 - İlerleyen bir beyin veya sinir sistemi bozukluğu ve/veya kontrol edilemeyen nöbetler yaşıyorsanız. Doktorunuz öncelikle hastalığı tedavi etmeye başlayacak ve ancak sağlık durumu stabil hale geldikten sonra aşı yapacaktır.
 - Aşağıdakilere bağlı olarak zayıflamış bağışıklık sisteminiz varsa:
@@ -3705,17 +3565,17 @@ Yeterli veri mevcut değildir.
 
 ### Hamilelik
 
-Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+_Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız._
 
 _[sağ sütun]_
 
 Hamileyseniz ya da hamile olduğunuzu düşünüyorsanız ya da bebek sahibi olmayı planlıyorsanız, bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız. Hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar vermeniz için doktorunuz yardımcı olacaktır.
 
-Tedaviniz sırasında hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.
+_Tedaviniz sırasında hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız._
 
 ### Emzirme
 
-Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.  
+_Bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız._  
 Eğer emziriyorsanız, bu aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
 
 ### Araç ve makine kullanımı
@@ -3730,11 +3590,11 @@ Eser miktarda tespit edilmemiş formaldehit ve glutaraldehit içerebildikleri i�
 
 Siz veya çocuğunuz başka ilaçlar alıyorsanız, yakın zamanda aldıysanız veya alma ihtimaliniz varsa doktorunuza, eczacınıza veya hemşirenize söyleyiniz.
 
-ADACEL canlı bakteri içermez ve bu nedenle diğer aşılar veya immünoglobulinlerle aynı anda ancak farklı enjeksiyon bölgelerinde uygulanabilir. Klinik çalışmalar ADACEL’in hepatit B aşısı, inaktif çocuk felci aşısı (enjeksiyon veya ağızdan aşılama için), inaktif grip aşısı ve rekombinant insan papilloma virüsü aşısı ile aynı anda uygulanabileceğini göstermiştir. Birden fazla aşının enjeksiyonu, aynı anda farklı uzuvlara uygulama yoluyla gerçekleşir.
+ADACEL canlı bakteri içermez ve bu nedenle diğer aşılar veya immünoglobulinlerle aynı anda ancak farklı enjeksiyon bölgelerinde uygulanabilir. Klinik çalışmalar ADACEL’in hepatit B aşısı, çocuk felci aşısı (enjeksiyon veya ağızdan aşılama için), inaktif grip aşısı ve rekombinant insan papilloma virüsü aşısı ile aynı anda uygulanabileceğini göstermiştir. Birden fazla aşının enjeksiyonu, aynı anda farklı uzuvlara uygulama yoluyla gerçekleşir.
 
 Siz veya çocuğunuz şu anda kan veya bağışıklık sistemini etkileyen tıbbi tedavi görüyorsanız (örn. kan sulandırıcı ilaçlar, kortikosteroidler veya kemoterapi), lütfen yukarıdaki “ADACEL’i aşağıdaki durumlarda DİKKATLİ KULLANINIZ” bölümüne bakınız.
 
-Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.
+_Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz._
 
 ## 3. ADACEL nasıl kullanılır?
 
@@ -3751,9 +3611,8 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ### Notlar
 
-- Baskı hataları: Prospektüste “Diğer ilaçlar veya aşılar ile birlikte kullanımı” ve “ADACEL’in içeriğinde bulunan bazı yardımcı maddeler” ifadeleri fotoğraftaki biçimleriyle aktarılmıştır.
-- Belirsiz okumalar: Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri görüntüde “Lf” olarak okunmaktadır.
-- Kesik/okunamayan yerler: Fotoğrafta okunabilen bölümler aktarılmıştır; dış kenar veya kat çizgilerinde kalan silik metnin seçilemeyen küçük kısımları [okunamadı] olarak işaretlenmiştir.
+- Baskıda “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi bu biçimde yer almaktadır.
+- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri “Lf” olarak okunmaktadır.
 
 ---
 
@@ -3791,13 +3650,13 @@ Yeterli veri yoktur.
 
 ### Kullanmanız gerekenden daha fazla ADACEL kullandıysanız:
 
-ADACEL’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.
+*ADACEL’i kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.*
 
 ### ADACEL’i kullanmayı unutursanız
 
 Bu aşı için uygulanabilir değildir.
 
-Unutulan dozları dengelemek için çift doz almayınız. **ADACEL ile tedavi sonlandırıldığında oluşabilecek etkiler** Bu aşı için uygulanabilir değildir.
+*Unutulan dozları dengelemek için çift doz almayınız.* **ADACEL ile tedavi sonlandırıldığında oluşabilecek etkiler** Bu aşı için uygulanabilir değildir.
 
 ## 4. Olası yan etkiler nelerdir?
 
@@ -3916,7 +3775,7 @@ _[sağ sütun]_
 
 - aşının enjekte edildiği bölgede hassasiyet veya ağrı, aşının enjekte edildiği bölgede küçük bir yumru, morarma veya apse.
 
-Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız, doktorunuzu veya eczacınızı bilgilendiriniz.
+*Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız, doktorunuzu veya eczacınızı bilgilendiriniz.*
 
 ### Yan etkilerin raporlanması
 
@@ -3924,7 +3783,7 @@ Kullanma Talimatında yer alan veya almayan herhangi bir yan etki meydana gelmes
 
 ## 5. ADACEL’in Saklanması
 
-ADACEL’i çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.
+*ADACEL’i çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.*
 
 Ürünü 2°C - 8°C arasında buzdolabında saklayınız. Aşı dondurulmamalıdır. Aşı donmuş ise imha ediniz.
 
@@ -3932,21 +3791,21 @@ Işıktan korumak için orijinal ambalajında saklayınız.
 
 **Son kullanma tarihi ile uyumlu olarak kullanınız.**
 
-Ambalajdaki son kullanma tarihinden sonra ADACEL’i kullanmayınız. Son kullanma tarihi kutu üstünde belirtilen ayın son günüdür.
+*Ambalajdaki son kullanma tarihinden sonra ADACEL’i kullanmayınız. Son kullanma tarihi kutu üstünde belirtilen ayın son günüdür.*
 
 Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca belirlenen toplama sistemine veriniz.
 
-**Ruhsat sahibi:**  
+***Ruhsat sahibi:***  
 Sanofi Pasteur Aşı Tic. A. Ş.  
 Şişli-İstanbul
 
-**Üretim Yeri:**  
+***Üretim Yeri:***  
 Sanofi Pasteur Limited  
 1755 Steeles Avenue West  
 Toronto, Ontario  
 Kanada M2R 3T4
 
-Bu kullanma talimatı 22/10/2024 tarihinde onaylanmıştır.
+*Bu kullanma talimatı 22/10/2024 tarihinde onaylanmıştır.*
 
 ## AŞAĞIDAKİ BİLGİLER BU AŞIYI UYGULAYACAK SAĞLIK PERSONELİ İÇİNDİR
 
@@ -3963,6 +3822,7 @@ Tıpalı bir flakondan doz uygulanırken, tıpa veya tıpanın üzerindeki alüm
 ### Notlar
 
 - Metin fotoğrafta soldan sağa ardışık sütunlar halinde okunmuştur.
+- Basılı metinde “Aşıyı uygulamadan önce ... kullanmadan önce” ifadesinde “önce” tekrarı bulunmaktadır; aynen korunmuştur.
 
 ---
 
@@ -4660,7 +4520,6 @@ Tablo 11: Serogrup Başına rSBA Geom[kesik]
 | W | 21225.3 (19061.[kesik] |
 | X | 9587.1 (8590.[kesik] |
 
-
 GMT için iki taraflı %97,5 CI’ler, log dönüş[kesik]
 GMT’sini hesaplamak için, titrelerin log dönü[kesik]
 %97,5 güven sınırlarının antilogu, her tedavi gr[kesik]
@@ -4669,14 +4528,8 @@ GMT’sini hesaplamak için, titrelerin log dönü[kesik]
 MenACWY-D grubunda, rSBA titreleri ≥[kesik]
 için en az %97,8 idi.
 
-DMID 20-0024 Çalışması (Infant: 9-11[kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
-Bu çalışma, MenFive’ın 9 ila 11 aylık beb[kesik]
-olarak daha düşük olmadığını göstermişt[kesik]
-sarı humma ile eş zamanlı uygulanmasın[kesik]
-MenACWY-TT grubuna (%85.0) göre b[kesik]
-
-Protokol popülasyonunda 29. günde rS[kesik]
 Tablo 12’de sunulmaktadır.
 
 Serogrup A için, seroprotektif yanıt ora[kesik]

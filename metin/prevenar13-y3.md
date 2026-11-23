@@ -155,14 +155,9 @@ dengesinin sürekli olarak izle [kesik]
 Merkezi (TÜFAM)’ne bildirim [kesik]
 
 ### 4.9. Doz aşımı ve tedavisi
-Kullanıma hazır şırınga form [kesik]
-PREVENAR 13 kullanımı ile [kesik]
-sürenin bulunduğu vakalar şek [kesik]
-önerilen pediyatrik bağışıkla [kesik]
 
-## 5. FARMAKOLOJİK ÖZE [kesik]
-### 5.1. Farmakodinamik özell [kesik]
-Farmakoterapötik grup: Pnöm [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+
 ATC kod: J07AL02
 
 Bir taşıyıcı proteine (CRM₁₉₇) [kesik]
@@ -175,15 +170,7 @@ olarak 6 polisakkarid (1, 3, 5, 6 [kesik]
 
 *6 hafta-5 yaş arası bebek ve ço [kesik]*
 
-PREVENAR’ın 7V içeren form [kesik]
-PREVENAR 13’ün, 5 yaşın alt [kesik]
-değişebilir) kapsadığı tahmin e [kesik]
-formülasyonunun kullanımıyla [kesik]
-
-Akut otitis media (AOM), farklı [kesik]
-sorumlu olabilir. S. pneumonia [kesik]
-
-PREVENAR 13’ün, antimikro [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 *6-17 yaş arası çocuk ve adöles [kesik]*
 
@@ -192,19 +179,7 @@ mortalite riskinde artış oluşur.
 
 *18 yaş ve üstü erişkinler ve yaş [kesik]*
 
-Pnömoni, erişkinlerde pnömok [kesik]
-
-Avrupa’da raporlanan toplum k [kesik]
-50 yaşından itibaren artmaya b [kesik]
-ülkelerde erişkinlerin hastaneye [kesik]
-
-Bakteriyemik pnömoni (erişkin [kesik]
-göstergesidir. Çocukluk aşılam [kesik]
-göre PREVENAR 13 içindeki p [kesik]
-
-Erişkinlerde TKP ve İPH riski [kesik]
-kardiyovasküler hastalık, kroni [kesik]
-baskılanmış olan HIV enfeksiy [kesik]
+_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
 
 **İnfantlar, çocuklar ve adölesan [kesik]**
 

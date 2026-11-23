@@ -3,13 +3,13 @@ _Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik
 
 ### Tablo 1
 
-| Serotip | <5 yaş: 2008/09 | 2013/14 | [okunamadı] |
+| Serotip | <5 yaş: 2009/10 | 2013/14 | % İnsidans azalması (%95 GA*) |
 |---|---|---|---|
-| 1 | 59 (54) | 5 (5) | [okunamadı] |
-| 3 | 26 (24) | 8 (8) | [okunamadı] |
-| 6A | 10 (9) | 0 (0) | [okunamadı] |
-| 7F | 90 (82) | 8 (8) | [okunamadı] |
-| 19A | 85 (77) | 7 (7) | [okunamadı] |
+| 1 | 59 (54) | 5 (5) | %91 ([okunamadı])** |
+| 3 | 26 (24) | 8 (8) | %68 ([okunamadı]) |
+| 6A | 10 (9) | 0 (0) | %100 ([okunamadı])** |
+| 7F | 90 (82) | 8 (8) | %91 ([okunamadı])** |
+| 19A | 85 (77) | 7 (7) | %91 ([okunamadı])** |
 
 [okunamadı]
 
@@ -43,22 +43,22 @@ Konjuge pnömokokal aşılamasının nazofaringeal taşıyıcılığa etkisi [ok
 
 | Test | N | VE | %95 GA |
 |---|---|---|---|
-| NCKP: Aşı-serotipine bağlı IPD | [okunamadı] | [okunamadı] | [okunamadı] |
-| NCKP: Toraks röntgeninde anormallik ile birlikte klinik pnömoni | [okunamadı] | [okunamadı] | [okunamadı] |
-| NCKP: Akut Otitis Media (AOM) | [okunamadı] | [okunamadı] | [okunamadı] |
+| NCKP: Aşı-serotipine bağlı IPD³ | 30.258[?] | 97[?] | [okunamadı] |
+| NCKP: Toraks röntgeninde anormallik ile birlikte klinik pnömoni | 23.746[?] | [okunamadı] | [okunamadı] |
+| NCKP: Akut Otitis Media (AOM)⁴ | 23.746[?] | [okunamadı] | [okunamadı] |
 | Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tekrarlayan AOM (6 ayda 3 epizod veya 1 yılda 4 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tekrarlayan AOM (6 ayda 5 epizod veya 1 yılda 6 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
 | Timpanostomi tüpü yerleştirilmesi | [okunamadı] | [okunamadı] | [okunamadı] |
-| FinOM: AOM | [okunamadı] | [okunamadı] | [okunamadı] |
+| FinOM: AOM | 1.662[?] | [okunamadı] | [okunamadı] |
 | Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
 | Tüm pnömokokal AOM | [okunamadı] | [okunamadı] | [okunamadı] |
 | Aşı-serotipine bağlı AOM | [okunamadı] | [okunamadı] | [okunamadı] |
 
-Protokolü tamamlayan hastalar  
-Aşı etkinliği  
-Ekim 1995-20 Nisan 1999  
-Ekim 1995-30 Nisan 1998
+¹ Protokolü tamamlayan hastalar  
+² Aşı etkinliği  
+³ Ekim 1995-20 Nisan 1999  
+⁴ Ekim 1995-30 Nisan 1998
 
 ### 65 yaş ve üzeri erişkinlerde etkililik çalışmaları
 

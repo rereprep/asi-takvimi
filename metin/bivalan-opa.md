@@ -5,7 +5,7 @@ _Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (bivalan-opa-y1, bivalan-opa
 
 _(Fotoğraf 1: bivalan-opa-y1 — Genelge uyarısı → 4.8 İstenmeyen etkiler)_
 
-> Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
+> **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.**
 
 ## KISA ÜRÜN BİLGİSİ
 
@@ -14,12 +14,12 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3
 (20 DOZLUK)
 
 ## 2. KALİTATİF VE KANTİTATİF BİLEŞİM
-Etkin Madde:  
+**Etkin Madde:**  
 Beher doz (2 damla=0.1 ml) içeriği:  
 Tip 1 poliomyelit virüsü (Sabin suş) en az 10⁶·⁰ CCID₅₀  
 Tip 3 poliomyelit virüsü (Sabin suş) en az 10⁵·⁸ CCID₅₀
 
-Yardımcı maddeler:
+**Yardımcı maddeler:**
 
 | | |
 |---|---|
@@ -41,7 +41,7 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 sadece ağız yoluyla verilmelidi
 ### 4.3 Kontrendikasyonlar:
 Hasta bir çocuğa BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 verilmesinin herhangi bir yan etkisi yoktur.
 
-İmmün yetmezlik
+**İmmün yetmezlik**
 
 İnsan İmmun Yetmezlik Virüsü (HİV) ile enfekte
 
@@ -144,13 +144,13 @@ E-mail : mail@biofarma.co.id
 GKL1502907036A1
 
 ## 9. İLK RUHSAT TARİHİ VE YENİLEME TARİHİ
-İlk Ruhsat Tarihi:  
+**İlk Ruhsat Tarihi:**  
 18 Şubat 2010  
-Ruhsat Yenileme Tarihi:  
+**Ruhsat Yenileme Tarihi:**  
 15 Şubat 2020
 
 ## 10. METNİN REVİZYON TARİHİ
 Mayıs 2020
 
 ### Notlar
-- Metindeki “28 güne kullanımı” ifadesi baskıdaki biçimiyle korunmuştur.
+- Metindeki “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki biçimiyle korunmuştur.
