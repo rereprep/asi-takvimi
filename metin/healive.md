@@ -25,7 +25,7 @@ Pediatrik kullanım için her 0,5 mL doz içeriği:
 
 | Bileşen | Miktar |
 |---|---:|
-| İnaktive HAV antijeni (TZ84 suşu)¹ ² | 250 u¹ |
+| İnaktive HAV antijeni (TZ84 suşu)¹ ² | 250 u³ |
 
 ¹ İnsan diploid (2BS) hücrelerinde üretilmiştir.  
 ² Alüminyum hidrokside adsorbe edilmiştir.  
@@ -124,7 +124,7 @@ Yaygın olmayan: Baş ağrısı
 
 ### Notlar
 
-- Baskı hataları: Görselde “İnsan diploid (2BS)” ve “250 u¹” şeklinde basılmış; dipnot numarası ve birim işareti görüntüde küçük olduğundan kaynak görünüşü korunmuştur.
+- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
 - Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
 - Kesik yer: Sol sütunun son satırı “akut atak” ile fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında görünür.
 

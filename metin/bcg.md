@@ -1,7 +1,7 @@
 # BCG AŞISI
 _Kaynak: yeni-temiz-fotograflar/bcg-y1 ve bcg-y2 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
 
-> Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
+> Aşı ve Serum uygulamalarında, Genişletilmiş Bağışıklama Programı Genelgesi dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
 **Enjeksiyonluk süspansiyon için liyofilize toz içeren multi dozluk flakon**
 
@@ -46,7 +46,7 @@ _(foto: bcg-y1)_
 ### 4.2 Pozoloji ve uygulama şekli
 
 **Pozoloji/Uygulama sıklığı ve süresi:**
-BCG Aşısı doğumdan itibaren yapılabilir ancak daha az komplikasyon oluşması ve immünitesinin daha iyi gelişmesi *nedeniyle 2. ayın bitiminde* (8 haftalık) tek doz olarak uygulanmalıdır. Aşılama dozu 1 yaşın altında 0.05 mL'dir. 1 yaş üzerinde ise 0.1 mL olarak uygulanır.
+BCG Aşısı doğumdan itibaren yapılabilir ancak daha az komplikasyon oluşması ve immünitesinin daha iyi gelişmesi nedeniyle 2. ayın bitiminde (8 haftalık) tek doz olarak uygulanmalıdır. Aşılama dozu 1 yaşın altında 0.05 mL'dir. 1 yaş üzerinde ise 0.1 mL olarak uygulanır.
 
 **Uygulama şekli:**
 Aşı sadece deri içine (intradermal) uygulanmalıdır. Aşılama öncesinde cilt antiseptik solüsyonla temizlenmemelidir. Aşı tercihen tüberkülin enjektörü veya steril 25 G/26 G veya 27 G enjektör iğnesi ile uygulanmalıdır.
@@ -213,21 +213,23 @@ ATC kodu: J07AN01
 
 **Etki mekanizması**
 
-BCG aşısı tüberküloza karşı aktif bağışıklık gelişmesini stimüle etmek amacıyla kullanılmaktadır. BCG aşısında bulunan Mycobacterium bovis'in Calmette-Guerin suşu Mycobacterium tuberculosis ile immünolojik benzerliğinden dolayı aşılama sonrasında Mycobacterium tuberculosis ile gelişen doğal enfeksiyonu stimüle etmekte ve tüberküloza karşı hücre aracılı immüniteyi desteklemektedir.
+BCG aşısı tüberküloza karşı aktif bağışıklık gelişmesini stimüle etmek amacıyla kullanılmaktadır. BCG aşısında bulunan *Mycobacterium bovis*'in Calmette-Guerin suşu *Mycobacterium tuberculosis* ile immünolojik benzerliğinden dolayı aşılama sonrasında *Mycobacterium tuberculosis* ile gelişen doğal enfeksiyonu stimüle etmekte ve tüberküloza karşı hücre aracılı immüniteyi desteklemektedir.
 
 BCG aşısı ile aşılama çoğunlukla tüberkülin duyarlılığına sebep olur fakat tüberkülin duyarlılığının derecesi çok değişkendir ve aşıda kullanılan BCG suşuna kısmi olarak bağlıdır. Belli bir BCG aşısının tüberkülin hassasiyeti oluşturma kapasitesi bu aşının bağışıklama potansiyelinin bir göstergesi olarak kabul edilmektedir. Aşılama sonrası tüberkülin cilt testi sonuçları tüberküloza karşı bağışıklık gelişiminin göstergesi olarak kabul edilmekle birlikte tüberkülin duyarlılığı ve tüberküloza karşı bağışıklık gelişimi arasındaki ilişki henüz yeterince araştırılmamıştır.
 
-Mevcut BCG aşılarının etkinliğini direkt olarak gösteren kesin bir immün miktar tayini yöntemi mevcut değildir. Aşı tarafından Mycobacterium tuberculosis'e karşı indüklenen koruyucu etki yüksek ölçüde değişkenlik göstermesine karşın, bağışıklama yapılanlarda yapılmayanlara kıyasla tüberküloz insidansında genel olarak bir azalma olduğu diagnostik ve klinik kanıtlarla gösterilmiştir.
+Mevcut BCG aşılarının etkinliğini direkt olarak gösteren kesin bir immün miktar tayini yöntemi mevcut değildir. Aşı tarafından *Mycobacterium tuberculosis*'e karşı indüklenen koruyucu etki yüksek ölçüde değişkenlik göstermesine karşın, bağışıklama yapılanlarda yapılmayanlara kıyasla tüberküloz insidansında genel olarak bir azalma olduğu diagnostik ve klinik kanıtlarla gösterilmiştir.
 
 BCG aşı uygulamasını takiben tüberküloza karşı gelişen bağışıklamanın devam süresi kullanılan aşının potens ve dozuna göre değişmektedir. Birçok çalışmada aşılamayı takip eden 7-10 yıl süresince tüberkülin duyarlılığı gösterilmiş olmasına karşın yukarıda da bahsedildiği gibi tüberkülin duyarlılığı ve immünite arasındaki kesin ilişki saptanmamıştır.
 
-_[Bu bölüm fotoğraflarda yok]_
+_[Bu bölüm fotoğrafta büyük ölçüde örtülü]_
 
-ile 0-4 haftalık [kesik]
+[kesik] ile 0-4 haftalık [kesik]
 
-dahil edildiği Faz [kesik]
+[kesik] dahil edildiği Faz [kesik]
 
 [okunamadı]
+
+testi) [kesik]
 
 karşılaştırılarak değerlendirilmiştir.
 
@@ -235,7 +237,7 @@ Bütün çalışmalarda tüberkülin testi sonuçlarına göre her iki aşı iç
 
 Bu çalışmalar ile SII BCG Aşısı'nın, Guindy Laboratuvarı'na ait Guindy BCG Aşısı (Danish 1331 suşu) ile immünojenisite açısından kıyaslanabilir olduğu sonucuna varılmıştır.
 
-Aşının güvenliliğinin değerlendirilebilmesi için SII BCG Aşısı ve Guindy Aşısı (Danish 1331 suşu) kullanılarak gerçekleştirilen 5 karşılaştırmalı klinik çalışma (Faz I, Faz III, Faz IV) ve bir geniş ölçekli pazarlama sonrası sürveyans çalışmasında detaylı bir şekilde değerlendirilmiş ve bütün sonuç ölçümler ulusal gerekliliklere uygun olarak kayıt altına alınmıştır.
+Aşının güvenliliğinin değerlendirilebilmesi için SII BCG Aşısı ve Guindy Aşısı (Danish 1331 suşu) kullanılarak gerçekleştirilen 5 karşılaştırmalı klinik çalışma (Faz I, Faz III, Faz IV) ve bir geniş ölçekli pazarlama sonrası sürveyans çalışmasında detaylı bir şekilde değerlendirilmiş ve bütün sonuçölçümler ulusal gerekliliklere uygun olarak kayıt altına alınmıştır.
 
 Yürütülen tüm reaktojenisite çalışmalarında yaygın olarak gözlenen advers etkiler enjeksiyon yerinde endurasyon, kızarıklık, akıntılı ve/veya akıntısız ülserasyon gibi lokal etkiler ve sistemik etki olarak da ateştir. Hiçbir çalışmada anaflaksi, süpüratif lenfadenopati veya yaygın BCG enfeksiyonu gözlenmemiştir. Karşılaştırmalı klinik çalışmalar ve pazarlama sonrası sürveyans çalışmaları sonrası SII BCG Aşısı'nın sebep olduğu advers etkilerin piyasada bulunan aynı endikasyona sahip referans aşı ile benzer sıklıkta olduğu/reaktojenisite profilinin özdeş olduğu sonucuna varılmıştır.
 
@@ -321,6 +323,6 @@ _[Bu bölüm fotoğraflarda yok]_
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”.
-- Belirsiz okumalar: Kapatılmış 5.1 bölümünde okunamayan alan işaretlendi.
+- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”, “sonuçölçümler”.
+- Belirsiz okumalar: 5.1 bölümünde örtülü alan [okunamadı] ve kısmen görünen satırlar [kesik] ile işaretlendi.
 - Eksik/kesik bölümler: 5.1'in bir kısmı kapalıdır; 7–10. bölümler fotoğraflarda görünmüyor. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.

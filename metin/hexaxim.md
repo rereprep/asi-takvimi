@@ -19,8 +19,8 @@ _(foto: hexaxim-y1)_
 
 Bir doz¹ (0,5 mL) aşağıdakileri içerir:
 
-- Difteri Toksoidi ................................................ en az 20 IU²˒⁴ (30 Lf)
-- Tetanoz Toksoidi ............................................... en az 40 IU³˒⁴ (10 Lf)
+- Difteri Toksoidi ................................................ en az 20 IU²˒⁴[?] (30 Lf)
+- Tetanoz Toksoidi ............................................... en az 40 IU³˒⁴[?] (10 Lf)
 - *Bordetella pertussis* antijenleri
   - Boğmaca Toksoidi ........................................... 25 mikrogram
   - Filamentöz Hemaglutinin .................................. 25 mikrogram
@@ -31,7 +31,7 @@ Bir doz¹ (0,5 mL) aşağıdakileri içerir:
 - Hepatit B yüzey antijeni⁷ .................................... 10 mikrogram
 - *Haemophilus influenzae* tip b polisakkarid ........ 12 mikrogram
   (Poliribosilribitol Fosfat)
-- Tetanoz proteinine konjuge edilmiş olarak ............ 22-36 mikrogram
+- Tetanoz proteinine konjuge edilmiş olarak ............ 22-36[?] mikrogram
 
 ¹ Alüminyum hidroksit üzerine adsorbe edilmiş, hidrate (0,6 mg Al³⁺)
 
@@ -193,11 +193,11 @@ HEXAXIM, aşıların kullanımı konusunda eğitimli ve enjeksiyona karşı geli
 
 Önerilen doz şu şekildedir:
 
-İlk aşılama serisi (primer aşılama)
+<u>İlk aşılama serisi (primer aşılama)</u>
 
 Çocuğunuza, bir-iki aylık aralıklarla (en az dört hafta arayla) üç enjeksiyon uygulanacaktır. Bu aşı resmi aşılama programına uygun olarak kullanılmalıdır.
 
-Ek enjeksiyonlar (pekiştirici [rapel] doz)
+<u>Ek enjeksiyonlar (pekiştirici [rapel] doz)</u>
 
 İlk enjeksiyon serisinden sonra, resmi tavsiyelere uygun olarak, ilk serinin son dozundan en az 6 ay sonra, çocuğunuza pekiştirici bir doz (rapel doz) uygulanacaktır. Doktorunuz bu dozun ne zaman uygulanması gerektiği konusunda bilgi verecektir.
 
@@ -260,7 +260,7 @@ Yan etkiler aşağıda belirtilen kategorilere göre sıralandırılmıştır:
 | Çok seyrek | 10.000 hastanın birinden azında görülebilir |
 | Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
 
-**Çocuğunuza enjeksiyonun uygulanmasından sonra aşağıdakilerden biri olursa, HEXAXIM'i kullanmayı durdurunuz ve DERHAL doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
+**Çocuğunuza enjeksiyonun uygulandıktan sonra aşağıdakilerden biri olursa, HEXAXIM'i kullanmayı durdurunuz ve DERHAL doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
 
 - Nefes alma güçlüğü
 - Dil ya da dudakların mavi renk alması
@@ -364,6 +364,6 @@ _(foto: hexaxim-y5)_
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “renginin soluk, gevşek olduğu”.
-- Belirsiz okumalar: Fotoğrafların düşük çözünürlüğü ve kat yerleri nedeniyle özellikle ilk sütundaki etkin madde miktarları ve bazı noktalama işaretleri eski karşılaştırma metniyle birlikte değerlendirilmiştir.
-- Eksik/kesik bölümler: Ana bölümler fotoğraflarda görülmektedir; görsellerdeki örtüşmeler tek kez aktarılmıştır.
+- Basılı anlatım hataları (aynen korunanlar): “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
+- Belirsiz okumalar: Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net değildir; ilgili yerlere [?] eklenmiştir. Diğer miktarlar yalnız kaynak fotoğraftan okunmaya çalışılmıştır.
+- Fotoğraflardaki örtüşen metinler bir kez aktarılmıştır.

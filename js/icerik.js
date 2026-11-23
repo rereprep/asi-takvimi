@@ -149,7 +149,7 @@ window.ICERIK = {
     [
      "tdab",
      "alüminyum fosfat",
-     "K"
+     "F"
     ]
    ],
    "soylem": "Sinir sistemi hasarı, otizm, otoimmün hastalık ve vücutta birikim iddiaları. Takvimde en çok aşıda bulunan madde olduğu için toplam miktar da tartışılır.",
@@ -202,7 +202,7 @@ window.ICERIK = {
     [
      "tdab",
      "eser miktarda",
-     "K"
+     "F"
     ],
     [
      "hepa",
@@ -235,7 +235,7 @@ window.ICERIK = {
     [
      "tdab",
      "eser miktarda",
-     "K"
+     "F"
     ]
    ],
    "soylem": "Formaldehitle birlikte \"aşıda kimyasal var\" itirazı.",
@@ -508,7 +508,7 @@ window.ICERIK = {
     [
      "tdab",
      "2-fenoksietanol",
-     "K"
+     "F"
     ]
    ],
    "soylem": "\"Kimyasal koruyucu\" itirazı.",
@@ -568,7 +568,7 @@ window.ICERIK = {
   },
   {
    "asi": "hepb",
-   "alinti": "Gebelik kategorisi: C. Gebe kadınların rekombinant hepatit-B aşısı ile rutin olarak aşılanması, fetüs üzerindeki etkilerine ilişkin verilerin yetersiz olması nedeniyle önerilmemektedir.",
+   "alinti": "Gebelik kategorisi: C ... Gebe kadınların rekombinant hepatit-B aşısı ile rutin olarak aşılanması, fetüs üzerindeki etkilerine ilişkin verilerin yetersiz olması nedeniyle önerilmemektedir.",
    "neden": "Gebelikte aşı güvenliği konusunda kuşku.",
    "baglam": "Harf kategorileri tek başına zarar kanıtı değildir. FDA, A, B, C, D ve X gebelik harf kategorilerini 30 Haziran 2015'te yürürlüğe giren gebelik ve emzirme etiketleme kuralıyla kaldırdı.",
    "kaynak": [
@@ -584,7 +584,7 @@ window.ICERIK = {
   },
   {
    "asi": "bcg",
-   "alinti": "HIV pozitif olduğu tespit edilen çocuklarda ... muhtemel \"BCG-itis\" gelişme olasılığı ... kontrendikedir. Aşılama sonrasında enjeksiyon yerinde keloid ve lupoid reaksiyon gelişme olasılığı vardır.",
+   "alinti": "Aşılama sonrasında enjeksiyon yerinde keloid ve lupoid reaksiyon gelişme olasılığı vardır ... HIV pozitif olduğu tespit edilen çocuklarda ise çocuğun durumuna bakılmaksızın BCG aşısı uygulaması muhtemel \"BCG-itis\" gelişme olasılığı göz önünde bulundurulduğundan kontrendikedir.",
    "neden": "Yan etki kaygısı.",
    "baglam": "",
    "kaynak": []
@@ -607,7 +607,7 @@ window.ICERIK = {
   },
   {
    "asi": "hexa",
-   "alinti": "Aşı, üretim prosesi sırasında kullanılan eser miktarda glutaraldehit, formaldehit, neomisin, streptomisin ve polimiksin B içerebilir.",
+   "alinti": "Aşı, üretim prosesi sırasında kullanılan eser miktarda glutaraldehit, formaldehit, neomisin, streptomisin ve polimiksin B içerebilir (bkz. Bölüm 4.3).",
    "neden": "\"İçeriği belli olmayan kimyasallar\" algısı. Aynı ifade Tetraxim'de de var.",
    "baglam": "Bkz. formaldehit, glutaraldehit ve antibiyotik artıkları.",
    "kaynak": [

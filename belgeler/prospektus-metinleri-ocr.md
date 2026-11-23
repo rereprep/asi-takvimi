@@ -219,7 +219,7 @@ Arvatera İlaç San. ve Tic. A.Ş. Sarıyer/İstanbul
 # BCG AŞISI
 _Kaynak: yeni-temiz-fotograflar/bcg-y1 ve bcg-y2 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
 
-> Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
+> Aşı ve Serum uygulamalarında, Genişletilmiş Bağışıklama Programı Genelgesi dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
 **Enjeksiyonluk süspansiyon için liyofilize toz içeren multi dozluk flakon**
 
@@ -264,7 +264,7 @@ _(foto: bcg-y1)_
 ### 4.2 Pozoloji ve uygulama şekli
 
 **Pozoloji/Uygulama sıklığı ve süresi:**
-BCG Aşısı doğumdan itibaren yapılabilir ancak daha az komplikasyon oluşması ve immünitesinin daha iyi gelişmesi *nedeniyle 2. ayın bitiminde* (8 haftalık) tek doz olarak uygulanmalıdır. Aşılama dozu 1 yaşın altında 0.05 mL'dir. 1 yaş üzerinde ise 0.1 mL olarak uygulanır.
+BCG Aşısı doğumdan itibaren yapılabilir ancak daha az komplikasyon oluşması ve immünitesinin daha iyi gelişmesi nedeniyle 2. ayın bitiminde (8 haftalık) tek doz olarak uygulanmalıdır. Aşılama dozu 1 yaşın altında 0.05 mL'dir. 1 yaş üzerinde ise 0.1 mL olarak uygulanır.
 
 **Uygulama şekli:**
 Aşı sadece deri içine (intradermal) uygulanmalıdır. Aşılama öncesinde cilt antiseptik solüsyonla temizlenmemelidir. Aşı tercihen tüberkülin enjektörü veya steril 25 G/26 G veya 27 G enjektör iğnesi ile uygulanmalıdır.
@@ -431,21 +431,23 @@ ATC kodu: J07AN01
 
 **Etki mekanizması**
 
-BCG aşısı tüberküloza karşı aktif bağışıklık gelişmesini stimüle etmek amacıyla kullanılmaktadır. BCG aşısında bulunan Mycobacterium bovis'in Calmette-Guerin suşu Mycobacterium tuberculosis ile immünolojik benzerliğinden dolayı aşılama sonrasında Mycobacterium tuberculosis ile gelişen doğal enfeksiyonu stimüle etmekte ve tüberküloza karşı hücre aracılı immüniteyi desteklemektedir.
+BCG aşısı tüberküloza karşı aktif bağışıklık gelişmesini stimüle etmek amacıyla kullanılmaktadır. BCG aşısında bulunan *Mycobacterium bovis*'in Calmette-Guerin suşu *Mycobacterium tuberculosis* ile immünolojik benzerliğinden dolayı aşılama sonrasında *Mycobacterium tuberculosis* ile gelişen doğal enfeksiyonu stimüle etmekte ve tüberküloza karşı hücre aracılı immüniteyi desteklemektedir.
 
 BCG aşısı ile aşılama çoğunlukla tüberkülin duyarlılığına sebep olur fakat tüberkülin duyarlılığının derecesi çok değişkendir ve aşıda kullanılan BCG suşuna kısmi olarak bağlıdır. Belli bir BCG aşısının tüberkülin hassasiyeti oluşturma kapasitesi bu aşının bağışıklama potansiyelinin bir göstergesi olarak kabul edilmektedir. Aşılama sonrası tüberkülin cilt testi sonuçları tüberküloza karşı bağışıklık gelişiminin göstergesi olarak kabul edilmekle birlikte tüberkülin duyarlılığı ve tüberküloza karşı bağışıklık gelişimi arasındaki ilişki henüz yeterince araştırılmamıştır.
 
-Mevcut BCG aşılarının etkinliğini direkt olarak gösteren kesin bir immün miktar tayini yöntemi mevcut değildir. Aşı tarafından Mycobacterium tuberculosis'e karşı indüklenen koruyucu etki yüksek ölçüde değişkenlik göstermesine karşın, bağışıklama yapılanlarda yapılmayanlara kıyasla tüberküloz insidansında genel olarak bir azalma olduğu diagnostik ve klinik kanıtlarla gösterilmiştir.
+Mevcut BCG aşılarının etkinliğini direkt olarak gösteren kesin bir immün miktar tayini yöntemi mevcut değildir. Aşı tarafından *Mycobacterium tuberculosis*'e karşı indüklenen koruyucu etki yüksek ölçüde değişkenlik göstermesine karşın, bağışıklama yapılanlarda yapılmayanlara kıyasla tüberküloz insidansında genel olarak bir azalma olduğu diagnostik ve klinik kanıtlarla gösterilmiştir.
 
 BCG aşı uygulamasını takiben tüberküloza karşı gelişen bağışıklamanın devam süresi kullanılan aşının potens ve dozuna göre değişmektedir. Birçok çalışmada aşılamayı takip eden 7-10 yıl süresince tüberkülin duyarlılığı gösterilmiş olmasına karşın yukarıda da bahsedildiği gibi tüberkülin duyarlılığı ve immünite arasındaki kesin ilişki saptanmamıştır.
 
-_[Bu bölüm fotoğraflarda yok]_
+_[Bu bölüm fotoğrafta büyük ölçüde örtülü]_
 
-ile 0-4 haftalık [kesik]
+[kesik] ile 0-4 haftalık [kesik]
 
-dahil edildiği Faz [kesik]
+[kesik] dahil edildiği Faz [kesik]
 
 [okunamadı]
+
+testi) [kesik]
 
 karşılaştırılarak değerlendirilmiştir.
 
@@ -453,7 +455,7 @@ Bütün çalışmalarda tüberkülin testi sonuçlarına göre her iki aşı iç
 
 Bu çalışmalar ile SII BCG Aşısı'nın, Guindy Laboratuvarı'na ait Guindy BCG Aşısı (Danish 1331 suşu) ile immünojenisite açısından kıyaslanabilir olduğu sonucuna varılmıştır.
 
-Aşının güvenliliğinin değerlendirilebilmesi için SII BCG Aşısı ve Guindy Aşısı (Danish 1331 suşu) kullanılarak gerçekleştirilen 5 karşılaştırmalı klinik çalışma (Faz I, Faz III, Faz IV) ve bir geniş ölçekli pazarlama sonrası sürveyans çalışmasında detaylı bir şekilde değerlendirilmiş ve bütün sonuç ölçümler ulusal gerekliliklere uygun olarak kayıt altına alınmıştır.
+Aşının güvenliliğinin değerlendirilebilmesi için SII BCG Aşısı ve Guindy Aşısı (Danish 1331 suşu) kullanılarak gerçekleştirilen 5 karşılaştırmalı klinik çalışma (Faz I, Faz III, Faz IV) ve bir geniş ölçekli pazarlama sonrası sürveyans çalışmasında detaylı bir şekilde değerlendirilmiş ve bütün sonuçölçümler ulusal gerekliliklere uygun olarak kayıt altına alınmıştır.
 
 Yürütülen tüm reaktojenisite çalışmalarında yaygın olarak gözlenen advers etkiler enjeksiyon yerinde endurasyon, kızarıklık, akıntılı ve/veya akıntısız ülserasyon gibi lokal etkiler ve sistemik etki olarak da ateştir. Hiçbir çalışmada anaflaksi, süpüratif lenfadenopati veya yaygın BCG enfeksiyonu gözlenmemiştir. Karşılaştırmalı klinik çalışmalar ve pazarlama sonrası sürveyans çalışmaları sonrası SII BCG Aşısı'nın sebep olduğu advers etkilerin piyasada bulunan aynı endikasyona sahip referans aşı ile benzer sıklıkta olduğu/reaktojenisite profilinin özdeş olduğu sonucuna varılmıştır.
 
@@ -539,8 +541,8 @@ _[Bu bölüm fotoğraflarda yok]_
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”.
-- Belirsiz okumalar: Kapatılmış 5.1 bölümünde okunamayan alan işaretlendi.
+- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”, “sonuçölçümler”.
+- Belirsiz okumalar: 5.1 bölümünde örtülü alan [okunamadı] ve kısmen görünen satırlar [kesik] ile işaretlendi.
 - Eksik/kesik bölümler: 5.1'in bir kısmı kapalıdır; 7–10. bölümler fotoğraflarda görünmüyor. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
 
 ---
@@ -651,7 +653,12 @@ Aşı, intramüsküler ol [kesik]
 erişkinlerde üst kolun [kesik]
 
 **Özel popülasyonlara [kesik]**
-[okunamadı]
+Pnömokokal enfeksiyo [kesik]
+enfeksiyonu) daha önce [kesik]
+
+Hematopoetik kök hücr [kesik]
+13’ten oluşur. Primer ser [kesik]
+verilmelidir. Dördüncü ( [kesik]
 
 **Böbrek/Karaciğer yetm [kesik]**
 Özel kullanım durumu y [kesik]
@@ -660,16 +667,130 @@ erişkinlerde üst kolun [kesik]
 PREVENAR 13, 6 haftalı [kesik]
 
 **Geriyatrik popülasyon:**
-[okunamadı]
+PREVENAR 13 uygulanan [kesik]
+oluşmaktadır. Verilen antik [kesik]
+düşük olduğu görülmüştür. [kesik]
 
 ### 4.3. Kontrendikasyonlar
-[okunamadı]
+Aktif maddeler veya yardımc [kesik]
+
+Diğer aşılarda olduğu gibi, o [kesik]
+Buna karşılık, soğuk algınlı [kesik]
 
 ### 4.4. Özel kullanım uyarıla [kesik]
-[okunamadı]
+**İntravasküler olarak uygul [kesik]**
+
+Enjektabl tüm aşılarda olduğ [kesik]
+uygun tıbbi tedavi ve gözetim [kesik]
+
+Kas içi enjeksiyonun kontren [kesik]
+uygulanmamalıdır. Fakat bu [kesik]
+olarak uygulanabilir (bkz. b [kesik]
+
+PREVENAR 13 yalnızca aşı [kesik]
+mediaya neden olan diğer m [kesik]
+hepsinde pnömokokal hastal [kesik]
+
+İmmunosupresif tedavi, gen [kesik]
+bağışıklamaya karşı azalmı [kesik]
+
+Orak hücreli anemi hastalığ [kesik]
+ve immünojenite verileri m [kesik]
+nefrotik sendromlu) bireyl [kesik]
+düzeyde ele alınması gere [kesik]
+
+6 haftalık-5 yaş arası beb [kesik]
+
+PREVENAR 13, klinik ç [kesik]
+dozundan sonra ortaya ç [kesik]
+belleğinin indüksiyonun [kesik]
+
+Serotip 1, 3 ve 5’e karşı [kesik]
+geri kalan ek aşı serotip [kesik]
+bilinmemektedir (bkz. b [kesik]
+
+Kısıtlı veriler, PREVEN [kesik]
+gruplarda gözlenene ben [kesik]
+
+2 yaşın altındaki çocukla [kesik]
+Streptococcus pneumoni [kesik]
+anemi, aspleni, HIV enfe [kesik]
+tutmaz. Önerildiği takdi [kesik]
+polisakkarid aşısını alma [kesik]
+süre, 8 haftadan daha az [kesik]
+
+Serotip 1, 3 ve 5’e karşı [kesik]
+geri kalan ek aşı serotip [kesik]
+bilinmemektedir (bkz. b [kesik]
+
+Kısıtlı veriler, PREVEN [kesik]
+gruplarda gözlenene ben [kesik]
+
+2 yaşın altındaki çocuklar [kesik]
+Streptococcus pneumoni [kesik]
+anemi, aspleni, HIV enf [kesik]
+tutmaz. Önerildiği takdi [kesik]
+polisakkarid aşısını alma [kesik]
+süre, 8 haftadan daha az [kesik]
+pnömokokal aşısı verilm [kesik]
+veri mevcut değildir.
+
+İleri prematüre bebekler [kesik]
+bağışıklama serisi uygul [kesik]
+aşılamanın faydaları yük [kesik]
+
+Aşı serotipleri için otitis [kesik]
+bulunan pnömokokal se [kesik]
+düşük olması beklenir (b [kesik]
+
+PREVENAR 13, Infanri [kesik]
+ve Infanrix hexa eş zam [kesik]
+ile konvülsiyon (ateşin eş [kesik]
+
+Nöbet bozukluğu olan v [kesik]
+uygulandığı çocuklar [kesik]
+
+PREVENAR 13, 0,5 m [kesik]
 
 ### 4.5. Diğer tıbbi ürün [kesik]
-[okunamadı]
+6 haftalık-5 yaş arası b [kesik]
+
+PREVENAR 13, aşağ [kesik]
+Difteri, tetanoz, aselül [kesik]
+meningokokkal serog [kesik]
+
+PREVENAR 13, 12- [kesik]
+ile konjuge meningok [kesik]
+
+Antipiretik ajanların ( [kesik]
+pazarlama sonrası kli [kesik]
+immün cevabı düşürd [kesik]
+
+**6-17 yaş arası çocuk [kesik]**
+Bu aşının diğer aşılar [kesik]
+
+**18-49 yaş arası erişk [kesik]**
+Bu aşının diğer aşıla [kesik]
+
+**50 yaş ve üzeri erişk [kesik]**
+PREVENAR 13 eri [kesik]
+
+50-59 ve 65 yaş ve ü [kesik]
+[okunamadı] [kesik]
+verilmesi durumu [kesik]
+
+PREVENAR 13 Tİ [kesik]
+olan antikor seviye [kesik]
+
+50-93 yaş arasında [kesik]
+birlikte kullanılab [kesik]
+dört QIV suşuna k [kesik]
+
+PREVENAR 13 il [kesik]
+benzerdir. Üç val [kesik]
+bağışıklık cevabı [kesik]
+
+Diğer aşılarla bir [kesik]
 
 ### Notlar
 Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.
@@ -685,7 +806,7 @@ _Kaynak: prevenar13-y2 — 4.2. Pozoloji ve uygulama şekli → 4.8. İstenmeyen
 Aşı, intramüsküler olarak uygulanmalıdır. Tercih edilen aşılama yeri bebeklerde uyluğun ön-yan tarafı (vastus lateralis kası) veya çocuklarda ve erişkinlerde üst kolun deltoid kasıdır. PREVENAR 13’ü intravasküler olarak uygulamayınız.
 
 **Özel popülasyonlara ilişkin ek bilgiler:**
-Pnömokokal enfeksiyon açısından daha yüksek risk grubundaki kişiler (örn. orak hücreli anemi hastalığı veya insan immün yetmezlik virüsü (HIV) enfeksiyonu) daha önce bir veya daha fazla PPSV23 dozu ile aşılanmış olanlar da dahil en az bir doz PREVENAR 13 alabilirler (bkz. bölüm 5.1).
+Pnömokokal enfeksiyon açısından daha yüksek risk grubundaki kişiler [örn. orak hücreli anemi hastalığı veya insan immün yetmezlik virüsü (HIV) enfeksiyonu] daha önce bir veya daha fazla PPSV23 dozu ile aşılanmış olanlar da dahil en az bir doz PREVENAR 13 alabilirler (bkz. bölüm 5.1).
 
 Hematopoetik kök hücre transplantasyonu (HKHT) yapılmış bireylerde önerilen bağışıklama serisi her biri 0,5 mL olan 4 doz PREVENAR 13’ten oluşur. Primer seri dozlar arasında en az 1 ay olacak şekilde 3 doz halinde ilk doz HKHT’den sonraki 3 ila 6 ay aralığında olacak şekilde verilmelidir. Dördüncü (rapel doz) dozun üçüncü dozdan 6 ay sonra verilmesi önerilir (bkz. bölüm 5.1).
 
@@ -714,16 +835,34 @@ PREVENAR 13 yalnızca aşı içerisinde bulunan Streptococcus pneumoniae serotip
 
 İmmunosupresif tedavi, genetik bir defekt, HIV enfeksiyonu veya diğer hastalıklardan dolayı immün yanıtı zayıflamış bireylerde, aktif bağışıklamaya karşı azalmış bir antikor cevabı görülebilir.
 
-[okunamadı]
+Orak hücreli anemi hastalığı, HIV enfeksiyonu veya hematopoetik kök hücre transplantasyonu yapılmış olan sınırlı sayıdaki hasta için güvenlilik ve immünojenite verileri mevcuttur (bkz. bölüm 5.1). Bağışıklık sistemi zayıflamış olan spesifik hasta gruplarındaki (örn. maligniteli veya nefrotik sendromlu) bireyler için PREVENAR 13’ün güvenlilik ve immünojenite verileri mevcut değildir. Bu kişileri bağışıklamanın, bireysel düzeyde ele alınması gerekir.
 
 **6 haftalık-5 yaş arası bebek ve çocuklar:**
-[okunamadı]
+PREVENAR 13, klinik çalışmalarda aşının içeriğindeki on üç serotipin tümüne karşı bir bağışıklık yanıtı ortaya çıkarmıştır. Serotip 3 için rapel dozundan sonra ortaya çıkan bağışıklık yanıtı, primer bebek serilerinden sonra görülen düzeylerden daha yüksek değildir; serotip 3 bağışıklık belleğinin indüksiyonuna ilişkin bu gözlemin klinik önemi bilinmemektedir (bkz. bölüm 5.1).
+
+Serotip 1, 3 ve 5’e karşı fonksiyonel antikor yanıtı verenlerin (OPA titreleri ≥1:8) oranı yüksektir. Buna karşılık OPA geometrik ortalama titreleri, geri kalan ek aşı serotiplerinin her birine karşı elde edilen düzeylerden daha düşüktür; koruyucu etkililiğe ilişkin bu gözlemin klinik önemi bilinmemektedir (bkz. bölüm 5.1).
+
+Kısıtlı veriler, PREVENAR’ın 7V içeren formülasyonunun (üç dozluk primer seri) orak hücreli anemi hastalığı olan bebeklerde, yüksek riski olmayan gruplarda gözlenene benzer bir güvenlilik profili ile birlikte kabul edilebilir bir bağışıklık cevabı indüklediğini göstermiştir (bkz. bölüm 5.1).
+
+2 yaşın altındaki çocuklara, yaşa uygun PREVENAR 13 bağışıklama serisi uygulanmalıdır (bkz. bölüm 4.2). Pnömokokal konjuge aşının kullanımı, Streptococcus pneumoniae kaynaklı invazif hastalıklar bakımından yüksek risk şartları taşıyan ≥2 yaş grubundaki çocuklarda (orak hücreli anemi, aspleni, HIV enfeksiyonu, kronik hastalık veya zayıflatılmış bağışıklık gibi) 23-valan pnömokokal polisakkarid aşısı kullanımının yerini tutmaz. Önerildiği takdirde, PREVENAR 13 ile önceden bağışıklanmış ve ≥24 ay üzerinde olan risk altındaki çocukların, 23-valan pnömokokal polisakkarid aşısını almaları gerekir. 13 valan konjuge pnömokokal aşısı (PREVENAR 13) ve 23-valan polisakkarid pnömokokal aşısı arasındaki süre, 8 haftadan daha az olmamalıdır. Primer PREVENAR 13 serisi uygulanmış veya uygulanmamış çocuklara, 23-valan polisakkarid pnömokokal aşısı verilmesinin, PREVENAR 13’ün daha sonraki dozlarına düşük cevap oluşmasına neden olup olmayacağı ile ilgili herhangi bir veri mevcut değildir.
+
+İleri prematüre bebekler (gebeliğin 28. haftası ve öncesinde doğanlar) ve özellikle de solunumsal gelişim yetersizliği öyküsü olanlarda primer bağışıklama serisi uygulandığında, 48-72 saat süreyle solunum takibi ihtiyacı ve potansiyel apne riski göz önüne alınmalıdır. Bu bebek grubunda aşılamanın faydaları yüksek olduğundan, aşılamadan kaçınılmamalı veya ertelenmemelidir.
+
+Aşı serotipleri için otitis mediaya karşı koruyuculuğun, invazif hastalığa karşı olan koruyuculuktan daha düşük olması beklenir. Aşının içerisinde bulunan pnömokokal serotipler dışında birçok organizma otitis mediaya neden olduğu için, otitis media tablolarının tümüne karşı korumanın düşük olması beklenir (bkz. bölüm 5.1).
+
+PREVENAR 13, Infanrix hexa (DTaP-HBV-IPV/Hib) ile eş zamanlı uygulandığında febril reaksiyon oranları PREVENAR’ın 7V içeren formülasyonu ve Infanrix hexa eş zamanlı uygulandığı zaman görülene benzerdir (bkz. bölüm 4.8). PREVENAR 13 ile Infanrix hexa eş zamanlı uygulanması ile konvülsiyon (ateşin eşlik ettiği veya ateş olmadan) ve hipotonik hiporesponsif atak (HHA) bildirim oranlarında artış görülmüştür (bkz. bölüm 4.8).
+
+Nöbet bozukluğu olan veya febril nöbet öyküsü bulunan çocuklarda ve PREVENAR 13 ile eş zamanlı tam hücreli boğmaca içeren aşıların uygulandığı çocuklara, tedavi kılavuzlarına göre antipiretik tedavi başlatılmalıdır.
 
 PREVENAR 13, 0,5 mL’lik dozunda 4,25 mg sodyum klorür ihtiva eder. Yani esasında sodyum içeriği göz ardı edilebilir.
 
 ### 4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
 **6 haftalık-5 yaş arası bebek ve çocuklar:**
-[okunamadı]
+PREVENAR 13, aşağıda belirtilen monovalan ya da kombinasyon aşı şeklindeki aşı antijenlerinden herhangi biriyle eş zamanlı uygulanabilir: Difteri, tetanoz, aselüler veya tam hücre boğmaca, Haemophilus influenza tip b, inaktif poliomyelit, hepatit B (Infanrix hexa için bölüm 4.4’e bakınız), meningokokkal serogrup C, kızamık, kabakulak, kızamıkçık, suçiçeği ve rotavirüs aşısı.
+
+PREVENAR 13, 12-23 ay arasında PREVENAR 13 ile primer dozları tamamlanmış (lokal önerilere uygun olarak) çocuklara tetanoz toksoid ile konjuge meningokokkal serogrup A, C, W ve Y aşısı ile eş zamanlı uygulanabilir.
+
+Antipiretik ajanların (ibuprofen ve parasetamol) profilaktik kullanımının PREVENAR 13’e immün cevap üzerine etkisini değerlendiren bir pazarlama sonrası klinik çalışmada parasetamolün aşı ile beraber veya aşı ile aynı gün uygulanmasının infant serilerinden sonra PREVENAR 13’e immün cevabı düşürdüğünü göstermektedir. 12. ayda verilen rapel doza cevap etkilenmemiştir. Bu gözlemin klinik anlamlılığı bilinmemektedir.
 
 **6-17 yaş arası çocuk ve adölesanlar:**
 Bu aşının diğer aşılarla birlikte kullanımı ile ilgili şu an veri yoktur.
@@ -734,27 +873,149 @@ Bu aşının diğer aşılarla birlikte kullanımı ile ilgili şu an veri yoktu
 **50 yaş ve üzeri erişkinler:**
 PREVENAR 13 erişkinlerde mevsimsel üç valanlı inaktif influenza aşısı (TIV) ile eş zamanlı uygulanabilir.
 
-[okunamadı]
+50-59 ve 65 yaş ve üzeri erişkinlerde yürütülen 2 çalışmada PREVENAR 13’ün TIV ile birlikte kullanılabildiği gösterilmiştir. TIV’in tek başına verilmesi durumunda veya PREVENAR 13 ile eş zamanlı uygulandığı durumlarda her üç TIV antijenine karşı alınan cevaplar benzerdir.
+
+PREVENAR 13 TIV ile eş zamanlı uygulandığında alınan bağışıklık cevabı, tek başına verildiğinde alınandan daha düşüktür. Fakat dolaşımda olan antikor seviyesi üzerine uzun dönem bir etkisi yoktur.
+
+50-93 yaş arasındaki erişkinlerde yürütülen üçüncü bir çalışmada PREVENAR 13’ün mevsimsel dört valanlı inaktif influenza aşısı (QIV) ile birlikte kullanılabildiği gösterilmiştir. QIV’in tek başına verilmesi durumunda veya PREVENAR 13 ile eş zamanlı uygulandığı durumlarda her dört QIV suşuna karşı alınan cevaplar benzerdir.
+
+PREVENAR 13 ile QIV eş zamanlı uygulandığında, PREVENAR 13’e karşı oluşan bağışıklık cevabı, tek başına verildiğinde alınan ile benzerdir. Üç valanlı aşıların eş zamanlı uygulandığında olduğu gibi, iki aşı eş zamanlı uygulandığında bazı pnömokokal serotiplere olan bağışıklık cevabı daha düşüktür.
 
 Diğer aşılarla birlikte kullanımı araştırılmamıştır.
 
 _[sağ sütun]_
 
 Değişik enjektabl aşılar her zaman [kesik]
-[okunamadı]
+
+PREVENAR 13 ile 23 valanlı pnöm [kesik]
+polisakkarid aşı ile aşılandıktan 1 yı [kesik]
+pnömokokal polisakkarid aşı ile hiç [kesik]
+Bunun klinik anlamlılığı bilinmemek [kesik]
 
 ### 4.6. Gebelik ve laktasyon
 **Genel tavsiye**
 Gebelik kategorisi: B
 
 **Çocuk doğurma potansiyeli buluna [kesik]**
-[okunamadı]
+Çocuk doğurma potansiyeli bulunan [kesik]
+
+**Gebelik dönemi**
+PREVENAR 13 için, gebeliklerde ma [kesik]
+Hayvanlar üzerinde yapılan çalışmala [kesik]
+dolaylı zararlı etkiler olduğunu göster [kesik]
+
+Bu sebeple gebelik döneminde PREV [kesik]
+
+**Laktasyon dönemi**
+Bu aşının anne sütüne geçip geçmediğ [kesik]
+dikkatli olunmalıdır.
+
+**Üreme yeteneği / Fertilite**
+Hayvan çalışmaları üreme toksisitesi ü [kesik]
 
 ### 4.7. Araç ve makine kullanımı üzer [kesik]
-[okunamadı]
+PREVENAR 13’ün araç ve makine kul [kesik]
+yan etkiler geçici olarak araç ve makine [kesik]
 
 ### 4.8. İstenmeyen etkiler
-[okunamadı]
+Pazarlama sonrası analiz raporlarına gö [kesik]
+ile birlikte veya tek başına seyreden kon [kesik]
+
+Pazarlama sonrası deneyimlerden elde e [kesik]
+sırasına göre aşağıdaki tabloda listelenm [kesik]
+Sıklık şu şekilde tarif edilmiştir: çok yay [kesik]
+çok seyrek (<1/10.000), bilinmiyor (elde [kesik]
+
+**Pediyatrik yaş grubu (6 hafta – 5 yaş)**
+Aşının güvenliliği, 6. haftada ilk bağış [kesik]
+çalışmalarda değerlendirilmiştir. PREV [kesik]
+
+Daha önceden aşılanmamış 354 çocukta [kesik]
+
+6 haftalık-5 yaş arası bebek ve çocuklar [kesik]
+uykuda artma ve/veya azalmadır.
+
+2, 3 ve 4. aylarda aşılanmış bebeklerde y [kesik]
+Infanrix hexa’yı tek başına alan çocukla [kesik]
+uygulanan rapel doz sonrasında PREVE [kesik]
+tek başına kullanan bebeklerde ise %33 [kesik]
+
+12 aydan daha büyük olan çocuklarda g [kesik]
+gözlemlenenlere kıyasla daha yüksek o [kesik]
+
+*Klinik Çalışmalardaki Advers Reaksiy [kesik]*
+Klinik çalışmalarda, PREVENAR 13’ [kesik]
+sıklıklar, PREVENAR 13 ile ilgili kli [kesik]
+
+**Bağışıklık sistemi hastalıkları**
+Seyrek: Yüzde [kesik]
+
+**Sinir sistemi hastalıkları**
+Yaygın olmayan: Konvü [kesik]
+Seyrek: Hipoto [kesik]
+
+**Gastrointestinal hastalıklar**
+Çok yaygın: İştah [kesik]
+Yaygın: Kusma [kesik]
+
+**Deri ve deri altı doku hastalıkları**
+Yaygın: Dökü [kesik]
+Yaygın olmayan: Ürtik [kesik]
+
+**Genel bozukluklar ve uygulama b [kesik]**
+Çok yaygın: Ateş [kesik]
+uyk [kesik]
+Aşı [kesik]
+son [kesik]
+Yaygın: Ate [kesik]
+en [kesik]
+Yaygın olmayan: Aş [kesik]
+
+**Özel popülasyonlar için ek bilgi [kesik]**
+İleri prematüre bebeklerde (≤ geb [kesik]
+
+**6-17 yaş arası çocuk ve adölesan [kesik]**
+Güvenlilik; daha önce en az bir do [kesik]
+önce hiç aşılanmamış 10-17 yaş ar [kesik]
+
+6-17 yaş arasındaki çocuk ve adö [kesik]
+
+**Sinir sistemi hastalıkları**
+Yaygın: Baş [kesik]
+
+**Gastrointestinal hastalıklar**
+Çok yaygın: İştah [kesik]
+Yaygın: Kus [kesik]
+
+**Deri ve derialtı doku hastalıkları**
+Yaygın: Dök [kesik]
+
+**Genel bozukluklar ve uygulama [kesik]**
+Çok yaygın: İrri [kesik]
+kali [kesik]
+Aşı [kesik]
+Yaygın: Ateş [kesik]
+
+6 hafta-5 yaş arasındaki bebek ve ç [kesik]
+denek sayısının azlığından dolayı g [kesik]
+
+**Özel popülasyonlar için ek bilgi:**
+Orak hücreli anemi hastalığı, HIV e [kesik]
+görülme sıklığı benzerdir. Sadece b [kesik]
+
+**Erişkin yaş grubu (18 yaş ve üzer [kesik]**
+18 ila 101 yaşları arasındaki 91,593 [kesik]
+uygulanmış; 2,616’sı (%5,4) 50 ile 6 [kesik]
+23-valanlı polisakkarid aşı ile aşılan [kesik]
+13 uygulananlardan 1,916 erişkin d [kesik]
+46,890’ı ise 23-valanlı polisakkarid [kesik]
+
+Yan etkilerin sıklıkları yaşın ilerlem [kesik]
+bağımsız olarak gençlerden daha az [kesik]
+
+Genel olarak bakıldığında, 18-49 y [kesik]
+erişkinlerde çok yaygın diğer yaş gru [kesik]
+bölgesi reaksiyonları (ağrı, şişlik) ve [kesik]
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
@@ -785,7 +1046,7 @@ Bu sebeple gebelik döneminde PREVENAR 13’ün kullanımından kaçınılmalıd
 Bu aşının anne sütüne geçip geçmediği bilinmemektedir. Birçok ilaç anne sütü ile atıldığı için PREVENAR 13, emziren annelere uygulanırken dikkatli olunmalıdır.
 
 **Üreme yeteneği / Fertilite**
-Hayvan çalışmaları üreme toksisitesi üzerinde direkt veya indirekt bir zararlı etki olduğunu göstermemiştir (bkz. bölüm 5.3).
+Hayvan çalışmaları üreme toksisitesi üzerinde direkt veya in direkt bir zararlı etki olduğunu göstermemiştir (bkz. bölüm 5.3).
 
 ### 4.7. Araç ve makine kullanımı üzerindeki etkiler
 PREVENAR 13’ün araç ve makine kullanımı üzerine etkisi yok denecek kadar azdır. Fakat “4.8 İstenmeyen etkiler” bölümünde bahsedilen bazı yan etkiler geçici olarak araç ve makine kullanımını etkileyebilir.
@@ -797,10 +1058,18 @@ Pazarlama sonrası deneyimlerden elde edilen veya klinik vakalarda rapor edilen 
 Sıklık şu şekilde tarif edilmiştir: çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1000 ila <1/100); seyrek (≥1/10.000 ila <1/1000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
 
 **Pediyatrik yaş grubu (6 hafta – 5 yaş)**
-[okunamadı]
+Aşının güvenliliği, 6. haftada ilk bağışıklama ve 11-16. aylarda rapel dozu uygulanan 4,429 sağlıklı bebeğe 14,267 dozun verildiği kontrollü klinik çalışmalarda değerlendirilmiştir. PREVENAR 13, bebek çalışmalarının tümünde rutin pediyatrik aşılarla eş zamanlı uygulanmıştır (bkz. bölüm 4.5).
 
-**Klinik Çalışmalardaki Advers Reaksiyonlar**
-[okunamadı]
+Daha önceden aşılanmamış 354 çocuktaki (7 ay-5 yaş arasında) güvenliliği de değerlendirilmiştir.
+
+6 haftalık-5 yaş arası bebek ve çocuklarda en sık bildirilen advers reaksiyonlar aşılama bölgesi reaksiyonları, ateş, irritabilite, iştah azalması ve uykuda artma ve/veya azalmadır.
+
+2, 3 ve 4. aylarda aşılanmış bebeklerde yapılan bir klinik çalışmada PREVENAR 7V’yi Infanrix hexa ile eş zamanlı alan çocuklarda (%28,3-%42,3) Infanrix hexa’yı tek başına alan çocuklara (%15,6-%23,1) kıyasla 38°C ve üstü ateş daha yüksek oranda görülmüştür. 12. ve 15. aylarda uygulanan rapel doz sonrasında PREVENAR 7V ve Infanrix hexa’yı eş zamanlı alan bebeklerde 38°C ve üstü ateş %50 oranında, Infanrix hexa’yı tek başına kullanan bebeklerde ise %33,6 oranında görülmüştür. Bu reaksiyonlar genellikle orta şiddettedir (39°C veya altı) ve kısa sürelidir.
+
+12 aydan daha büyük olan çocuklarda görülen aşılama yeri reaksiyonları oranının, bebeklerde primer PREVENAR 13 serilerinde gözlemlenenlere kıyasla daha yüksek olduğu bildirilmiştir.
+
+*Klinik Çalışmalardaki Advers Reaksiyonlar*
+Klinik çalışmalarda, PREVENAR 13’ün güvenlilik profili PREVENAR’ın 7V içeren formülasyonuna benzer bulunmuştur. Aşağıda yer alan sıklıklar, PREVENAR 13 ile ilgili klinik çalışmalarda aşıyla ilişkili olarak değerlendirilen advers reaksiyonlara dayandırılmaktadır.
 
 | Sistem organ sınıfı | Sıklık | Reaksiyon |
 |---|---|---|
@@ -811,15 +1080,17 @@ Sıklık şu şekilde tarif edilmiştir: çok yaygın (≥1/10); yaygın (≥1/1
 | Gastrointestinal hastalıklar | Yaygın | Kusma; diyare |
 | Deri ve deri altı doku hastalıkları | Yaygın | Döküntü |
 | Deri ve deri altı doku hastalıkları | Yaygın olmayan | Ürtiker veya ürtikere benzer döküntü |
-| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | Ateş; irritabilite; aşılama bölgesinde herhangi bir eritem, endürasyon/şişme veya ağrı/hassasiyet; somnolans; uyku kalitesinde bozulma; [okunamadı] |
-| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın | [okunamadı] |
-| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın olmayan | [okunamadı] |
+| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | Ateş; irritabilite; aşılama bölgesinde herhangi bir eritem, endürasyon/şişme veya ağrı/hassasiyet; somnolans; uyku kalitesinde bozulma; Aşılama bölgesinde 2,5 cm-7,0 cm eritem veya endürasyon/şişme (büyük çocuklarda [2-5 yaş] ve rapel dozundan sonra) |
+| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın | Ateş >39°C; aşılama bölgesinde hareket bozukluğu (ağrıya bağlı); aşılama bölgesinde 2,5 cm-7,0 cm eritem veya endürasyon/şişme (bebeklerdeki bağışıklama serilerinden sonra) |
+| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın olmayan | Aşılama bölgesinde >7,0 cm eritem, endürasyon/şişme; ağlama |
 
 **Özel popülasyonlar için ek bilgi:**
 İleri prematüre bebeklerde (≤ gebeliğin 28 haftası) apne (bkz. bölüm 4.4).
 
 **6-17 yaş arası çocuk ve adölesanlar**
-[okunamadı]
+Güvenlilik; daha önce en az bir doz PREVENAR 7V içeren formülasyonu ile bağışıklanmış 5-10 yaş arasındaki 294 ve pnömokokal aşı ile daha önce hiç aşılanmamış 10-17 yaş arasındaki 298 çocuk olmak üzere 6-17 yaş arasındaki toplam 592 çocuk ve adölesanda değerlendirilmiştir.
+
+6-17 yaş arasındaki çocuk ve adölesanlarda en sık görülen yan etkiler:
 
 | Sistem organ sınıfı | Sıklık | Reaksiyon |
 |---|---|---|
@@ -827,26 +1098,152 @@ Sıklık şu şekilde tarif edilmiştir: çok yaygın (≥1/10); yaygın (≥1/1
 | Gastrointestinal hastalıklar | Çok yaygın | İştah azalması |
 | Gastrointestinal hastalıklar | Yaygın | Kusma; diyare |
 | Deri ve derialtı doku hastalıkları | Yaygın | Döküntü; ürtiker veya ürtikere benzer döküntü |
-| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | [okunamadı] |
+| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | İrritabilite; aşılama bölgesinde herhangi bir eritem, endürasyon/şişme veya ağrı/hassasiyet; somnolans; uyku kalitesinde bozulma; Aşılama bölgesinde hassasiyet (hareket kabiliyetinde bozulma) |
 | Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın | Ateş |
 
+6 hafta-5 yaş arasındaki bebek ve çocuklarda daha önce görülen diğer yan etkiler bu yaş grubu için de geçerli olabilir fakat çalışmaya katılan denek sayısının azlığından dolayı görülmemiştir.
+
 **Özel popülasyonlar için ek bilgi:**
-[okunamadı]
+Orak hücreli anemi hastalığı, HIV enfeksiyonu veya hematopoetik kök hücre transplantasyonu yapılmış çocuklar ve adölesanlarda yan etkilerin görülme sıklığı benzerdir. Sadece baş ağrısı, kusma, diyare, pireksi, yorgunluk, artralji ve miyalji çok yaygın olarak görülür.
 
 **Erişkin yaş grubu (18 yaş ve üzeri)**
-[okunamadı]
+18 ila 101 yaşları arasındaki 91,593 erişkini içeren 7 klinik çalışmada güvenlilik değerlendirilmiştir. PREVENAR 13, 48,806 erişkine uygulanmış; 2,616’sı (%5,4) 50 ile 64 yaşları arasında ve 45,291’i (%92,8) 65 yaşında veya daha üzerindedir. Bu yedi çalışmadan biri daha önce 23-valanlı polisakkarid aşı ile aşılanmamış ve PREVENAR 13 uygulanan 18-49 yaş arası erişkinlerden (n=899) oluşmuştur. PREVENAR 13 uygulananlardan 1,916 erişkin daha önceden 23-valanlı pnömokokal polisakkarid aşı ile çalışma aşılamasından en az 3 yıl önce aşılanmıştır. 46,890’ı ise 23-valanlı polisakkarid aşı ile aşılanmamıştır.
+
+Yan etkilerin sıklıkları yaşın ilerlemesi ile düşüş eğilimi gösterir; 65 yaş üzerindeki katılımcılarda, önceki pnömokokal aşı durumundan bağımsız olarak gençlerden daha az advers reaksiyon bildirilmiştir. Yan etkiler en sık 18-29 yaş arasındaki genç erişkinlerde görülür.
+
+Genel olarak bakıldığında, 18-49 yaş arasında çok yaygın (≥1/10) ve diğer yaş gruplarında yaygın (≥1/100-<1/10) görülen kusma, 18-29 yaş arası erişkinlerde çok yaygın diğer yaş gruplarında yaygın görülen ateş ve 18-39 yaş grubunda çok yaygın diğer yaş gruplarında yaygın görülen ciddi aşılama bölgesi reaksiyonları (ağrı/şişlik) ve kol hareketlerinin ciddi şekilde sınırlanması durumu dışında görülme sıklıkları tüm yaş grupları için benzerdir.
 
 _[sağ sütun]_
 
 **Klinik çalışmalardaki adve [kesik]**
-[okunamadı]
+7 çalışmadan, 6 klinik çalış [kesik]
+sistemik olayların bildirim [kesik]
+reaksiyonlara dayanmakta [kesik]
+
+**Bağışıklık sistemi hastalı [kesik]**
+Yaygın olmayan: Yüz [kesik]
+
+**Metabolizma ve beslenme [kesik]**
+Çok yaygın: İştah [kesik]
+
+**Sinir sistemi hastalıkları**
+Çok yaygın: Baş [kesik]
+
+**Gastrointestinal hastalık [kesik]**
+Çok yaygın: Diya [kesik]
+Yaygın: Kusm [kesik]
+Yaygın olmayan: Bulan [kesik]
+
+**Deri ve derialtı doku hasta [kesik]**
+Çok yaygın: Dökü [kesik]
+
+**Kas-iskelet bozuklukları, [kesik]**
+Çok yaygın: Artra [kesik]
+
+**Genel bozukluklar ve uyg [kesik]**
+Çok yaygın: Üşüm [kesik]
+ağrı [kesik]
+grubu [kesik]
+Yaygın: Ateş [kesik]
+Yaygın olmayan: Aşı y [kesik]
+
+Önceden pnömokokal polisa [kesik]
+anlamlı farklılıklar görülme [kesik]
+
+**Özel popülasyonlar için ek [kesik]**
+Pireksi ve kusmanın çok yay [kesik]
+Pireksi ve kusmanın çok yay [kesik]
+PREVENAR 13, üç valanlı [kesik]
+iştah azalması, artralji ve mi [kesik]
+bildirilen sistemik reaksiyon [kesik]
+
+*PREVENAR 13 ile ilgili Paza [kesik]*
+Bu yan etkiler spontane rapo [kesik]
+belirlenemediğinden “bilinm [kesik]
+
+**Kan ve lenf sistemi hastalık [kesik]**
+Bilinmiyor:
+
+**Bağışıklık sistemi hastalık [kesik]**
+Bilinmiyor:
+
+**Deri ve derialtı doku hasta [kesik]**
+Bilinmiyor:
+
+**Genel bozukluklar ve uygu [kesik]**
+Bilinmiyor:
+
+**Şüpheli advers reaksiyonların [kesik]**
+Ruhsatlandırma sonrası şüph [kesik]
+dengesinin sürekli olarak izle [kesik]
+Merkezi (TÜFAM)’ne bildirim [kesik]
 
 ### 4.9. Doz aşımı ve tedavisi
-[okunamadı]
+Kullanıma hazır şırınga form [kesik]
+PREVENAR 13 kullanımı ile [kesik]
+sürenin bulunduğu vakalar şek [kesik]
+önerilen pediyatrik bağışıkla [kesik]
 
 ## 5. FARMAKOLOJİK ÖZE [kesik]
 ### 5.1. Farmakodinamik özell [kesik]
-[okunamadı]
+Farmakoterapötik grup: Pnöm [kesik]
+ATC kod: J07AL02
+
+Bir taşıyıcı proteine (CRM₁₉₇) [kesik]
+çıkarmaktadır. Protein taşıyıc [kesik]
+
+PREVENAR 13, PREVENAR [kesik]
+olarak 6 polisakkarid (1, 3, 5, 6 [kesik]
+
+**Hastalık yükü**
+
+*6 hafta-5 yaş arası bebek ve ço [kesik]*
+
+PREVENAR’ın 7V içeren form [kesik]
+PREVENAR 13’ün, 5 yaşın alt [kesik]
+değişebilir) kapsadığı tahmin e [kesik]
+formülasyonunun kullanımıyla [kesik]
+
+Akut otitis media (AOM), farklı [kesik]
+sorumlu olabilir. S. pneumonia [kesik]
+
+PREVENAR 13’ün, antimikro [kesik]
+
+*6-17 yaş arası çocuk ve adöles [kesik]*
+
+6-17 yaş arası çocuk ve adöles [kesik]
+mortalite riskinde artış oluşur.
+
+*18 yaş ve üstü erişkinler ve yaş [kesik]*
+
+Pnömoni, erişkinlerde pnömok [kesik]
+
+Avrupa’da raporlanan toplum k [kesik]
+50 yaşından itibaren artmaya b [kesik]
+ülkelerde erişkinlerin hastaneye [kesik]
+
+Bakteriyemik pnömoni (erişkin [kesik]
+göstergesidir. Çocukluk aşılam [kesik]
+göre PREVENAR 13 içindeki p [kesik]
+
+Erişkinlerde TKP ve İPH riski [kesik]
+kardiyovasküler hastalık, kroni [kesik]
+baskılanmış olan HIV enfeksiy [kesik]
+
+**İnfantlar, çocuklar ve adölesan [kesik]**
+
+PREVENAR 13’ün İPH’lerden [kesik]
+potansiyelinin değerlendirilmesi [kesik]
+ortak olan yedi serotipe karşı b [kesik]
+aşağıya bakınız). Ek 6 serotip [kesik]
+
+**Primer üç-dozluk bebek serile [kesik]**
+
+Birçok Avrupa ülkesi ile ABD’d [kesik]
+uygulandığı [006] ve ABD’de 2 [kesik]
+düzenlenmiştir. Bu iki çalışmad [kesik]
+0,35 mikrogram/mL olan gönü [kesik]
+dışı eşdeğer etkinlik kriteri ile k [kesik]
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
@@ -856,8 +1253,8 @@ Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiş
 # Prevenar 13 — kısa ürün bilgisi, fotoğraf 4
 _Kaynak: prevenar13-y4 — 4.8. İstenmeyen etkiler → 5.1. Farmakodinamik özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-**Klinik çalışmalardaki advers reaksiyonlar**
-[okunamadı]
+*Klinik çalışmalardaki advers reaksiyonlar*
+7 çalışmadan, 6 klinik çalışmada her aşıdan sonra 14 gün boyunca ve geri kalan çalışmada 7 gün boyunca günlük olarak lokal reaksiyonlar ve sistemik olayların bildirimi istenmiştir. Aşağıdaki sıklıklar, erişkinlerde PREVENAR 13 ile aşılama ile ilişkili olarak değerlendirilen advers reaksiyonlara dayanmaktadır.
 
 | Sistem organ sınıfı | Sıklık | Reaksiyon |
 |---|---|---|
@@ -869,7 +1266,7 @@ _Kaynak: prevenar13-y4 — 4.8. İstenmeyen etkiler → 5.1. Farmakodinamik öze
 | Gastrointestinal hastalıklar | Yaygın olmayan | Bulantı |
 | Deri ve derialtı doku hastalıkları | Çok yaygın | Döküntü |
 | Kas-iskelet bozuklukları, bağ dokusu ve kemik hastalıkları | Çok yaygın | Artralji, miyalji |
-| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | [okunamadı] |
+| Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Çok yaygın | Üşüme; yorgunluk; aşı yerinde eritem; aşı yerinde endürasyon/şişme; aşı yerinde ağrı/hassasiyet (aşılama bölgesinde ciddi ağrı/hassasiyet 18-39 yaş grubundaki erişkinlerde çok yaygın olarak görülür); kol hareketinde kısıtlılık (ciddi kısıtlılık 18-39 yaş grubundaki erişkinlerde çok yaygın olarak görülür) |
 | Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın | Ateş (18-29 yaş arasındaki erişkinlerde çok yaygın olarak görülür) |
 | Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Yaygın olmayan | Aşı yeri bölgesine lokalize lenfadenopati |
 
@@ -880,9 +1277,9 @@ Pireksi ve kusmanın çok yaygın, bulantının ise yaygın görülmesi dışın
 
 Pireksi ve kusmanın çok yaygın görülmesi dışında hematopoetik kök hücre nakli olan erişkinlerde yan etki sıklıkları benzerdir.
 
-[okunamadı]
+PREVENAR 13, üç valanlı inaktif influenza aşısı (TIV) ile eş zamanlı uygulandığında; tek başına TIV verilmesine (baş ağrısı, üşüme, döküntü, iştah azalması, artralji ve miyalji) ve tek başına PREVENAR 13 verilmesine (baş ağrısı, yorgunluk, üşüme, iştah azalması ve artralji) kıyasla bazı bildirilen sistemik reaksiyonlarda daha yüksek bir sıklık gözlemlenmiştir.
 
-**PREVENAR 13 ile ilgili Pazarlama Sonrası Deneyimlerde Elde Edilen Advers Reaksiyonlar**
+*PREVENAR 13 ile ilgili Pazarlama Sonrası Deneyimlerde Elde Edilen Advers Reaksiyonlar*
 Bu yan etkiler spontane raporlardan elde edildiğinden PREVENAR 13 için advers reaksiyonlar olarak kabul edilir fakat sıklığı belirlenemediğinden “bilinmiyor” olarak değerlendirilmiştir.
 
 | Sistem organ sınıfı | Sıklık | Reaksiyon |
@@ -893,7 +1290,7 @@ Bu yan etkiler spontane raporlardan elde edildiğinden PREVENAR 13 için advers 
 | Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar | Bilinmiyor | Aşılama bölgesinde ürtiker; aşılama bölgesinde dermatit; aşılama bölgesinde kaşıntı, yüzde kızarma |
 
 **Şüpheli advers reaksiyonların raporlanması**
-[okunamadı]
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
 
 ### 4.9. Doz aşımı ve tedavisi
 Kullanıma hazır şırınga formunda olması nedeniyle PREVENAR 13 ile doz aşımı görülmesi beklenmemektedir. Buna karşılık çocuklarda PREVENAR 13 kullanımı ile doz aşımı raporları mevcuttur ve bu bildirimler, takip eden dozlarla bir önceki doz arasında, önerilenden daha kısa bir sürenin bulunduğu vakalar şeklinde tanımlanmaktadır. Genel olarak, doz aşımı ile bağlantılı olarak bildirilen istenmeyen etkiler, PREVENAR 13 için önerilen pediyatrik bağışıklama şemalarındaki dozlar ile uyumludur.
@@ -910,7 +1307,11 @@ PREVENAR 13, PREVENAR’ın 7V içeren formülasyonundaki 7 pnömokokal kapsüle
 **Hastalık yükü**
 
 **6 hafta-5 yaş arası bebek ve çocuklar:**
-[okunamadı]
+PREVENAR’ın 7V içeren formülasyonunun kullanıma sunulmasından önce Avrupa’da gerçekleştirilen serotip sürveyans çalışmalarına dayanılarak PREVENAR 13’ün, 5 yaşın altındaki çocuklarda İPH (İnvazif Pnömokokal Hastalık)’a yol açan serotiplerin %73-100’ünü (ülkeye göre değişebilir) kapsadığı tahmin edilmektedir. Bu yaş grubunda serotip 1, 3, 5, 6A, 7F ve 19A, ülke, incelenen süre ve PREVENAR’ın 7V içeren formülasyonunun kullanımına bağlı olarak invazif hastalıkların %15,6’sı ile %59,7’sinden sorumludur.
+
+Akut otitis media (AOM), farklı etiyolojilere sahip, sık rastlanan bir çocukluk çağı hastalığıdır. Klinik AOM epizodlarının %60-70’inden bakteriler sorumlu olabilir. S. pneumoniae, dünyada bakteriyel AOM’nin en sık görülen etkenlerinden biridir.
+
+PREVENAR 13’ün, antimikrobiyal dirençli İPH’ye neden olan serotiplerin %90’ından çoğunu kapsadığı tahmin edilmektedir.
 
 **6-17 yaş arası çocuk ve adölesanlar:**
 6-17 yaş arası çocuk ve adölesanlarda pnömokokal hastalıkların insidansı düşüktür. Fakat altta yatan bir komorbidite durumunda morbidite ve mortalite riskinde artış oluşur.
@@ -918,13 +1319,17 @@ PREVENAR 13, PREVENAR’ın 7V içeren formülasyonundaki 7 pnömokokal kapsüle
 **18 yaş ve üstü erişkinler ve yaşlılar:**
 Pnömoni, erişkinlerde pnömokokal hastalıkların en sık görülen klinik formudur.
 
-[okunamadı]
+Avrupa’da raporlanan toplum kökenli pnömoni (TKP) ve İPH insidansı ülkeden ülkeye değişmekte olup, yaş ile orantılı olarak farklılık gösterir. 50 yaşından itibaren artmaya başlayıp en fazla 65 yaş ve üstü erişkinlerde görülür. *S. pneumoniae* TKP’nin en sık görülen nedenidir. Gelişmiş ülkelerde erişkinlerin hastaneye yatmasına neden olan TKP’nin yaklaşık olarak %30’undan sorumludur.
+
+Bakteriyemik pnömoni (erişkinlerde İPH’nın yaklaşık %80’i), bakteriyemi (odağı olmadan) ve menenjit erişkinlerde İPH’nın en yaygın göstergesidir. Çocukluk aşılama programı kapsamında PREVENAR 13’ten önce PREVENAR 7V verilmesi sonucu oluşan sürveyans verilerine göre PREVENAR 13 içindeki pnömokokal serotiplerin erişkinlerde görülen İPH’nın en az %50-76’sından (ülkeye göre değişir) sorumlu olabilir.
+
+Erişkinlerde TKP ve İPH riski bazı altta yatan kronik medikal durumlar (örn. anatomik ve fonksiyonel aspleni, diabetes mellitus, astım, kronik kardiyovasküler hastalık, kronik pulmoner hastalık, böbrek veya karaciğer hastalığı) ile de artabilir. En yüksek oranda bağışıklık sistemi baskılanmış olan HIV enfeksiyonunda veya malign hematolojik hastalığı olan bireylerde görülür.
 
 **İnfantlar, çocuklar ve adölesanlarda PREVENAR 13 immünojenite klinik çalışmaları**
-[okunamadı]
+PREVENAR 13’ün İPH’lerden koruma etkililiği çalışılmamıştır. Dünya Sağlık Örgütü (WHO) tarafından önerildiği gibi, İPD’ye karşı etkinlik potansiyelinin değerlendirilmesi, koruyucu etkinliğin kanıtlanmış olduğu, PREVENAR’ın 7V içeren formülasyonu ile PREVENAR 13 arasında ortak olan yedi serotipe karşı bağışıklık yanıtlarının karşılaştırılmasına dayandırılmıştır (infantlar ve çocuklarda Prevenar (7 valanlı) etkililiği için aşağıya bakınız). Ek 6 serotipe karşı bağışıklık yanıtları da ölçülmüştür.
 
 **Primer üç-dozluk bebek serilerinden sonra bağışıklık yanıtları**
-[okunamadı] [kesik]
+Birçok Avrupa ülkesi ile ABD’de, iki randomize eşdeğer etkinlik çalışması da dahil olmak üzere (Almanya’da, 2, 3, 4 ayda primer serinin uygulandığı [006] ve ABD’de 2, 4, 6 ayda primer serinin uygulandığı [004]) farklı bağışıklama şemalarının kullanıldığı klinik çalışmalar düzenlenmiştir. Bu iki çalışmada pnömokokal bağışıklama yanıtları, primer serilerden bir ay sonra serum antipolisakkarid serotip spesifik IgG ≥0,35 mikrogram/mL olan gönüllülerin yüzdesi ve IgG geometrik ortalama konsantrasyonlarının (ELISA GMC’ler) karşılaştırılması dahil bir dizi eşdeğer etkinlik kriteri ile karşılaştırılmıştır. Buna ek olarak, PREVENAR 13 ve PREVENAR’ın 7V içeren formülasyonunu alan gönüllülerin [kesik]
 
 ### Notlar
 Fotoğrafın kenarlarında komşu sayfalara ve başka prospektüslere ait kesilmiş metinler görünmektedir. Aktarılamayan metinler işaretlenmiştir.
@@ -936,41 +1341,67 @@ _Kaynak: prevenar13-y5 — fonksiyonel antikor titreleri → PREVENAR'ın 7V iç
 
 fonksiyonel antikor titreleri de (OPA) karşılaştırılmıştır. Ek altı serotip için bu değerler, PREVENAR'ın 7V içeren formülasyonunu alanlarda ortak yedi serotip arasındaki en düşük yanıt ile karşılaştırılmıştır.
 
-[okunamadı]
+006 numaralı çalışmada, anti-polisakkarid konsantrasyonları ≥0,35 mikrogram/mL olan bebeklerin yüzdesine göre belirlenen eşdeğer bağışıklık yanıtı karşılaştırılmıştır. Çalışma 004'te elde edilen bulgular benzerdir. PREVENAR 13 için eşdeğerlik (gruplar arasında 0,35 mikrogram/mL'de yanıt verenleri yüzdesine ilişkin farkın %95 GA alt sınırı >-%10'dur), hedefin ufak bir farkla ulaşılamadığı çalışma 006'da serotip 6B ve çalışma 004'te 6B ve 9V hariç, ortak yedi serotipin tümü için gösterilmiştir. Yedi ortak serotipin tümü, IgG ELISA GMC'leri için önceden tanımlanmış olan eşdeğerlik kriterini karşılamıştır. PREVENAR 13, ortak 7 serotip için PREVENAR'ın 7V içeren formülasyonuna kıyasla, hafifçe daha düşük seviyede olmakla birlikte karşılaştırılabilir antikor düzeyleri sağlamıştır. Bu farklılıkların klinik önemi bilinmemektedir.
+
+Antikor konsantrasyonları ≥0,35 mikrogram/mL'ye ulaşan bebeklerin oranı ile IgG ELISA GMC'lerinin karşılaştırılmasına dayandırılan eşdeğerlik, çalışma 006'da ek 6 serotip için, çalışma 004'te ise serotip 3 haricinde altı serotipten 5'i için karşılanmıştır. Serotip 3 için, serum IgG ≥0,35 mikrogram/mL olan PREVENAR 13 uygulanmış bebeklerin yüzdesi %98,2 (çalışma 006) ve %63,5'tir (çalışma 004).
+
+PREVENAR 13, çalışma 004 ve 006'da aşıdaki 13 serotipin tümüne karşı fonksiyonel antikorlar açığa çıkarmıştır. Gruplar arasında, ortak 7 serotip için OPA titreleri ≥1:8 olan gönüllülerin oranı açısından hiçbir farklılık yoktur. Yedi ortak serotipin her biri için, PREVENAR 13 alan bebeklerin >%96 ve >%90'ı, sırasıyla çalışma 006 ve 004'te primer serilerden bir ay sonra ≥1:8 OPA titrelerine ulaşmıştır.
+
+Çalışma 004/006'da PREVENAR 13 ek 6 serotipin her biri için primer serilerden bir ay sonra %91,4 ile %100 oranında ≥1:8 OPA titreleri sağlamıştır. Serotip 1, 3 ve 5 için fonksiyonel antikor (OPA) geometrik ortalama titreleri, diğer ek serotiplerin her biri için elde edilen titrelerden daha düşüktür; koruyucu etkililiğe ilişkin bu gözlemin klinik önemi bilinmemektedir.
 
 ### İnfantlarda iki-dozluk primer serilerden sonra bağışıklama yanıtları
 
-[okunamadı]
+İnfantlarda iki dozdan sonra elde edilen immünojenisite, dört çalışmada dokümante edilmiştir. İkinci dozdan bir ay sonra ≥0,35 mikrogram/mL düzeyinde bir pnömokokal anti-kapsüler polisakkarid IgG konsantrasyonuna ulaşılan bebeklerin yüzdesi, 13 aşı serotipinden 11’inde %79,6-%98,5 arasında değişmektedir. İki ve dört ay rejiminin kullanıldığı çalışmaların tümünde serotip 6B (%27,9 ile %57,3) ve 23F (%55,8 ile %68,1) için bu antikor konsantrasyon eşiğine ulaşan bebeklerin oranı, 3, 5 ay rejiminin kullanıldığı bir çalışmada serotip 6B için elde edilen %58,4 ve 23F için elde edilen %68,6’dan düşüktür. Rapel dozundan sonra, 6B ve 23F dahil aşıdaki tüm serotiplere karşı elde edilen bağışıklık yanıtları, iki dozluk bir primer seri ile yapılan uygun bağışıklama ile uyumludur. İngiltere’de yapılan bir çalışmada, PREVENAR’ın 7V içeren formülasyonu ve PREVENAR 13 kollarında 6B ve 23F dahil tüm serotiplere karşı, iki ve dört aydaki primer serilerden ve 12 aydaki rapel dozundan sonra elde edilen fonksiyonel antikor (OPA) yanıtları karşılaştırılabilir düzeydedir. PREVENAR 13 alanlarda, OPA titresi ≥1:8 olanların oranı, primer serilerden sonra en az %87 ve rapel dozundan sonra en az %93’tür. Serotip 1, 3 ve 5 için OPA geometrik ortalama titreleri, diğer ek serotiplerin her biri için elde edilen titrelerden daha düşüktür, bu gözlemin klinik önemi bilinmemektedir.
 
 ### İki-doz ve üç-dozluk primer serilerden sonra rapel yanıtları
 
-[okunamadı]
+Rapel dozundan sonra, 13 serotipin tümü için antikor konsantrasyonları rapel öncesi düzeylere göre yükselmiştir. Rapel sonrası antikor konsantrasyonları, 12 serotip için primer bebek serilerinden sonra elde edilen düzeyden daha yüksektir. Bu gözlemler, uygun bağışıklama (bağışıklama belleğinin indüksiyonu) ile uyumludur. Rapel dozundan sonra serotip 3 için bağışıklık yanıtı, primer bebek serilerinden sonra görülenlerden daha yüksek bulunmamıştır; serotip 3 bağışıklık belleğinin indüksiyonuna ilişkin bu gözlemin klinik önemi bilinmemektedir.
+
+İki doz veya üç doz primer bebek serilerinin ardından uygulanan rapel dozundan sonra elde edilen antikor yanıtları, 13 aşı serotipinin tümü için karşılaştırılabilir düzeydedir.
+
+7 ay-5 yaş arasındaki bebek ve çocuklarda uygulanan yaşa uygun bağışıklama şemaları (bölüm 4.2'de anlatıldığı şekilde), 13 serotipin her biri için en az üç dozluk primer bebek serilerinde elde edilenlerle karşılaştırılabilir düzeyde antikapsüler polisakkarid IgG antikor yanıtları ile sonuçlanmıştır.
+
+4 doz PREVENAR'ın 7V içeren formülasyonu (PREVENAR'ın 7V içeren formülasyonu ile 3 doz infant serisi ve takiben 12. ayda PREVENAR 13) ya da 4 doz PREVENAR 13'ten en az 2 yıl sonra tek doz PREVENAR 13 alan sağlıklı çocuklarda yapılan bir çalışmada antikor devamlılığı ve bağışıklık hafızası değerlendirilmiştir.
+
+PREVENAR'ın 7V içeren formülasyonu veya PREVENAR 13 ile aşılanma hikayesinden bağımsız olarak yaş ortalaması 3,4 olan çocuklara uygulanan tek doz PREVENAR 13, hem ortak 7 serotip için hem de ilave 6 serotip için güçlü bir antikor cevabı indüklemiştir.
+
+PREVENAR'ın 7V içeren formülasyonunun 2000 yılında kullanıma sunulmasından sonra elde edilen pnömokokal hastalığı sürveyans verileri, bebeklikte PREVENAR'ın 7V içeren formülasyonu ile elde edilen bağışıklığın zaman içinde azaldığını göstermemektedir.
 
 ### Preterm bebekler
 
-[okunamadı]
+2, 3, 4 ve 12 aylıkken uygulanan PREVENAR 13’ün güvenliliği ve immünojenisitesi yaklaşık prematüre doğmuş 100 bebek (ortalama Tahmini Gebelik Yaşı [TGY], 31 hafta; aralık 26-36 hafta) değerlendirilmiş ve zamanında doğmuş yaklaşık 100 bebekle (ortalama TGY, 39 hafta; aralık 37-42 hafta) karşılaştırılmıştır.
+
+Preterm ve term bebeklerde bağışıklık yanıtları, seri bebek aşılarından 1 ay sonra pnömokokal polisakkarid IgG bağlayıcı antikor konsantrasyonu ≥0,35 mikrogram/mL olan denek oranı kullanılarak karşılaştırılmıştır. PREVENAR 13 ile PREVENAR’ın immünojenisite karşılaştırmalarında kullanılan bu yaklaşım WHO (Dünya Sağlık Örgütü) kılavuzlarına dayanmaktadır.
+
+Preterm grubunda seri aşılardan 1 ay sonra serotip 5 (%71,7), 6A (%82,7) ve 6B (%72,7) dışında pnömokokal polisakkarid IgG bağlayıcı antikor konsantrasyonu ≥0,35 mikrogram/mL olan denek oranı %85’in üzerindedir. Bu 3 serotip ile preterm bebekler arasında yanıt alınan denek oranı term bebeklere göre belirgin şekilde daha düşüktür. Oyun çağı çocuklarına uygulanan dozdan yaklaşık bir ay sonra, her grupta aynı antikor konsantrasyon eşiğine ulaşan denek oranı, serotip 3 (preterm bebeklerde %71 ve term bebeklerde %79) dışında >%97’dir. Preterm bebeklerde tüm serotiplerle immünolojik hafıza sağlanıp sağlanmadığı bilinmemektedir. Genellikle, serotipe özgü IgG GMC’ler preterm bebeklerde term bebeklere göre daha düşüktür.
+
+Seri aşılardan sonra OPA GMT’ler, preterm bebeklerde daha düşük olan serotip 5 dışında term bebekler ile preterm bebeklerde benzerdir. Seri bebek dozlarına göreli oyun çağı çocuklarına uygulanan dozdan sonra OPA GMT’ler term bebeklerde 13 serotipten 10’una (1, 3, 4, 5, 6A, 7F, 9V, 18C, 19A ve 23F) kıyasla preterm bebeklerde 13 serotipin 4’ünde (4, 14, 18C ve 19F) benzer veya daha düşük ve 6’sında (1, 3, 5, 7F, 9V ve 19A) istatistiksel olarak anlamlı derecede daha yüksektir.
 
 ### PREVENAR 7V ile tam olarak bağışıklık kazanmış çocuklar (12-59 ay)
 
-[okunamadı]
+PREVENAR’ın 7V içeren formülasyonunun (2 ya da 3 doz primer seri aşıya ek olarak rapel) ile tam olarak bağışıklık kazanmış kabul edilen çocuklarda tek doz PREVENAR 13 uygulandıktan sonra serum IgG düzeyleri ≥0,35 mikrogram/mL ve OPA titreleri ≥1:8 olan çocuk oranı en az %90’dır. Yinede, PREVENAR 13 ile önceden en az bir kez aşılanmış çocuklar ile kıyaslandığında 6 ek serotipten 3’ünde (serotip 1, 5 ve 6A) daha düşük IgG GMC ve OPA GMT elde edilmiştir. Düşük GMC ve GMT’lerin klinik açıdan önemi halen bilinmemektedir.
 
 ### Aşılanmamış çocuklar (12-23 ay)
 
-[okunamadı]
+Aşılanmamış çocuklarda (12-23 ay) PREVENAR’ın 7V içeren formülasyonu ile yürütülen çalışmalarda, 6B ve 23F için 3 doz seri bebek aşıları ile sağlananlara benzer serum IgG konsantrasyonları sağlamak için 2 doz gerektiği belirlenmiştir.
 
 ### 5-17 yaş arası çocuk ve adölesanlar
 
-[okunamadı]
+%17,4’ü astım hastası olan (pnömokokal enfeksiyonlara daha yatkın) 592 sağlıklı çocuk ve adölesanların katıldığı açık etiketli bir çalışmada PREVENAR 13 tüm 13 serotipe karşı bağışıklık cevabı sağlamıştır. Daha önce en az bir doz PREVENAR ile aşılanmış 5-10 yaş arası çocuklara ve daha önce hiç pnömokokal bir aşı ile aşılanmamış 10-17 yaş arası çocuk ve adölesanlara bir doz PREVENAR 13 verilmiştir.
+
+Hem 5-10 yaş arası çocukların hem de 10-17 yaş arası çocuk ve adölesanların PREVENAR 13’e verdiği bağışıklık cevabı PREVENAR ile ortak 7 serotipte ve 2, 4, 6 ve 12-15. aylarda bebeklere uygulanan 4. doz sonrası serum IgG ile ölçülen bağışıklık cevabı ile karşılaştırıldığında PREVENAR 13’te olan diğer 6 ek serotipte PREVENAR 7V’den düşük değildir.
+
+10-17 yaş arası çocuk ve adölesanlarda aşılamadan bir ay sonraki OPA GMT’ler 5-10 yaş grubunun OPA GMT’lerinden 13 serotipin 12’sinde (serotip 3 hariç) eşit veya yüksektir.
 
 ### Subkutan uygulamadan sonra bağışıklık yanıtları
 
-[okunamadı]
+Subkutan yoldan uygulanan PREVENAR 13; 2, 4, 6 ve 12-15. aylarda toplam 4 doz alan 185 sağlıklı Japon bebek ve çocukları ile yürütülen karşılaştırmasız çalışmada değerlendirilmiştir. Çalışmada güvenlilik ve immünojenisitenin genellikle kas içi uygulama çalışmalarında yapılan gözlemlerle benzerliği kanıtlanmıştır.
 
 ## PREVENAR 13 Etkinliği
 
 ### İnvazif Pnömokokal Hastalık
 
-[okunamadı]
+İngiltere Halk Sağlığı Kurumu tarafından yayımlanan veriler, PREVENAR’ın 7V içeren formülasyonunun primer 2 dozluk bebek serisi ve ikinci yıldan itibaren verilen rapel doz aşılamasının başlamasından 4 yıl sonra %94 aşılama oranı ile İngiltere ve Galler Bölgesi’ndeki 7 aşı serotipinin neden olduğu hastalıkta %98 oranında (%95 GA 95-99) azalma meydana geldiğini göstermiştir. Akabinde PREVENAR 13’e geçilmesinden dört yıl sonra, PREVENAR’ın 7V içeren formülasyonunda bulunan ortak 7 serotipe bağlı IPH insidansında, 2 yaş altı çocuklarda %76 ve 5-14 yaş arası çocuklarda %91 arasında değişen oranda azalma görülmüştür. PREVENAR 13’teki 5 ilave serotipin her biri için görülen serotipe spesifik azalmalar (serotip 5’e bağlı IPH vakası gözlenmemiştir) yaş grubuna göre Tablo 1’de gösterilmiş olup, 5 yaş altındaki çocuklarda %68 (serotip 3) ila %100 (serotip 6A) arasında değişmektedir. Aşılamanın etkisindeki azalmalar, PREVENAR 13’le aşılanmamış olan daha büyük yaş gruplarında da gözlenmiştir (dolaylı etki).
 
 _[sağ sütun]_
 
@@ -978,9 +1409,33 @@ _[sağ sütun]_
 
 ### PREVENAR 13'ün nazofaringeal taşıma üzerindeki etkisi
 
+[okunamadı] Serotip 1 ve 5 için bir taşıyıcılık gözlenmemiştir.
+
 [okunamadı]
 
 ### PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği
+
+PREVENAR’ın 7V içeren formülasyonunun etkililiği Northern California Kaiser Permanente [kesik] çalışması (FinOM) olarak iki büyük çalışmada değerlendirilmiştir. [okunamadı]
+
+Tablo 2: PREVENAR’ın 7V içeren formülasyonu etk[kesik]
+
+| Test | [kesik] |
+|---|---|
+| NCKP: Aşı serotipine bağlı IPD | [kesik] |
+| NCKP: Toraks radyografisinde anormallik ile birlikte klinik pnömoni | [kesik] |
+| NCKP: Akut Otitis Media (AOM) | [kesik] |
+| Toplam epizodlar | [kesik] |
+| Tekrarlayan AOM (6 ayda 3 epizod veya 1 yılda 4 epizod) | [kesik] |
+| Tekrarlayan AOM (6 ayda 5 epizod veya 1 yılda 6 epizod) | [kesik] |
+| [okunamadı] yerleştirilmesi | [kesik] |
+| FinOM: AOM | [kesik] |
+| Toplam epizodlar | [kesik] |
+| Tüm pnömokokal AOM | [kesik] |
+| Aşı serotipine bağlı AOM | [kesik] |
+
+[okunamadı]
+
+### 65 yaş ve üzeri erişkinlerde etkililik çalışmaları
 
 [okunamadı]
 
@@ -993,19 +1448,37 @@ _Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik
 
 ### Tablo 1
 
+| Serotip | <5 yaş: 2008/09 | 2013/14 | [okunamadı] |
+|---|---|---|---|
+| 1 | 59 (54) | 5 (5) | [okunamadı] |
+| 3 | 26 (24) | 8 (8) | [okunamadı] |
+| 6A | 10 (9) | 0 (0) | [okunamadı] |
+| 7F | 90 (82) | 8 (8) | [okunamadı] |
+| 19A | 85 (77) | 7 (7) | [okunamadı] |
+
 [okunamadı]
 
 ### Otitis media (OM)
 
-[okunamadı]
+İsrail’de gerçekleştirilen ve yayınlanmış bir çalışmada [okunamadı]
+
+PREVENAR 7V’nin ve ardından PREVENAR 13’ün [okunamadı]
 
 ### Pnömoni
 
-[okunamadı]
+Fransa’da gerçekleştirilen ve PREVENAR’ın 7V içeren formülasyonundan [okunamadı]
+
+Tüm nedenlere dayalı pnömoni vakalarındaki en belirgin azalma [okunamadı]
+
+PREVENAR’ın 7V içeren formülasyonu ve ardından PREVENAR 13’ün [okunamadı]
 
 ### PREVENAR 13'ün nazofaringeal taşıma üzerindeki etkisi
 
-[okunamadı]
+Fransa’da akut otitis media öyküsü olan çocuklarla yapılan bir gözlemsel çalışmada [okunamadı]
+
+Serotip 1 ve 5 için bir taşıyıcılık gözlenmemiştir.
+
+Konjuge pnömokokal aşılamasının nazofaringeal taşıyıcılığa etkisi [okunamadı]
 
 ### PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği
 
@@ -1018,9 +1491,25 @@ _Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik
 | NCKP: Aşı-serotipine bağlı IPD | [okunamadı] | [okunamadı] | [okunamadı] |
 | NCKP: Toraks röntgeninde anormallik ile birlikte klinik pnömoni | [okunamadı] | [okunamadı] | [okunamadı] |
 | NCKP: Akut Otitis Media (AOM) | [okunamadı] | [okunamadı] | [okunamadı] |
+| Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
+| Tekrarlayan AOM (6 ayda 3 epizod veya 1 yılda 4 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
+| Tekrarlayan AOM (6 ayda 5 epizod veya 1 yılda 6 epizod) | [okunamadı] | [okunamadı] | [okunamadı] |
+| Timpanostomi tüpü yerleştirilmesi | [okunamadı] | [okunamadı] | [okunamadı] |
 | FinOM: AOM | [okunamadı] | [okunamadı] | [okunamadı] |
+| Toplam epizodlar | [okunamadı] | [okunamadı] | [okunamadı] |
+| Tüm pnömokokal AOM | [okunamadı] | [okunamadı] | [okunamadı] |
+| Aşı-serotipine bağlı AOM | [okunamadı] | [okunamadı] | [okunamadı] |
+
+Protokolü tamamlayan hastalar  
+Aşı etkinliği  
+Ekim 1995-20 Nisan 1999  
+Ekim 1995-30 Nisan 1998
 
 ### 65 yaş ve üzeri erişkinlerde etkililik çalışmaları
+
+[okunamadı] plasebo ile tek doz aşılanmışlardır.
+
+CAPiTA çalışması demografik özellikleri ve sağlık durumları açısından [okunamadı] gönüllüleri kapsamaktadır.
 
 [okunamadı]
 
@@ -1037,23 +1526,57 @@ _Kaynak: prevenar13-y7 — Erişkinlerde PREVENAR 13 immünojenisite klinik çal
 
 ### Erişkinlerde (≥18 yaş) PREVENAR 13 immünojenisite klinik çalışmaları
 
-[okunamadı]
+Erişkinlerde, korumanın başladığı serotipe özgü pnömokokal polisakkarid IgG bağlayıcı antikor konsantrasyonu için bir antikor eşik değeri tanımlanmamıştır. Tüm pivot klinik çalışmalarda invazif pnömokokal hastalık ve pnömoniye karşı potansiyel etkililiğin değerlendirilmesinde gösterge olarak bir serotipe özgü opsonofagositoz deneyi (OPA) kullanılmıştır. Her aşılamadan 1 ay sonra ölçülen geometrik ortalama OPA titreleri (GMT) hesaplanmıştır. OPA titreleri, pnömokokların sağ kalımını en az %50 oranında azaltan en yüksek serum dilüsyonunun tersi olarak ifade edilmektedir.
+
+PREVENAR 13 pivot çalışmaları 13 serotip için fonksiyonel OPA antikor yanıtlarının aşılama yapıldıktan 1 ay sonra ruhsatlandırılmış 23-valan pnömokokal polisakkarid aşısı ile ortak 12 serotipe [1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F] eşdeğer olduğunu ve bazı serotiplerde ise üstün olduğunu göstermek için tasarlanmıştır. PREVENAR'a özgü olan serotip 6A'ya alınan yanıt spesifik OPA titresi aşılama öncesi düzeylerin üzerinde 4 kat artış belirlenerek değerlendirilmiştir.
+
+Avrupa ve ABD'de yaşları 18 ile 95 arasında değişen farklı yaş gruplarında PREVENAR 13'ün immünojenisitesinin değerlendirildiği beş klinik çalışma yürütülmüştür. Halen PREVENAR 13 ile yürütülen klinik çalışmalar, çalışmaya katılmadan 5 yıl önce bir veya daha fazla 23-valan pnömokokal polisakkarid aşısı ile aşılanmış 65 yaş üzeri erişkinler de dahil 18 yaş ve üzeri erişkinlere ait immünojenisite verileri sağlamaktadır. Her çalışmaya sağlıklı erişkinler ve bireyleri pnömokokal enfeksiyonu (örn. Kronik Kardiyovasküler hastalık, astım dahil kronik pulmoner hastalık, renal bozukluklar ve diyabet mellitus, alkolik karaciğer hastalığı dahil kronik karaciğer hastalığı) geçirmelerine yatkın hale getiren altta yatan stabil bir hastalığı olan immünkompetan erişkinler ve sigara ve alkol tüketimi gibi risk faktörleri olan erişkinler dahil edilmiştir.
+
+PREVENAR 13'ün immünojenisite ve güvenliliği daha önce pnömokokal polisakkarid aşısı ile aşılanmış olanlar dahil 18 yaş ve üstü erişkinlerde kanıtlanmıştır.
 
 ### PPSV23 ile aşılanmamış erişkinlerde gerçekleştirilen klinik çalışmalar
 
-[okunamadı]
+ABD'de PREVENAR 13 için yapılan kontrollü modifiye çift kör bir klinik çalışmada (Çalışma 1), PREVENAR 13 ya da PPSV23 alacak, yaşları 60 ila 64 arasında değişen daha önce PPSV23 ile aşılanmamış erişkinler rastgele seçilmiştir (1:1). Buna ek olarak, yaşları 50 ila 59 ve 18–49 yaş arasında değişen erişkinler çalışmaya alınmış ve bu kişilere 1 doz PREVENAR 13 (açık etiketli) verilmiştir.
+
+Yaşları 60 ila 64 arasında değişen erişkinlerde, PREVENAR 13 tarafından oluşturulan OPA GMT'leri, her iki aşıda ortak 12 serotip için PPSV23 tarafından oluşturulanlara eşit veya daha fazla olmuştur. 9 serotip için OPA titrelerinin PREVENAR 13 ile aşılanan kişilerde istatistiksel olarak anlamlı ölçüde daha fazla olduğu gösterilmiştir.
+
+Yaşları 50 ila 59 arasında değişen erişkinlerde PREVENAR 13 tarafından oluşturulan OPA antikor GMT'leri, 13 serotipin tamamı için yaşları 60 ila 64 arasında değişen erişkinlerde PREVENAR 13 tarafından oluşturulan ilgili OPA antikor GMT'lerine eşit etkinlikte bulunmuştur. 9 serotiple ilgili bağışıklık yanıtları yaşa bağlıdır ve 50-59 yaşındaki erişkinlerde 60-64 yaşındaki erişkinlere kıyasla istatistiksel olarak anlamlı ölçüde daha fazladır.
+
+Tek doz PREVENAR 13 alan 50 yaş ve üstü yetişkinlerde 6A serotip için OPA titreleri tek doz PPSV23 alan 60 yaş ve üstü yetişkinlere nazaran anlamlı ölçüde daha fazladır.
 
 ### Daha önce PPSV23 ile aşılanmış erişkinlerde gerçekleştirilen klinik çalışmalar
 
-[okunamadı]
+PREVENAR 13 ve 23-valanlı pnömokokal polisakkarid aşısına alınan bağışıklık yanıtları çalışmaya katılmadan en az 5 yıl önce tek doz pnömokokal polisakkarid aşısı olan 70 yaş ve üstü erişkinlerde birebir kafa kafaya karşılaştırma çalışmasında karşılaştırılmıştır.
+
+Klinik çalışma başlamadan en az 5 yıl önce pnömokokal polisakkarid aşısı olmuş erişkinlerde 12 ortak serotip için PREVENAR 13 ile elde edilen OPA GMT değerleri 23-valan pnömokokal polisakkarid aşısı ile elde edilen değerlere eşdeğerdir. Ayrıca, bu çalışmada 12 ortak serotipin 10'unda OPA GMT değerlerinin istatistiksel olarak anlamlı ölçüde daha fazla olduğu belirlenmiştir. PREVENAR 13 ile aşılandıktan sonra serotip 6A'ya alınan bağışıklık yanıtları 23-valan pnömokokal polisakkarid aşısına göre istatistiksel olarak anlamlı ölçüde daha fazladır.
+
+Klinik çalışma başlamadan en az 5 yıl önce 23-valan pnömokokal polisakkarid aşısı olmuş 70 yaş ve üstü erişkinlerde PREVENAR 13 aşısı yapıldıktan bir yıl sonra OPA titreleri aşılamadan bir ay sonrasına göre düşmüş olsa da tüm serotiplerde OPA titreleri başlangıç düzeylerine göre yüksek olmaya devam etmiştir.
 
 ### PPSV23 ile aşılanmamış erişkinlerde art arda PREVENAR 13 ve PPSV23 aşılaması klinik çalışması
 
-[okunamadı]
+Yaşları 60 ila 64 arasında değişkenlik gösteren PPSV23 ile aşılanmamış erişkinlerde gerçekleştirilen randomize bir klinik çalışmada (Çalışma 3), 223 kişiye önce PPSV23 ve bir sene sonra da PREVENAR 13 (PPSV23/PREVENAR 13) ve 478 kişiye sadece PREVENAR 13 verilmiştir. OPA antikor titreleri PREVENAR 13 aşılamasından 1 ay sonra ölçülmüştür.
+
+PPSV23’ten bir sene sonra PREVENAR 13 ile aşılananlarda OPA GMT’ler, sadece PREVENAR 13 ile aşılananlarla karşılaştırıldığında azalmıştır. Buna benzer olarak, Çalışma 2’de önceden PPSV23 ile aşılanmış ≥70 yaşındaki erişkinlerde yapılan araştırma amaçlı analizlerde, sadece PREVENAR 13 ile aşılananlarla karşılaştırıldığında PPSV23’ten bir yıl sonra PREVENAR 13 ile aşılanmada OPA GMT’lerin azaldığı gözlenmiştir.
+
+Ayrıca Çalışma 3’te, 266 kişi PREVENAR 13 ve bir yıl sonrasında PPSV23 ile aşılanmıştır (PREVENAR 13/PPSV23). PREVENAR 13’ten bir yıl sonra uygulanan PPSV23’ün ardından OPA antikor GMT’leri (PREVENAR 13/PPSV23), 12 ortak serotip için PPSV23 tek dozundan (N=237) sonrakilere düşük bulunmamıştır [GMT oranı (PPSV23’ye göre PREVENAR 13/PPSV23) için %95 GA alt limiti >0,5 olmuştur]. Yaşları 60 ila 64 arasında değişen PPSV23 ile aşılanmamış erişkinlerde gerçekleştirilen Çalışma 1’de, 108 kişiye PPSV23’ten 3,5 ila 4 yıl sonra PPSV23 verilmiş (PREVENAR 13/PPSV23) ve 414 kişiye tek doz PPSV23 verilmiştir. Çalışma 3’teki bir yıllık doz uygulama süresiyle karşılaştırıldığında genel olarak serotipe özgü daha yüksek OPA GMT oranları [(PREVENAR 13/PPSV23)/PPSV23] gözlenmiştir. [?]
 
 ### PPSV23 ile aşılanmamış erişkinlerde mevsimsel üç valanlı influenza aşısı (TIV) ile eş zamanlı uygulanmış PREVENAR 13'ü değerlendirme klinik çalışmaları
 
-[okunamadı]
+İki randomize, çift kör klinik çalışma; yaşları 50 ila 59 arasında değişen PPSV23 aşılanmamış erişkinlerde (ABD’de gerçekleştirilen Çalışma 5) ve ≥65 yaşındaki erişkinlerde (Avrupa’da gerçekleştirilen Çalışma 6) inaktif TIV (Sonbahar 2007/Bahar 2008 TIV, A/H1N1, A/H3N2 ve B suşları) ile eş zamanlı uygulanan PREVENAR 13’ün immünojenisitesini değerlendirmiştir.
+
+Her bir klinik çalışmada, bir gruba aynı anda PREVENAR 13 ve TIV ve bunun ardından yaklaşık bir ay sonra plasebo verilmiştir. Diğer gruba, aynı anda TIV ve plasebo ve yaklaşık bir ay sonra da PREVENAR 13 verilmiştir.
+
+TIV tarafından oluşturulan antikor yanıtları, TIV aşılamasından bir ay sonra hemaglütinasyon inhibisyon tayini (HAI) yoluyla ölçülmüştür. Her TIV suşu için HAI titresinde ≥4 kat artış görülen (yanıt veren) olguların oranı, aşılamadan 1 ay sonra değerlendirilmiştir. İki grup arasındaki (eşlik eden eksi (TIV+Plasebo)) yanıt verenlerin oranlarındaki farklılık için %95 GA alt limiti -%10’dan daha fazlaysa, her bir TIV aşı antijeni için daha düşük olmadığı gösterilmiştir.
+
+Yaşları 50 ila 59 arasında değişen olgularda, sadece TIV ile karşılaştırıldığında TIV ile eş zamanlı uygulanan PREVENAR 13’ten sonra 3 TIV suşunun her biri için daha düşük olmadığı gösterilmiştir.
+
+≥65 yaşındaki olgularda, A/H1N1 ve B-suşları için daha düşük olmadığı gösterilirken -%10,4 değerinde %95 GA alt limiti olan A/H3N2 için gösterilmemiştir.
+
+Çalışmalar ayrıca, sadece PREVENAR 13 uygulamasına kıyasla PREVENAR 13’ün TIV ile eş zamanlı uygulanması durumunda PREVENAR 13 antikor yanıtlarını değerlendirmiştir. Antipolisakkarid bağlayıcı antikor yanıtları (IgG), bir olgu alt grubunda PREVENAR 13 aşılamasından bir ay sonra ELISA IgG ile ölçülmüştür. IgG GMC oranları için 2 yönlü %95 GA alt limitinin (Sadece PREVENAR 13’e göre PREVENAR 13 + TIV) >0,5 olması halinde, daha düşük olmadığı gösterilmiştir. Bir post-hoc analizde, OPA antikor yanıtları aynı kriterler kullanılarak değerlendirilmiştir.
+
+Yaşları 50 ila 59 arasında değişen olgularda ELISA ile ölçülen PREVENAR 13 IgG antikor yanıtları, sadece PREVENAR 13 uygulaması ile karşılaştırıldığında TIV ile eş zamanlı uygulanan PREVENAR 13’ten sonra 13 serotipin tamamı için daha düşük olmamıştır ve OPA GMT oranlarındaki bu durum, 13 serotipten 8’i için de gözlenmiştir.
+
+≥65 yaşındaki olgularda ELISA ile ölçülen PREVENAR 13 IgG antikor yanıtları, sadece PREVENAR 13 uygulaması ile karşılaştırıldığında TIV ile eş zamanlı uygulanan PREVENAR 13’ten sonra 13 serotipten 12’si için eşit veya daha fazla olmuştur ve OPA GMT oranlarının eşit veya fazla oluşu, 13 serotipten 10’u için de gözlenmiştir.
 
 ### Özel popülasyonlar ile ilgili ek bilgi
 
@@ -1061,21 +1584,88 @@ Aşağıda belirtilen hastalıklara sahip kişilerde pnömokokal hastalığı ri
 
 ### Orak hücreli anemi hastalığı
 
-[okunamadı]
+Çalışmaya alınmadan en az 6 ay öncesinde bir veya iki doz 23-valan pnömokokal polisakkarid aşısı olmuş, yaşları 6 ile 18 yaş arasında değişen orak hücreli anemisi olan 158 çocuk ve adölesana 6 ay arayla 2 doz PREVENAR 13 aşısının uygulandığı bir açık etiketli tek kollu çalışma Fransa, İtalya, İngiltere, ABD, Lübnan, Mısır ve Suudi Arabistan'da yürütülmüştür. İlk aşılamadan sonra PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci dozdan sonraki bağışıklık yanıtları birinci dozdan sonraki yanıtlara benzerdir. İkinci dozdan bir yıl sonra hem IgG GMC hem de OPA GMT ile ölçülen antikor düzeyleri sayısal olarak aynı olan serotip 3 ve 5 dışında ilk PREVENAR 13 dozundan önceki düzeylerden yüksektir.
 
 ### HIV enfeksiyonu
 
 ### Daha önce pnömokokal aşısı olmamış çocuklar ve erişkinler
 
-[okunamadı]
+CD4 ≥ 200 hücre/mikrolitre (ortalama 717,0 hücre/mikrolitre), viral yükü <50,000 kopya/mL (ortalama 2090,0 kopya/mL) olan, AIDS'e bağlı hastalığı olmayan ve daha önce bir pnömokokal aşısı olmamış HIV ile enfekte çocuklar ve erişkinlere 1 ay arayla 3 doz PREVENAR 13 uygulanmıştır. Genel tavsiyeler uyarınca, bu aşılamanın ardından tek doz 23-valanlı pnömokokal polisakkarid aşısı yapılmıştır. Her aşı dozundan yaklaşık 1 ay sonra 259-270 değerlendirilebilir deneğin bağışıklık yanıtları değerlendirilmiştir. İlk dozdan sonra, PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci ve üçüncü doz PREVENAR 13'ten sonra bağışıklık yanıtları ilk dozdan sonraki yanıtlara benzer ya da daha yüksektir.
 
 ### Daha önce 23-valanlı pnömokokal polisakkarid aşısı ile aşılanmış erişkinler
 
-[okunamadı]
+HIV ile enfekte, CD4 ≥ 200 hücre/mikrolitre (ortalama 609,1 hücre/mikrolitre), viral yükü <50,000 kopya/mL (ortalama 330,6 kopya/mL) olan, AIDS'e bağlı hastalığı olmayan ve çalışmaya alınmadan en az 6 ay önce 23-valan pnömokokal polisakkarid aşısı ile aşılanmış 18 yaş ve üstü erişkinlere kayıt anında ve ilk dozdan 6 ay ve 12 ay sonra olmak üzere toplamda 3 doz PREVENAR 13 aşısı uygulanmıştır. Her PREVENAR [kesik]
 
 _[sağ sütun]_
 
 [okunamadı]
+
+### 5.3 Klinik öncesi güvenlilik verileri
+
+Güvenlilik farmakolojisi, tekrarlanan doz toksisitesi, [kesik]
+PREVENAR 13'ün temsili aşı formülasyonu ile yapı[kesik]
+
+### 6. FARMASÖTİK ÖZELLİKLER
+
+### 6.1 Yardımcı maddelerin listesi
+
+Alüminyum fosfat süspansiyonu  
+Sodyum klorür  
+Süksinik asit  
+Polisorbat 80 (E433)  
+Enjeksiyonluk su
+
+Adsorban için Bölüm 2'ye bakınız.
+
+### 6.2 Geçimsizlikler
+
+Geçimlilik çalışmaları bulunmadığından, bu tıbbi [kesik]
+
+### 6.3 Raf ömrü
+
+36 ay
+
+### 6.4 Saklamaya yönelik özel tedbirler
+
+2°C - 8°C'de (buzdolabında) saklanmalıdır.  
+Dondurulmamalıdır. Aşı donmuş ise çözüp kulla[kesik]
+
+### 6.5 Ambalajın niteliği ve içeriği
+
+Piston tıpası (latekssiz klorobutil lastik) ve koruy[kesik]
+içinde enjeksiyonluk 0,5 mL süspansiyon (iğneli [kesik]
+Tüm ticari şekiller piyasada bulunmayabilir.
+
+### 6.6. Beşeri tıbbi üründen arta kalan maddel[kesik]
+
+Saklama sırasında, beyaz bir tortu ve berrak bir [kesik]
+
+Aşı, şırıngadan hava çıkarmadan önce homojen [kesik]
+görünümünün değişimi ve/veya herhangi bir p[kesik]
+halinde kullanmayınız.
+
+Kullanılmamış olan ürünler ya da atık matery[kesik]
+olarak imha edilmelidir.
+
+### 7. RUHSAT SAHİBİ
+
+Pfizer PFE İlaçları A.Ş.
+Esentepe Mah. Büyükdere Cad.
+Levent 199 Blok No: 199 İç Kapı No: 106
+Şişli / İstanbul
+
+### 8. RUHSAT NUMARASI
+
+2[kesik]
+
+### 9. İLK RUHSAT TARİHİ/RUHSAT YEN[kesik]
+
+İlk ruhsat tarihi: 07.11.2012
+Ruhsat yenileme tarihi: 09.10.2015
+
+### 10. KÜB’ÜN YENİLENME TARİHİ
+
+13.05.2022
 
 ### Notlar
 
@@ -1084,11 +1674,11 @@ _[sağ sütun]_
 # Prevenar 13 — kısa ürün bilgisi, fotoğraf 8
 _Kaynak: prevenar13-y8 — HIV enfeksiyonu → KÜB'ÜN YENİLENME TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-[okunamadı]
+13 dozundan yaklaşık 1 ay sonra 231-255 değerlendirilebilir deneğin bağışıklık yanıtları incelenmiştir. İlk dozdan sonra, PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci ve üçüncü doz PREVENAR 13'ten sonra bağışıklık yanıtları ilk dozdan sonraki yanıtlara benzer ya da daha yüksektir. Çalışmada, 162 denek daha önce bir doz 23-valan pnömokokal polisakkarid aşısı, 143 denek daha önce 2 doz ve 26 denek ise daha önce 2'den fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuştur. Daha önce iki veya daha fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuş deneklerde daha önce tek doz aşı olmuş deneklere benzer bağışıklık yanıtı alınmıştır.
 
 ### Hematopoietik kök hücre nakli
 
-[okunamadı]
+2 yaşında ya da sonra allojenik hematopoietik kök hücre nakli (HSCT) olmuş ve altta yatan hastalığı hematolojik olarak tamamen gerileyen ya da lenfoma ve miyelom durumunda kısmi de olsa çok iyi gerileme görülen çocuklar ve erişkinlere dozlar arasında en az 1 ay ara verilerek üç doz PREVENAR 13 uygulanmıştır. İlk doz HSCT'den 3 ile 6 ay sonra uygulanmıştır. Üçüncü dozdan 6 ay sonra dördüncü PREVENAR 13 (rapel) dozu uygulanmıştır. Genel tavsiyeler uyarınca, dördüncü PREVENAR 13 dozundan bir ay sonra tek doz 23-valanlı pnömokokal polisakkarid aşısı yapılmıştır. Aşılamadan yaklaşık bir ay sonra 168-211 değerlendirilebilir deneğin bağışıklık yanıtı IgG GMC testi ile ölçülmüştür. Her PREVENAR 13 dozundan sonra PREVENAR 13 antikor düzeylerinde artışa neden olmuştur. Dördüncü doz PREVENAR 13 uygulandıktan sonra bağışıklık yanıtları üçüncü doza göre tüm serotipler için anlamlı ölçüde artmıştır. Bu çalışmada fonksiyonel antikor (OPA) titreleri ölçülmemiştir.
 
 ### 5.2. Farmakokinetik özellikler
 
@@ -1183,8 +1773,8 @@ _(foto: hexaxim-y1)_
 
 Bir doz¹ (0,5 mL) aşağıdakileri içerir:
 
-- Difteri Toksoidi ................................................ en az 20 IU²˒⁴ (30 Lf)
-- Tetanoz Toksoidi ............................................... en az 40 IU³˒⁴ (10 Lf)
+- Difteri Toksoidi ................................................ en az 20 IU²˒⁴[?] (30 Lf)
+- Tetanoz Toksoidi ............................................... en az 40 IU³˒⁴[?] (10 Lf)
 - *Bordetella pertussis* antijenleri
   - Boğmaca Toksoidi ........................................... 25 mikrogram
   - Filamentöz Hemaglutinin .................................. 25 mikrogram
@@ -1195,7 +1785,7 @@ Bir doz¹ (0,5 mL) aşağıdakileri içerir:
 - Hepatit B yüzey antijeni⁷ .................................... 10 mikrogram
 - *Haemophilus influenzae* tip b polisakkarid ........ 12 mikrogram
   (Poliribosilribitol Fosfat)
-- Tetanoz proteinine konjuge edilmiş olarak ............ 22-36 mikrogram
+- Tetanoz proteinine konjuge edilmiş olarak ............ 22-36[?] mikrogram
 
 ¹ Alüminyum hidroksit üzerine adsorbe edilmiş, hidrate (0,6 mg Al³⁺)
 
@@ -1357,11 +1947,11 @@ HEXAXIM, aşıların kullanımı konusunda eğitimli ve enjeksiyona karşı geli
 
 Önerilen doz şu şekildedir:
 
-İlk aşılama serisi (primer aşılama)
+<u>İlk aşılama serisi (primer aşılama)</u>
 
 Çocuğunuza, bir-iki aylık aralıklarla (en az dört hafta arayla) üç enjeksiyon uygulanacaktır. Bu aşı resmi aşılama programına uygun olarak kullanılmalıdır.
 
-Ek enjeksiyonlar (pekiştirici [rapel] doz)
+<u>Ek enjeksiyonlar (pekiştirici [rapel] doz)</u>
 
 İlk enjeksiyon serisinden sonra, resmi tavsiyelere uygun olarak, ilk serinin son dozundan en az 6 ay sonra, çocuğunuza pekiştirici bir doz (rapel doz) uygulanacaktır. Doktorunuz bu dozun ne zaman uygulanması gerektiği konusunda bilgi verecektir.
 
@@ -1424,7 +2014,7 @@ Yan etkiler aşağıda belirtilen kategorilere göre sıralandırılmıştır:
 | Çok seyrek | 10.000 hastanın birinden azında görülebilir |
 | Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
 
-**Çocuğunuza enjeksiyonun uygulanmasından sonra aşağıdakilerden biri olursa, HEXAXIM'i kullanmayı durdurunuz ve DERHAL doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
+**Çocuğunuza enjeksiyonun uygulandıktan sonra aşağıdakilerden biri olursa, HEXAXIM'i kullanmayı durdurunuz ve DERHAL doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
 
 - Nefes alma güçlüğü
 - Dil ya da dudakların mavi renk alması
@@ -1528,9 +2118,9 @@ _(foto: hexaxim-y5)_
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): “renginin soluk, gevşek olduğu”.
-- Belirsiz okumalar: Fotoğrafların düşük çözünürlüğü ve kat yerleri nedeniyle özellikle ilk sütundaki etkin madde miktarları ve bazı noktalama işaretleri eski karşılaştırma metniyle birlikte değerlendirilmiştir.
-- Eksik/kesik bölümler: Ana bölümler fotoğraflarda görülmektedir; görsellerdeki örtüşmeler tek kez aktarılmıştır.
+- Basılı anlatım hataları (aynen korunanlar): “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
+- Belirsiz okumalar: Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net değildir; ilgili yerlere [?] eklenmiştir. Diğer miktarlar yalnız kaynak fotoğraftan okunmaya çalışılmıştır.
+- Fotoğraflardaki örtüşen metinler bir kez aktarılmıştır.
 
 ---
 
@@ -1711,13 +2301,13 @@ Steril
 - Yardımcı maddeler: sükroz, sodyum glutamat, sodyum klorür, potasyum klorür, disodyum hidrojen fosfat dodekahidrat ve potasyum dihidrojen fosfattır.
 - Çözücü: Enjeksiyonluk su
 
-Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.
+**Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.**
 
-- Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
-- Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
-- Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
-- Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde, doktorunuza bu aşıyı kullandığınızı söyleyiniz.
-- Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
+- *Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.*
+- *Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.*
+- *Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.*
+- *Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde, doktorunuza bu aşıyı kullandığınızı söyleyiniz.*
+- *Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.*
 
 ### Bu Kullanma Talimatında:
 1. Canlı Suçiçeği Aşısı nedir ve ne için kullanılır?
@@ -1751,13 +2341,13 @@ _[sağ sütun]_
 Aşı virüsünün bulaşması nadiren gerçekleşebilir. Canlı Suçiçeği Aşısı ile aşılanmış bireyler, özellikle aşılamadan 2 veya 3 hafta sonra suçiçeği benzeri döküntü geliştirenler, mümkün olduğunca hamile kadınlarla (özellikle hamileliğin ilk üç ayı boyunca), şiddetli suçiçeğine duyarlı lösemi hastalarıyla ve bağışıklık sistemini baskılayıcı tedavi gören bireylerle yakın temastan kaçınmaya çalışmalıdır.
 
 ### Hamilelik
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 - Canlı Suçiçeği Aşısı, hamile kadınlara veya önümüzdeki 3 ay içinde hamile kalmayı planlayan doğurgan kadınlara uygulanmamalıdır.
 
-Aşılama döneminde hamile olduğunuzu farkederseniz hemen doktorunuza veya eczacınıza danışınız.
+*Aşılama döneminde hamile olduğunuzu farkederseniz hemen doktorunuza veya eczacınıza danışınız.*
 
 ### Emzirme
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 - Canlı zayıflatılmış suçiçeği virüsünün insan sütüne geçip geçmediği bilinmemektedir. Tedbir olarak, emzirme döneminde Canlı Suçiçeği Aşısı ile aşılamadan kaçınmak tercih edilmelidir.
 
 ### Araç ve makine kullanımı
@@ -1785,7 +2375,7 @@ Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ### Notlar
 - Son cümle fotoğrafın alt kenarında kesilmektedir.
-- Etkin madde miktarındaki “lg” karakterleri görüntüde küçüktür.
+- Etkin madde miktarı fotoğraftaki “3.3 lg PFU” yazımıyla aktarılmıştır.
 
 ---
 
@@ -1793,7 +2383,7 @@ _(Fotoğraf 2: sucicegi-y2 — Fazla doz devamı → Sağlık personeli için bi
 
 sağlık uzmanı tarafından uygulandığından, fazla miktarda verilmesi çok düşük ihtimaldir.
 
-Canlı Suçiçeği Aşısı'ndan kullanmanız gerekenden fazlasını kullanmışsanız, bir doktor veya eczacı ile konuşunuz.
+*Canlı Suçiçeği Aşısı'ndan kullanmanız gerekenden fazlasını kullanmışsanız, bir doktor veya eczacı ile konuşunuz.*
 
 ## 4. Olası yan etkiler nelerdir?
 Tüm ilaçlar ve aşılar gibi, bu aşı da yan etkilere neden olabilir, ancak bu etkiler herkeste görülmez.
@@ -2102,7 +2692,7 @@ Sulandırıcıyla birlikte sağlanan liyofilize aşı
 
 10 flakon içeren kutu ve 10 ampul içeren kutu
 
-Alt Ambalajı: Amber renkli tubuler Tip I flakon, 16 x 35 mm flakon, 13 mm oluklu, Gri Bromobütil Kauçuk Tıpa ve 13 mm Flip off Alüminyum Kapak.
+Aşı Ambalajı: Amber renkli tubuler Tip I flakon, 16 x 35 mm flakon, 13 mm oluklu, Gri Bromobütil Kauçuk Tıpa ve 13 mm Flip off Alüminyum Kapak.
 
 Sulandırıcı Ambalajı: Şeffaf, transparan, OPC Tip I Cam Ampul.
 
@@ -2154,13 +2744,13 @@ _(foto: kkk-y3)_
 
 ## 10. KÜB’ÜN REVİZYON TARİHİ:
 
-_[Bu bölüm fotoğraflarda yok]_
+_[Revizyon tarihi fotoğrafta belirtilmemiş]_
 
 ## Aktarım notları
 
 - Basılı yazım hataları (aynen korunanlar): “yada”, “malin”, “0,5 ml) ı”, “Gurup”.
-- Belirsiz okumalar: Yok olarak işaretlendi.
-- Eksik/kesik bölümler: 10. bölümün başlığı görülüyor, tarihi görünmüyor. Fosforlu kalem işaretleri aktarılmadı.
+- Belirsiz okumalar: İşaretlenmiş belirsiz okuma yok.
+- Eksik/kesik bölümler: 10. bölümün başlığı ve altındaki boş alan görülüyor; tarih belirtilmemiş. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
 
 ---
 
@@ -2191,7 +2781,7 @@ Pediatrik kullanım için her 0,5 mL doz içeriği:
 
 | Bileşen | Miktar |
 |---|---:|
-| İnaktive HAV antijeni (TZ84 suşu)¹ ² | 250 u¹ |
+| İnaktive HAV antijeni (TZ84 suşu)¹ ² | 250 u³ |
 
 ¹ İnsan diploid (2BS) hücrelerinde üretilmiştir.  
 ² Alüminyum hidrokside adsorbe edilmiştir.  
@@ -2290,7 +2880,7 @@ Yaygın olmayan: Baş ağrısı
 
 ### Notlar
 
-- Baskı hataları: Görselde “İnsan diploid (2BS)” ve “250 u¹” şeklinde basılmış; dipnot numarası ve birim işareti görüntüde küçük olduğundan kaynak görünüşü korunmuştur.
+- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
 - Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
 - Kesik yer: Sol sütunun son satırı “akut atak” ile fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında görünür.
 
@@ -2814,13 +3404,13 @@ Tetanoz toksoidi: ≥ 5 Lf (≥ 40 IU ) bulunur.
 Yardımcı maddeler:  
 Alüminyum fosfat, tiyomersal, sodyum asetat, sodyum klorür, enjeksiyonluk su.
 
-> Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.
+> **Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.**
 >
-> - Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
-> - Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
-> - Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
-> - Bu aşının kullanımı sırasında, doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.
-> - Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
+> - *Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.*
+> - *Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.*
+> - *Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.*
+> - *Bu aşının kullanımı sırasında, doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.*
+> - *Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.*
 
 ### Bu Kullanma Talimatında;
 1. Td-VAC nedir ve ne için kullanılır?
@@ -2836,7 +3426,7 @@ Td-VAC bir aşıdır.
 
 1 mL'lik saydam, kırılabilir ampul içerisinde 0,5 mL süspansiyon (katı-sıvı karışımı) halinde ve her pakette bir ampul veya 10 ampul olacak şekilde takdim edilmektedir.
 
-Td-VAC difteri ve tetanozdan korunma sağlamaya yardımcı olur. Difteri, Corynebacterium diphteriae isimli mikroorganizmanın boğaz, burun, göz ve derideki yaralarda yerleşmesiyle ortaya çıkan bulaşıcı bir hastalıktır. Tetanoz ise bakterilerin yol açtığı ciddi ve ölümcül olabilen bir hastalıktır. Hastalığa yakalanan kişilerde yaralanma bölgesinde sadece ağrı olmasına karşın çene ve boyunda şişmeler ile çevre kaslarda kasılmalar ortaya çıkar. Boyun bölgesindeki kasılma yüz kaslarını da etkiler, kasılmanın ilerlemesiyle özellikle çenede olmak üzere boyun, karın ve sırt kaslarında sertleşme meydana gelir. Çene kilitlenmesi meydana gelebilir, bu da kişinin ağzını açamamasına ya da yutkunamamasına sebep olur. Sonunda kişinin solunumunu engelleyen ve solunum sisteminde en küçük uyarılarla bile ortaya çıkabilen ağrılı konvülsiyonlar (istemdışı hareketler) ortaya çıkar.
+Td-VAC difteri ve tetanozdan korunma sağlamaya yardımcı olur. Difteri, *Corynebacterium diphteriae* isimli mikroorganizmanın boğaz, burun, göz ve derideki yaralarda yerleşmesiyle ortaya çıkan bulaşıcı bir hastalıktır. Tetanoz ise bakterilerin yol açtığı ciddi ve ölümcül olabilen bir hastalıktır. Hastalığa yakalanan kişilerde yaralanma bölgesinde sadece ağrı olmasına karşın çene ve boyunda şişmeler ile çevre kaslarda kasılmalar ortaya çıkar. Boyun bölgesindeki kasılma yüz kaslarını da etkiler, kasılmanın ilerlemesiyle özellikle çenede olmak üzere boyun, karın ve sırt kaslarında sertleşme meydana gelir. Çene kilitlenmesi meydana gelebilir, bu da kişinin ağzını açamamasına ya da yutkunamamasına sebep olur. Sonunda kişinin solunumunu engelleyen ve solunum sisteminde en küçük uyarılarla bile ortaya çıkabilen ağrılı konvülsiyonlar (istemdışı hareketler) ortaya çıkar.
 
 Td-VAC uygulaması ile vücudunuz bu mikroorganizmalar tarafından üretilen proteinlerin az bir miktarına maruz kalmakta ve böylece tetanoz ve difteri hastalığına karşı sizde bağışık gelişmektedir.
 
@@ -2866,14 +3456,14 @@ Bu uyarılar, geçmişteki herhangi bir dönemde dahi olsa sizin için geçerliy
 Uygulama yöntemi açısından yiyecek ve içecek ile etkileşimi yoktur.
 
 ### Hamilelik
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 
 Td-VAC hamile kadınlarda güvenle kullanılabilir.
 
-Aşılama döneminde hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.
+*Aşılama döneminde hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.*
 
 ### Emzirme
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 
 Td-VAC uygulaması emzirme döneminde risk oluşturmaz.
 
@@ -2890,7 +3480,7 @@ Diğer aşılarla birlikte kullanıldığında farklı enjektör ve enjeksiyon b
 
 Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma aşısı, Haemophilus influenzae tip b ve Su çiçeği aşıları ile eş zamanlı olarak, etkin ve güvenli bir şekilde kullanılabilir.
 
-Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.
+*Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.*
 
 ### Notlar
 - Ürün adının bulunduğu satır görüntüde beyaz alanla örtülüdür.
@@ -2923,13 +3513,13 @@ Karaciğer yetmezliği: Td-VAC'ın karaciğer yetmezliği olan hastalardaki güv
 
 İnsan İmmün Yetmezlik Virüsü (HIV) Enfeksiyonu: Td-VAC, HIV enfeksiyonu olan ya da olduğundan şüphelenilen yetişkinlerde ve ergenlerde kullanılabilir. Bu konudaki veriler sınırlıdır. Belirti göstererek ya da göstermeksizin HIV mikrobu taşıyan ergenlerde ve çocuklarda, aşının kullanımına bağlı olarak istenmeyen reaksiyonlarda artış olduğuna dair bir kanıt bulunmamaktadır.
 
-Eğer Td-VAC'ın etkisinin çok güçlü veya zayıf olduğuna dair bir izleniminiz var ise doktorunuz veya eczacınız ile konuşunuz.
+*Eğer Td-VAC'ın etkisinin çok güçlü veya zayıf olduğuna dair bir izleniminiz var ise doktorunuz veya eczacınız ile konuşunuz.*
 
 ### Kullanmanız gerekenden daha fazla Td-VAC kullandıysanız:
-Td-VAC'tan kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.
+*Td-VAC'tan kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.*
 
 ### Td-VAC'ı kullanmayı unutursanız
-Unutulan dozları dengelemek için çift doz almayınız.
+*Unutulan dozları dengelemek için çift doz almayınız.*
 
 Doktorunuz atlanan dozun ne zaman uygulanacağına karar verecektir. Takip eden dozlara ilişkin olarak yeni uygulama zamanı için doktorunuzun talimatlarına uymanız önemlidir.
 
@@ -2958,23 +3548,23 @@ Yaygın : Baş ağrısı (%2), halsizlik (%2), ateş yükselmesi (%2)
 ### Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
 Çok yaygın : Enjeksiyon bölgesinde bölgesel tepkiler (bunların %19’u deri üzerinde kızarıklık oluşması, sertlik ve hassasiyeti kapsar)
 
-Pazarlama sonrası raporlar ve/veya vaka raporları: Alerjik reaksiyonlar (yüz ödemi, kaşıntı, döküntü, kurdeşen); ani aşırı duyarlılık tepkileri, eklem ağrısı, üşüme, havale, baş dönmesi, sersemlik, yorgunluk, ateş; enjeksiyon bölgesinde tepkiler (deri altı yangısı, nodüller, kızarıklık, şişkinlik, sıcaklık); boyun, koltuk altı veya kasık bölgelerindeki bezlerde şişkinlik oluşması (lenfadenopati), kas-iskelet sertliği, kas ağrısı, bulantı, ağrı, uyuşma, çevresel ödem, bayılma, kusma, halsizlik. Tetanoz toksoidi içeren aşıların uygulanması ile Guillain-Barré sendromu (viral enfeksiyon sonrası gelişen bir rahatsızlık.) ve brakiyal nörit (kolda ve omuzda hareket kaybı, ağrı ve uyuşukluk) gelişebilir.
+**Pazarlama sonrası raporlar ve/veya vaka raporları:** Alerjik reaksiyonlar (yüz ödemi, kaşıntı, döküntü, kurdeşen); ani aşırı duyarlılık tepkileri, eklem ağrısı, üşüme, havale, baş dönmesi, sersemlik, yorgunluk, ateş; enjeksiyon bölgesinde tepkiler (deri altı yangısı, nodüller, kızarıklık, şişkinlik, sıcaklık); boyun, koltuk altı veya kasık bölgelerindeki bezlerde şişkinlik oluşması (lenfadenopati), kas-iskelet sertliği, kas ağrısı, bulantı, ağrı, uyuşma, çevresel ödem, bayılma, kusma, halsizlik. Tetanoz toksoidi içeren aşıların uygulanması ile Guillain-Barré sendromu (viral enfeksiyon sonrası gelişen bir rahatsızlık.) ve brakiyal nörit (kolda ve omuzda hareket kaybı, ağrı ve uyuşukluk) gelişebilir.
 
-Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız doktorunuzu veya eczacınızı bilgilendiriniz.
+*Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız doktorunuzu veya eczacınızı bilgilendiriniz.*
 
 ### Yan etkilerin raporlanması
 Kullanma Talimatında yer alan veya almayan herhangi bir yan etki meydana gelmesi durumunda hekiminiz, eczacınız veya hemşireniz ile konuşunuz. Ayrıca karşılaştığınız yan etkileri www.titck.gov.tr sitesinde yer alan “İlaç Yan Etki Bildirimi” ikonuna tıklayarak ya da 0 800 314 00 08 numaralı yan etki bildirim hattını arayarak Türkiye Farmakovijilans Merkezi (TÜFAM) ’ne bildiriniz. Meydana gelen yan etkileri bildirerek kullanmakta olduğunuz ilacın güvenliliği hakkında daha fazla bilgi edinilmesine katkı sağlamış olacaksınız.
 
 ## 5. Td-VAC'ın saklanması
-Td-VAC'ı çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.
+*Td-VAC'ı çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.*
 
 Aşıyı 2°C – 8°C arasında (buzdolabında) ışıktan koruyarak saklayınız.
 
-Aşı kesinlikle dondurulmamalıdır. Aşı donmuş ise çözüp kullanmayınız.
+**Aşı kesinlikle dondurulmamalıdır. Aşı donmuş ise çözüp kullanmayınız.**
 
-Son kullanma tarihiyle uyumlu olarak kullanınız.
+**Son kullanma tarihiyle uyumlu olarak kullanınız.**
 
-Ambalajdaki son kullanma tarihinden sonra Td-VAC'ı kullanmayınız / son kullanma tarihinden önce kullanınız.
+*Ambalajdaki son kullanma tarihinden sonra Td-VAC'ı kullanmayınız / son kullanma tarihinden önce kullanınız.*
 
 “Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre ve Şehircilik Bakanlığınca belirlenen toplama sistemine veriniz.”
 
@@ -2984,7 +3574,7 @@ Ruhsat sahibi: Keymen İlaç San. Ve Tic. A.Ş.
 Üretim yeri: Serum Institute of India Pvt. Ltd.  
 Hadapsar/ Pune /Hindistan
 
-Bu kullanma talimatı 27/12/2017'de onaylanmıştır.
+*Bu kullanma talimatı 27/12/2017'de onaylanmıştır.*
 
 > ### AŞAĞIDAKİ BİLGİLER BU AŞIYI UYGULAYACAK OLAN SAĞLIK PERSONELİ İÇİNDİR.
 > - Td-VAC, 7 yaş ve üzerindeki çocuklarda, adölesanlar ve yetişkinlerde deltoid kası içerisine intramüsküler olarak enjekte edilmelidir.
@@ -3392,7 +3982,7 @@ Konjuge Meningokokal (A,C,Y,W-135,X) Polisakkarit Aşısı (Liyofilize)
 
 ## 2. KALİTATİF VE KANTİTATİF BİLEŞİM
 
-Her dozu (0,5 ml) şunları içerir:
+Her dozu (0.5 ml) şunları içerir:
 
 Her Meningokokal A, C, Y, W ve X polisakkaritinin 5 µg’ı taşıyıcı bir proteine ayrı ayrı konjuge edilmiştir. Serogrup A ve X polisakkaritleri saflaştırılmış tetanos toksoidine (TT) konjuge edilmiştir ve serogrup C, W ve Y polisakkaritleri rekombinant CRM197 (çapraz reaktif materyal 197, difteri toksininin toksik olmayan bir mutantı) proteinine konjuge edilmiştir.
 
@@ -3474,11 +4064,39 @@ MenFive ile aşılamanın ardından anti-tetanos toksoidi ve anti-difteri antiko
 
 ### 4.5. Diğer Tıbbi Ürünlerle Etkileşim ve Diğer Etkileşim Biçimleri
 
-MenFive’ın kızamık, kızamıkçık ve sarı humma gibi diğer eş zamanlı rutin GUP aşılarıyla birlikte güvenli[ kesik]
+MenFive’ın kızamık, kızamıkçık ve sarı humma gibi diğer eş zamanlı rutin GUP aşılarıyla birlikte güvenliği[?]
 
 _[sağ sütun]_
 
-[okunamadı]
+aydan 85 yaşına kadar olan katılımcılara uygulana[kesik]
+adjuvansız formülasyondu).
+
+Advers ilaç reaksiyonları
+
+Advers ilaç reaksiyonları (AİR’ler) MedDRA Sistem[kesik]
+tercih edilen terimler azalan sıklığa ve ardından azalan[kesik]
+sıklıkları şu şekilde tanımlanır: çok yaygın (≥ 1/10)[kesik]
+ila < 1/100); nadir (≥ 1/10.000 ila < 1/1000); çok na[kesik]
+edilemiyor).
+
+Tablo 2: Advers ilaç reaksiyonları
+
+| MedDRA SOS | Sıklık |
+|---|---|
+| Sinir sistemi bozuklukları | Çok yaygın |
+|  | Yaygın |
+|  | Yaygın olmayan |
+| Gastrointestinal bozukluklar | Yaygın |
+|  | Yaygın olmayan |
+| Metabolizma ve beslenme bozuklukları | Yaygın |
+| Kas-iskelet ve bağ dokusu bozuklukları | Yaygın |
+| Genel bozukluklar ve uygulama yeri durumu | Çok yaygın |
+|  | Yaygın |
+|  | Yaygın olmayan |
+
+*6 yaş altındaki çocuklarda
+*≥ 6 yaş katılımcılarda
+†Pireksi hararet ve ateşi de kapsar
 
 ### 4.9. Doz Aşımı
 
@@ -3497,7 +4115,65 @@ ATC kodu: J07AH
 
 Etki Mekanizması:
 
-[okunamadı]
+Anti-kapsüler meningokok antikorları, tamamlayıc[kesik]
+karşı koruma sağlar. MenFive, tavşan Serum Bakte[kesik]
+C, W, Y ve X serogruplarının kapsüler polisakkarit[kesik]
+
+Klinik çalışmalardan elde edilen immünojenisite[kesik]
+
+5 klinik çalışmadan elde edilen immünojenisite[kesik]
+özetlenmiştir. Tüm bu çalışmalarda kullanılan[kesik]
+tamamlayıcısı ile birlikte meningokoku öldürme[kesik]
+rSBA titresi < 8 olan katılımcılar için bağışıklama[kesik]
+≥ 8 olan katılımcılar için başlangıç seviyesine gör[kesik]
+
+ACYWX-01 Çalışması (Adult: 18-45 yaş)
+
+A, C, W ve Y serogruplarına karşı seroyanıt yan[kesik]
+için ise adjuvanlı MenFive grubunda katılımcıla[kesik]
+MenACWY-D grubunda %5,0’inde seroyanıt göz[kesik]
+
+Tablo 3: Aşılamadan 28 gün sonra A, C, Y, [kesik]
+popülasyonuna göre (ACYWX-01 Çalışması)
+
+| Serogrup | Adjuvansız MenFive (N=20) n (%) (%95 CI) |
+|---|---|
+| A | 14 (70.0) (45.7 - 88.1) |
+| C | 20 (100.0) (83.2 - 100.0) |
+| Y | 19 (95.0) (75.1 - 99.9) |
+| W | 19 (95.0) (75.1 - 99.9) |
+| X | 17 (85.0) (62.1 - 96.8) |
+
+Fisher’s exact¹ %95CI
+
+Yüzde hesaplamalarında payda, başlangıç ve aşıla[kesik]
+
+Tedavi grupları arasında bazı farklılıklar [kesik]
+karşı rSBA geometrik ortalama titreleri (G[kesik]
+rSBA GMT’leri adjuvanlı ve adjuvansız [kesik]
+eğilimindeydi (Tablo 4). Serogrup X içi[kesik]
+artış gözlemlendi.
+
+Tablo 4: Serogrup Başına rSBA Geo[kesik]
+Çalışması)
+
+| Serogrup | Adjuvansız Men[kesik] (N=20) GMT (%95 CI[kesik] |
+|---|---|
+| Başlangıç | |
+| A | 350 (119, 1025) |
+| C | [okunamadı] |
+| Y | 24.3 (6.16, 95.4) |
+| W | 26.9 (6.19, 117) |
+| X | 5.28 (1.89, 14.8) |
+| Aşılamadan 28 gün sonra | |
+| A | 5595 (3324, 9418) |
+| C | 6208 (3579, 10771) |
+| Y | 9410 (4935, 17942) |
+| W | 11191 ([okunamadı]) |
+| X | 1607 (892, 2898) |
+
+29. günde rSBA titreleri ≥ 128 olan katılımcı[kesik]
+ile %100 arasında değişirken, MenACWY-D[kesik]
 
 ### Notlar
 
@@ -3577,13 +4253,13 @@ MenFive’ın yukarıda listelenenlerden başka diğer aşılarla eş zamanlı u
 
 Fertilite
 
-Hayvan çalışmaları, kadın doğurganlığı açısından doğrudan veya dolaylı zararlı etkiler işaret etmemektedir.
+Hayvan çalışmaları, kadın doğurganlığı açısından doğrudan veya dolaylı zararlı etkilere işaret etmemektedir.
 
 Gebelik
 
 MenFive hamile kadınlarda değerlendirilmemiştir.
 
-Hayvan çalışmaları, gebelik, embriyo/fetüs gelişimi, doğum veya doğum sonrası gelişim açısından doğrudan veya dolaylı zararlı etkiler işaret etmemektedir (bkz. Bölüm 5.3).
+Hayvan çalışmaları, gebelik, embriyo/fetüs gelişimi, doğum veya doğum sonrası gelişim açısından doğrudan veya dolaylı zararlı etkilere işaret etmemektedir (bkz. Bölüm 5.3).
 
 MenFive’ın gebelikte uygulanması yalnızca potansiyel faydaların anne ve fetüs için olası risklerden daha ağır bastığı durumlarda düşünülmelidir.
 
@@ -3603,41 +4279,131 @@ MenFive’ın genel güvenliği, ABD, Mali, Gambiya ve Hindistan’da yürütül
 
 Tablo 1: Klinik çalışmalara genel bakış
 
-[okunamadı]
+| Çalışmanın tanımı | Çalışma ülkesi | Çalışma tasarımı | Popülasyon (yaş) / Aşılama takvimi | Çalışma grupları | Katılımcı Sayısı |
+|---|---|---|---|---|---|
+| ACYWX-01 | Amerika Birleşik Devletleri | Randomize, Tek Merkezli, Üç Kollu, Aktif Kontrollü, Gözlemci Kör Çalışma | Adult (18-45 yaş dahil); Aşılama takvimi: 0. Günde 1 doz | Adjuvanlı MenFive; Adjuvansız MenFive*; MenACWY-D | 20; 20; 20 |
+| ACYWX-02 | Mali | Randomize, Tek Merkezli, Üç Kollu, Aktif Kontrollü, Gözlemci Kör Çalışma | Çocuk (12-16 ay dahil); Aşılama Takvimi: 0. Gün ve 84. Günde 2 doz | Adjuvansız MenFive; Adjuvanlı MenFive; MenACWY-D | 149; 150; 76 |
+| ACYWX-03 | Mali ve Gambiya | Randomize, Çok Merkezli, İki Kollu, Aktif Kontrollü, Gözlemci Kör Çalışma | Adult (18-29 yaş dahil); Adolesan (11-17 yaş dahil); Çocuk (2-10 yaş dahil); Aşılama takvimi: 0. Günde 1 doz | MenFive; MenACWY-D; MenFive; MenACWY-D; MenFive; MenACWY-D | 400; 200; 400; 200; 400; 200 |
+| ACYWX-04 | Hindistan | Randomize, Çok Merkezli, İki Kollu, Aktif Kontrollü, Gözlemci Kör Çalışma | Adult (18-85 yaş dahil); Aşılama takvimi: 0. Günde 1 doz | MenFive; MenACWY-D | 1233; 407 |
+| DMID 20-0024 | Mali | Randomize, tek merkezli, kör eşdeğerlik çalışması | Infant 9 aylık (Uygunluk 9-11 ay) | MenFive; MenACWY-TT | 400; 200 |
+
+MenACWY-D: Menactra® üreticisi: Sanofi Pasteur Inc, ABD
+
+MenACWY-TT: Nimenrix® üreticisi: Pfizer, Belçika
+
+* MenFive’ın 2 formülasyonu (adjuvanlı ve adjuvansız) arasında reaktojenite ve güvenlik profilinde anlamlı bir fark bulunmadığından, adjuvanlı formülasyondan elde edilen verilerin MenFive’ın reaktojenite ve güvenlik profili açısından destekleyici olduğu düşünülmektedir.
+
+Demografik özellikler MenFive alan ve kontrol aşısı alan katılımcılar arasında genel olarak benzerdi.
 
 _[sağ sütun]_
 
 Etki Mekanizması:
 
-[okunamadı]
+Anti-kapsüler meningokok antikorları, tamamlayıcı aracılı bak[kesik]
+karşı koruma sağlar. MenFive, tavşan Serum Bakterisidal Testi[kesik]
+C, W, Y ve X serogruplarının kapsüler polisakkaritlerine karşı [kesik]
 
 Klinik çalışmalardan elde edilen immünojenisite verileri:
 
-[okunamadı]
+5 klinik çalışmadan elde edilen immünojenisite verileri (Ta[kesik]
+özetlenmiştir. Tüm bu çalışmalarda kullanılan immüno[kesik]
+tamamlayıcısı ile birlikte meningokoku öldürme yeteneğini [kesik]
+rSBA titresi < 8 olan katılımcılar için bağışıklama sonrası rSB[kesik]
+≥ 8 olan katılımcılar için başlangıç seviyesine göre ≥ 4 kat art[kesik]
 
 ACYWX-01 Çalışması (Adult: 18-45 yaş)
 
-[okunamadı]
+A, C, W ve Y serogruplarına karşı seroyanıt yanıt oranı tüm[kesik]
+için ise adjuvanlı MenFive grubunda katılımcıların %95,0’i[kesik]
+MenACWY-D grubunda %5,0’inde seroyanıt gözlendi (Tabl[kesik]
 
 Tablo 3: Aşılamadan 28 gün sonra A, C, Y, W ve X ser[kesik]
+popülasyonuna göre (ACYWX-01 Çalışması)
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=20) n (%) (%95 CI) | Adju[kesik] |
+| --- | --- | --- |
+| A | 14 (70.0) (45.7 - 88.1) | 17 ([kesik] |
+| C | 20 (100.0) (83.2 - 100.0) | 19 ([kesik] |
+| Y | 19 (95.0) (75.1 - 99.9) | 19 ([kesik] |
+| W | 19 (95.0) (75.1 - 99.9) | 20 ([kesik] |
+| X | 17 (85.0) (62.1 - 96.8) | 19 ([kesik] |
+
+Fisher’s exact, %95 CI.
+Yüzde hesaplamalarında payda, başlangıç ve aşılama sonrası ziy[kesik]
+
+Tedavi grupları arasında bazı farklılıklar bazal titreler [kesik]
+karşı rSBA geometrik ortalama titreleri (GMT) aşılamad[kesik]
+rSBA GMT’leri adjuvanlı ve adjuvansız MenFive grup[kesik]
+eğilimindeydi (Tablo 4). Serogrup X için, adjuvanlı ve[kesik]
+artış gözlemlendi.
 
 Tablo 4: Serogrup Başına rSBA Geometrik Ortala[kesik]
+Çalışması)
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=20) GMT (%95 CI) | Adju[kesik] |
+| --- | --- | --- |
+| Başlangıç | | |
+| A | 350 (119, 1025) | [kesik] |
+| C | 4.29 (2.01, 9.15) | 9.[kesik] |
+| Y | 24.3 (6.16, 95.4) | 10[kesik] |
+| W | 26.9 (6.19, 117) | 8.[kesik] |
+| X | 5.28 (1.89, 14.8) | 6.2[kesik] |
+| Aşılamadan 28 gün sonra | | |
+| A | 5595 (3324, 9418) | 6889[kesik] |
+| C | 6208 (3579, 10771) | 4096[kesik] |
+| Y | 9410 (4935, 17942) | 4545[kesik] |
+| W | 11191 (6720, 18635) | 8192[kesik] |
+| X | 1607 (892, 2895) | 135[kesik] |
+
+29. günde rSBA titreleri ≥ 128 olan katılımcıların yüzdesi: [kesik]
+ile %100 arasında değişirken, MenACWY-D grubunda A, C[kesik]
+ve serogrup X için %10 arasında değişti.
 
 ACYWX-02 Çalışması (Çocuklar: 12-16 aylık)
 
-[okunamadı]
+Bu çalışmada, katılımcılara 2:2:1 oranında adjuvansız Me[kesik]
+dörtlü aşı MenACWY-D verildi ve bu aşılar 12 hafta arayla, [kesik]
+olarak uygulandı. İmmünojenisite 0., 28., 84. ve 112. günler[kesik]
+
+Aşının ilk dozundan 28 gün sonra, her MenFive grubunda[kesik]
+için seroyanıt görüldü, buna karşın MenACWY-D grubunda [kesik]
+W için ve katılımcıların %69,4’ünde serogrup C için gözlem[kesik]
+planlanan 112. gün ziyaretinde, her üç gruptaki katılımcıla[kesik]
+serogruplar için seroyanıt görüldü (Tablo 5).
 
 Tablo 5: Her enjeksiyondan 28 gün sonra A, C, Y, W ve X[kesik]
+popülasyonuna göre) – ACYWX-02 Çalışması
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=144), n (%) (%95 CI) | Adjuv[kesik] |
+|---|---|---|
+| 28. Gün A | 143 (99.3) (96.19, 99.98) | 144 (100.0[kesik] |
+| C | 141 (98.6) (95.04, 99.83) | 141 (97.9[kesik] |
+| Y | 140 (97.2) (93.04, 99.24) | 142 (98.6[kesik] |
+| W | 140 (97.9) (93.99, 99.57) | 140 (97.9[kesik] |
+| X | 144 (100.0) (97.47, 100.00) | 142 (98.6[kesik] |
+| 112. Gün A | 143 (99.3) (96.19, 99.98) | 144 (100.0[kesik] |
+| C | 142 (99.3) (96.17, 99.98) | 144 (100.0[kesik] |
+| Y | 144 (100.0) (97.47, 100.00) | 142 (98.6[kesik] |
+| W | 142 (99.3) (96.17, 99.98) | 143 (100.0[kesik] |
+| X | 143 (99.3) (96.19, 99.98) | 143 (99.3[kesik] |
+
+CI’ler iki taraflı %95 Clopper Pearson CI’leriydi.
+Yüzde hesaplamaları için payda, başlangıç ve aşılama so[kesik]
+katılımcı sayısıdır.
+
+Aşılamadan sonraki tüm zaman noktalarında, tüm serogrup[kesik]
+gruplarında rSBA GMT’leri MenACWY-D grubuna kıyasla [kesik]
 
 Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serog[kesik]
+(Protokol Popülasyonuna Göre) – Çalışma ACYWX-02
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=144), GMT (%95 CI) | Adjuv[kesik] |
+|---|---|---|
+| 0.Gün A | 3.8 (2.81,5.13) | 4.3 [kesik] |
+| C | 2.2 (1.97,2.37) | 2.0 [kesik] |
+| Y | 3.6 (2.74,4.64) | 4.1 [kesik] |
+| W | 2.8 (2.22,3.52) | 2.5 [kesik] |
+| X | 3.5 (2.70,4.61) | 3.2 [kesik] |
 
 ### Notlar
 
@@ -3666,25 +4432,100 @@ Fisher’s exact*; %95CI.
 
 Yüzde hesaplamalarında payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
 
-[okunamadı]
+Tedavi grupları arasında bazı farklılıklar bazal titreler için not edilmiş olsa da, A, C, W ve Y serogruplarına karşı rSBA geometrik ortalama titreleri (GMT) aşılamadan 28 gün sonra tüm tedavi gruplarında arttı. 29. günde, rSBA GMT’leri adjuvanlı ve adjuvansız MenFive gruplarında MenACWY-D grubuna kıyasla daha yüksek olma eğilimindeydi (Tablo 4). Serogrup X için, adjuvanlı ve adjuvansız MenFive gruplarında rSBA GMT’lerinde bir artış gözlemlendi.
 
 Tablo 4: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Popülasyonuna göre (ACYWX-01 Çalışması)
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=20) GMT (%95 CI) | Adjuvanlı MenFive (N=20) GMT (%95 CI) | MenACWY-D (N=20) GMT (%95 CI) |
+|---|---|---|---|
+| Başlangıç | | | |
+| A | 350 (119, 1025) | 187 (49.6, 708) | 33.1 (8.42, 130) |
+| C | 4.29 (2.01, 9.15) | 9.85 (3.77, 25.7) | 5.66 (2.15, 14.9) |
+| Y | 24.3 (6.16, 95.4) | 10.2 (3.03, 34.4) | 53.8 (14.2, 204) |
+| W | 26.9 (6.19, 117) | 8.00 (2.44, 26.2) | 13.9 (4.16, 46.6) |
+| X | 5.28 (1.89, 14.8) | 6.28 (2.44, 16.1) | 3.36 (1.76, 6.43) |
+| Aşılamadan 28 gün sonra | | | |
+| A | 5595 (3324, 9418) | 6889 (3767, 12596) | 3214 (1978, 5222) |
+| C | 6208 (3579, 10771) | 4096 (1720, 9756) | 388 (139, 1085) |
+| Y | 9410 (4935, 17942) | 4545 (1700, 12149) | 2353 (1302, 4251) |
+| W | 11191 (6720, 18635) | 8192 (3439, 19513) | 1261 (388, 4091) |
+| X | 1607 (892, 2895) | 1351 (577, 3165) | 3.14 (1.73, 5.71) |
+
+29. günde rSBA titreleri ≥ 128 olan katılımcıların yüzdesi: Her iki MenFive grubunda da beş serogrup için %95,0 ile %100 arasında değişirken, MenACWY-D grubunda A, C, Y ve W serogrupları için %90,0 ile %100 arasında ve serogrup X için %10 arasında değişti.
 
 ACYWX-02 Çalışması (Çocuklar: 12-16 aylık)
 
 Bu çalışmada, katılımcılara 2:2:1 oranında adjuvansız MenFive, alüminyum adjuvanlı MenFive veya lisanslı dörtlü aşı MenACWY-D verildi ve bu aşılar 12 hafta arayla, yani 0. ve 84. günlerde iki doz halinde intramüsküler olarak uygulandı. İmmünojenisite 0., 28., 84. ve 112. günlerde değerlendirildi.
 
-[okunamadı]
+Aşının ilk dozundan 28 gün sonra, her MenFive grubundaki katılımcıların %97’sinden fazlasında beş serogrup için seroyanıt görüldü, buna karşın MenACWY-D grubunda katılımcıların en az %90’ında yalnızca serogrup A ve W için ve katılımcıların %69,4’ünde serogrup C için gözlemlendi. Aşının ikinci dozundan 28 gün sonra yapılması planlanan 112. gün ziyaretinde, her üç gruptaki katılımcıların %98’inden fazlasında, ilgili aşıların içerdiği tüm serogruplar için seroyanıt görüldü (Tablo 5).
 
 Tablo 5: Her enjeksiyondan 28 gün sonra A, C, Y, W ve X serogruplarına karşı seroyanıt oranları (Protokol popülasyonuna göre) – ACYWX-02 Çalışması
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=144) n (%) (%95 CI) | Adjuvanlı MenFive (N=144) n (%) (%95 CI) | MenACWY-D (N=72) n (%) (%95 CI) |
+|---|---|---|---|
+| 28. Gün | | | |
+| A | 143 (99.3) (96.19, 99.98) | 144 (100.0) (97.47, 100.00) | 70 (97.2) (90.32, 99.66) |
+| C | 141 (98.6) (95.04, 99.83) | 141 (97.9) (94.03, 99.57) | 50 (69.4) (57.47, 79.76) |
+| Y | 140 (97.2) (93.04, 99.24) | 142 (98.6) (95.07, 99.83) | 63 (87.5) (77.59, 94.12) |
+| W | 140 (97.9) (93.99, 99.57) | 140 (97.9) (93.99, 99.57) | 65 (90.3) (80.99, 96.00) |
+| X | 144 (100.0) (97.47, 100.00) | 142 (98.6) (95.07, 99.83) | 12 (16.7) (8.92, 27.30) |
+| 112. Gün | | | |
+| A | 143 (99.3) (96.19, 99.98) | 144 (100.0) (97.47, 100.00) | 71 (98.6) (92.50, 99.96) |
+| C | 142 (99.3) (96.17, 99.98) | 144 (100.0) (97.47, 100.00) | 72 (100.0) (95.01, 100.00) |
+| Y | 144 (100.0) (97.47, 100.00) | 142 (98.6) (95.07, 99.83) | 71 (98.6) (92.50, 99.96) |
+| W | 142 (99.3) (96.17, 99.98) | 143 (100.0) (97.45, 100.00) | 71 (98.6) (92.50, 99.96) |
+| X | 143 (99.3) (96.19, 99.98) | 143 (99.3) (96.19, 99.98) | 19 (26.4) (16.70, 38.10) |
+
+CI’ler iki taraflı %95 Clopper Pearson CI’leriydi.
+
+Yüzde hesaplamaları için payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
+
+Aşılamadan sonraki tüm zaman noktalarında, tüm serogruplar için adjuvansız MenFive ve adjuvanlı MenFive gruplarında rSBA GMT’leri MenACWY-D grubuna kıyasla belirgin şekilde daha yüksekti (Tablo 6).
 
 Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serogrup başına rSBA Geometrik Ortalama Titreleri (Protokol Popülasyonuna Göre) – Çalışma ACYWX-02
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=144) GMT (%95 CI) | Adjuvanlı MenFive (N=144) GMT (%95 CI) | MenACWY-D (N=72) GMT (%95 CI) |
+|---|---|---|---|
+| 0.Gün | | | |
+| A | 3.8 (2.81,5.18) | 4.3 (3.08,5.89) | 4.4 (2.74,6.95) |
+| C | 2.2 (1.97,2.37) | 2.0 (NA, NA)* | 2.0 (NA, NA)* |
+| Y | 3.6 (2.74,4.64) | 4.1 (3.08,5.55) | 3.9 (2.63,5.86) |
+| W | 2.8 (2.22,3.52) | 2.5 (2.09,2.91) | 2.2 (1.91,2.64) |
+| X | 3.5 (2.70,4.61) | 3.2 (2.50,4.19) | 3.2 (2.21,4.66) |
+
+
+_[sol sütun, alt bölüm]_
+
+[kesik] açısından doğrudan
+
+[kesik] risklerden daha ağır
+
+[kesik]madan (ACYWX-01,
+[kesik] dayanmaktadır.
+
+| [kesik] | Katılımcı Sayısı |
+|---|---|
+| [kesik] | 20 |
+| [kesik] | 20 |
+| [kesik] | 20 |
+| [kesik] | 149 |
+| [kesik] | 150 |
+| [kesik] | 76 |
+| [kesik] | 400 |
+| [kesik] | 200 |
+| [kesik] | 400 |
+| [kesik] | 200 |
+| [kesik] | 400 |
+| [kesik] | 200 |
+| [kesik] | 1233 |
+| [kesik] | 407 |
+| [kesik] | 400 |
+| [kesik] | 200 |
+
+[kesik]filinde anlamlı bir fark
+[kesik]venlik profili açısından
+
+[kesik] benzerdi.
 
 ### Notlar
 
@@ -3695,7 +4536,41 @@ Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serogrup başına rSBA Geometr
 # MenFive — kısa ürün bilgisi, fotoğraf 4
 _Kaynak: menfive-y4 — 5.1. Farmakodinamik Özellikler → 5.3. Preklinik Güvenlilik Verileri. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-[okunamadı]
+28.Gün
+
+| Serogrup |  |  |  |
+|---|---|---|---|
+| A | 7732.2 (6462.42,9251.52) | 7368.8 (6210.80,8742.81) | 3866.1 (2841.91,5259.43) |
+| C | 1143.9 (929.32,1407.98) | 1095.4 (877.66,1367.12) | 67.8 (39.69,115.84) |
+| Y | 2366.2 (1837.37,3047.14) | 3010.0 (2490.61,3637.74) | 676.9 (392.43,1167.54) |
+| W | 6533.4 (4868.00,8768.46) | 5363.2 (3927.83,7323.21) | 1127.5 (614.73,2067.93) |
+| X | 7548.3 (6442.99,8843.32) | 8152.7 (6717.91,9893.84) | 6.9 (3.82,12.56) |
+
+84.Gün
+
+| A | 4687.0 (3919.72,5604.44) | 4488.3 (3600.74,5594.57) | 2786.9 (2003.18,3877.24) |
+| C | 436.8 (342.33,557.34) | 348.4 (272.51,445.33) | 29.6 (18.73,46.87) |
+| Y | 1171.7 (891.95,1539.31) | 1386.8 (1129.10,1703.21) | 426.4 (252.21,720.93) |
+| W | 2555.6 (1839.63,3550.22) | 2222.6 (1673.59,2951.80) | 483.3 (242.96,961.24) |
+| X | 3511.3 (2934.73,4201.08) | 3113.2 (2552.53,3796.93) | 6.7 (3.73,11.91) |
+
+112.Gün
+
+| A | 6226.3 (5435.42,7132.33) | 6166.7 (5375.47,7074.35) | 4871.0 (3833.59,6189.12) |
+| C | 1366.9 (1173.58,1592.01) | 1393.4 (1200.54,1617.35) | 410.3 (324.93,518.11) |
+| Y | 3189.0 (2700.52,3765.84) | 3266.7 (2800.84,3810.01) | 1194.5 (809.00,1763.78) |
+| W | 8035.8 (6255.62,10322.51) | 7056.4 (5622.17,8856.57) | 2482.8 (1567.27,3933.27) |
+| X | 5363.2 (4523.30,6359.15) | 6286.6 (5515.16,7165.86) | 11.6 (6.35,21.34) |
+
+*Serogrup C için tüm katılımcıların Adjuvanlı MenFive ve MenACWY-D kollarında başlangıçta aynı titre değerleri vardı.
+
+İlk dozun alınmasından 28 gün sonra, iki MenFive grubundaki katılımcıların > %97’sinin beş serogrubun hepsine karşı en az 128’lik SBA titreleri vardı, oysa MenACWY-D grubunda, katılımcıların en az %90’ında en az 128’lik SBA titreleri A ve W serogruplarıyla sınırlıydı. MenACWY-D grubunda serogrup C’ye karşı yanıt %54 iken, adjuvansız MenFive grubunda %99 idi.
+
+İkinci dozun alınmasından hemen önce (84. günde), iki MenFive grubundaki katılımcıların en az %91’inin beş serotipe karşı en az 128 SBA titresi vardı. MenACWY-D grubunda, bu eşik (≥ 128) yalnızca serogrup A için katılımcıların %90’ından fazlasında korundu; serogrup C için katılımcıların %36’sının (95% CI, 25 ila 48) en az 128 SBA titresi vardı.
+
+İkinci dozun alınmasından 28 gün sonra (112. gün), iki MenFive grubundaki katılımcıların en az %99’unun beş serotipe karşı en az 128’lik bir SBA titresi vardı. MenACWY-D grubunda, bu eşik A, C, W ve Y serogrupları için katılımcıların en az %91’inde karşılandı.
+
+Bu çalışmada, tek doz MenFive’ın, iki doz MenACWY-D ile gözlemlenenlere benzer bağışıklık tepkileri ortaya çıkardığı bulundu. Adjuvanlı MenFive, adjuvansız MenFive’a göre fark edilebilir bir fayda sağlamadı.
 
 ACYWX-03 Çalışması (2-29 yaş)
 
@@ -3703,7 +4578,7 @@ PP Popülasyonunda aşılamadan 28 gün sonra (29. Gün) rSBA ile ölçülen ser
 
 MenFive’ın 29. Gün seroyanıt açısından lisanslı MenACWY-D aşısına göre daha düşük etkili olmadığı tespit edildi.
 
-[okunamadı]
+MenFive grubunda, 29. günde seroyanıtı olan katılımcıların genel popülasyondaki oranı, C, Y, W ve X serogrupları için en yüksekti ve seroyanıt için ≥ %97,0’lik bir nokta tahmini vardı; serogrup A için seroyanıt oranı %70,5’ti. MenACWY-D grubunda, 29. günde seroyanıtı olan katılımcıların oranı, C, Y ve W serogrupları için ≥ %92,0’di; seroyanıt oranı, serogrup A için %50,0 ve serogrup X için %9,5’ti. MenFive grubundaki seroyanıt oranı, genel popülasyondaki tüm serogruplar ve her yaş grubu için MenACWY-D grubundan daha yüksekti.
 
 Tablo 7: A, C, Y, W ve X Serogruplarına karşı seroyanıt oranları, aşılamadan 28 gün sonra - Protokol popülasyonuna göre - ACYWX-03 Çalışması
 
@@ -3719,29 +4594,114 @@ Yüzde hesaplamaları için payda, başlangıç ve aşılama sonrası ziyaretler
 
 Her tedavi grubu için %95 CI’lar Clopper-Pearson yöntemi kullanılarak hesaplandı.
 
-[okunamadı]
+PP Popülasyonunda 29. günde serogrup A, C, Y, W ve X’e karşı rSBA GMT’leri Tablo 8’de sunulmaktadır.
+
+MenFive’ın 29. günde rSBA GMT’leri açısından lisanslı MenACWY-D aşısına göre daha düşük etkili olmadığı tespit edildi.
+
+MenFive grubunda, genel popülasyonda 29. gündeki GMT’ler W, Y ve X serogrupları için en yüksekti; en düşük GMT C serogrubu için gözlendi. X serogrubu hariç, MenACWY-D grubunda benzer bir profil gözlendi. MenFive grubundaki GMT’ler, genel popülasyonda ve tüm serogruplar için her yaş grubunda MenACWY-D grubundan belirgin şekilde daha yüksekti.
 
 Tablo 8: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Başına Popülasyon - ACYWX-03 Çalışması
+
+| Serogrup | MenFive (N=1198) GMT (%95 CI) | MenACWY-D (N=595) GMT (%95 CI) |
+|---|---|---|
+| Başlangıç | | |
+| A | 1431.6 (1350.6, 1517.5) | 1477.7 (1364.2, 1600.6) |
+| C | 8.0 (7.1, 9.0) | 7.4 (6.2, 8.7) |
+| Y | 204.3 (180.3, 231.5) | 215.3 (181.9, 254.9) |
+| W | 40.4 (34.2, 47.5) | 45.8 (36.3, 57.7) |
+| X | 466.6 (417.2, 521.8) | 488.2 (418.2, 570.0) |
+| Aşılamadan 28 gün sonra | | |
+| A | 8009.9 (7631.7, 8407.0) | 4729.7 (4420.0, 5061.2) |
+| C | 5587.2 (5123.7, 6092.5) | 1854.9 (1619.6, 2124.4) |
+| Y | 10844.8 (10260.2, 11462.8) | 4815.6 (4380.9, 5293.4) |
+| W | 28963.4 (26804.6, 31295.9) | 12294.6 (10778.9, 14023.4) |
+| X | 31290.4 (29222.2, 33505.1) | 737.1 (641.3, 847.4) |
 
 [okunamadı]
 
 _[sağ sütun]_
 
-Tablo 10: 29. Günde A, C, Y, W [kesik]
+Tablo 10: 29. Günde A, C, Y, W v[kesik]
+ACYWX-04 Çalışması
 
-[okunamadı]
+| Serogrup | Men[kesik] |
+|---|---|
+| A | 956 (84.3) ([kesik] |
+| C | 1051 (96.7) ([kesik] |
+| Y | 940 (93.6) ([kesik] |
+| W | 1040 (97.2) ([kesik] |
+| X | 945 (90.4) ([kesik] |
 
-Tablo 11: Serogrup Başına rSBA Geo[kesik]
+Yüzde hesaplamaları için payda, başlangıç ve[kesik]
+Her tedavi grubu için iki taraflı %97,5 CI Clo[kesik]
 
-[okunamadı]
+mPP Popülasyonunda 29. günde A, C, Y[kesik]
 
-DMID 20-0024 Çalışması (Infant: 9-1[kesik]
+MenFive grubunda, 29. gündeki GMT’[kesik]
+21225.3 (97.5% CI: 19061.0, 23635.2) a[kesik]
+Y için 3646.8 (97.5% CI: 3188.2, 417[kesik]
+13927.5) arasında değişti. MenFive gru[kesik]
+şekilde daha yüksekti.
 
-[okunamadı]
+Tablo 11: Serogrup Başına rSBA Geom[kesik]
+
+| Serogrup | Men[kesik] |
+|---|---|
+| Başlangıç | |
+| A | 1270.9 (1152[kesik] |
+| C | 25.7 (21.[kesik] |
+| Y | 133.1 (113[kesik] |
+| W | 42.5 (35.[kesik] |
+| X | 176.6 (150.[kesik] |
+| Aşılamadan 28 gün sonra | |
+| A | [okunamadı] |
+| C | 9682.6 (8743.[kesik] |
+| Y | 7016.9 (6475.[kesik] |
+| W | 21225.3 (19061.[kesik] |
+| X | 9587.1 (8590.[kesik] |
+
+
+GMT için iki taraflı %97,5 CI’ler, log dönüş[kesik]
+GMT’sini hesaplamak için, titrelerin log dönü[kesik]
+%97,5 güven sınırlarının antilogu, her tedavi gr[kesik]
+
+29. günde rSBA titreleri ≥128 olan MenF[kesik]
+MenACWY-D grubunda, rSBA titreleri ≥[kesik]
+için en az %97,8 idi.
+
+DMID 20-0024 Çalışması (Infant: 9-11[kesik]
+
+Bu çalışma, MenFive’ın 9 ila 11 aylık beb[kesik]
+olarak daha düşük olmadığını göstermişt[kesik]
+sarı humma ile eş zamanlı uygulanmasın[kesik]
+MenACWY-TT grubuna (%85.0) göre b[kesik]
+
+Protokol popülasyonunda 29. günde rS[kesik]
+Tablo 12’de sunulmaktadır.
+
+Serogrup A için, seroprotektif yanıt ora[kesik]
+grubunda, seroprotektif yanıt oranı C, Y,[kesik]
+W serogrupları için seroprotektif yanıt o[kesik]
 
 Tablo 12: Seroprotektif yanıt oranları [kesik]
+karşı – Protokol popülasyonuna göre – [kesik]
 
-[okunamadı]
+| Serogrup | MenFive (N=373) n (%) |
+|---|---|
+| Başlangıç | |
+| A | 373 (100.0%) |
+| C | 369 (98.9%) |
+| Y | 352 (94.4%) |
+| W | 360 (96.5%) |
+| X | 371 (99.7%) |
+
+Güven Aralıkları Miettinen-Nurminen yöntemi[kesik]
+
+Seroprotektif yanıt için %95 güven aralığ[kesik]
+C, W ve Y serogrupları için Nimenrix’ten [kesik]
+
+Seroprotektif yanıt için %95 güven aral[kesik]
+Nimenrix’ten üstün olduğu beyan edil[kesik]
 
 ### 5.2. Farmakokinetik Özellikler:
 
@@ -3749,6 +4709,17 @@ Uygulanabilir değil
 
 ### 5.3. Preklinik Güvenlilik Verileri
 
+Toksisite ve lokal tolerans çalışmaları:[kesik]
+Tavşanlarda tekrarlanan doz toksis[kesik]
+skorlarda, globulinde ve mikroskobik [kesik]
+çözüldü ve/veya iyileşme nekropsisi [kesik]
+
+Genotoksisite ve Karsinojenisite:
+In vitro genotoksisite ve karsinojenis[kesik]
+
+Üreme toksisitesi:
+Sıçanlarda yapılan üreme ve gelişim [kesik]
+emzirme dönemlerinde maternal m[kesik]
 [okunamadı]
 
 ### Notlar
@@ -3760,24 +4731,102 @@ Uygulanabilir değil
 # MenFive — kısa ürün bilgisi, fotoğraf 5
 _Kaynak: menfive-y5 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-[okunamadı]
+| Serogrup | MenFive n (%) (%95 CI) | MenACWY-D (N=595) n (%) (%95 CI) |
+|---|---|---|
+| A | 814 (70.5) (67.8, 73.2) | 286 (50.0) (45.8, 54.2) |
+| C | 1109 (97.9) (96.9, 98.6) | 531 (95.5) (93.4, 97.1) |
+| Y | 1019 (97.0) (95.7, 97.9) | 494 (92.0) (89.4, 94.1) |
+| W | 1081 (98.5) (97.6, 99.2) | 520 (97.4) (95.6, 98.6) |
+| X | 1099 (97.2) (96.0, 98.1) | 48 (9.5) (7.1, 12.4) |
+
+Yüzde hesaplamaları için payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
+Her tedavi grubu için %95 CI’lar Clopper-Pearson yöntemi kullanılarak hesaplandı.
+
+PP Popülasyonunda 29. günde serogrup A, C, Y, W ve X’e karşı rSBA GMT’leri Tablo 8’de sunulmaktadır.
+MenFive’ın 29. günde rSBA GMT’leri açısından lisanslı MenACWY-D aşısına göre daha düşük etkili olmadığı tespit edildi.
+
+MenFive grubunda, genel popülasyonda 29. gündeki GMT’ler W, Y ve X serogrupları için en yüksekti; en düşük GMT C serogrubu için gözlendi. X serogrubu hariç, MenACWY-D grubunda benzer bir profil gözlendi. MenFive grubundaki GMT’ler, genel popülasyonda ve tüm serogruplar için her yaş grubunda MenACWY-D grubundan belirgin şekilde daha yüksekti.
 
 Tablo 8: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Başına Popülasyon - ACYWX-03 Çalışması
 
-[okunamadı]
+| Serogrup | MenFive (N=1198) GMT (%95 CI) | MenACWY-D (N=595) GMT (%95 CI) |
+|---|---|---|
+| Başlangıç | | |
+| A | 1431.6 (1350.6, 1517.5) | 1477.7 (1364.2, [okunamadı]) |
+| C | 8.0 (7.1, 9.0) | 7.4 (6.2, 8.7) |
+| Y | 204.3 (180.3, 231.5) | 215.3 (181.9, 254.9) |
+| W | 40.4 (34.2, 47.5) | 45.8 (36.3, 57.7) |
+| X | 466.6 (417.2, 521.8) | 488.2 (418.2, 570.0) |
+| Aşılamadan 28 gün sonra | | |
+| A | 8009.9 (7631.7, 8407.0) | 4729.7 (4420.0, 5061.2) |
+| C | 5587.2 (5123.7, 6092.5) | 1854.9 (1619.6, 2124.4) |
+| Y | 10844.8 (10260.2, 11462.8) | 4815.6 (4380.9, 5293.4) |
+| W | 28963.4 (26804.6, 31295.9) | 12294.6 (10778.9, 14023.4) |
+| X | 31290.4 (29222.2, 33505.1) | 737.1 (641.3, 847.4) |
+
+Her tedavi için, 5 serogruba karşı rSBA ile ölçülen antikorların GMT’si ve %95 CI, 29. günde karşılık gelen log2-dönüştürülmüş ortalama ve onun 2 taraflı %95 CI limitlerinin üslenmesiyle hesaplandı.
+
+Genel popülasyonda, 29. günde rSBA titreleri ≥ 128 olan MenFive grubundaki katılımcıların yüzdesi her serogrup için en az %98,7 idi. Her yaş grubu için rSBA titreleri ≥ 128 için benzer bir profil gözlemlendi. Genel popülasyondaki MenACWY-D grubunda, rSBA titreleri ≥ 128 olan katılımcıların yüzdesi A, C, Y ve W serogrupları için en az %94,6 iken serogrup X için %92,2 idi ve her yaş grubu için benzer bir profil gözlemlendi.
+
+PP Popülasyonunda 169. ve 337. günlerde A, C, Y, W ve X serogruplarına karşı rSBA GMT’leri Tablo 9’da sunulmaktadır.
+
+MenACWY-D grubunda serogrup X’e ait GMT’ler hariç, 337. gündeki GMT’ler her iki grupta da 1. günde gözlenen GMT’lerden daha yüksek kaldı. MenFive grubunda, rSBA titrelerindeki geometrik ortalama kat artışı 337. günde A, C, Y, W ve X serogrupları için sırasıyla 3.7, 110.7, 24.9, 188.7 ve 14.1 iken, MenACWY-D grubu için sırasıyla 2.5, 32.4, 12.5, 67.9 ve 0.8 idi.
 
 Tablo 9: Serogrup-spesifik rSBA Geometrik Ortalama Titreleri - 6 aylık ve 1 yıllık seropersistans verileri - Protokole Göre Popülasyon - ACYWX-03 Çalışması
 
-[okunamadı]
+| Serogrup | İstatistik | MenACWY-D (N=261) 1.Ziyaret (1.Gün) | 4.Ziyaret (169.Gün) | 5.Ziyaret (337.Gün) | MenFive (N=523) 1.Ziyaret (1.Gün) | 4.Ziyaret (169.Gün) | 5.Ziyaret (337.Gün) |
+|---|---|---|---|---|---|---|---|
+| A | GMT %95 CI | 1450.1 (1295.7, 1622.9) | 4241.6 (3838.8, 4686.7) | 3604.0 (3273.2, 3968.3) | 1391.6 (1269.4, 1525.5) | 6350.7 (5906.0, 6828.8) | 5140.0 (4807.5, 5495.5) |
+| A | GMFR %95 CI | --- | 2.9 (2.6, 3.2) | 2.5 (2.2, 2.7) | --- | 4.6 (4.2, 5.0) | 3.7 (3.4, 4.1) |
+| C | GMT %95 CI | 8.0 (6.1, 10.6) | 445.7 (352.3, 564.0) | 268.7 (205.0, 352.2) | 8.7 (7.2, 10.5) | 1514.1 (1323.5, 1732.0) | 984.7 (847.2, 1144.6) |
+| C | GMFR %95 CI | --- | 53.3 (40.1, 70.8) | 32.4 (24.1, 43.5) | --- | 175.0 (141.8, 215.9) | 110.7 (89.2, 137.4) |
+| Y | GMT %95 CI | 228.0 (176.6, 294.2) | 3479.6 (3051.9, 3967.2) | 2770.2 (2412.5, 3181.1) | 193.8 (159.4, 235.8) | 6260.6 (5836.2, 6715.8) | 4721.7 (4382.2, 5087.4) |
+| Y | GMFR %95 CI | --- | 15.9 (12.6, 20.1) | 12.5 (9.9, 15.7) | --- | 32.1 (26.4, 39.1) | 24.9 (20.3, 30.4) |
+| W | GMT %95 CI | 50.5 (35.6, 71.6) | 5364.0 (4439.7, 6480.8) | 3554.3 (2904.1, 4350.2) | 44.6 (34.6, 57.4) | 12161.7 (11051.2, 13383.8) | 8202.9 (7417.3, 9071.8) |
+| W | GMFR %95 CI | --- | 99.2 (71.9, 136.7) | 67.9 (49.2, 93.8) | --- | 278.1 (219.1, 353.0) | 188.7 (148.7, 239.4) |
+| X | GMT %95 CI | 659.4 (541.2, 803.4) | 581.2 (482.2, 700.6) | 577.7 (471.5, 707.8) | 487.4 (410.2, 579.1) | 9299.1 (8448.4, 10235.5) | 6611.0 (6021.2, 7258.6) |
+| X | GMFR %95 CI | --- | 0.8 (0.7, 0.9) | 0.8 (0.7, 1.0) | --- | 19.6 (16.3, 23.4) | 14.1 (11.8, 16.8) |
+
+GMFR: Başlangıç değere kıyasla geometrik ortalama kat artışı (Ziyaret 1)
+
+Log2-dönüştürülmüş rSBA titreleri, eşleştirilmiş t-testi kullanılarak her tedavi için 1. Ziyaretten 4. Ziyarete ve 5. Ziyarete kadar ortalama fark için iki taraflı %95 CI oluşturmak için kullanıldı. Ortalama fark ve buna karşılık gelen %95 CI limitleri üsselleştirilerek GMT oranı ve buna karşılık gelen %95 CI elde edildi.
 
 ACYWX-04 Çalışması (18-85 yaş)
 
-[okunamadı]
+Bu çalışma, MenFive'ın tüm 5 serogrup için MenACWY-D'ye göre oldukça immünojenik olduğunu ve immünolojik olarak daha düşük olmadığını göstermiştir. Ardışık olarak üretilen 3 seri MenFive, tutarlı bağışıklık yanıtları indüklemiştir.
+
+Değiştirilmiş Protokole göre (mPP) Popülasyonda 29. Günde rSBA ile ölçülen seroyanıta sahip katılımcıların yüzdesi Tablo 10'da sunulmaktadır.
+
+MenFive grubunda seroyanıt oranı ≥ %90'lık bir nokta tahmini ile C, Y, W ve X serogrupları için en yüksekti; A serogrubu için seroyanıt oranı %84,3'tü. MenACWY-D grubunda C, Y ve W serogrupları için seroyanıt oranı ≥ %89'du; serogrup A için seroyanıt oranı %54,5 ve serogrup X için %13,7'ydi.
 
 _[sağ sütun]_
 
-Tablo 12: Seroprotektif yanıt oranları [kesik]
+[okunamadı] olarak daha düşük olma[kesik]
+sarı humma ile eş zamanlı uygulanmasını d[kesik]
+MenACWY-TT grubuna (%85.0) göre bira[kesik]
 
+Protokol popülasyonunda 29. günde rSBA[kesik]
+Tablo 12’de sunulmaktadır.
+
+Serogrup A için, seroprotektif yanıt oranı [kesik]
+grubunda, seroprotektif yanıt oranı C, Y, W v[kesik]
+W serogrupları için seroprotektif yanıt oranı[kesik]
+
+Tablo 12: Seroprotektif yanıt oranları (rS[kesik]
+karşı – Protokol popülasyonuna göre – D[kesik]
+
+| Serogrup | MenFive (N=373) n (%) |
+|---|---|
+| Başlangıç | |
+| A | 373 (100.0%) |
+| C | 369 (98.9%) |
+| Y | 352 (94.4%) |
+| W | 360 (96.5%) |
+| X | 371 (99.7%) |
+
+Güven Aralıkları Miettinen-Nurminen yöntemi kulla[kesik]
+
+Seroprotektif yanıt için %95 güven aralığının a[kesik]
 [okunamadı]
 
 ### 5.2. Farmakokinetik Özellikler:
@@ -3786,7 +4835,18 @@ Uygulanabilir değil
 
 ### 5.3. Preklinik Güvenlilik Verileri
 
-[okunamadı]
+Toksisite ve lokal tolerans çalışmaları:
+Tavşanlarda tekrarlanan doz toksisite çal[kesik]
+skorlarda, globulinde ve mikroskobik enjek[kesik]
+çözüldü ve/veya iyileşme nekropsisi ile iyi[kesik]
+
+Genotoksisite ve Karsinojenisite:
+In vitro genotoksisite ve karsinojenisite çal[kesik]
+
+Üreme toksisitesi:
+Sıçanlarda yapılan üreme ve gelişimsel to[kesik]
+emzirme dönemlerinde maternal maruziye[kesik]
+sonrası gelişimi üzerinde herhangi bir etkis[kesik]
 
 ## 6. FARMASÖTİK ÖZELLİKLER
 
@@ -3800,29 +4860,61 @@ Uygulanabilir değil
 
 ### 6.2. Geçimsizlikler:
 
-[okunamadı]
+Geçimlilik çalışmalarının bulunmamasınd[kesik]
 
 ### 6.3. Raf Ömrü:
 
-[okunamadı]
+Aşının son kullanma tarihi etiket ve amba[kesik]
 
 ### 6.4. Saklamaya Yönelik Özel Tedbirler
 
 Buzdolabında saklayın (+2°C ila +8°C).
 
-[okunamadı]
+Aşı stabildir ve aşının son kullanma[kesik]
+ulaşmamış olması koşuluyla, rekonstitü[kesik]
+bırakıldığında kullanılabilir.
+
+Sulandırıcı dondurulmamalı, ancak seri[kesik]
 
 ### 6.5. Ambalajın Niteliği ve İçeriği:
 
-[okunamadı]
+MenFive, aşağıda listelenen sunumlarda[kesik]
+
+1 doz flakon + 0.5 ml sulandırıcı içeren am[kesik]
+
+10 flakon içeren kutu ve 10 ampul içeren k[kesik]
 
 İmha ve Diğer Kullanımlar İçin Özel Ön[kesik]
 
-[okunamadı]
+Uygulama
+
+Rekonstitüe edilen aşı, renksiz ila soluk sar[kesik]
+
+Liyofilize MenFive aşısı, aşıyla birlikte ve[kesik]
+MenACYWX bileşenini içeren şişeye (tek d[kesik]
+içeriğin çözüldüğünden emin olmak için h[kesik]
+uygulanmadan önce görsel olarak incelemeli[kesik]
+
+Uygulama için dozun çekilmesinde aseptik te[kesik]
+şırıngaya çekilir ve intramüsküler olarak uygu[kesik]
+Tam 0.5 mL dozun uygulandığından emin olu[kesik]
+kalan hacim atılmalıdır. Birden fazla flakondan[kesik]
+
+Aşının izlenebilirliğini kolaylaştırmak için, uygu[kesik]
+
+İmha
+
+Kullanılmayan aşı veya atık materyal yerel ge[kesik]
+dezenfektanla dezenfekte edilmelidir.
 
 ## 7. TÜRKİYE TEMSİLCİSİ
 
-[okunamadı]
+KEYMEN İLAÇ SAN. VE TİC. A.Ş.
+Mustafa Kemal Mah. 2076 Sok. No: 8/3
+06510 Çankaya / ANKARA
+Tel: 0 312 485 37 60
+Faks: 0 312 485 37 61
+E-posta: keymen@keymen.com.tr
 
 ## 8. RUHSAT NUMARASI(LARI)
 
@@ -3845,15 +4937,55 @@ _[sağ sütun]_
 
 Tablo 10: 29. Günde A, C, Y, W ve X serogruplarına karşı seroyanıt oranları – mPP popülasyon – ACYWX-04 Çalışması
 
-[okunamadı]
+| Serogrup | MenFive (N=1170) n (%) (%97.5 CI) | MenACWY-D (N=380) n (%) (%97.5 CI) |
+|---|---|---|
+| A | 956 (84.3) (81.7, 86.7) | 201 (54.5) (48.5, 60.3) |
+| C | 1051 (96.7) (95.3, 97.8) | 309 (92.5) (88.6, 95.4) |
+| Y | 940 (93.6) (91.7, 95.2) | 291 (89.8) (85.4, 93.3) |
+| W | 1040 (97.2) (95.8, 98.2) | 325 (97.0) (94.2, 98.7) |
+| X | 945 (90.4) (88.2, 92.4) | 40 (13.7) (9.5, 18.9) |
+
+Yüzde hesaplamaları için payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
+Her tedavi grubu için iki taraflı %97,5 CI Clopper-Pearson yöntemini kullanılarak hesaplandı.
+
+mPP Popülasyonunda 29. günde A, C, Y, W ve X serogruplarına karşı rSBA GMT’leri Tablo 11’de sunulmuştur. MenFive grubunda, 29. gündeki GMT’ler serogrup Y için 7016.9 (97.5% CI: 6475.7, 7603.4) ile serogrup W için 21225.3 (97.5% CI: 19061.0, 23635.2) arasında değişti. MenACWY-D grubunda, 29. gündeki GMT’ler serogrup Y için 3646.8 (97.5% CI: 3188.2, 4171.5) ile serogrup X hariç serogrup W için 11373.6 (97.5% CI: 9288.1, 13927.5) arasında değişti. MenFive grubundaki GMT’ler tüm serogruplar için MenACWY-D grubundan belirgin şekilde daha yüksekti.
 
 Tablo 11: Serogrup Başına rSBA Geometrik Ortalama Titreleri – mPP Popülasyon - ACYWX-04 Çalışması
 
-[okunamadı]
+| Serogrup | MenFive (N=1170) GMT (%97.5 CI) | MenACWY-D (N=380) GMT (%97.5 CI) |
+|---|---|---|
+| Başlangıç | | |
+| A | 1270.9 (1152.6, 1401.3) | 1349.7 (1134.6, 1605.4) |
+| C | 25.7 (21.8, 30.3) | 32.6 (24.0, 44.3) |
+| Y | 133.1 (113.0, 156.7) | 111.1 (82.4, 149.7) |
+| W | 42.5 (35.2, 51.5) | 52.5 (37.2, 73.9) |
+| X | 176.6 (150.0, 208.0) | 154.2 (112.7, 210.9) |
+| Aşılamadan 28 gün sonra | | |
+| A | 14024.7 (13164.8, 14940.8) | 5626.0 (5058.1, 6257.7) |
+| C | 9682.6 (8743.7, 10722.2) | 4470.9 (3703.5, 5397.3) |
+| Y | 7016.9 (6475.7, 7603.4) | 3646.8 (3188.2, 4171.5) |
+| W | 21225.3 (19061.0, 23635.2) | 11373.6 (9288.1, 13927.5) |
+| X | 9587.1 (8590.4, 10699.4) | 266.3 (199.4, 355.6) |
 
-DMID 20-0024 Çalışması (Infant: 9-11 aylık)
+GMT için iki taraflı %97,5 CI’ler, log dönüştürülmüş titre verileri ve t-testi kullanılarak tahmin edilir. Her tedavi grubunun GMT’sini hesaplamak için, titrelerin log dönüştürülmüş ortalamasının antilogu alınır. Log dönüştürülmüş ortalama titrelerin %97,5 güven sınırlarının antilogu, her tedavi grubunun GMT’si için %97,5 CI’yi sağlar.
 
-[okunamadı]
+29. günde rSBA titreleri ≥128 olan MenFive grubundaki katılımcıların yüzdesi her serogrup için en az %98,3 idi. MenACWY-D grubunda, rSBA titreleri ≥128 olan katılımcıların yüzdesi [kesik]
+
+Y | 7016.9 (6475.7, 7603.4) | 3646.8 (3188.2, 4171.5)
+W | 21225.3 (19061.0, 23635.2) | 11373.6 (9288.1, 13927.5)
+X | 9587.1 (8590.4, 10699.4) | 266.3 (199.4, 355.6)
+
+GMT için iki taraflı %97.5 CI’ler, log dönüştürülmüş titre verileri ve t-testi kullanılarak tahmin edilir. Her tedavi grubunun GMT’sini hesaplamak için, titrelerin log dönüştürülmüş ortalamasının antilogu alınır. Log dönüştürülmüş ortalama titrelerin %97.5 güven sınırlarının antilogu, her tedavi grubunun GMT’si için %97.5 CI’yi sağlar.
+
+29. günde rSBA titreleri ≥128 olan MenFive grubundaki katılımcıların yüzdesi her serogrup için en az %98,3 idi. MenACWY-D grubunda, rSBA titreleri ≥128 olan katılımcıların yüzdesi serogrup X hariç (%76,9) her serogrup için en az %97,8 idi.
+
+DMID 20-0024 Çalışması (İnfant: 9-11 aylık)
+
+Bu çalışma, MenFive’ın 9 ila 11 aylık bebeklerde tüm 5 serogrup için güvenli ve MenACWY-TT’den immünolojik olarak daha düşük olmadığını göstermiştir. Çalışma ayrıca MenFive’ın rutin GBP aşıları, kızamık, kızamıkçık ve sarı humma ile eş zamanlı uygulanmasını desteklemektedir. Kızamıkçığa seroyanıt, MenFive grubunda (%80.8) MenACWY-TT grubuna (%85.0) göre biraz daha düşüktü, bu farkın klinik önemi bilinmemektedir.
+
+Protokol popülasyonunda 29. günde rSBA ile ölçülen seroprotektif yanıt oranına sahip katılımcıların yüzdesi Tablo 12’de sunulmaktadır.
+
+Serogrup A için, seroprotektif yanıt oranı (29. günde rSBA titreleri ≥ 8) her iki grupta da %100’dü. MenFive grubunda, seroprotektif yanıt oranı C, Y, W ve X serogrupları için ≥ %94.4’tü. MenACWY-TT grubunda, C, Y ve W serogrupları için seroprotektif yanıt oranı ≥ %97,4 ve serogrup X için %17,3’tü.
 
 Tablo 12: Seroprotektif yanıt oranları (rSBA antikor titreleri ≥ 8) 29. günde A, C, Y, W ve X serogruplarına karşı – Protokol popülasyonuna göre – DMID 20-0024
 
@@ -3868,13 +5000,17 @@ Tablo 12: Seroprotektif yanıt oranları (rSBA antikor titreleri ≥ 8) 29. gün
 
 Güven Aralıkları Miettinen-Nurminen yöntemi kullanılarak hesaplandı.
 
-[okunamadı]
+Seroprotektif yanıt için %95 güven aralığının alt sınırı -%10’luk eşitsizlik sınırını hariç tutuyorsa, MenFive’ın A, C, W ve Y serogrupları için Nimenrix’ten daha düşük etkili olmadığı beyan edilmiştir.
+
+Seroprotektif yanıt için %95 güven aralığının alt sınırı %30’un üzerindeyse MenFive’ın serogrup X açısından Nimenrix’ten üstün olduğu beyan edilmiştir.
 
 ### 5.2. Farmakokinetik Özellikler:
 
 Uygulanabilir değil
 
-[okunamadı]
+[okunamadı]lışmasında, MenFive’ın IM uygulaması iyi tolere edildi. Dermal [okunamadı]siyon yeri bulgularında advers olmayan değişiklikler çözüldü, kısmen [okunamadı]leşmeye doğru eğilim gösterdi.
+
+[okunamadı]jenisite çalışmaları yapılmamıştır.
 
 ### Notlar
 
@@ -3885,11 +5021,106 @@ Uygulanabilir değil
 # MenFive — kısa ürün bilgisi, fotoğraf 7
 _Kaynak: menfive-y7 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-[kesik]
+[kesik] seroyanıta sahip katılımcıların yüzdesi
+
+[kesik] göre daha düşük etkili olmadığı tespit [kesik]
+
+[kesik] C, Y, W ve X serogrupları [kesik]
+[kesik] serogrup A için seroyanıt oranı %70,5'ti. [kesik]
+[kesik] C, Y ve W serogrupları için ≥ %92,0'dı; [kesik]
+[kesik] MenFive grubundaki seroyanıt oranı, genel [kesik]
+[kesik] grubundan daha yüksekti.
+
+[kesik] aşılamadan 28 gün sonra - Protokol [kesik]
+
+| MenACWY-D (N=595) n (%) (%95 CI) |
+|---|
+| 286 (50,0) (45,8, 54,2) |
+| 531 (95,5) (93,4, 97,1) |
+| 494 (92,0) (89,4, 94,1) |
+| 520 (97,4) (95,6, 98,6) |
+| 48 (9,5) (7,1, 12,4) |
+
+[kesik] GMT'leri Tablo 8'de sunulmaktadır.
+[kesik] aşısına göre daha düşük etkili olmadığı [kesik]
+[kesik] ve X serogrupları için en yüksekti; en düşük [kesik]
+[kesik] grubunda benzer bir profil gözlendi. MenFive [kesik]
+[kesik] her yaş grubunda MenACWY-D grubundan [kesik]
+
+[kesik] Protokol Başına Popülasyon - ACYWX-03
+
+| MenACWY-D (N=595) GMT (%95 CI) |
+|---|
+| 1477,7 (1364,2, 1600,6) |
+| 7,4 (6,2, 8,7) |
+| 215,3 (181,9, 254,9) |
+| 45,8 (36,3, 57,7) |
+| 488,2 (418,2, 570,0) |
+| 4729,7 (4420,0, 5061,2) |
+| 1854,9 (1619,6, 2124,4) |
+| 4815,6 (4380,9, 5293,4) |
+| 12294,6 (10778,9, 14023,4) |
+| 737,1 (641,3, 847,4) |
+
+[kesik] ve %95 CI, 29. günde karşılık gelen log2-dönüştürülmüş [kesik]
+
+[kesik] MenFive grubundaki katılımcıların yüzdesi her [kesik]
+[kesik] titreleri ≥ 128 için benzer bir profil gözlemlendi.
+[kesik] ≥ 128 olan katılımcıların yüzdesi A, C, Y ve W [kesik]
+[kesik] ve her yaş grubu için benzer bir profil gözlemlendi.
+[kesik] X serogruplarına karşı rSBA GMT'leri Tablo 9'da [kesik]
+
+[kesik] 337. gündeki GMT'ler her iki grupta da 1. günde [kesik]
+[kesik] rSBA titrelerindeki geometrik ortalama kat artışı [kesik]
+[kesik] 10.7, 24.9, 188.7 ve 14.1 iken, MenACWY-D grubu [kesik]
+
+[kesik] titreleri - 6 aylık ve 1 yıllık seropersistans verileri - [kesik]
+
+| [kesik] | MenFive (N=523) | | |
+|---|---|---|---|
+| [kesik] | 1.Ziyaret (1.Gün) | 4.Ziyaret (169.Gün) | 5.Ziyaret (337.Gün) |
+| [kesik] | 1391.6 (1269.4, 1525.5) | 6350.7 (5906.0, 6828.8) | 5140.0 (4807.5, 5495.5) |
+| [kesik] | – | 4.6 (4.2, 5.0) | 3.7 (3.4, 4.1) |
+| [kesik] | 8.7 (7.2, 10.5) | 1514.1 (1323.5, 1732.0) | 984.7 (847.2, 1144.6) |
+| [kesik] | – | 175.0 (141.8, 215.9) | 110.7 (89.2, 137.4) |
+| [kesik] | 193.8 (159.4, 235.8) | 6260.6 (5836.2, 6715.8) | 4721.7 (4382.2, 5087.4) |
+| [kesik] | – | 32.1 (26.4, 39.1) | 24.9 (20.3, 30.4) |
+| [kesik] | 44.6 (34.6, 57.4) | 12161.7 (11051.2, 13383.8) | 8202.9 (7417.3, 9071.8) |
+| [kesik] | – | 278.1 (219.1, 353.0) | 188.7 (148.7, 239.4) |
+| [kesik] | 487.4 (410.2, 579.1) | 9299.1 (8448.4, 10235.5) | 6611.0 (6021.2, 7258.6) |
+| [kesik] | – | 19.6 (16.3, 23.4) | 14.1 (11.8, 16.8) |
+
+[kesik] MenACWY-D'ye göre oldukça immünojenik olduğunu ve [kesik]
+[kesik] Ardışık olarak üretilen 3 seri MenFive, tutarlı bağışıklık [kesik]
+[kesik] Günde rSBA ile ölçülen seroyanıta sahip katılımcıların [kesik]
+[kesik] X serogrupları için en yüksekti; A [kesik]
+[kesik] serogrupları için seroyanıt oranı ≥ [kesik]
 
 _[sağ sütun]_
 
-[okunamadı]
+[kesik]
+
+Aşılamadan 28 gün sonra
+
+| Serogrup | [kesik] | [kesik] |
+|---|---|---|
+| A | 14024,7 (13164,8, 14940,8) [?] | 5626,0 (5058,1, 6257,7) [?] |
+| C | 9692,6 (8741,7, 10722,2) [?] | [okunamadı] |
+| Y | 7016,9 (6475,7, 7603,4) | 3646,8 (3188,2, 4171,5) [?] |
+| W | 21225,3 (19061,0, 23635,2) | 11373,6 (9288,1, 13927,5) |
+| X | 9587,1 (8590,4, 10699,4) | 266,3 (199,4, 355,6) |
+
+GMT için iki taraflı %97,5 CI'ler, log dönüştürülmüş titre verileri ve t-testi kullanılarak tahmin edilir. Her tedavi grubunun GMT'sini hesaplamak için, titrelerin log dönüştürülmüş ortalamasının antilogu alınır. Log dönüştürülmüş ortalama titrelerin %97,5 güven sınırlarının antilogu, her tedavi grubunun GMT'si için %97,5 CI'yi sağlar.
+
+29. günde rSBA titreleri ≥128 olan MenFive grubundaki katılımcıların yüzdesi her serogrup için en az %98,3 idi. MenACWY-D grubunda, rSBA titreleri ≥128 olan katılımcıların yüzdesi serogrup X hariç (%76,9) her serogrup için en az %97,8 idi.
+
+**DMID 20-0024 Çalışması (İnfant: 9-11 aylık)**
+
+Bu çalışma, MenFive'ın 9 ila 11 aylık bebeklerde tüm 5 serogrup için güvenli ve MenACWY-TT'den immünolojik olarak daha düşük olmadığını göstermiştir. Çalışma ayrıca MenFive'ın rutin GBP aşıları, kızamık, kızamıkçık ve sarı humma ile eş zamanlı uygulanmasını desteklemektedir. Kızamıkçığa seroyanıt, MenFive grubunda (%80,8) MenACWY-TT grubuna (%85,0) göre biraz daha düşüktü, bu farkın klinik önemi bilinmemektedir.
+
+Protokol popülasyonunda 29. günde rSBA ile ölçülen seroprotektif yanıt oranına sahip katılımcıların yüzdesi Tablo 12'de sunulmaktadır.
+
+Serogrup A için, seroprotektif yanıt oranı (29. günde rSBA titreleri ≥ 8) her iki grupta da %100'dü. MenFive grubunda, seroprotektif yanıt oranı C, Y, W ve X serogrupları için ≥ %94,4'tü. MenACWY-TT grubunda, C, Y ve W serogrupları için seroprotektif yanıt oranı ≥ %97,4 ve serogrup X için %17,3'tü.
 
 Tablo 12: Seroprotektif yanıt oranları (rSBA antikor titreleri ≥ 8) 29. günde A, C, Y, W ve X serogruplarına karşı – Protokol popülasyonuna göre – DMID 20-0024
 
@@ -3904,7 +5135,7 @@ Tablo 12: Seroprotektif yanıt oranları (rSBA antikor titreleri ≥ 8) 29. gün
 
 Güven Aralıkları Miettinen-Nurminen yöntemi kullanılarak hesaplandı.
 
-[okunamadı]
+Seroprotektif yanıt için %95 güven aralığının alt sınırı -%10'luk eşitsizlik sınırını hariç tutuyorsa, MenFive'ın A, C, Y ve W serogrupları için Nimenrix'ten daha düşük etkili olmadığı beyan edilmiştir. Seroprotektif yanıt için %95 güven aralığının alt sınırı %30'un üzerindeyse MenFive'ın serogrup X açısından Nimenrix'ten üstün olduğu beyan edilmiştir.
 
 ### 5.2. Farmakokinetik Özellikler:
 
@@ -3914,7 +5145,7 @@ Uygulanabilir değil
 
 Toksisite ve lokal tolerans çalışmaları:
 
-[okunamadı]
+Tavşanlarda tekrarlanan doz toksisite çalışmasında, MenFive'ın IM uygulaması iyi tolere edildi. Dermal skorlarda, globulinde ve mikroskobik enjeksiyon yeri bulgularında advers olmayan değişiklikler çözüldü, kısmen çözüldü ve/veya iyileşme nekropsisi ile iyileşmeye doğru eğilim gösterdi.
 
 Genotoksisite ve Karsinojenisite:
 
@@ -3922,7 +5153,7 @@ In vitro genotoksisite ve karsinojenisite çalışmaları yapılmamıştır.
 
 Üreme toksisitesi:
 
-[okunamadı]
+Sıçanlarda yapılan üreme ve gelişimsel toksikoloji çalışmasında, MenFive'ın çiftleşme öncesi, gebelik veya emzirme dönemlerinde maternal maruziyet sonrasında maternal doğurganlık veya yavruların doğum öncesi ve sonrası gelişimi üzerinde herhangi bir etkisi görülmemiştir.
 
 ## 6. FARMASÖTİK ÖZELLİKLER
 
@@ -3946,7 +5177,7 @@ Aşının son kullanma tarihi etiket ve ambalaj üzerinde belirtilmiştir.
 
 Buzdolabında saklayın (+2°C ila +8°C). Işıktan koruyun.
 
-[okunamadı]
+Aşı stabildir ve aşının son kullanma tarihi geçmemiş ve aşı flakon monitörünün (VVM) atılma noktasına ulaşmamış olması koşuluyla, rekonstitüye edilmeden hemen önce 15 günlük bir süre boyunca +40°C'ye maruz bırakıldığında kullanılabilir.
 
 Sulandırıcı dondurulmamalı, ancak serin tutulmalıdır.
 
@@ -3960,25 +5191,47 @@ MenFive, aşağıda listelenen sunumlarda sulandırıcı ile birlikte tek doz fl
 
 İmha ve Diğer Kullanımlar İçin Özel Önlemler
 
-[okunamadı]
+Uygulama
+
+Rekonstitüye edilen aşı, renksiz ila soluk sarı bir çözeltidir.
+
+Liyofilize MenFive aşısı, aşıyla birlikte verilen %0.9 sodyum klorür sulandırıcının tüm hacminin liyofilize MenACYWX bileşenini içeren şişeye (tek dozluk flakon) aseptik olarak enjekte edilmesiyle ve ardından tüm içeriğin çözündüğünden emin olmak için hafifçe çalkalanmasıyla rekonstitüye edilir. Sulandırılan çözelti, uygulanmadan önce görsel olarak incelenmeli ve partikül madde görülürse atılmalıdır.
+
+Uygulama için dozun çekilmesinde aseptik teknik kullanılmalıdır. Aşının her 0.5 mL dozu enjeksiyon için bir şırıngaya çekilir ve intramüsküler olarak uygulanır. Her birey için ayrı bir steril iğne ve şırınga kullanılmalıdır. Tam 0.5 mL dozun uygulandığından emin olunmalıdır. Flakondan tam 0.5 mL doz çıkarılamaması durumunda kalan hacim atılmalıdır. Birden fazla flakondan kalan fazla aşı birleştirilmemelidir.
+
+Aşının izlenebilirliğini kolaylaştırmak için, uygulanan ürünün adı ve seri numarası her alıcı için kaydedilmelidir.
+
+İmha
+
+Kullanılmayan aşı veya atık materyal yerel gerekliliklere uygun olarak atılmalıdır. Dökülmeler uygun bir dezenfektanla dezenfekte edilmelidir.
 
 ## 7. TÜRKİYE TEMSİLCİSİ
 
 KEYMEN İLAÇ SAN. VE TİC. A.Ş.
 
-[okunamadı]
+Mustafa Kemal Mah. 2076 Sok. No: 8/3
+06530 Çankaya ANKARA
+Tel: 0 312 485 37 60
+Faks: 0 312 485 37 61
+E-posta: keymen@keymen.com.tr
 
 ÜRETİCİ VE RUHSAT SAHİBİ
 
 SERUM INSTITUTE OF INDIA PVT. LTD.
 
-[okunamadı]
+212/2, Hadapsar, Pune-411028, Hindistan
 
-## 8. RUHSAT NUMARASI(LARI)
+## 8. RUHSAT NUMARA(LARI)SI
+
+–
 
 ## 9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
 
+–
+
 ## 10. METNİN REVİZYON TARİHİ
+
+–
 
 ### Notlar
 
@@ -3997,7 +5250,7 @@ _[sağ sütun]_
 
 Advers ilaç reaksiyonları
 
-[okunamadı]
+Advers ilaç reaksiyonları (AİR’ler) MedDRA Sistem Organ Sınıfına (SOS) göre düzenlenir. Her SOS içinde, tercih edilen terimler azalan sıklığa ve ardından azalan ciddiyete göre düzenlenir. Advers reaksiyonların görülme sıklıkları şu şekilde tanımlanır: çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100); nadir (≥ 1/10.000 ila < 1/1000); çok nadir (< 1/10.000) ve bilinmiyor (mevcut verilerden tahmin edilemiyor).
 
 Tablo 2: Advers ilaç reaksiyonları
 
@@ -4040,11 +5293,11 @@ Anti-kapsüler meningokok antikorları, tamamlayıcı aracılı bakterisidal akt
 
 Klinik çalışmalardan elde edilen immünojenisite verileri:
 
-[okunamadı]
+5 klinik çalışmadan elde edilen immünojenisite verileri (Tablo 1’de sunulan çalışma tasarımı özeti) aşağıda özetlenmiştir. Tüm bu çalışmalarda kullanılan immünojenisitenin işlevsel ölçüsü, antikorların tavşan tamamlayıcısı ile birlikte meningokoku öldürme yeteneğini ölçen bir rSBA idi. Seroyanıt, bağışıklama öncesi rSBA titresi < 8 olan katılımcılar için bağışıklama sonrası rSBA titresi ≥ 32 veya bağışıklama öncesi rSBA titresi ≥ 8 olan katılımcılar için başlangıç seviyesine göre ≥ 4 kat artış olarak tanımlandı.
 
 ACYWX-01 Çalışması (Adult: 18-45 yaş)
 
-[okunamadı]
+A, C, W ve Y serogruplarına karşı seroyanıt yanıt oranı tüm tedavi gruplarında yüksekti (≥ %70), serogrup X için ise adjuvanlı MenFive grubunda katılımcıların %95,0’inde, adjuvansız MenFive grubunda %85,0’inde ve MenACWY-D grubunda %5,0’inde seroyanıt gözlendi (Tablo 3).
 
 Tablo 3: Aşılamadan 28 gün sonra A, C, Y, W ve X serogruplarına karşı seroyanıt oranları - Protokol popülasyonuna göre (ACYWX-01 Çalışması)
 
@@ -4060,11 +5313,17 @@ Fisher’s exact*; %95CI.
 
 Yüzde hesaplamalarında payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
 
-[okunamadı]
+Tedavi grupları arasında bazı farklılıklar bazal titreler için not edilmiş olsa da, A, C, W ve Y serogruplarına karşı rSBA geometrik ortalama titreleri (GMT) aşılamadan 28 gün sonra tüm tedavi gruplarında arttı. 29. günde, rSBA GMT’leri adjuvanlı ve adjuvansız MenFive gruplarında MenACWY-D grubuna kıyasla daha yüksek olma eğilimindeydi (Tablo 4). Serogrup X için, adjuvanlı ve adjuvansız MenFive gruplarında rSBA GMT’lerinde bir artış gözlemlendi.
 
 Tablo 4: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Popülasyonuna göre (ACYWX-01 Çalışması)
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=20) GMT (%95 CI) | Adjuvanlı MenFive (N=20) GMT (%95 CI) | MenACWY-D (N=20) GMT (%95 CI) |
+|---|---|---|---|
+| Başlangıç | | | |
+| A | 350 (119, 1025) | 187 (49.6, 708) | 33.1 (8.42, 130) |
+| C | 4.29 (2.01, 9.15) | 9.85 (3.77, 25.7) | 5.66 (2.15, 14.9) |
+| Y | 2[okunamadı], 95.4) | 10.2 (3.03, 34.4) | [kesik] |
+| W | 2[okunamadı] 117) | [kesik] | [kesik] |
 
 ### Notlar
 

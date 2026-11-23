@@ -14,7 +14,7 @@ Konjuge Meningokokal (A,C,Y,W-135,X) Polisakkarit Aşısı (Liyofilize)
 
 ## 2. KALİTATİF VE KANTİTATİF BİLEŞİM
 
-Her dozu (0,5 ml) şunları içerir:
+Her dozu (0.5 ml) şunları içerir:
 
 Her Meningokokal A, C, Y, W ve X polisakkaritinin 5 µg’ı taşıyıcı bir proteine ayrı ayrı konjuge edilmiştir. Serogrup A ve X polisakkaritleri saflaştırılmış tetanos toksoidine (TT) konjuge edilmiştir ve serogrup C, W ve Y polisakkaritleri rekombinant CRM197 (çapraz reaktif materyal 197, difteri toksininin toksik olmayan bir mutantı) proteinine konjuge edilmiştir.
 
@@ -96,11 +96,39 @@ MenFive ile aşılamanın ardından anti-tetanos toksoidi ve anti-difteri antiko
 
 ### 4.5. Diğer Tıbbi Ürünlerle Etkileşim ve Diğer Etkileşim Biçimleri
 
-MenFive’ın kızamık, kızamıkçık ve sarı humma gibi diğer eş zamanlı rutin GUP aşılarıyla birlikte güvenli[ kesik]
+MenFive’ın kızamık, kızamıkçık ve sarı humma gibi diğer eş zamanlı rutin GUP aşılarıyla birlikte güvenliği[?]
 
 _[sağ sütun]_
 
-[okunamadı]
+aydan 85 yaşına kadar olan katılımcılara uygulana[kesik]
+adjuvansız formülasyondu).
+
+Advers ilaç reaksiyonları
+
+Advers ilaç reaksiyonları (AİR’ler) MedDRA Sistem[kesik]
+tercih edilen terimler azalan sıklığa ve ardından azalan[kesik]
+sıklıkları şu şekilde tanımlanır: çok yaygın (≥ 1/10)[kesik]
+ila < 1/100); nadir (≥ 1/10.000 ila < 1/1000); çok na[kesik]
+edilemiyor).
+
+Tablo 2: Advers ilaç reaksiyonları
+
+| MedDRA SOS | Sıklık |
+|---|---|
+| Sinir sistemi bozuklukları | Çok yaygın |
+|  | Yaygın |
+|  | Yaygın olmayan |
+| Gastrointestinal bozukluklar | Yaygın |
+|  | Yaygın olmayan |
+| Metabolizma ve beslenme bozuklukları | Yaygın |
+| Kas-iskelet ve bağ dokusu bozuklukları | Yaygın |
+| Genel bozukluklar ve uygulama yeri durumu | Çok yaygın |
+|  | Yaygın |
+|  | Yaygın olmayan |
+
+*6 yaş altındaki çocuklarda
+*≥ 6 yaş katılımcılarda
+†Pireksi hararet ve ateşi de kapsar
 
 ### 4.9. Doz Aşımı
 
@@ -119,7 +147,65 @@ ATC kodu: J07AH
 
 Etki Mekanizması:
 
-[okunamadı]
+Anti-kapsüler meningokok antikorları, tamamlayıc[kesik]
+karşı koruma sağlar. MenFive, tavşan Serum Bakte[kesik]
+C, W, Y ve X serogruplarının kapsüler polisakkarit[kesik]
+
+Klinik çalışmalardan elde edilen immünojenisite[kesik]
+
+5 klinik çalışmadan elde edilen immünojenisite[kesik]
+özetlenmiştir. Tüm bu çalışmalarda kullanılan[kesik]
+tamamlayıcısı ile birlikte meningokoku öldürme[kesik]
+rSBA titresi < 8 olan katılımcılar için bağışıklama[kesik]
+≥ 8 olan katılımcılar için başlangıç seviyesine gör[kesik]
+
+ACYWX-01 Çalışması (Adult: 18-45 yaş)
+
+A, C, W ve Y serogruplarına karşı seroyanıt yan[kesik]
+için ise adjuvanlı MenFive grubunda katılımcıla[kesik]
+MenACWY-D grubunda %5,0’inde seroyanıt göz[kesik]
+
+Tablo 3: Aşılamadan 28 gün sonra A, C, Y, [kesik]
+popülasyonuna göre (ACYWX-01 Çalışması)
+
+| Serogrup | Adjuvansız MenFive (N=20) n (%) (%95 CI) |
+|---|---|
+| A | 14 (70.0) (45.7 - 88.1) |
+| C | 20 (100.0) (83.2 - 100.0) |
+| Y | 19 (95.0) (75.1 - 99.9) |
+| W | 19 (95.0) (75.1 - 99.9) |
+| X | 17 (85.0) (62.1 - 96.8) |
+
+Fisher’s exact¹ %95CI
+
+Yüzde hesaplamalarında payda, başlangıç ve aşıla[kesik]
+
+Tedavi grupları arasında bazı farklılıklar [kesik]
+karşı rSBA geometrik ortalama titreleri (G[kesik]
+rSBA GMT’leri adjuvanlı ve adjuvansız [kesik]
+eğilimindeydi (Tablo 4). Serogrup X içi[kesik]
+artış gözlemlendi.
+
+Tablo 4: Serogrup Başına rSBA Geo[kesik]
+Çalışması)
+
+| Serogrup | Adjuvansız Men[kesik] (N=20) GMT (%95 CI[kesik] |
+|---|---|
+| Başlangıç | |
+| A | 350 (119, 1025) |
+| C | [okunamadı] |
+| Y | 24.3 (6.16, 95.4) |
+| W | 26.9 (6.19, 117) |
+| X | 5.28 (1.89, 14.8) |
+| Aşılamadan 28 gün sonra | |
+| A | 5595 (3324, 9418) |
+| C | 6208 (3579, 10771) |
+| Y | 9410 (4935, 17942) |
+| W | 11191 ([okunamadı]) |
+| X | 1607 (892, 2898) |
+
+29. günde rSBA titreleri ≥ 128 olan katılımcı[kesik]
+ile %100 arasında değişirken, MenACWY-D[kesik]
 
 ### Notlar
 

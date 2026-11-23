@@ -16,13 +16,13 @@ Steril
 - Yardımcı maddeler: sükroz, sodyum glutamat, sodyum klorür, potasyum klorür, disodyum hidrojen fosfat dodekahidrat ve potasyum dihidrojen fosfattır.
 - Çözücü: Enjeksiyonluk su
 
-Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.
+**Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.**
 
-- Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
-- Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
-- Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
-- Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde, doktorunuza bu aşıyı kullandığınızı söyleyiniz.
-- Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
+- *Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.*
+- *Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.*
+- *Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.*
+- *Bu aşının kullanımı sırasında doktora veya hastaneye gittiğinizde, doktorunuza bu aşıyı kullandığınızı söyleyiniz.*
+- *Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.*
 
 ### Bu Kullanma Talimatında:
 1. Canlı Suçiçeği Aşısı nedir ve ne için kullanılır?
@@ -56,13 +56,13 @@ _[sağ sütun]_
 Aşı virüsünün bulaşması nadiren gerçekleşebilir. Canlı Suçiçeği Aşısı ile aşılanmış bireyler, özellikle aşılamadan 2 veya 3 hafta sonra suçiçeği benzeri döküntü geliştirenler, mümkün olduğunca hamile kadınlarla (özellikle hamileliğin ilk üç ayı boyunca), şiddetli suçiçeğine duyarlı lösemi hastalarıyla ve bağışıklık sistemini baskılayıcı tedavi gören bireylerle yakın temastan kaçınmaya çalışmalıdır.
 
 ### Hamilelik
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 - Canlı Suçiçeği Aşısı, hamile kadınlara veya önümüzdeki 3 ay içinde hamile kalmayı planlayan doğurgan kadınlara uygulanmamalıdır.
 
-Aşılama döneminde hamile olduğunuzu farkederseniz hemen doktorunuza veya eczacınıza danışınız.
+*Aşılama döneminde hamile olduğunuzu farkederseniz hemen doktorunuza veya eczacınıza danışınız.*
 
 ### Emzirme
-Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
 - Canlı zayıflatılmış suçiçeği virüsünün insan sütüne geçip geçmediği bilinmemektedir. Tedbir olarak, emzirme döneminde Canlı Suçiçeği Aşısı ile aşılamadan kaçınmak tercih edilmelidir.
 
 ### Araç ve makine kullanımı
@@ -90,7 +90,7 @@ Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ### Notlar
 - Son cümle fotoğrafın alt kenarında kesilmektedir.
-- Etkin madde miktarındaki “lg” karakterleri görüntüde küçüktür.
+- Etkin madde miktarı fotoğraftaki “3.3 lg PFU” yazımıyla aktarılmıştır.
 
 ---
 
@@ -98,7 +98,7 @@ _(Fotoğraf 2: sucicegi-y2 — Fazla doz devamı → Sağlık personeli için bi
 
 sağlık uzmanı tarafından uygulandığından, fazla miktarda verilmesi çok düşük ihtimaldir.
 
-Canlı Suçiçeği Aşısı'ndan kullanmanız gerekenden fazlasını kullanmışsanız, bir doktor veya eczacı ile konuşunuz.
+*Canlı Suçiçeği Aşısı'ndan kullanmanız gerekenden fazlasını kullanmışsanız, bir doktor veya eczacı ile konuşunuz.*
 
 ## 4. Olası yan etkiler nelerdir?
 Tüm ilaçlar ve aşılar gibi, bu aşı da yan etkilere neden olabilir, ancak bu etkiler herkeste görülmez.

@@ -179,7 +179,7 @@ Sulandırıcıyla birlikte sağlanan liyofilize aşı
 
 10 flakon içeren kutu ve 10 ampul içeren kutu
 
-Alt Ambalajı: Amber renkli tubuler Tip I flakon, 16 x 35 mm flakon, 13 mm oluklu, Gri Bromobütil Kauçuk Tıpa ve 13 mm Flip off Alüminyum Kapak.
+Aşı Ambalajı: Amber renkli tubuler Tip I flakon, 16 x 35 mm flakon, 13 mm oluklu, Gri Bromobütil Kauçuk Tıpa ve 13 mm Flip off Alüminyum Kapak.
 
 Sulandırıcı Ambalajı: Şeffaf, transparan, OPC Tip I Cam Ampul.
 
@@ -231,10 +231,10 @@ _(foto: kkk-y3)_
 
 ## 10. KÜB’ÜN REVİZYON TARİHİ:
 
-_[Bu bölüm fotoğraflarda yok]_
+_[Revizyon tarihi fotoğrafta belirtilmemiş]_
 
 ## Aktarım notları
 
 - Basılı yazım hataları (aynen korunanlar): “yada”, “malin”, “0,5 ml) ı”, “Gurup”.
-- Belirsiz okumalar: Yok olarak işaretlendi.
-- Eksik/kesik bölümler: 10. bölümün başlığı görülüyor, tarihi görünmüyor. Fosforlu kalem işaretleri aktarılmadı.
+- Belirsiz okumalar: İşaretlenmiş belirsiz okuma yok.
+- Eksik/kesik bölümler: 10. bölümün başlığı ve altındaki boş alan görülüyor; tarih belirtilmemiş. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.

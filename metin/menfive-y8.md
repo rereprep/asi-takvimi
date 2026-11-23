@@ -9,7 +9,7 @@ _[sağ sütun]_
 
 Advers ilaç reaksiyonları
 
-[okunamadı]
+Advers ilaç reaksiyonları (AİR’ler) MedDRA Sistem Organ Sınıfına (SOS) göre düzenlenir. Her SOS içinde, tercih edilen terimler azalan sıklığa ve ardından azalan ciddiyete göre düzenlenir. Advers reaksiyonların görülme sıklıkları şu şekilde tanımlanır: çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100); nadir (≥ 1/10.000 ila < 1/1000); çok nadir (< 1/10.000) ve bilinmiyor (mevcut verilerden tahmin edilemiyor).
 
 Tablo 2: Advers ilaç reaksiyonları
 
@@ -52,11 +52,11 @@ Anti-kapsüler meningokok antikorları, tamamlayıcı aracılı bakterisidal akt
 
 Klinik çalışmalardan elde edilen immünojenisite verileri:
 
-[okunamadı]
+5 klinik çalışmadan elde edilen immünojenisite verileri (Tablo 1’de sunulan çalışma tasarımı özeti) aşağıda özetlenmiştir. Tüm bu çalışmalarda kullanılan immünojenisitenin işlevsel ölçüsü, antikorların tavşan tamamlayıcısı ile birlikte meningokoku öldürme yeteneğini ölçen bir rSBA idi. Seroyanıt, bağışıklama öncesi rSBA titresi < 8 olan katılımcılar için bağışıklama sonrası rSBA titresi ≥ 32 veya bağışıklama öncesi rSBA titresi ≥ 8 olan katılımcılar için başlangıç seviyesine göre ≥ 4 kat artış olarak tanımlandı.
 
 ACYWX-01 Çalışması (Adult: 18-45 yaş)
 
-[okunamadı]
+A, C, W ve Y serogruplarına karşı seroyanıt yanıt oranı tüm tedavi gruplarında yüksekti (≥ %70), serogrup X için ise adjuvanlı MenFive grubunda katılımcıların %95,0’inde, adjuvansız MenFive grubunda %85,0’inde ve MenACWY-D grubunda %5,0’inde seroyanıt gözlendi (Tablo 3).
 
 Tablo 3: Aşılamadan 28 gün sonra A, C, Y, W ve X serogruplarına karşı seroyanıt oranları - Protokol popülasyonuna göre (ACYWX-01 Çalışması)
 
@@ -72,11 +72,17 @@ Fisher’s exact*; %95CI.
 
 Yüzde hesaplamalarında payda, başlangıç ve aşılama sonrası ziyaretlerde eksik olmayan değerlere sahip katılımcı sayısıdır.
 
-[okunamadı]
+Tedavi grupları arasında bazı farklılıklar bazal titreler için not edilmiş olsa da, A, C, W ve Y serogruplarına karşı rSBA geometrik ortalama titreleri (GMT) aşılamadan 28 gün sonra tüm tedavi gruplarında arttı. 29. günde, rSBA GMT’leri adjuvanlı ve adjuvansız MenFive gruplarında MenACWY-D grubuna kıyasla daha yüksek olma eğilimindeydi (Tablo 4). Serogrup X için, adjuvanlı ve adjuvansız MenFive gruplarında rSBA GMT’lerinde bir artış gözlemlendi.
 
 Tablo 4: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Popülasyonuna göre (ACYWX-01 Çalışması)
 
-[okunamadı]
+| Serogrup | Adjuvansız MenFive (N=20) GMT (%95 CI) | Adjuvanlı MenFive (N=20) GMT (%95 CI) | MenACWY-D (N=20) GMT (%95 CI) |
+|---|---|---|---|
+| Başlangıç | | | |
+| A | 350 (119, 1025) | 187 (49.6, 708) | 33.1 (8.42, 130) |
+| C | 4.29 (2.01, 9.15) | 9.85 (3.77, 25.7) | 5.66 (2.15, 14.9) |
+| Y | 2[okunamadı], 95.4) | 10.2 (3.03, 34.4) | [kesik] |
+| W | 2[okunamadı] 117) | [kesik] | [kesik] |
 
 ### Notlar
 

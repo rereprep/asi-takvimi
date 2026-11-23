@@ -17,11 +17,11 @@ window.ASILAR = [
   "ruhsat": "Arvatera İlaç San. ve Tic. A.Ş., Sarıyer/İstanbul (ithalatçı)",
   "fotolar": [
    {
-    "dosya": "bevac-1",
+    "dosya": "bevac-y1",
     "baslik": "Kısa ürün bilgisi, 1. sayfa"
    },
    {
-    "dosya": "bevac-2",
+    "dosya": "bevac-y2",
     "baslik": "Kısa ürün bilgisi, 2. sayfa"
    },
    {
@@ -37,7 +37,7 @@ window.ASILAR = [
     "kaynak": "DSÖ"
    }
   ],
-  "not": "Kısa ürün bilgisinin iki sayfası fotoğraflarda tam olarak var. İnternette Türkçe KÜB veya KT dosyası bulunamadı. Kutuda \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor.",
+  "not": "Kısa ürün bilgisinin iki sayfası fotoğraflarda var. İnternette Türkçe KÜB veya KT dosyası bulunamadı. Kutuda \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor.",
   "metinler": [
    {
     "dosya": "bevac-1",
@@ -60,7 +60,7 @@ window.ASILAR = [
   "tamAd": "BCG Aşısı 1 mL ID, enjeksiyonluk süspansiyon için liyofilize toz içeren çok dozlu flakon (canlı, attenüe)",
   "bilesim": "Bir dozda (0,1 mL) 2 × 10⁵ – 8 × 10⁵ CFU canlı attenüe BCG (Bacillus Calmette-Guérin).",
   "uretici": "Serum Institute of India Pvt. Ltd. (Hindistan)",
-  "ruhsat": "Keymen İlaç San. ve Tic. A.Ş.",
+  "ruhsat": "Keymen İlaç San. ve Tic. A.Ş. (Türkiye temsilcisi)",
   "fotolar": [
    {
     "dosya": "bcg-y1",
@@ -207,8 +207,8 @@ window.ASILAR = [
   "urun": "Hexaxim",
   "tamAd": "HEXAXIM 0,5 mL IM enjeksiyonluk süspansiyon içeren kullanıma hazır enjektör",
   "bilesim": "Difteri ve tetanoz toksoidleri, aselüler boğmaca antijenleri (boğmaca toksoidi, filamentöz hemaglütinin), inaktif poliovirüs tip 1-2-3, hepatit B yüzey antijeni ve tetanoz proteinine konjuge Hib polisakkariti.",
-  "uretici": "Sanofi Pasteur",
-  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş.",
+  "uretici": "Sanofi Winthrop Industrie, Val de Reuil (Fransa)",
+  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş., Şişli/İstanbul (ruhsat sahibi)",
   "fotolar": [
    {
     "dosya": "hexaxim-y1",
@@ -417,7 +417,7 @@ window.ASILAR = [
   "urun": "Healive (pediatrik)",
   "tamAd": "Healive Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik), flakon içerisinde enjeksiyonluk süspansiyon",
   "bilesim": "0,5 mL'lik pediatrik dozda 250 U inaktive hepatit A virüs antijeni (TZ84 suşu), alüminyum hidroksite adsorbe.",
-  "uretici": "Sinovac Biotech Co., Ltd. (Pekin, Çin)",
+  "uretici": "Sinovac Biotech Co., Ltd., Pekin (Çin)",
   "ruhsat": "Keyvac Biyolojik Ürünler San. ve Tic. A.Ş., Sincan/Ankara (mümessil)",
   "fotolar": [
    {
@@ -455,8 +455,8 @@ window.ASILAR = [
   "urun": "Tetraxim",
   "tamAd": "TETRAXIM 0,5 mL IM enjeksiyon için süspansiyon içeren kullanıma hazır enjektör",
   "bilesim": "Difteri toksoidi (≥ 20 IU), tetanoz toksoidi (≥ 40 IU), boğmaca toksoidi ve filamentöz hemaglütinin (25'er mikrogram), inaktif poliovirüs tip 1-2-3.",
-  "uretici": "Sanofi Pasteur",
-  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş.",
+  "uretici": "Sanofi Pasteur, Marcy l'Etoile (Fransa)",
+  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş., Şişli/İstanbul (ruhsat sahibi)",
   "fotolar": [
    {
     "dosya": "tetraxim-y1",
@@ -514,8 +514,8 @@ window.ASILAR = [
   "urun": "Td-VAC",
   "tamAd": "Td-VAC 0,5 mL IM enjeksiyonluk süspansiyon, adsorbe difteri ve tetanoz aşısı",
   "bilesim": "0,5 mL'lik dozda difteri toksoidi ≤ 5 Lf (≥ 2 IU) ve tetanoz toksoidi ≥ 5 Lf (≥ 40 IU), alüminyum fosfata adsorbe.",
-  "uretici": "Serum Institute of India Pvt. Ltd. (Hindistan)",
-  "ruhsat": "Keymen İlaç San. ve Tic. A.Ş.",
+  "uretici": "Serum Institute of India Pvt. Ltd., Pune (Hindistan)",
+  "ruhsat": "Keymen İlaç San. ve Tic. A.Ş., Çankaya/Ankara (ruhsat sahibi)",
   "fotolar": [
    {
     "dosya": "td-vac-y1",
@@ -555,12 +555,12 @@ window.DIGER_ASILAR = [
   "id": "tdab",
   "kisa": "Tdab",
   "ad": "Tetanoz, difteri, aselüler boğmaca aşısı (erişkin tipi)",
-  "grup": "Gebelere önerilir (Sağlık Bakanlığı erişkin aşı uygulamaları)",
+  "grup": "Gebelere uygulanır (Sağlık Bakanlığı, 2 Nisan 2025 itibarıyla)",
   "urun": "Adacel",
   "tamAd": "ADACEL 0,5 mL IM enjeksiyonluk süspansiyon içeren flakon",
   "bilesim": "Tetanoz toksoidi, azaltılmış miktarda difteri toksoidi ve aselüler boğmaca antijenleri.",
-  "uretici": "Sanofi Pasteur Limited (Toronto, Kanada)",
-  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş.",
+  "uretici": "Sanofi Pasteur Limited, Toronto (Kanada)",
+  "ruhsat": "Sanofi Pasteur Aşı Tic. A.Ş., Şişli/İstanbul (ruhsat sahibi)",
   "fotolar": [
    {
     "dosya": "adacel-y1",
@@ -604,7 +604,7 @@ window.DIGER_ASILAR = [
   "id": "men",
   "kisa": "Meningokok",
   "ad": "Meningokok konjuge aşısı (A, C, Y, W, X)",
-  "grup": "Risk grubundaki erişkinlere önerilir (Sağlık Bakanlığı erişkin aşı uygulamaları)",
+  "grup": "Risk gruplarında ve hac/umre yolcularında kullanılan meningokok aşısı",
   "urun": "MenFive",
   "tamAd": "MenFive, Konjuge Meningokokal (A,C,Y,W-135,X) Polisakkarit Aşısı (Liyofilize)",
   "bilesim": "0,5 mL'lik dozda A, C, Y, W ve X serogruplarının her birinden 5 µg polisakkarit; A ve X tetanoz toksoidine (7,8–33,4 µg), C, W ve Y CRM197'ye (11,7–50,1 µg) konjuge. Yardımcı maddeler: sükroz, sodyum sitrat dihidrat, Tris tamponu, sodyum klorür, enjeksiyonluk su. Aşıda ve sulandırıcıda koruyucu madde yoktur.",

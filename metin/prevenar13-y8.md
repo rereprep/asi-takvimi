@@ -1,11 +1,11 @@
 # Prevenar 13 — kısa ürün bilgisi, fotoğraf 8
 _Kaynak: prevenar13-y8 — HIV enfeksiyonu → KÜB'ÜN YENİLENME TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
 
-[okunamadı]
+13 dozundan yaklaşık 1 ay sonra 231-255 değerlendirilebilir deneğin bağışıklık yanıtları incelenmiştir. İlk dozdan sonra, PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci ve üçüncü doz PREVENAR 13'ten sonra bağışıklık yanıtları ilk dozdan sonraki yanıtlara benzer ya da daha yüksektir. Çalışmada, 162 denek daha önce bir doz 23-valan pnömokokal polisakkarid aşısı, 143 denek daha önce 2 doz ve 26 denek ise daha önce 2'den fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuştur. Daha önce iki veya daha fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuş deneklerde daha önce tek doz aşı olmuş deneklere benzer bağışıklık yanıtı alınmıştır.
 
 ### Hematopoietik kök hücre nakli
 
-[okunamadı]
+2 yaşında ya da sonra allojenik hematopoietik kök hücre nakli (HSCT) olmuş ve altta yatan hastalığı hematolojik olarak tamamen gerileyen ya da lenfoma ve miyelom durumunda kısmi de olsa çok iyi gerileme görülen çocuklar ve erişkinlere dozlar arasında en az 1 ay ara verilerek üç doz PREVENAR 13 uygulanmıştır. İlk doz HSCT'den 3 ile 6 ay sonra uygulanmıştır. Üçüncü dozdan 6 ay sonra dördüncü PREVENAR 13 (rapel) dozu uygulanmıştır. Genel tavsiyeler uyarınca, dördüncü PREVENAR 13 dozundan bir ay sonra tek doz 23-valanlı pnömokokal polisakkarid aşısı yapılmıştır. Aşılamadan yaklaşık bir ay sonra 168-211 değerlendirilebilir deneğin bağışıklık yanıtı IgG GMC testi ile ölçülmüştür. Her PREVENAR 13 dozundan sonra PREVENAR 13 antikor düzeylerinde artışa neden olmuştur. Dördüncü doz PREVENAR 13 uygulandıktan sonra bağışıklık yanıtları üçüncü doza göre tüm serotipler için anlamlı ölçüde artmıştır. Bu çalışmada fonksiyonel antikor (OPA) titreleri ölçülmemiştir.
 
 ### 5.2. Farmakokinetik özellikler
 
