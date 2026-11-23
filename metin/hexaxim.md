@@ -1,5 +1,7 @@
 # HEXAXIM
-_Kaynak: temiz-fotograflar/hexaxim.jpg — Kullanma talimatının ilk sayfası; sağ sütunun büyük bölümü kadraj dışında kalmış._
+_Kaynak: yeni-temiz-fotograflar/hexaxim-y1…y6 — Kullanma talimatı; başlangıç, 1–5. bölümler ve sağlık personeli için bilgiler._
+
+_(foto: hexaxim-y1)_
 
 > ***Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.***
 
@@ -71,31 +73,297 @@ Disodyum hidrojen fosfat, potasyum dihidrojen fosfat, L-fenilalanini de içeren 
 
 ## 1. HEXAXIM nedir ve ne için kullanılır?
 
+_(foto: hexaxim-y1)_
+
 - HEXAXIM; difteri, tetanoz, boğmaca, hepatit B, çocuk felci ve *Haemophilus influenzae* tip b'nin neden olduğu ciddi hastalıklara karşı koruma sağlamaya yardımcı olur. HEXAXIM, altı haftalık yaştan itibaren çocuklara uygulanır.
 
-_[Sağ sütunun görünen satır başları fotoğraf kenarında kesiliyor.]_
+- HEXAXIM, piston tıpası ve uç kapağı olan 0,5 mL'lik kullanıma hazır cam enjektör içerisinde sunulan, beyazımsı, bulanık görünümü olan bir sıvıdır. 1 veya 10 enjektörlük ambalajlarda, iğnesiz olarak ve tek veya iki ayrı iğne ilaveli olarak sunulmaktadır.
+- HEXAXIM (DTaP-IPV-HB-Hib), bulaşıcı hastalıklara karşı koruma sağlamak için kullanılan bir aşıdır.
 
-- HEX[kesik]  
-  içer[kesik]  
-  enj[kesik]  
-  sun[kesik]
-- HE[kesik]  
-  kul[kesik]
+Aşı, vücudun aşağıda belirtilen farklı enfeksiyonlara yol açan bakteri ve virüslere karşı kendi koruma mekanizmasını (antikorlar) oluşturmasına neden olarak işlev görür:
 
-Aşı, [kesik]  
-karş[kesik]  
-gör[kesik]
+- Difteri, çoğunlukla ilk olarak boğazı etkileyen bulaşıcı bir hastalıktır. Boğazdaki enfeksiyon, ağrıya ve boğulmaya yol açabilen şişmeye neden olur. Hastalığa neden olan bakteri, kalbe, böbreklere ve sinirlere zarar verebilen bir toksin (zehir) de üretmektedir.
+- Tetanoz (sıklıkla kazıklı humma olarak adlandırılır), çoğunlukla derin bir yaraya giren tetanoz bakterisinden kaynaklanır. Bakteri, nefes alınamamasına ve boğulma olasılığına yol açan kas spazmlarına neden olan bir toksin (zehir) de üretmektedir.
+- Boğmaca (sıklıkla boğmaca öksürüğü olarak adlandırılır), hava yollarını etkileyen son derece bulaşıcı bir hastalıktır. Solunum sorunlarına yol açabilen şiddetli öksürüğe neden olur. Öksürüğün sıklıkla “çığlığa” benzer bir sesi vardır. Bu öksürük bir ila iki ay ya da daha uzun bir süre devam edebilir. Boğmaca öksürüğü; kulak enfeksiyonlarına, uzun bir süre devam edebilen göğüs enfeksiyonlarına (bronşit), akciğer enfeksiyonlarına (zatürre), nöbetlere, beyin hasarına ve hatta ölüme neden olabilmektedir.
+- Hepatit B hastalığı, hepatit B virüsünden kaynaklanır. Karaciğerin şişmesine (iltihaplanmasına) neden olur. Bazı kişilerde virüs uzun bir süre vücutta kalabilir ve sonuçta karaciğer kanseri de dahil olmak üzere ciddi karaciğer sorunlarına yol açabilir.
+- Çocuk felci (sıklıkla yalnızca polio olarak adlandırılır), sinirleri etkileyen virüslerden kaynaklanmaktadır. En yaygın olarak bacaklarda kas zayıflığına ya da kas felcine yol açabilir. Solunumu ve yutkunmayı kontrol eden kasların felci ölümcül olabilir.
+- *Haemophilus influenzae* tip b enfeksiyonları (sıklıkla Hib olarak adlandırılır) ciddi bakteriyel enfeksiyonlardır ve beyin hasarına, sağırlığa, sara hastalığına ya da kısmi körlüğe yol açabilen menenjite (beynin dış kısmını kaplayan zarın iltihabı) neden olabilir. Enfeksiyon, yutma ve nefes alma güçlüklerine yol açan boğaz iltihabı ve şişmesine de neden olabilmekte ve kan, akciğerler, deri, kemikler ve eklemler gibi vücudun diğer bölümlerini de etkileyebilir.
 
-- D[kesik]  
-  e[kesik]  
-  n[kesik]  
-  d[kesik]
-- T[kesik]
+### Aşının sağladığı korumaya ilişkin önemli bilgiler
 
-_[Sağ sütunda sonraki satırlar fotoğraf kenarında okunamayacak kadar kesiktir.]_
+_(foto: hexaxim-y2)_
+
+- HEXAXIM, yalnızca aşının hedeflediği bakteri ya da virüslerden kaynaklanmaları durumunda bu hastalıklardan korunmaya yardımcı olacaktır. Bunlar dışında kalan başka bakteri ya da virüslerden kaynaklanmaları durumunda, çocuğunuz benzer belirtileri olan hastalıklara yakalanabilir.
+- Aşı herhangi bir canlı bakteri ya da virüs içermemektedir ve koruma sağladığı bulaşıcı hastalıklardan herhangi birine neden olabilmesi söz konusu değildir.
+- Bu aşı, diğer *Haemophilus influenzae* tiplerinin neden olduğu enfeksiyonlara ya da başka mikro-organizmalardan kaynaklanan menenjite karşı koruma sağlamaz.
+- HEXAXIM, hepatit A, hepatit C ve hepatit E gibi diğer ajanların neden olduğu hepatit enfeksiyonuna karşı koruma sağlamayacaktır.
+- Hepatit B belirtilerinin gelişme süresinin uzun olması nedeniyle, aşı uygulaması sırasında tanı konmamış bir hepatit B enfeksiyonunun mevcut olması mümkündür. Aşı, bu tür hastalarda hepatit B enfeksiyonunu önlemeyebilir.
+- Diğer aşılarda olduğu gibi HEXAXIM, aşı olan çocukları % 100 korumayabilir.
+
+## 2. HEXAXIM'i kullanmadan önce dikkat edilmesi gerekenler
+
+_(foto: hexaxim-y2)_
+
+HEXAXIM'in çocuğunuz için uygun olduğundan emin olmalısınız; aşağıda belirtilen durumlardan herhangi biri çocuğunuz için geçerli ise, doktorunuza ya da hemşirenize bilgi vermeniz önemlidir. Anlamadığınız herhangi bir şey var ise, doktorunuz, eczacınız ya da hemşirenizden açıklama isteyiniz.
+
+### HEXAXIM'i aşağıdaki durumlarda KULLANMAYINIZ
+
+Eğer, (çocuğunuzda)
+
+- HEXAXIM uygulandıktan sonra solunum bozukluğu ya da yüzde şişme (anafilaktik reaksiyon) ortaya çıkmışsa
+- Aşağıdakilere karşı bir alerjik reaksiyon göstermişse:
+  - Etkin maddelere karşı,
+  - Kullanma Talimatı'nın başında liste olarak verilen yardımcı maddelerden herhangi birine karşı,
+  - Üretim süreci sırasında kullanılan maddeler olmaları nedeniyle, glutaraldehit, formaldehit, neomisin, streptomisin ya da polimiksin B'ye karşı,
+  - Daha önceki HEXAXIM uygulamasından ya da diğer difteri, tetanoz, boğmaca, çocuk felci, hepatit B veya Hib içeren aşıların uygulanmasından sonra.
+- Bir boğmaca aşısı (hücre içermeyen ya da tam hücreli boğmaca) dozundan önceki 7 gün içinde beyni etkileyen ciddi bir reaksiyon (ensefalopati) şikayeti ortaya çıkmış ise.
+- Beyni ve sinir sistemini etkileyen kontrol altına alınmamış bir bozukluğu ya da ciddi bir hastalığı (kontrol altına alınmamış nörolojik hastalık) veya kontrol altına alınmamış sara (epilepsi) hastalığı var ise.
+
+### HEXAXIM'i aşağıdaki durumlarda DİKKATLİ KULLANINIZ
+
+Eğer, (çocuğunuzda)
+
+- Orta dereceli ya da yüksek ateşi veya akut bir hastalığı (örneğin ateş, boğaz ağrısı, öksürük, soğuk algınlığı veya grip) var ise, HEXAXIM ile aşılamanın, çocuğunuzun durumu düzelinceye kadar ertelenmesi gerekebilir.
+- Boğmaca içeren herhangi bir aşının uygulanmasından sonra aşağıdaki olaylardan herhangi biri ortaya çıkmışsa, boğmaca içeren aşının daha sonraki dozlarını uygulama kararı dikkatle değerlendirilecektir:
+  - Belirlenebilen başka bir nedene bağlı olmaksızın aşılamadan sonraki 48 saat içinde ortaya çıkan 40°C ya da daha yüksek ateş.
+  - Aşılamadan sonraki 48 saat içinde ortaya çıkan hipotonik-hiporesponsif olay (enerjinin azalması) içeren kollaps veya şok benzeri durum.
+  - Aşılamadan sonra 48 saat içinde ortaya çıkan ve 3 saat ya da daha uzun süren devamlı, durdurulamayan ağlama.
+  - Aşılamadan sonraki 3 gün içinde ortaya çıkan, ateşli ya da ateşsiz nöbetler (konvülziyonlar).
+- Daha önce, tetanoz toksoidi (tetanoz toksininin inaktif bir formu) içeren bir aşının uygulanmasından sonra, ağrı, felç ve duyarlılık bozukluklarına neden olan sinirlerdeki geçici iltihap (Guillain-Barre sendromu) durumu ya da kol ve omuzda hareket yeteneğinin azalması ve şiddetli ağrı (brakiyal nörit) ortaya çıkmış ise. Bu durumda, tetanoz toksoidi içeren başka herhangi bir aşı uygulama kararı doktorunuz tarafından değerlendirilmelidir.
+- Bağışıklık sistemini (vücudun doğal savunma sistemi) baskılayan bir tedavi görüyorsa ya da bağışıklık sisteminin zayıflamasına neden olan herhangi bir hastalığı var ise. Bu durumda aşıya verilen bağışıklık yanıtı azalabilir. Normal olarak aşılamadan önce tedavinin tamamlanmasına ya da hastalığın düzelmesine kadar beklenmesi önerilmektedir. Bununla birlikte, HIV enfeksiyonu (AIDS) gibi bağışıklık sistemlerini etkileyen uzun süreli sorunları olan çocuklara yine de HEXAXIM uygulanabilir; ancak aşının sağladığı koruma, bağışıklık sistemi sağlıklı olan çocuklardaki kadar yüksek olmayabilir.
+- Kronik böbrek fonksiyon bozukluğu veya yetmezliği de (böbreklerin doğru şekilde çalışamaması) dahil olmak üzere, akut ya da kronik bir hastalık şikayeti var ise.
+- Tanı konmamış olan herhangi bir beyin hastalığı ya da kontrol altına alınmamış sara (epilepsi) şikayeti var ise. Doktorunuz, aşılamanın sağladığı potansiyel yararı değerlendirecektir.
+- Kan ile ilgili olarak, kolayca morarmaya ya da önemsiz kesiklerden sonra uzun süreli kanamaya neden olan herhangi bir sorunu var ise. Doktorunuz çocuğunuzun HEXAXIM ile aşılanma gereksinimi hakkında bilgi verecektir.
+
+Bayılma, herhangi bir iğne enjeksiyonundan sonra ve hatta önce gerçekleşebilir. Dolayısıyla çocuğunuz önceki bir enjeksiyonda bayıldıysa doktorunuza veya hemşirenize söyleyiniz.
+
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+
+Bu uyarılar geçmişteki herhangi bir dönemde dahi olsa çocuğunuz için geçerliyse lütfen doktorunuza danışınız.
+
+### HEXAXIM'in yiyecek ve içecek ile kullanılması
+
+Kas içine enjeksiyon yoluyla uygulandığından yiyecek ve içecek ile etkileşimi beklenmemektedir.
+
+### Hamilelik
+
+Bu aşı, çocuk doğurma çağındaki kadınlara uygulamaya yönelik değildir.
+
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
+
+HEXAXIM'in hamilelik döneminde kullanımına ilişkin veri bulunmamaktadır.
+
+*Tedaviniz sırasında hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.*
+
+### Emzirme
+
+*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
+
+HEXAXIM'in anne sütüne geçip geçmediği bilinmemektedir. HEXAXIM'in emzirme döneminde kullanımına ilişkin veri bulunmamaktadır.
+
+### Araç ve makine kullanımı
+
+Veri bulunmamaktadır.
+
+### HEXAXIM'in içeriğinde bulunan bazı yardımcı maddeler hakkında önemli bilgiler
+
+HEXAXIM her dozunda 85 mikrogram fenilalanin içermektedir. Eğer (çocuğunuzda), vücudun fenilalanini düzgün bir şekilde atamadığı için fenilalaninin vücutta biriktiği nadir bir genetik bozukluk olan fenilketonüri (PKU) varsa fenilalanin zararlı olabilir.
+
+HEXAXIM her dozunda 1 mmol (23 mg)'dan daha az sodyum ve 1 mmol (39 mg)'dan daha az potasyum içermektedir; yani aslında “sodyum ve potasyum içermez”.
+
+### Diğer ilaçlar ile birlikte kullanımı
+
+_(foto: hexaxim-y6)_
+
+Çocuğunuza başka bir ilaç veya aşı veriliyorsa, yakın geçmişte verilmişse ya da verilme ihtimali varsa, doktorunuza ya da hemşirenize söyleyiniz.
+
+HEXAXIM; pnömokokkal aşılar, kızamık-kabakulak-kızamıkçık ve suçiçeği aşıları, rotavirüs aşıları veya meningokok aşıları gibi diğer aşılarla aynı zamanda uygulanabilir.
+
+Başka aşılarla aynı zamanda uygulandığında, HEXAXIM aşısı enjeksiyonu farklı bir bölgeye yapılmalıdır.
+
+*Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.*
+
+## 3. HEXAXIM nasıl kullanılır?
+
+_(foto: hexaxim-y6)_
+
+### Uygun kullanım ve doz/uygulama sıklığı için talimatlar:
+
+HEXAXIM, aşıların kullanımı konusunda eğitimli ve enjeksiyona karşı gelişebilecek yaygın olmayan herhangi bir ciddi alerjik reaksiyonun (bkz. Bölüm 4 Olası Yan Etkiler) üstesinden gelebilecek donanıma sahip bir doktor ya da hemşire tarafından çocuğunuza uygulanacaktır.
+
+Önerilen doz şu şekildedir:
+
+İlk aşılama serisi (primer aşılama)
+
+Çocuğunuza, bir-iki aylık aralıklarla (en az dört hafta arayla) üç enjeksiyon uygulanacaktır. Bu aşı resmi aşılama programına uygun olarak kullanılmalıdır.
+
+Ek enjeksiyonlar (pekiştirici [rapel] doz)
+
+İlk enjeksiyon serisinden sonra, resmi tavsiyelere uygun olarak, ilk serinin son dozundan en az 6 ay sonra, çocuğunuza pekiştirici bir doz (rapel doz) uygulanacaktır. Doktorunuz bu dozun ne zaman uygulanması gerektiği konusunda bilgi verecektir.
+
+### Uygulama yolu ve metodu:
+
+HEXAXIM, çocuğunuzun bacağının üst kısmı ya da daha büyük çocuklarda (yaklaşık 15 aylıktan itibaren) üst kolundaki bir kasa kas içi (intramüsküler yolla, IM) enjeksiyon şeklinde uygulanır. **Aşı kesinlikle bir kan damarına ya da derinin içine veya altına uygulanmayacaktır.**
+
+Tüm enjekte edilebilir aşılarda olduğu gibi, kas içine uygulamayı takiben kanama meydana gelebilmesi nedeniyle, bu aşı da kanama bozukluğu (trombositopenisi) olan bireylere dikkatle uygulanmalıdır.
+
+### Değişik yaş grupları: Çocuklarda kullanımı:
+
+_(foto: hexaxim-y3)_
+
+HEXAXIM'in 6 haftalıktan küçük bebeklerdeki güvenliliği ve etkililiği belirlenmemiştir. Veri mevcut değildir.
+
+**Yaşlılarda Kullanımı:**
+
+Yaşlılarda kullanımı yoktur.
+
+### Özel kullanım durumları: Böbrek yetmezliği:
+
+Kronik böbrek yetersizliği olan hastalarda hepatit B yanıtının bozulduğu gözlenmektedir ve hepatit B virüsü yüzey antijenine karşı gelişen antikor düzeyine göre, doktorunuz ek hepatit B aşısı uygulayabilir.
+
+**Karaciğer yetmezliği:**
+
+Karaciğer yetmezliğine sahip hastalar için veri mevcut değildir.
+
+*Eğer HEXAXIM'in etkisinin çok güçlü veya zayıf olduğuna dair bir izleniminiz var ise doktorunuz veya eczacınız ile konuşunuz.*
+
+### Kullanmanız gerekenden daha fazla HEXAXIM kullandıysanız
+
+*HEXAXIM'den kullanmanız gerekenden fazlasını kullanmışsanız bir doktor veya eczacı ile konuşunuz.*
+
+### HEXAXIM'i kullanmayı unutursanız
+
+*Unutulan dozları dengelemek için çift doz almayınız.*
+
+Çocuğunuzun planlanmış olan bir enjeksiyonunu unutursanız, atlanan dozun ne zaman uygulanacağına karar verecek olan doktorunuz ya da hemşirenizle konuşmanız önemlidir. Çocuğunuzun enjeksiyon serisini tamamlamasını sağlamak için, doktorun ya da hemşirenin talimatlarına uymanız önemlidir. Talimatlara uymamanız halinde aşı, çocuğunuza hastalıklara karşı tam bir koruma sağlamayabilir.
+
+Bu aşının kullanımına ilişkin ilave sorularınız varsa, lütfen doktorunuza, eczacınıza veya hemşirenize danışınız.
+
+### HEXAXIM ile tedavi sonlandırıldığında oluşabilecek etkiler
+
+Uygulanabilir değildir.
+
+## 4. Olası yan etkiler nelerdir?
+
+_(foto: hexaxim-y3)_
+
+Herkeste görülmese dahi tüm ilaçlar gibi, HEXAXIM de yan etkilere neden olabilir.
+
+Yan etkiler aşağıda belirtilen kategorilere göre sıralandırılmıştır:
+
+| | |
+|---|---|
+| Çok yaygın | 10 hastanın birinden fazlasında görülebilir |
+| Yaygın | 10 hastanın birinden azında, fakat 100 hastanın birinden fazlasında görülebilir |
+| Yaygın olmayan | 100 hastanın birinden azında, fakat 1.000 hastanın birinden fazlasında görülebilir |
+| Seyrek | 1.000 hastanın birinden azında, fakat 10.000 hastanın birinden fazlasında görülebilir |
+| Çok seyrek | 10.000 hastanın birinden azında görülebilir |
+| Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
+
+**Çocuğunuza enjeksiyonun uygulanmasından sonra aşağıdakilerden biri olursa, HEXAXIM'i kullanmayı durdurunuz ve DERHAL doktorunuza bildiriniz veya size en yakın hastanenin acil bölümüne başvurunuz:**
+
+- Nefes alma güçlüğü
+- Dil ya da dudakların mavi renk alması
+- Deride herhangi bir döküntü
+- Yüzde ya da boğazda şişme
+- Baş dönmesine, solunum bozukluğuna bağlı hızlı kalp atış hızına ve bilinç kaybına yol açan kan basıncında düşme beraberinde ani ve ciddi halsizlik.
+
+Bu belirti ya da semptomlar (anafilaktik reaksiyonların belirti ve semptomları) çoğunlukla enjeksiyonun uygulanmasından hemen sonra ve çocuğunuz hala klinikte veya doktorun muayenehanesindeyken hızla gelişir.
+
+Bunların hepsi çok ciddi yan etkilerdir. Eğer bunlardan biri çocuğunuzda mevcut ise çocuğunuzun HEXAXIM'e karşı alerjisi var demektir. Acil tıbbi müdahaleye veya hastaneye yatırılmasına gerek olabilir.
+
+Herhangi bir aşının uygulanmasından sonra ciddi alerjik reaksiyonların gelişme olasılığı seyrek olarak görülür.
+
+### Diğer yan etkiler
+
+_(foto: hexaxim-y4)_
+
+**Çocuğunuzda aşağıdaki yan etkilerden herhangi birini fark ederseniz hemen doktorunuza söyleyiniz:**
+
+- Çok yaygın
+  - İştah kaybı (anoreksi)
+  - Ağlama
+  - Uykulu olma hali (somnolans)
+  - Kusma
+  - Enjeksiyon yerinde ağrı, kızarıklık ya da şişme
+  - İrritabilite
+  - Ateş (38°C ya da daha yüksek vücut sıcaklığı)
+- Yaygın:
+  - Anormal ağlama (uzun süreli ağlama)
+  - İshal
+  - Enjeksiyon yerinde sertlik (endürasyon)
+- Yaygın olmayan:
+  - Alerjik reaksiyon
+  - Enjeksiyon yerinde yumru (nodül)
+  - Yüksek ateş (39,6°C ya da daha yüksek vücut sıcaklığı)
+- Seyrek:
+  - Deri döküntüsü
+  - Enjeksiyon yerinde, uygulama bölgesinden başlayarak bir ya da her iki eklemin ötesine geçen yaygın bacak şişmesini içeren büyük reaksiyonlar (5 cm'den büyük). Bu reaksiyonlar aşılamadan sonra 24-72 saat içinde başlar; enjeksiyon yerinde kızarıklık, sıcaklık, hassasiyet ya da ağrıyla bağlantılı olabilir ve tedavi gerektirmeksizin 3-5 gün içinde düzelir.
+  - Ateşli ya da ateşsiz nöbetler (konvülziyonlar)
+- Çok seyrek:
+  - Çocuğunuzun şoka benzer bir duruma girdiği ya da renginin soluk, gevşek olduğu ve bir süre yanıt vermediği (hipotonik reaksiyonlar ya da hipotonik hiporesponsif epizodlar, HHE) durumlar.
+
+### Potansiyel yan etkiler
+
+Yukarıda sıralanmamış olan diğer yan etkiler, difteri, tetanoz, boğmaca, çocuk felci, hepatit B veya Hib içeren başka aşılarla zaman zaman bildirilmiştir ve doğrudan HEXAXIM ile bağlantılı değildir:
+
+- Tetanoz içeren bir aşının uygulanmasından sonra, ağrı, felç ve duyarlılık bozukluklarına neden olan sinirlerdeki geçici iltihap (Guillain-Barre sendromu) ve kol ve omuzda hareket yeteneğinin azalması ve şiddetli ağrı (brakiyal nörit) bildirilmiştir.
+- Hepatit B antijeni içeren bir aşının uygulanmasından sonra, duyu bozukluklarına ya da bacakların zayıflamasına neden olan sinirlerdeki ciddi iltihap (poliradikülonörit), yüz felci, görme bozuklukları, görme yeteneğinin aniden azalması ya da kaybolması (optik nörit), beyin ve omuriliği etkileyen enflamatuvar (iltihabi) hastalık (merkezi sinir sistemi demiyelinizasyonu, multipl skleroz) bildirilmiştir.
+- Beyinde şişme veya iltihap (ensefalopati/ensefalit).
+- Çok erken doğmuş olan bebeklerde (hamileliğin 28. haftasında ya da daha önce), aşılamadan sonra 2-3 gün süreyle normalden daha uzun aralıklarla nefes alıp verme durumu ortaya çıkabilir.
+- *Haemophilus influenzae* tip b içeren aşıların uygulanmasını takiben, deride mavimsi renk değişikliği (siyanoz), kızarıklık, deri altında bazı küçük bölgelerde kanama (geçici purpura), şiddetli ağlama ile birlikte ortaya çıkabilen bir ya da her iki ayakta ve bacaklarda şişme (ödem). Ortaya çıkması durumunda, bu reaksiyon çoğunlukla ilk enjeksiyonları takiben ve aşılamadan sonraki ilk birkaç saat içinde ortaya çıkar. Tüm semptomlar, 24 saat içinde tedavi gerekli olmadan tamamen yok olur.
+
+*Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız doktorunuzu veya eczacınızı bilgilendiriniz.*
+
+### Yan etkilerin raporlanması
+
+_(foto: hexaxim-y5)_
+
+Kullanma Talimatında yer alan veya almayan herhangi bir yan etki meydana gelmesi durumunda hekiminiz, eczacınız veya hemşireniz ile konuşunuz. Ayrıca karşılaştığınız yan etkileri www.titck.gov.tr sitesinde yer alan “İlaç Yan Etki Bildirimi” ikonuna tıklayarak ya da 0 800 314 00 08 numaralı yan etki bildirim hattını arayarak Türkiye Farmakovijilans Merkezi (TÜFAM)'ne bildiriniz. Meydana gelen yan etkileri bildirerek kullanmakta olduğunuz ilacın güvenliliği hakkında daha fazla bilgi edinilmesine katkı sağlamış olacaksınız.
+
+## 5. HEXAXIM'in saklanması
+
+_(foto: hexaxim-y5)_
+
+*HEXAXIM'i çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.*
+
+**Son kullanma tarihiyle uyumlu olarak kullanınız**
+
+*Bu aşıyı, kutunun üzerinde ve etikette belirtilmiş olan son kullanma tarihinden önce kullanınız. Son kullanma tarihi belirtilen ayın son gününe tekabül etmektedir.*
+
+2°C - 8°C arasında, buzdolabında saklayınız. Dondurmayınız.
+
+Işıktan korumak için enjektörü karton kutusunun içinde saklayınız.
+
+Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca belirlenen toplama sistemine veriniz.
+
+**Ruhsat sahibi:**
+
+Sanofi Pasteur Aşı Tic. A.Ş.  
+Şişli-İstanbul
+
+**Üretim yeri:**
+
+Sanofi Winthrop Industrie  
+Val de Reuil, Fransa
+
+*Bu kullanma talimatı 20/12/2023 tarihinde onaylanmıştır.*
+
+## AŞAĞIDAKİ BİLGİLER BU İLACI UYGULAYACAK SAĞLIK PERSONELİ İÇİNDİR
+
+_(foto: hexaxim-y5)_
+
+İğne takılmamış olan enjektörler için, iğne, çeyrek dönüşle döndürülerek enjektöre sıkıca takılmalıdır.
+
+- Uygulamadan önce, homojen, beyazımsı renkte bulanık bir süspansiyon elde etmek için kullanıma hazır enjektörü çalkalayınız.
+- Süspansiyonu, uygulamadan önce görsel olarak inceleyiniz. Herhangi bir yabancı partiküllü madde ve/veya fiziksel görünümde değişiklik gözlenmesi durumunda, kullanıma hazır enjektörü atınız.
+- HEXAXIM başka tıbbi ürünlerle karıştırılmamalıdır.
+- HEXAXIM intramüsküler yoldan uygulanmalıdır. Önerilen enjeksiyon yerleri uyluğun antero-lateral bölgesi (tercih edilen uygulama yeri) veya daha büyük (muhtemelen 15 aylıktan büyük) çocuklarda deltoid kastır.
+
+İntradermal ya da intravenöz yollardan kullanılmamalıdır. İntravasküler enjeksiyon yoluyla uygulamayınız: iğnenin bir kan damarına girmediğinden emin olunuz.
 
 ## Aktarım notları
 
-- Basılı yazım hataları (aynen korunanlar): Yok.
-- Belirsiz okumalar: Sağ sütunun en kenarındaki bazı harf parçaları tam seçilemiyor; yalnız seçilebilen harfler aktarıldı.
-- Kesik/okunamayan bölümler: Fotoğrafın sağ kenarındaki sütun metinleri kısmen veya tamamen kadraj dışında; görünen parçalar [kesik] ile işaretlendi.
+- Basılı yazım hataları (aynen korunanlar): “renginin soluk, gevşek olduğu”.
+- Belirsiz okumalar: Fotoğrafların düşük çözünürlüğü ve kat yerleri nedeniyle özellikle ilk sütundaki etkin madde miktarları ve bazı noktalama işaretleri eski karşılaştırma metniyle birlikte değerlendirilmiştir.
+- Eksik/kesik bölümler: Ana bölümler fotoğraflarda görülmektedir; görsellerdeki örtüşmeler tek kez aktarılmıştır.

@@ -27,6 +27,7 @@
       if (!l.trim()) { i++; continue; }
       let m;
       if ((m = l.match(/^(#{1,4})\s+(.*)/))) { const n = Math.min(m[1].length + 2, 6); out.push("<h" + n + ">" + satirIci(m[2]) + "</h" + n + ">"); i++; continue; }
+      if (/^-{3,}\s*$/.test(l)) { out.push("<hr>"); i++; continue; }
       if (/^\|/.test(l)) {
         const rows = []; while (i < L.length && /^\|/.test(L[i])) rows.push(L[i++]);
         const cells = (r) => r.replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
@@ -99,9 +100,9 @@
   const kaynakSira = [];
   const kaynakNo = (k) => { let i = kaynakSira.indexOf(k); if (i < 0) { kaynakSira.push(k); i = kaynakSira.length - 1; } return i + 1; };
   const atif = (ks) => ks.length ? " <span class='atif'>" + ks.map((k) => "<a href='#kaynak-" + k + "' title='" + esc(IC.kaynaklar[k].ad) + "'>[" + kaynakNo(k) + "]</a>").join("") + "</span>" : "";
-  const rozet = (r) => "<span class='kaynak-rozet " + r + "' title='" + ({ F: "Prospektüs fotoğrafı", K: "Firmanın kısa ürün bilgisi", D: "Doğrulanmamış eşleşme veya yabancı kaynak" })[r] + "'>" + r + "</span>";
+  const rozet = (r) => "<span class='kaynak-rozet " + r + "' title='" + ({ F: "Prospektüs fotoğrafı", K: "Firmanın kısa ürün bilgisi", D: "Üreticinin yabancı belgesi veya DSÖ kaynağı" })[r] + "'>" + r + "</span>";
   $("#maddeler").innerHTML = IC.maddeler.map((m) =>
-    "<details class='madde' id='madde-" + m.id + "'><summary><span class='madde-ad'>" + esc(m.ad) + "</span><span class='madde-asilar'>" + m.asilar.map((x) => esc(asiAd(x[0]))).join(" · ") + "</span></summary><div class='madde-govde'>" +
+    "<details class='madde' id='madde-" + m.id + "'><summary><span class='madde-ad'>" + esc(m.ad) + "</span><span class='madde-asilar'>" + [...new Set(m.asilar.map((x) => asiAd(x[0])))].map(esc).join(" · ") + "</span></summary><div class='madde-govde'>" +
     "<p class='madde-ne'>" + esc(m.ne) + "</p><h4>Hangi aşılarda</h4><ul class='madde-liste'>" +
     m.asilar.map((x) => "<li><button class='asi-cip' data-id='" + x[0] + "'>" + esc(asiAd(x[0])) + "</button> " + esc(x[1]) + " " + rozet(x[2]) + "</li>").join("") +
     "</ul><h4>Neden soru işareti yaratıyor</h4><p>" + esc(m.soylem) + "</p><h4>Bilimsel bilgi</h4><p>" + esc(m.baglam) + atif(m.kaynak) + "</p></div></details>").join("");
@@ -140,12 +141,12 @@
     } else if (a.grup) {
       s += "<ul class='dozlar'><li>" + esc(a.grup) + "</li></ul>";
     }
-    s += "<dl class='bilgi'><dt>Ürün adı</dt><dd>" + esc(a.tamAd) + "</dd><dt>Bileşim</dt><dd>" + esc(a.bilesim) + "</dd><dt>Üretici</dt><dd>" + esc(a.uretici) + "</dd><dt>Ruhsat sahibi</dt><dd>" + esc(a.ruhsat) + "</dd></dl>";
+    s += "<dl class='bilgi'><dt>Ürün adı</dt><dd>" + esc(a.tamAd) + "</dd><dt>Bileşim</dt><dd>" + esc(a.bilesim) + "</dd><dt>Üretici</dt><dd>" + esc(a.uretici) + "</dd><dt>Ruhsat / temsilci</dt><dd>" + esc(a.ruhsat) + "</dd></dl>";
     if (a.fotolar.length) {
       s += "<h3>Prospektüs fotoğrafı</h3><div class='fotolar'>" + a.fotolar.map((f) => "<button class='foto-dugme' data-dosya='" + f.dosya + "' data-baslik='" + esc(a.urun + " · " + f.baslik) + "'><img src='" + kucuk(f.dosya) + "' alt='" + esc(a.urun + " " + f.baslik) + "' loading='lazy'><span>" + esc(f.baslik) + "</span></button>").join("") + "</div>";
     }
     s += asiIcerik(a.id);
-    if (a.fotolar.length) { s += "<h3>Prospektüs metni</h3><p class='metin-aciklama'>Fotoğraftan metne aktarıldı ve fotoğrafla karşılaştırıldı. Fotoğrafta kesik ya da okunamayan yerler işaretlidir.</p>" + a.fotolar.map((f, k) => "<details class='metin' data-metin='" + f.dosya + "'" + (k === 0 ? " open" : "") + "><summary>" + esc(f.baslik) + "<a class='indir' href='metin/" + f.dosya + ".md' download onclick='event.stopPropagation()'>Metni indir</a></summary><div class='metin-govde'><p>Yükleniyor…</p></div></details>").join(""); }
+    if (a.fotolar.length) { s += "<h3>Prospektüs metni</h3><p class='metin-aciklama'>Fotoğraftan metne aktarıldı ve fotoğrafla karşılaştırıldı. Fotoğrafta kesik ya da okunamayan yerler işaretlidir.</p>" + (a.metinler || a.fotolar).map((f, k) => "<details class='metin' data-metin='" + f.dosya + "'" + (k === 0 ? " open" : "") + "><summary>" + esc(f.baslik) + "<a class='indir' href='metin/" + f.dosya + ".md' download onclick='event.stopPropagation()'>Metni indir</a></summary><div class='metin-govde'><p>Yükleniyor…</p></div></details>").join(""); }
     s += "<h3>Belgeler</h3><ul class='belgeler'>" + a.belgeler.map((b) => "<li class='belge'><a href='" + esc(b.url) + "' target='_blank' rel='noopener'><span class='tur " + esc(b.tur) + "'>" + esc(b.tur) + "</span><span>" + esc(b.ad) + "<small>" + esc(b.kaynak) + (b.tarih ? " · " + esc(b.tarih) : "") + "</small></span></a></li>").join("") + "</ul>";
     if (a.not) s += "<p class='not'>" + esc(a.not) + "</p>";
     icerik.innerHTML = s;

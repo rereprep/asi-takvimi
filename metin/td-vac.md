@@ -1,70 +1,65 @@
-# Td-VAC
-_Kaynak: temiz-fotograflar/td-vac.jpg — kullanma talimatının ilk sayfası; kullanma talimatının devamı fotoğrafta görünmüyor._
+# Td-VAC 0,5 mL IM Enjeksiyonluk süspansiyon
+_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (td-vac-y1, td-vac-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+
+---
+
+_(Fotoğraf 1: td-vac-y1 — Genelge uyarısı → Diğer ilaçlar ile birlikte kullanımı)_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
 ## KULLANMA TALİMATI
+[okunamadı] siyon
 
-**Td-VAC 0,5 mL IM Enjeksiyonluk süspansiyon**
+Kas içine uygulanır.  
+Steril
 
-**Adsorbe difteri ve tetanoz aşısı**
+Etkin maddeler:  
+Her 0,5 mL'lik tek doz içerisinde,  
+Difteri toksoidi: ≤ 5 Lf (≥ 2 IU),  
+Tetanoz toksoidi: ≥ 5 Lf (≥ 40 IU ) bulunur.
 
-**Kas içine uygulanır.**
-
-**Steril**
-
-***Etkin maddeler:***
-
-Her 0,5 mL'lik tek doz içerisinde, Difteri toksoidi: ≤ 5 Lf (≥ 2 IU), Tetanoz toksoidi: ≥ 5 Lf (≥ 40 IU) bulunur.
-
-***Yardımcı maddeler:***
-
+Yardımcı maddeler:  
 Alüminyum fosfat, tiyomersal, sodyum asetat, sodyum klorür, enjeksiyonluk su.
 
-> **Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.**
+> Bu aşıyı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice okuyunuz, çünkü sizin için önemli bilgiler içermektedir.
 >
-> - *Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.*
-> - *Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.*
-> - *Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.*
-> - *Bu aşının kullanımı sırasında, doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.*
-> - *Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında **yüksek veya düşük** doz kullanmayınız.*
+> - Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.
+> - Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.
+> - Bu aşı kişisel olarak sizin için reçete edilmiştir, başkalarına vermeyiniz.
+> - Bu aşının kullanımı sırasında, doktora veya hastaneye gittiğinizde doktorunuza bu aşıyı kullandığınızı söyleyiniz.
+> - Bu talimatta yazılanlara aynen uyunuz. Aşı hakkında size önerilen dozun dışında yüksek veya düşük doz kullanmayınız.
 
-**Bu Kullanma Talimatında:**
+### Bu Kullanma Talimatında;
+1. Td-VAC nedir ve ne için kullanılır?
+2. Td-VAC'ı kullanmadan önce dikkat edilmesi gerekenler
+3. Td-VAC nasıl kullanılır?
+4. Olası yan etkiler nelerdir?
+5. Td-VAC'ın saklanması
 
-1. ***Td-VAC nedir ve ne için kullanılır?***
-2. ***Td-VAC'ı kullanmadan önce dikkat edilmesi gerekenler***
-3. ***Td-VAC nasıl kullanılır?***
-4. ***Olası yan etkiler nelerdir?***
-5. ***Td-VAC'ın saklanması***
-
-**Başlıkları yer almaktadır.**
+Başlıkları yer almaktadır.
 
 ## 1. Td-VAC nedir ve ne için kullanılır?
-
 Td-VAC bir aşıdır.
 
 1 mL'lik saydam, kırılabilir ampul içerisinde 0,5 mL süspansiyon (katı-sıvı karışımı) halinde ve her pakette bir ampul veya 10 ampul olacak şekilde takdim edilmektedir.
 
-Td-VAC difteri ve tetanozdan korunma sağlamaya yardımcı olur. Difteri, *Corynebacterium diphtheriae* isimli mikroorganizmanın boğaz, burun, göz ve derideki yaralarda yerleşmesiyle ortaya çıkan bulaşıcı bir hastalıktır. Tetanoz ise bakterilerin yol açtığı ciddi ve ölümcül olabilen bir hastalıktır. Hastalığa yakalanan kişilerde yaralanma bölgesinde sadece ağrı olmasına karşın çene ve boyunda şişmeler ile çevre kaslarda kasılmalar ortaya çıkar. Boyun bölgesindeki kasılma yüz kaslarını da etkiler, kasılmanın ilerlemesiyle özellikle çenede olmak üzere boyun, karın ve sırt kaslarında sertleşme meydana gelir. Çene kitlenmesi meydana gelebilir, bu da kişinin ağzını açamamasına ya da yutkunamamasına sebep olur. Sonunda kişinin solunumunu engelleyen ve solunum sisteminde en küçük uyarılarla bile ortaya çıkabilen ağrılı konvülsiyonlar (istemdışı hareketler) ortaya çıkar.
+Td-VAC difteri ve tetanozdan korunma sağlamaya yardımcı olur. Difteri, Corynebacterium diphteriae isimli mikroorganizmanın boğaz, burun, göz ve derideki yaralarda yerleşmesiyle ortaya çıkan bulaşıcı bir hastalıktır. Tetanoz ise bakterilerin yol açtığı ciddi ve ölümcül olabilen bir hastalıktır. Hastalığa yakalanan kişilerde yaralanma bölgesinde sadece ağrı olmasına karşın çene ve boyunda şişmeler ile çevre kaslarda kasılmalar ortaya çıkar. Boyun bölgesindeki kasılma yüz kaslarını da etkiler, kasılmanın ilerlemesiyle özellikle çenede olmak üzere boyun, karın ve sırt kaslarında sertleşme meydana gelir. Çene kilitlenmesi meydana gelebilir, bu da kişinin ağzını açamamasına ya da yutkunamamasına sebep olur. Sonunda kişinin solunumunu engelleyen ve solunum sisteminde en küçük uyarılarla bile ortaya çıkabilen ağrılı konvülsiyonlar (istemdışı hareketler) ortaya çıkar.
 
 Td-VAC uygulaması ile vücudunuz bu mikroorganizmalar tarafından üretilen proteinlerin az bir miktarına maruz kalmakta ve böylece tetanoz ve difteri hastalığına karşı sizde bağışık gelişmektedir.
 
 Td-VAC 7 yaş ve üzerindeki kişilerin difteri ve tetanoz enfeksiyonlarına karşı korunması amacı ile kullanılır.
 
+_[sağ sütun]_
+
 ## 2. Td-VAC'ı kullanmadan önce dikkat edilmesi gerekenler
-
 ### Td-VAC'ı aşağıdaki durumlarda KULLANMAYINIZ
-
 Eğer sizde veya çocuğunuzda:
-
 - Önceki difteri-tetanoz aşı uygulamalarına karşı ciddi tepki geliştiyse,
 - Daha önce Td-VAC'ın bir dozunu aldıktan sonra genel alerjik veya sinirsel tepki meydana geldiyse,
 - Ateşli akut bir hastalık var ise (bu durumda iyileşme sonrasına kadar aşılama ertelenmelidir) Td-VAC'ı kullanmayınız.
 
 ### Td-VAC'ı aşağıdaki durumlarda DİKKATLİ KULLANINIZ
-
 Eğer sizde veya çocuğunuzda:
-
 - Aşının önceki dozundan sonra meydana gelen istenmeyen etkiler gelişmiş ya da belirtileri görülmüş ise,
 - Bağışık yanıtı riske atan bir tıbbi tedavi alırsanız veya herhangi bir sebepten dolayı bağışıklık sisteminizin bir fonksiyonu bozulmuşsa (aşının etkisi azalabilecektir),
 - Hafif-orta şiddetli solunum yolu enfeksiyonları gibi önemsiz ateşli veya ateşsiz hastalıklar var ise (bu durum bağışıklamayı engellememelidir),
@@ -75,43 +70,134 @@ Bu tür durumlarda doktorunuz size aşının uygulanıp uygulanmayacağına kara
 Bu uyarılar, geçmişteki herhangi bir dönemde dahi olsa sizin için geçerliyse lütfen doktorunuza danışınız.
 
 ### Td-VAC'ın yiyecek ve içecek ile kullanılması
-
 Uygulama yöntemi açısından yiyecek ve içecek ile etkileşimi yoktur.
 
 ### Hamilelik
-
-*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
+Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
 
 Td-VAC hamile kadınlarda güvenle kullanılabilir.
 
-*Aşılama döneminde hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.*
+Aşılama döneminde hamile olduğunuzu fark ederseniz hemen doktorunuza veya eczacınıza danışınız.
 
 ### Emzirme
-
-*Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.*
+Aşıyı kullanmadan önce doktorunuza veya eczacınıza danışınız.
 
 Td-VAC uygulaması emzirme döneminde risk oluşturmaz.
 
 ### Araç ve makine kullanımı
-
 Aşının araç sürme ve makine kullanımı becerisi üzerinde bir etki meydana getirmesi beklenmemektedir.
 
 ### Td-VAC'ın içeriğinde bulunan bazı yardımcı maddeler hakkında önemli bilgiler
-
 Bu tıbbi ürün koruyucu olarak tiyomersal ihtiva etmektedir ve sizin ya da çocuğunuzun alerjik reaksiyon göstermesi ihtimali vardır. Sizin ya da çocuğunuzun bilinen alerjik durumları varsa doktorunuza söyleyiniz. Siz ya da çocuğunuz daha önce bir aşı uygulamasından sonra sağlık problemleri yaşamışsanız bu durumu doktorunuza belirtiniz.
 
-Bu tıbbi ürün her “doz”unda 1 mmol (23 mg)'dan daha az sodyum ihtiva eder; yani aslında “sodyum içermez”.
+Bu tıbbi ürün her ” doz” unda 1 mmol (23 mg)'dan daha az sodyum ihtiva eder; yani aslında “sodyum içermez”.
 
 ### Diğer ilaçlar ile birlikte kullanımı
-
 Diğer aşılarla birlikte kullanıldığında farklı enjektör ve enjeksiyon bölgesi kullanılmalıdır. Eş zamanlı aşılamaların yan etkilerin şiddetini arttırabileceği dikkate alınmalıdır.
 
 Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma aşısı, Haemophilus influenzae tip b ve Su çiçeği aşıları ile eş zamanlı olarak, etkin ve güvenli bir şekilde kullanılabilir.
 
-*Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.*
+Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.
 
-## Aktarım notları
+### Notlar
+- Ürün adının bulunduğu satır görüntüde beyaz alanla örtülüdür.
+- “bağışık gelişmektedir” ve “Corynebacterium diphteriae” baskıdaki biçimiyle korunmuştur.
 
-- Basılı yazımlar ve olası dil hataları (aynen korunanlar): “bağışık gelişmektedir”, “Bağışık yanıtı”, “arttırabileceği”, “Hepatitis B”.
-- Belirsiz okumalar: Yok.
-- Kesik/okunamayan bölümler: Görüntüdeki son paragraf tamamlanıyor; kullanma talimatının devamı fotoğrafta yer almıyor. Fotoğraf sınırında kesilmiş metin yok.
+---
+
+_(Fotoğraf 2: td-vac-y2 — 3. Td-VAC nasıl kullanılır → Sağlık personeli için bilgiler)_
+
+## 3. Td-VAC nasıl kullanılır?
+### Uygun kullanım ve doz/uygulama sıklığı için talimatlar:
+Difteri ve tetanoza karşı korunmak için genel olarak ilk aşı dozundan 4 hafta sonra 2. doz, 2. dozdan 6-12 ay sonra 3. doz uygulanmaktadır. Bağışıklığın sürdürülebilmesi için 5-10 yılda bir tek doz aşı uygulanması gerekir.
+
+### Uygulama yolu ve metodu:
+Td-VAC kas içerisine enjekte edilir. Tercih edilen uygulama bölgesi kolun üst kısmında bulunan kaslı bölgedir. Kan damarına veya deriye enjeksiyon yapılmadığından emin olunmalıdır. Aşı kullanılmadan önce iyice çalkalanmalıdır.
+
+Aşılama genel olarak ulusal tavsiyelere uygun olarak yapılmalıdır.
+
+### Değişik yaş grupları:
+Çocuklarda kullanımı:  
+7 yaş ve üzerindeki çocuklarda kullanılmalıdır.
+
+Yaşlılarda kullanımı:  
+Td-VAC'ın yaşlı kişilerde güvenlilik ve etkinliği incelenmemiştir. 65 yaş ve üzerindeki kişilere, yetişkinlerde olduğu gibi her 10 yılda bir Td-VAC dozu uygulanmalıdır.
+
+### Özel kullanım durumları:
+Böbrek yetmezliği: Td-VAC'ın böbrek yetmezliği olan hastalardaki güvenlilik ve etkinliği incelenmemiştir. Aşının uygulanıp uygulanmayacağına ve eğer aşı uygulanacaksa uygulama doz ve zamanına doktorunuz karar verecektir.
+
+Karaciğer yetmezliği: Td-VAC'ın karaciğer yetmezliği olan hastalardaki güvenlilik ve etkinliği incelenmemiştir. Aşının uygulanıp uygulanmayacağına doktorunuz durumunuzu değerlendirdikten sonra karar verecektir.
+
+İnsan İmmün Yetmezlik Virüsü (HIV) Enfeksiyonu: Td-VAC, HIV enfeksiyonu olan ya da olduğundan şüphelenilen yetişkinlerde ve ergenlerde kullanılabilir. Bu konudaki veriler sınırlıdır. Belirti göstererek ya da göstermeksizin HIV mikrobu taşıyan ergenlerde ve çocuklarda, aşının kullanımına bağlı olarak istenmeyen reaksiyonlarda artış olduğuna dair bir kanıt bulunmamaktadır.
+
+Eğer Td-VAC'ın etkisinin çok güçlü veya zayıf olduğuna dair bir izleniminiz var ise doktorunuz veya eczacınız ile konuşunuz.
+
+### Kullanmanız gerekenden daha fazla Td-VAC kullandıysanız:
+Td-VAC'tan kullanmanız gerekenden daha fazla kullanmışsanız bir doktor veya eczacı ile konuşunuz.
+
+### Td-VAC'ı kullanmayı unutursanız
+Unutulan dozları dengelemek için çift doz almayınız.
+
+Doktorunuz atlanan dozun ne zaman uygulanacağına karar verecektir. Takip eden dozlara ilişkin olarak yeni uygulama zamanı için doktorunuzun talimatlarına uymanız önemlidir.
+
+### Td-VAC ile tedavi sonlandırıldığındaki oluşabilecek etkiler
+Td-VAC ile tedavi sonlandırıldığında olumsuz bir etki oluşması beklenmemektedir.
+
+## 4. Olası yan etkiler nelerdir?
+Tüm ilaçlar gibi Td-VAC'ın içeriğinde bulunan maddelere duyarlı olan kişilerde yan etkiler olabilir.
+
+_[sağ sütun]_
+
+Yan etkiler aşağıdaki kategorilerde gösterildiği şekilde sıralanmıştır:
+
+| | |
+|---|---|
+| Çok yaygın | 10 hastanın en az 1’inde görülebilir. |
+| Yaygın | 10 hastanın birinden az, fakat 100 hastanın birinden fazla görülebilir. |
+| Yaygın olmayan | 100 hastanın birinden az, fakat 1.000 hastanın birinden fazla görülebilir. |
+| Seyrek | 1.000 hastanın birinden az görülebilir. |
+| Çok seyrek | 10.000 hastanın birinden az görülebilir. |
+| Bilinmiyor | Eldeki verilerden hareketle tahmin edilemiyor. |
+
+### Sinir sistemi hastalıkları
+Yaygın : Baş ağrısı (%2), halsizlik (%2), ateş yükselmesi (%2)
+
+### Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın : Enjeksiyon bölgesinde bölgesel tepkiler (bunların %19’u deri üzerinde kızarıklık oluşması, sertlik ve hassasiyeti kapsar)
+
+Pazarlama sonrası raporlar ve/veya vaka raporları: Alerjik reaksiyonlar (yüz ödemi, kaşıntı, döküntü, kurdeşen); ani aşırı duyarlılık tepkileri, eklem ağrısı, üşüme, havale, baş dönmesi, sersemlik, yorgunluk, ateş; enjeksiyon bölgesinde tepkiler (deri altı yangısı, nodüller, kızarıklık, şişkinlik, sıcaklık); boyun, koltuk altı veya kasık bölgelerindeki bezlerde şişkinlik oluşması (lenfadenopati), kas-iskelet sertliği, kas ağrısı, bulantı, ağrı, uyuşma, çevresel ödem, bayılma, kusma, halsizlik. Tetanoz toksoidi içeren aşıların uygulanması ile Guillain-Barré sendromu (viral enfeksiyon sonrası gelişen bir rahatsızlık.) ve brakiyal nörit (kolda ve omuzda hareket kaybı, ağrı ve uyuşukluk) gelişebilir.
+
+Eğer bu kullanma talimatında bahsi geçmeyen herhangi bir yan etki ile karşılaşırsanız doktorunuzu veya eczacınızı bilgilendiriniz.
+
+### Yan etkilerin raporlanması
+Kullanma Talimatında yer alan veya almayan herhangi bir yan etki meydana gelmesi durumunda hekiminiz, eczacınız veya hemşireniz ile konuşunuz. Ayrıca karşılaştığınız yan etkileri www.titck.gov.tr sitesinde yer alan “İlaç Yan Etki Bildirimi” ikonuna tıklayarak ya da 0 800 314 00 08 numaralı yan etki bildirim hattını arayarak Türkiye Farmakovijilans Merkezi (TÜFAM) ’ne bildiriniz. Meydana gelen yan etkileri bildirerek kullanmakta olduğunuz ilacın güvenliliği hakkında daha fazla bilgi edinilmesine katkı sağlamış olacaksınız.
+
+## 5. Td-VAC'ın saklanması
+Td-VAC'ı çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.
+
+Aşıyı 2°C – 8°C arasında (buzdolabında) ışıktan koruyarak saklayınız.
+
+Aşı kesinlikle dondurulmamalıdır. Aşı donmuş ise çözüp kullanmayınız.
+
+Son kullanma tarihiyle uyumlu olarak kullanınız.
+
+Ambalajdaki son kullanma tarihinden sonra Td-VAC'ı kullanmayınız / son kullanma tarihinden önce kullanınız.
+
+“Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre ve Şehircilik Bakanlığınca belirlenen toplama sistemine veriniz.”
+
+Ruhsat sahibi: Keymen İlaç San. Ve Tic. A.Ş.  
+Çankaya /Ankara
+
+Üretim yeri: Serum Institute of India Pvt. Ltd.  
+Hadapsar/ Pune /Hindistan
+
+Bu kullanma talimatı 27/12/2017'de onaylanmıştır.
+
+> ### AŞAĞIDAKİ BİLGİLER BU AŞIYI UYGULAYACAK OLAN SAĞLIK PERSONELİ İÇİNDİR.
+> - Td-VAC, 7 yaş ve üzerindeki çocuklarda, adölesanlar ve yetişkinlerde deltoid kası içerisine intramüsküler olarak enjekte edilmelidir.
+> - Her bir enjeksiyon için sadece steril iğne ve enjektörler kullanılmalıdır.
+> - Aşı kullanılmadan önce iyice çalkalanmalıdır.
+> - Aşılama genel olarak Ulusal Tavsiyelere uygun olarak yapılmalıdır.
+
+### Notlar
+- Sıklık kategorilerindeki eşik ifadeleri ve “sonra ... / son ... önce” ifadesi baskıdaki biçimiyle korunmuştur.

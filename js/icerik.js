@@ -1,4 +1,4 @@
-// İçerik maddeleri, prospektüs ifadeleri ve kaynakları. F: prospektüs fotoğrafı, K: firma KÜB, D: doğrulanmamış eşleşme veya yabancı kaynak.
+// İçerik maddeleri, prospektüs ifadeleri ve kaynakları. F: prospektüs fotoğrafı, K: firma KÜB, D: üreticinin yabancı belgesi veya DSÖ kaynağı.
 window.ICERIK = {
  "kaynaklar": {
   "edqm": {
@@ -101,9 +101,13 @@ window.ICERIK = {
    "ad": "FDA, Pregnancy and Lactation Labeling (Drugs) Final Rule",
    "url": "https://www.fda.gov/drugs/labeling-information-drug-products/pregnancy-and-lactation-labeling-drugs-final-rule"
   },
-  "tresivac": {
-   "ad": "TRESIVAC kullanma talimatı (Türkiye'de ruhsatlı başka bir SII KKK ürünü)",
-   "url": "https://ilac-kullanma-talimat.web.tr/tresivac-0-5-ml-s-c-enjeksiyonluk-coezelti-tozu-ve-coezuecue-281019/kullanma-talimati"
+  "who_vzv": {
+   "ad": "DSÖ ön yeterlilik değerlendirme özeti: Varicella Vaccine, Live, Sinovac (Dalian) (2022)",
+   "url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_378_Varicella_1dose_Sinovac_VPSAR-2022.pdf"
+  },
+  "sii_mmr": {
+   "ad": "Serum Institute of India, Measles, Mumps and Rubella Vaccine Live, Attenuated (Freeze-Dried) prospektüsü (DSÖ ön yeterlilik dosyası, 2022)",
+   "url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_142_143_144_145_MMR_SIIPL_PI_UNICEF-2022.pdf"
   }
  },
  "maddeler": [
@@ -278,21 +282,33 @@ window.ICERIK = {
   },
   {
    "id": "diploid",
-   "ad": "İnsan diploid hücreleri (2BS)",
-   "ne": "Hepatit A virüsünün üretildiği insan hücre dizisi.",
+   "ad": "İnsan diploid hücreleri",
+   "ne": "Virüslerin üretildiği insan kaynaklı hücre dizileri.",
    "asilar": [
     [
      "hepa",
      "\"İnsan diploid (2BS) hücrelerinde üretilmiştir\"; ürün adında da geçiyor",
      "F"
+    ],
+    [
+     "kkk",
+     "kızamık ve kızamıkçık virüsleri insan diploid hücrelerinde üretilir (üreticinin İngilizce prospektüsü; Türkçe belgede yazmıyor)",
+     "D"
+    ],
+    [
+     "vzv",
+     "SV-1 insan diploid hücre dizisinde hazırlanır (DSÖ değerlendirme özeti; Türkçe belgede yazmıyor)",
+     "D"
     ]
    ],
    "soylem": "Dinî ve etik itiraz: \"aşıda cenin dokusu var\" söylemi. Türkiye'de helal tartışmasıyla birleşebilir.",
-   "baglam": "2BS, 1973'te Pekin Biyolojik Ürünler Enstitüsü'nde 3 aylık bir fetüsün akciğer dokusundan kurulmuş diploid fibroblast hücre dizisidir; aşı üretimi için yeni fetal doku kullanılmaz. Virüs bu hücrelerde üretilir, saflaştırılır ve formalinle etkisizleştirilir. Hücre dizisinin kökeni için kullanılan kaynak bir patent metnidir; bilimsel yayında birincil kaynakla desteklenmelidir.",
+   "baglam": "Healive'ın üretildiği 2BS, 1973'te Pekin Biyolojik Ürünler Enstitüsü'nde 3 aylık bir fetüsün akciğer dokusundan kurulmuş diploid fibroblast hücre dizisidir; aşı üretimi için yeni fetal doku kullanılmaz. Virüs bu hücrelerde üretilir, saflaştırılır ve formalinle etkisizleştirilir. Hücre dizisinin kökeni için kullanılan kaynak bir patent metnidir; bilimsel yayında birincil kaynakla desteklenmelidir. Serum Institute of India'nın KKK prospektüsü kızamık ve kızamıkçık virüslerinin insan diploid hücrelerinde, kabakulak virüsünün tavuk fibroblastlarında üretildiğini yazar. DSÖ değerlendirme özeti, Sinovac'ın suçiçeği aşısının SV-1 insan diploid hücre dizisinde hazırlandığını belirtir. Bu iki bilgi Türkçe prospektüslerde geçmez.",
    "kaynak": [
     "patent2bs",
     "healive_rev",
-    "healive_pq"
+    "healive_pq",
+    "sii_mmr",
+    "who_vzv"
    ]
   },
   {
@@ -363,34 +379,59 @@ window.ICERIK = {
    "asilar": [
     [
      "kkk",
-     "GBP'deki KKK'nin yardımcı madde listesi fotoğrafta yok; doğrulanmalı",
-     "D"
+     "\"Kısmi Hidrolize Jelatin\" yardımcı maddeler listesinde (6.1)",
+     "F"
     ]
    ],
    "soylem": "\"Domuz kaynaklı jelatin\" ve helal itirazı; Türkiye'de en etkili konulardan biri.",
-   "baglam": "FDA'ya göre jelatin bazı aşılarda dengeleyici olarak kullanılır. CDC'ye göre KKK'ye bağlı alerjik tepkilerin çoğu jelatin gibi bileşenlerle ilişkilidir ve jelatine anafilaksi öyküsü KKK için engeldir. Türkiye'de ruhsatlı başka bir SII KKK ürünü olan TRESIVAC'ın talimatında jelatin geçer; GBP'deki KKK'nin jelatin içerip içermediği ve jelatinin kaynağı doğrulanmamıştır. Gönderilen suçiçeği, OPA ve diğer aşıların görünen yardımcı madde listelerinde jelatin yoktur.",
+   "baglam": "GBP'de kullanılan KKK aşısının kısa ürün bilgisi jelatini yardımcı madde olarak sayar; jelatinin kaynağı (domuz veya sığır) belgede yazmaz. FDA'ya göre jelatin bazı aşılarda dengeleyici olarak kullanılır. CDC'ye göre jelatine gerçek anafilaksi öyküsü KKK için engeldir. Gönderilen diğer aşıların yardımcı madde listelerinde jelatin yoktur.",
    "kaynak": [
     "fda_ing",
-    "cdc_gen",
-    "tresivac"
+    "cdc_gen"
    ]
   },
   {
+   "id": "sorbitol",
+   "ad": "Sorbitol",
+   "ne": "Dengeleyici olarak kullanılan bir şeker alkolü.",
+   "asilar": [
+    [
+     "kkk",
+     "yardımcı maddeler listesinde",
+     "F"
+    ]
+   ],
+   "soylem": "\"Aşıda şeker var\" itirazı; şeker intoleransı kaygısı.",
+   "baglam": "GBP'deki KKK'nin yardımcı maddeleri arasında yer alır; belgede miktarı yazmaz.",
+   "kaynak": []
+  },
+  {
    "id": "yumurta",
-   "ad": "Yumurta ve inek sütü proteinleri",
+   "ad": "Yumurta, tavuk hücresi ve süt proteinleri",
    "ne": "KKK prospektüsünde alerji uyarısı olarak geçen besin proteinleri.",
    "asilar": [
     [
      "kkk",
      "yumurtaya anafilaksi öyküsü \"mutlak kontrendikasyon\"; inek sütü alerjisinde \"son derece nadir\" aşırı duyarlılık bildirimi",
      "F"
+    ],
+    [
+     "kkk",
+     "yardımcı maddelerde \"Laktalbumin Hidrolizat\" (süt proteini)",
+     "F"
+    ],
+    [
+     "kkk",
+     "kabakulak virüsü tavuk fibroblastlarında üretilir (üreticinin İngilizce prospektüsü)",
+     "D"
     ]
    ],
    "soylem": "\"Aşıda hayvansal protein var\"; alerji kaygısı.",
-   "baglam": "CDC'ye göre yumurta alerjisi, ağır olsa bile, KKK için engel ya da önlem gerektiren durum değildir. GBP'deki KKK prospektüsü ise yumurtaya anafilaksi öyküsünü mutlak kontrendikasyon olarak yazar; bu ifade CDC rehberinden daha katıdır.",
+   "baglam": "CDC'ye göre yumurta alerjisi, ağır olsa bile, KKK için engel ya da önlem gerektiren durum değildir. GBP'deki KKK prospektüsü ise yumurtaya anafilaksi öyküsünü mutlak kontrendikasyon olarak yazar; bu ifade CDC rehberinden daha katıdır. Laktalbumin hidrolizat süt kaynaklı bir proteindir ve prospektüsteki inek sütü alerjisi uyarısıyla birlikte okunabilir.",
    "kaynak": [
     "cdc_gen",
-    "cdc_ci"
+    "cdc_ci",
+    "sii_mmr"
    ]
   },
   {
@@ -423,8 +464,8 @@ window.ICERIK = {
     ],
     [
      "men",
-     "C, W, Y bileşenlerinin taşıyıcısı",
-     "D"
+     "C, W ve Y bileşenlerinin taşıyıcısı; doz başına 11,7–50,1 µg (A ve X tetanoz toksoidine bağlı)",
+     "F"
     ]
    ],
    "soylem": "\"Aşıda toksin var\" söylemi.",
@@ -572,14 +613,27 @@ window.ICERIK = {
    "kaynak": [
     "fda_ing"
    ]
+  },
+  {
+   "asi": "vzv",
+   "alinti": "Şu anda bu ürün için pazarlama sonrası veri bulunmamaktadır. Diğer ruhsatlı suçiçeği aşılarından kaynaklanan advers reaksiyonlar aşağıdaki gibi özetlenmiştir: ... Viral ensefalit, herpes zoster ve suçiçeği ... nöbet, inme, serebellar ataksi, menenjit, akut dissemine ensefalomiyelit, transvers miyelit, Guillain-Barre sendromu, Bell paralizisi.",
+   "neden": "Ağır nörolojik tabloların listesi, aşının bunlara yol açtığı biçiminde alıntılanabilir.",
+   "baglam": "Prospektüsün kendisi bu listenin bu ürüne ait olmadığını, başka suçiçeği aşılarının pazarlama sonrası bildirimlerinden derlendiğini ve bu ürün için pazarlama sonrası veri bulunmadığını belirtir. Pazarlama sonrası bildirimler tek başına nedensellik kanıtı değildir.",
+   "kaynak": []
+  },
+  {
+   "asi": "hexa",
+   "alinti": "Hepatit B antijeni içeren bir aşının uygulanmasından sonra, ... yüz felci, görme bozuklukları, ... beyin ve omuriliği etkileyen enflamatuvar (iltihabi) hastalık (merkezi sinir sistemi demiyelinizasyonu, multipl skleroz) bildirilmiştir.",
+   "neden": "\"Aşı MS yapar\" söyleminin kaynağı olarak alıntılanabilir.",
+   "baglam": "Belge bu yan etkilerin başka aşılarla \"zaman zaman bildirildiğini\" ve \"doğrudan HEXAXIM ile bağlantılı\" olmadığını yazar.",
+   "kaynak": []
   }
  ],
  "acik": [
-  "KKK'nin tam bileşimi: GBP'de kullanılan KKK'nin üreticisi ve yardımcı madde listesi; özellikle jelatin içerip içermediği ve jelatinin kaynağı.",
-  "Bevac'taki tiyomersal ve alüminyum miktarı: Fotoğrafta yazmıyor.",
-  "Healive ve suçiçeği için Türkçe kısa ürün bilgisi bulunamadı; değerlendirme fotoğrafların görünen kısmına dayanıyor.",
-  "MenFive'ın Türkiye'deki ruhsatı ve kullanımı doğrulanmadı; bilgiler DSÖ belgesinden.",
-  "Fotoğraflar çoğu belgenin yalnız bir yüzünü gösteriyor; eksik sayfalar istendi."
+  "KKK'deki jelatinin kaynağı (domuz veya sığır) Türkçe kısa ürün bilgisinde yazmıyor; üreticiden ya da Keymen'den doğrulanmalı.",
+  "KKK ve suçiçeği aşısının hücre kaynağı bilgisi Türkçe belgelerde yok; üreticinin İngilizce prospektüsünden ve DSÖ değerlendirme özetinden alındı.",
+  "Bevac'taki tiyomersal ve alüminyum miktarı belgede yazmıyor.",
+  "Prevenar 13 ve MenFive fotoğraflarındaki klinik çalışma tablolarının ve küçük yazının bir kısmı okunamadı.",
+  "Healive ve suçiçeği için internette Türkçe kısa ürün bilgisi dosyası bulunamadı; değerlendirme gönderilen fotoğraflara dayanıyor."
  ]
 };
-
