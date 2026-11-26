@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 2
-_Kaynak: prevenar13-y2 — 4.2. Pozoloji ve uygulama şekli → 4.8. İstenmeyen etkiler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 2
+_Fotoğraf: prevenar13-y2. Kapsam: 4.2. Pozoloji ve uygulama şekli ile 4.8. İstenmeyen etkiler arası._
 
 Önceki pnömokokal aşılama durumundan bağımsız olarak 23-valanlı pnömokokal polisakkarid aşı kullanımı uygun görüldüğü durumlarda önce PREVENAR 13 verilmelidir.
 
@@ -120,7 +120,7 @@ yan etkiler geçici olarak araç ve makine [kesik]
 
 ### 4.8. İstenmeyen etkiler
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 6 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **Pediyatrik yaş grubu (6 hafta – 5 yaş)**
 Aşının güvenliliği, 6. haftada ilk bağış [kesik]
@@ -131,7 +131,7 @@ Daha önceden aşılanmamış 354 çocukta [kesik]
 6 haftalık-5 yaş arası bebek ve çocuklar [kesik]
 uykuda artma ve/veya azalmadır.
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 6 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 *Klinik Çalışmalardaki Advers Reaksiy [kesik]*
 Klinik çalışmalarda, PREVENAR 13’ [kesik]
@@ -195,7 +195,7 @@ görülme sıklığı benzerdir. Sadece b [kesik]
 
 **Erişkin yaş grubu (18 yaş ve üzer [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.

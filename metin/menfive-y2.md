@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 2
-_Kaynak: menfive-y2 — 4. KLİNİK ÖZELLİKLER → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 2
+_Fotoğraf: menfive-y2. Kapsam: 4. KLİNİK ÖZELLİKLER ile 5.1. Farmakodinamik Özellikler arası._
 
 Aşıda ve sulandırıcıda hiçbir koruyucu madde yoktur.
 

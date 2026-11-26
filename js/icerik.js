@@ -108,13 +108,17 @@ window.ICERIK = {
   "sii_mmr": {
    "ad": "Serum Institute of India, Measles, Mumps and Rubella Vaccine Live, Attenuated (Freeze-Dried) prospektüsü (DSÖ ön yeterlilik dosyası, 2022)",
    "url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_142_143_144_145_MMR_SIIPL_PI_UNICEF-2022.pdf"
+  },
+  "sii_web": {
+   "ad": "Serum Institute of India, Measles, Mumps & Rubella (MMR) Vaccine ürün sayfası",
+   "url": "https://www.seruminstitute.com/product_viral_measles-mumps-rubella.php"
   }
  },
  "maddeler": [
   {
    "id": "aluminyum",
    "ad": "Alüminyum tuzları (adjuvan)",
-   "ne": "Bağışıklık yanıtını güçlendirmek için eklenen yardımcı madde (alüminyum hidroksit veya alüminyum fosfat).",
+   "ne": "Bağışıklık yanıtını güçlendirmek için eklenen yardımcı madde (adjuvan). Aşılarda alüminyum hidroksit ya da alüminyum fosfat olarak bulunur.",
    "asilar": [
     [
      "hexa",
@@ -152,8 +156,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "Sinir sistemi hasarı, otizm, otoimmün hastalık ve vücutta birikim iddiaları. Takvimde en çok aşıda bulunan madde olduğu için toplam miktar da tartışılır.",
-   "baglam": "Avrupa Farmakopesi, aşının tek dozundaki alüminyum için 1,25 mg üst sınır koyar; takvimdeki miktarlar bu sınırın altındadır. FDA'ya göre alüminyumla en sık karşılaşma besin ve su yoluyla olur. Bir model çalışması (Mitkus 2011), bebeklerde aşı ve besinden gelen alüminyum birikiminin ABD zehirli maddeler ajansının (ATSDR) en düşük risk düzeyi eğrisinin altında kaldığını hesapladı. Bu çalışma ölçüm değil modeldir; bazı varsayımları az sayıda hayvan ve tek bir yetişkinin verisine dayanır.",
+   "soylem": "Alüminyumun sinir sistemine zarar verdiği, otizme ya da otoimmün hastalıklara yol açtığı ve vücutta biriktiği öne sürülür. Takvimdeki aşıların çoğunda bulunduğu için toplam miktar da sık sorulur.",
+   "baglam": "Avrupa Farmakopesi bir aşı dozundaki alüminyum için 1,25 mg üst sınır koyar ve takvimdeki ürünlerin hepsi bu sınırın altındadır. FDA, alüminyuma en çok besin ve su yoluyla maruz kalındığını belirtir. Mitkus ve arkadaşlarının 2011 model çalışmasında, bebeklerde aşı ve besinden gelen alüminyum yükü ATSDR'nin en düşük risk düzeyinin altında hesaplandı. Bulgu bir model hesabıdır; bazı varsayımları az sayıda hayvandan ve tek bir yetişkinden elde edilen verilere dayanır.",
    "kaynak": [
     "edqm",
     "fda_ing",
@@ -163,7 +167,7 @@ window.ICERIK = {
   {
    "id": "tiyomersal",
    "ad": "Tiyomersal (cıva içeren koruyucu)",
-   "ne": "Çok dozlu flakonlarda mikrop üremesini önlemek için kullanılan koruyucu.",
+   "ne": "Çok dozlu flakonlarda mikrop üremesini önleyen, cıva içeren koruyucu.",
    "asilar": [
     [
      "td",
@@ -176,8 +180,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Aşıda cıva var\" itirazı; otizm ve sinir sistemi hasarı iddiaları. Td-VAC belgesinin tiyomersale alerji olasılığını yazması da alıntılanabilir.",
-   "baglam": "Tiyomersaldeki cıva etilcıvadır; balıkta biriken metilcıvadan farklıdır ve vücuttan daha hızlı atılır. Bebeklerde yapılan bir çalışmada kandaki yarılanma ömrü yaklaşık 7 gün bulundu (Pichichero 2002). DSÖ Küresel Aşı Güvenliği Danışma Komitesi, aşılardaki tiyomersalin zararlı olduğuna dair kanıt bulmamıştır.",
+   "soylem": "\"Aşıda cıva var\" itirazının konusu; otizm ve sinir sistemi hasarıyla ilişkilendirilir. Td-VAC talimatında tiyomersale alerji gelişebileceğinin yazması da bu itiraza dayanak yapılabilir.",
+   "baglam": "Tiyomersalden açığa çıkan cıva etilcıvadır. Balıkta biriken metilcıvadan farklı olarak vücuttan hızla atılır; Pichichero ve arkadaşlarının (2002) bebeklerde yaptığı çalışmada kandaki yarılanma ömrü yaklaşık 7 gün bulundu. DSÖ Küresel Aşı Güvenliği Danışma Komitesi, aşılardaki tiyomersalin zarar verdiğine ilişkin kanıt bulunmadığını bildirmiştir.",
    "kaynak": [
     "gacvs",
     "who_thio",
@@ -187,7 +191,7 @@ window.ICERIK = {
   {
    "id": "formaldehit",
    "ad": "Formaldehit",
-   "ne": "Virüsleri ve bakteri toksinlerini etkisizleştirmek için üretimde kullanılır; bazı ürünlerde yardımcı madde ya da artık olarak bulunur.",
+   "ne": "Virüsleri ve bakteri toksinlerini etkisizleştirmek için üretimde kullanılır. Bazı ürünlerde yardımcı madde ya da kalıntı olarak bulunur.",
    "asilar": [
     [
      "dabtipa",
@@ -210,8 +214,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Kanserojen madde\", \"mumyalama sıvısı\" söylemi.",
-   "baglam": "FDA'ya göre formaldehit üretim sırasında seyreltilir; aşılardaki miktar vücutta doğal olarak bulunan formaldehite göre çok küçüktür. Vücut formaldehiti normal metabolizmasının parçası olarak kendisi üretir. Bir model çalışması (Mitkus 2013), bir aşı ziyaretinde alınan yaklaşık 200 µg formaldehitin enjeksiyon yerinden 30 dakikada dağıldığını ve bebeğin kendi ürettiği miktarın %1'inden az bir artış yarattığını hesapladı.",
+   "soylem": "Kanserojen olduğu ve \"mumyalama sıvısı\" olarak kullanıldığı vurgulanır.",
+   "baglam": "FDA'ya göre formaldehit üretim sırasında seyreltilir ve aşılarda kalan miktar vücutta doğal olarak bulunan miktarın çok altındadır; vücut normal metabolizmasında formaldehit üretir. Mitkus ve arkadaşlarının (2013) modelinde, bir aşı ziyaretinde verilen yaklaşık 200 µg formaldehit enjeksiyon yerinden 30 dakikada dağılmış ve bebeğin kendi ürettiği miktarı %1'den az artırmıştır.",
    "kaynak": [
     "fda_ing",
     "mitkus13"
@@ -238,14 +242,14 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "Formaldehitle birlikte \"aşıda kimyasal var\" itirazı.",
-   "baglam": "Ürün belgeleri bu maddeyi \"tespit edilemeyen eser\" olarak bildirir; uyarı yalnız bu maddeye aşırı duyarlılığı olan kişiler içindir.",
+   "soylem": "Formaldehitle birlikte \"aşıda kimyasal var\" itirazında anılır.",
+   "baglam": "Ürün belgeleri glutaraldehiti \"tespit edilemeyen eser miktar\" olarak bildirir. Uyarı yalnız bu maddeye aşırı duyarlılığı olanlar içindir.",
    "kaynak": []
   },
   {
    "id": "antibiyotik",
    "ad": "Antibiyotik artıkları",
-   "ne": "Hücre kültüründe bakteri üremesini önlemek için üretimde kullanılan antibiyotiklerin kalıntısı.",
+   "ne": "Hücre kültüründe bakteri üremesini önlemek için kullanılan antibiyotiklerden kalan iz miktarlar.",
    "asilar": [
     [
      "hexa",
@@ -273,8 +277,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Bebeğe antibiyotik veriliyor\"; direnç ve bağırsak florası iddiaları.",
-   "baglam": "FDA'ya göre ağır alerjiye en sık yol açan antibiyotikler (penisilinler, sefalosporinler, sülfa ilaçları) aşı üretiminde kullanılmaz; aşılardaki çok küçük miktarlar ağır alerjik tepkilerle açıkça ilişkilendirilmemiştir. CDC'ye göre neomisine daha önce anafilaksi geçirmek KKK için engeldir; gecikmiş deri tepkisi engel değildir.",
+   "soylem": "Bebeğe antibiyotik verildiği, bunun direnç geliştireceği ve bağırsak florasını bozacağı ileri sürülür.",
+   "baglam": "FDA'ya göre ağır alerjiye en sık yol açan antibiyotikler (penisilinler, sefalosporinler, sülfonamidler) aşı üretiminde kullanılmaz ve aşılardaki iz miktarların ağır alerjik tepkilerle açık bir ilişkisi gösterilmemiştir. CDC, neomisine karşı anafilaksi öyküsünü KKK için kontrendikasyon sayar; gecikmiş tip deri tepkisini saymaz.",
    "kaynak": [
     "fda_ing",
     "cdc_ci"
@@ -283,7 +287,7 @@ window.ICERIK = {
   {
    "id": "diploid",
    "ad": "İnsan diploid hücreleri",
-   "ne": "Virüslerin üretildiği insan kaynaklı hücre dizileri.",
+   "ne": "Virüslerin çoğaltıldığı, insan kaynaklı hücre dizileri.",
    "asilar": [
     [
      "hepa",
@@ -301,8 +305,8 @@ window.ICERIK = {
      "D"
     ]
    ],
-   "soylem": "Dinî ve etik itiraz: \"aşıda cenin dokusu var\" söylemi. Türkiye'de helal tartışmasıyla birleşebilir.",
-   "baglam": "Healive'ın üretildiği 2BS, 1973'te Pekin Biyolojik Ürünler Enstitüsü'nde 3 aylık bir fetüsün akciğer dokusundan kurulmuş diploid fibroblast hücre dizisidir; aşı üretimi için yeni fetal doku kullanılmaz. Virüs bu hücrelerde üretilir, saflaştırılır ve formalinle etkisizleştirilir. Hücre dizisinin kökeni için kullanılan kaynak bir patent metnidir; bilimsel yayında birincil kaynakla desteklenmelidir. Serum Institute of India'nın KKK prospektüsü kızamık ve kızamıkçık virüslerinin insan diploid hücrelerinde, kabakulak virüsünün tavuk fibroblastlarında üretildiğini yazar. DSÖ değerlendirme özeti, Sinovac'ın suçiçeği aşısının SV-1 insan diploid hücre dizisinde hazırlandığını belirtir. Bu iki bilgi Türkçe prospektüslerde geçmez.",
+   "soylem": "Aşıda cenin dokusu bulunduğu ileri sürülür; dinî ve etik itirazlara, Türkiye'de helal tartışmasına konu olur.",
+   "baglam": "Healive'ın üretildiği 2BS hücre dizisi, 1973'te Pekin Biyolojik Ürünler Enstitüsü'nde 3 aylık bir fetüsün akciğer dokusundan elde edilmiş diploid fibroblastlardan oluşur; aşı üretimi için yeni fetal doku kullanılmaz. Virüs bu hücrelerde çoğaltıldıktan sonra saflaştırılır ve formalinle etkisizleştirilir. 2BS'nin kökenine ilişkin bilgi bir patent metninden alınmıştır, yayında birincil kaynakla desteklenmelidir. Serum Institute of India'nın prospektüsüne göre KKK'deki kızamık ve kızamıkçık virüsleri insan diploid hücrelerinde, kabakulak virüsü tavuk fibroblastlarında üretilir. DSÖ değerlendirme özetine göre Sinovac'ın suçiçeği aşısı SV-1 insan diploid hücre dizisinde hazırlanır. Bu iki bilgi Türkçe prospektüslerde yer almaz.",
    "kaynak": [
     "patent2bs",
     "healive_rev",
@@ -314,7 +318,7 @@ window.ICERIK = {
   {
    "id": "vero",
    "ad": "Vero hücreleri",
-   "ne": "Polio virüsünün üretildiği maymun böbrek hücre dizisi.",
+   "ne": "Polio virüsünün çoğaltıldığı, maymun böbreğinden elde edilmiş hücre dizisi.",
    "asilar": [
     [
      "hexa",
@@ -327,8 +331,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Aşıda hayvan hücresi\", \"maymun virüsü\" itirazı.",
-   "baglam": "Vero, 1962'de Japonya'da Chiba Üniversitesi'nde sağlıklı bir Afrika yeşil maymununun böbreğinden kurulmuş sürekli hücre dizisidir. Aşı virüsü bu hücrelerde üretilir, sonra etkisizleştirilip saflaştırılır.",
+   "soylem": "Aşıda hayvan hücresi ya da \"maymun virüsü\" bulunduğu ileri sürülür.",
+   "baglam": "Vero hücre dizisi 1962'de Japonya'da, Chiba Üniversitesi'nde sağlıklı bir Afrika yeşil maymununun böbreğinden kurulmuştur. Aşı virüsü bu hücrelerde çoğaltılır, ardından etkisizleştirilir ve saflaştırılır.",
    "kaynak": [
     "atcc",
     "ecacc",
@@ -351,8 +355,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Genetiği değiştirilmiş aşı\", \"DNA'yı değiştirir\" söylemi.",
-   "baglam": "Aşıda saflaştırılmış hepatit B yüzey proteini bulunur; maya yalnız bu proteini üretmek için kullanılır.",
+   "soylem": "\"Genetiği değiştirilmiş aşı\" olduğu ve insan DNA'sını değiştirdiği ileri sürülür.",
+   "baglam": "Aşı yalnız saflaştırılmış hepatit B yüzey proteinini içerir. Maya bu proteini üretmek için kullanılır.",
    "kaynak": [
     "chop_ing"
    ]
@@ -360,7 +364,7 @@ window.ICERIK = {
   {
    "id": "etanol",
    "ad": "Etanol (alkol)",
-   "ne": "Üretimde kullanılan çözücü.",
+   "ne": "Üretimde çözücü olarak kullanılan alkol.",
    "asilar": [
     [
      "dabtipa",
@@ -368,14 +372,14 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "Dinî açıdan \"alkol içeren aşı\" itirazı.",
-   "baglam": "Tetraxim belgesi, bu miktardaki alkolün \"gözle görülür bir etkisi olması olası değildir\" der.",
+   "soylem": "Dinî gerekçeyle \"alkol içeren aşı\" itirazına konu olur.",
+   "baglam": "Tetraxim talimatına göre bu miktardaki alkolün \"gözle görülür bir etkisi olması olası değildir.\"",
    "kaynak": []
   },
   {
    "id": "jelatin",
    "ad": "Jelatin",
-   "ne": "Bazı canlı aşılarda kullanılan dengeleyici (stabilizatör).",
+   "ne": "Bazı canlı aşılarda dengeleyici (stabilizatör) olarak kullanılan protein.",
    "asilar": [
     [
      "kkk",
@@ -383,11 +387,13 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Domuz kaynaklı jelatin\" ve helal itirazı; Türkiye'de en etkili konulardan biri.",
-   "baglam": "GBP'de kullanılan KKK aşısının kısa ürün bilgisi jelatini yardımcı madde olarak sayar; jelatinin kaynağı (domuz veya sığır) belgede yazmaz. FDA'ya göre jelatin bazı aşılarda dengeleyici olarak kullanılır. CDC'ye göre jelatine gerçek anafilaksi öyküsü KKK için engeldir. Gönderilen diğer aşıların yardımcı madde listelerinde jelatin yoktur.",
+   "soylem": "Domuz kaynaklı olduğu düşünülen jelatin, helal itirazının başlıca konusudur ve Türkiye'de en çok gündeme gelen başlıklardan biridir.",
+   "baglam": "GBP'de kullanılan KKK aşısının kısa ürün bilgisi \"kısmi hidrolize jelatin\"i yardımcı madde olarak sayar, ancak kaynağını (domuz ya da sığır) belirtmez. Üreticinin ürün sayfasında ve DSÖ'ye sunduğu prospektüste de kaynak yazmaz; bu bilgi ancak üreticiden ya da Keymen'den istenecek bir belgeyle öğrenilebilir. FDA jelatinin bazı aşılarda dengeleyici olarak kullanıldığını belirtir. CDC'ye göre jelatine karşı anafilaksi öyküsü KKK için kontrendikasyondur. Gönderilen diğer aşıların yardımcı madde listelerinde jelatin yoktur.",
    "kaynak": [
     "fda_ing",
-    "cdc_gen"
+    "cdc_gen",
+    "sii_mmr",
+    "sii_web"
    ]
   },
   {
@@ -401,14 +407,14 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Aşıda şeker var\" itirazı; şeker intoleransı kaygısı.",
-   "baglam": "GBP'deki KKK'nin yardımcı maddeleri arasında yer alır; belgede miktarı yazmaz.",
+   "soylem": "\"Aşıda şeker var\" itirazında ve şeker intoleransı kaygısında anılır.",
+   "baglam": "KKK'nin yardımcı maddeleri arasında yer alır; belgede miktarı verilmemiştir.",
    "kaynak": []
   },
   {
    "id": "yumurta",
    "ad": "Yumurta, tavuk hücresi ve süt proteinleri",
-   "ne": "KKK prospektüsünde alerji uyarısı olarak geçen besin proteinleri.",
+   "ne": "KKK prospektüsünde alerji uyarısı olarak geçen besin proteinleri ve kabakulak bileşeninin üretildiği tavuk hücreleri.",
    "asilar": [
     [
      "kkk",
@@ -426,8 +432,8 @@ window.ICERIK = {
      "D"
     ]
    ],
-   "soylem": "\"Aşıda hayvansal protein var\"; alerji kaygısı.",
-   "baglam": "CDC'ye göre yumurta alerjisi, ağır olsa bile, KKK için engel ya da önlem gerektiren durum değildir. GBP'deki KKK prospektüsü ise yumurtaya anafilaksi öyküsünü mutlak kontrendikasyon olarak yazar; bu ifade CDC rehberinden daha katıdır. Laktalbumin hidrolizat süt kaynaklı bir proteindir ve prospektüsteki inek sütü alerjisi uyarısıyla birlikte okunabilir.",
+   "soylem": "Aşıda hayvansal protein bulunduğu itirazında ve alerji kaygısında anılır.",
+   "baglam": "CDC yumurta alerjisini, ağır olsa bile, KKK için kontrendikasyon ya da önlem gerektiren durum saymaz. Türkiye'deki KKK prospektüsü ise yumurtaya karşı anafilaksi öyküsünü mutlak kontrendikasyon olarak yazar; bu CDC rehberinden daha katı bir ifadedir. Laktalbumin hidrolizat süt kaynaklıdır ve prospektüsteki inek sütü alerjisi uyarısıyla birlikte okunmalıdır.",
    "kaynak": [
     "cdc_gen",
     "cdc_ci",
@@ -445,8 +451,8 @@ window.ICERIK = {
      "K"
     ]
    ],
-   "soylem": "\"Kısırlık yapar\" söylemi.",
-   "baglam": "İddia, yeni doğmuş sıçanlara karın içine çok yüksek dozlarda verilen bir çalışmaya dayanır. DSÖ Avrupa ve CHOP, aşılardaki miktarın kısırlığa yol açtığına dair kanıt olmadığını belirtir.",
+   "soylem": "Kısırlığa yol açtığı ileri sürülür.",
+   "baglam": "Bu iddia, yeni doğmuş sıçanlara çok yüksek dozların karın içine verildiği bir çalışmaya dayanır. DSÖ Avrupa Bölge Ofisi ve CHOP, aşılardaki miktarın kısırlık yaptığına ilişkin kanıt olmadığını belirtir.",
    "kaynak": [
     "who_eu",
     "chop_ps80"
@@ -468,8 +474,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Aşıda toksin var\" söylemi.",
-   "baglam": "CRM₁₉₇, difteri toksininin doğal olarak oluşmuş türevidir. Tek bir amino asit değişikliği (52. sırada glisin yerine glutamik asit) toksinin hücrede protein yapımını durduran işlevini ortadan kaldırır.",
+   "soylem": "Aşıda toksin bulunduğu ileri sürülür.",
+   "baglam": "CRM₁₉₇ difteri toksininin doğal olarak oluşmuş, zehirsiz bir türevidir. 52. sıradaki glisinin glutamik asitle yer değiştirmesi, toksinin hücrede protein yapımını durdurma özelliğini ortadan kaldırır.",
    "kaynak": [
     "crm_seq",
     "crm_str"
@@ -478,7 +484,7 @@ window.ICERIK = {
   {
    "id": "fenilalanin",
    "ad": "Fenilalanin ve \"fenol kırmızısı\"",
-   "ne": "Besiyerindeki bir amino asit; fenol kırmızısı ise bir pH göstergesi.",
+   "ne": "Besiyerinde bulunan bir amino asit. Fenol kırmızısı ise besiyerlerinde kullanılan bir pH göstergesidir.",
    "asilar": [
     [
      "dabtipa",
@@ -491,8 +497,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Tehlikeli olabilir\" ifadesi ve \"fenol\" sözcüğü bağlamından koparılabilir.",
-   "baglam": "Uyarı yalnız fenilketonüri hastalarını ilgilendirir. \"Fenol kırmızısı içermeyen\" ifadesi bu maddenin aşıda bulunmadığını söyler.",
+   "soylem": "Talimattaki \"tehlikeli olabilir\" ifadesi ve \"fenol\" sözcüğü bağlamından koparılarak alıntılanır.",
+   "baglam": "Uyarı yalnız fenilketonüri hastalarını ilgilendirir. Talimat besiyerinin \"fenol kırmızısı içermeyen\" türde olduğunu yazar.",
    "kaynak": []
   },
   {
@@ -511,7 +517,7 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"Kimyasal koruyucu\" itirazı.",
+   "soylem": "\"Kimyasal koruyucu\" itirazında anılır.",
    "baglam": "Bu iki üründe tiyomersal yerine koruyucu olarak kullanılır.",
    "kaynak": []
   },
@@ -531,8 +537,8 @@ window.ICERIK = {
      "F"
     ]
    ],
-   "soylem": "\"MSG bebek beynine zarar verir\" söylemi.",
-   "baglam": "FDA'ya göre glutamik asidin sodyum tuzu gibi amino asitler aşılarda dengeleyici olarak kullanılır; şekerler, amino asitler ve proteinler aşılara özgü değildir, günlük besinlerde ve vücutta doğal olarak bulunur.",
+   "soylem": "Bebeklerin beynine zarar verdiği ileri sürülür.",
+   "baglam": "FDA, glutamik asidin sodyum tuzu gibi amino asitlerin aşılarda dengeleyici olarak kullanıldığını ve bu tür maddelerin günlük besinlerde ve vücutta doğal olarak bulunduğunu belirtir.",
    "kaynak": [
     "fda_ing"
    ]
@@ -542,8 +548,8 @@ window.ICERIK = {
   {
    "asi": "opa",
    "alinti": "Çok nadiren aşıya bağlı paralizi gelişebilir (uygulanan 1 milyon dozda bir vaka). Yakın zamanda aşılanan bir çocukla yakın temas halinde olan kişiler nadiren de olsa aşıya bağlı paralitik poliomyelit riski altında olabilirler.",
-   "neden": "\"Aşı felç yapıyor\" ve \"aşılı çocuk başkasına bulaştırır\" söyleminin doğrudan kaynağı olabilir.",
-   "baglam": "DSÖ'ye göre üç bileşenli oral aşı kullanan ülkelerde her 1 milyon doğumda yaklaşık 3,8 olgu görülür (2,9–4,7) ve risk en çok ilk dozdadır. Prospektüsteki oran bu aralıkla uyumludur. Bu risk yalnız canlı oral aşıda vardır; takvimdeki inaktif polio (Hexaxim ve Tetraxim içindeki İPA) felç yapmaz.",
+   "neden": "\"Aşı felç yapar\" ve \"aşılanan çocuk çevresine hastalık bulaştırır\" iddialarına doğrudan dayanak yapılabilir.",
+   "baglam": "DSÖ'ye göre üç değerlikli oral aşı kullanan ülkelerde 1 milyon doğumda yaklaşık 3,8 olgu görülür (2,9-4,7) ve risk en çok ilk dozdadır; prospektüsteki oran bu aralıktadır. Bu risk yalnız canlı oral aşıya özgüdür. Hexaxim ve Tetraxim'deki inaktif polio bileşeni felce yol açmaz.",
    "kaynak": [
     "who_polio",
     "who_polio_qa"
@@ -552,8 +558,8 @@ window.ICERIK = {
   {
    "asi": "vzv",
    "alinti": "Aşı virüsünün bulaşması nadiren gerçekleşebilir.",
-   "neden": "Aşılı çocuğun başkasına hastalık bulaştıracağı kaygısı.",
-   "baglam": "CDC'ye göre 2018'e kadar bağışıklığı normal 11 aşılı kişiden 13 bulaşma olgusu kaydedildi; hepsi aşıdan sonra döküntü çıkan kişilerdendi ve bulaşan hastalık genellikle hafifti. Döküntüsü olmayan aşılı kişinin bulaştırması çok olası değildir.",
+   "neden": "Aşılanan çocuğun başkalarına hastalık bulaştıracağı kaygısı.",
+   "baglam": "CDC'nin 2018'e kadar derlediği verilere göre bağışıklığı normal 11 aşılı kişiden 13 bulaşma olmuştur. Hepsinde aşılı kişide aşıdan sonra döküntü vardı ve bulaşan hastalık genellikle hafif seyretti. Döküntüsü olmayan aşılı kişinin virüsü bulaştırması çok olası değildir.",
    "kaynak": [
     "cdc_var",
     "cdc_var2"
@@ -562,15 +568,15 @@ window.ICERIK = {
   {
    "asi": "vzv",
    "alinti": "... tüm aşılanan kişileri doğal yollardan edinilmiş suçiçeğine karşı tamamen korumayabilir.",
-   "neden": "\"Aşı zaten korumuyor\" argümanı. Benzer ifade BCG'de de var: \"aşılanan kişilerin tümünde koruma sağlamayabilir.\"",
+   "neden": "\"Aşı zaten korumuyor\" görüşüne dayanak yapılabilir. BCG talimatında da benzer bir cümle var: \"aşılanan kişilerin tümünde koruma sağlamayabilir.\"",
    "baglam": "",
    "kaynak": []
   },
   {
    "asi": "hepb",
    "alinti": "Gebelik kategorisi: C ... Gebe kadınların rekombinant hepatit-B aşısı ile rutin olarak aşılanması, fetüs üzerindeki etkilerine ilişkin verilerin yetersiz olması nedeniyle önerilmemektedir.",
-   "neden": "Gebelikte aşı güvenliği konusunda kuşku.",
-   "baglam": "Harf kategorileri tek başına zarar kanıtı değildir. FDA, A, B, C, D ve X gebelik harf kategorilerini 30 Haziran 2015'te yürürlüğe giren gebelik ve emzirme etiketleme kuralıyla kaldırdı.",
+   "neden": "Gebelikte aşının güvenli olmadığı biçiminde yorumlanabilir.",
+   "baglam": "Harfli gebelik kategorileri tek başına zarar gösterildiği anlamına gelmez. FDA, A, B, C, D ve X kategorilerini 30 Haziran 2015'te yürürlüğe giren gebelik ve emzirme etiketleme kuralıyla kaldırmıştır.",
    "kaynak": [
     "fda_pllr"
    ]
@@ -578,22 +584,22 @@ window.ICERIK = {
   {
    "asi": "kkk",
    "alinti": "Teorik olarak mümkün olan ama kanıtlanmamış teratojenik riskler nedeniyle hamile kadınlara KKK aşısı yapılmamalıdır.",
-   "neden": "\"Sakat doğuma yol açar\" söylemi.",
-   "baglam": "Prospektüsün kendisi riskin kanıtlanmamış olduğunu, farkında olmadan yapılan aşının kürtaj nedeni olmadığını ve Doğumsal Kızamıkçık Sendromu olgusu bildirilmediğini belirtir.",
+   "neden": "\"Aşı sakat doğuma yol açar\" iddiasına dayanak yapılabilir.",
+   "baglam": "Prospektüs riskin kanıtlanmadığını, gebelikte farkında olmadan yapılan aşının kürtaj gerekçesi olmadığını ve bu durumda Doğumsal Kızamıkçık Sendromu bildirilmediğini de yazar.",
    "kaynak": []
   },
   {
    "asi": "bcg",
    "alinti": "Aşılama sonrasında enjeksiyon yerinde keloid ve lupoid reaksiyon gelişme olasılığı vardır ... HIV pozitif olduğu tespit edilen çocuklarda ise çocuğun durumuna bakılmaksızın BCG aşısı uygulaması muhtemel \"BCG-itis\" gelişme olasılığı göz önünde bulundurulduğundan kontrendikedir.",
-   "neden": "Yan etki kaygısı.",
+   "neden": "Yan etki kaygısını artırabilir.",
    "baglam": "",
    "kaynak": []
   },
   {
    "asi": "td",
    "alinti": "Bu tıbbi ürün koruyucu olarak tiyomersal ihtiva etmektedir ve sizin ya da çocuğunuzun alerjik reaksiyon göstermesi ihtimali vardır.",
-   "neden": "Cıva itirazını belgenin kendisi doğruluyor gibi okunabilir.",
-   "baglam": "Bkz. tiyomersal.",
+   "neden": "Cıva itirazını belgenin kendisinin doğruladığı biçiminde okunabilir.",
+   "baglam": "Tiyomersal maddesine bakınız.",
    "kaynak": [
     "gacvs"
    ]
@@ -601,15 +607,15 @@ window.ICERIK = {
   {
    "asi": "dabtipa",
    "alinti": "TETRAXIM fenilalanin içerdiğinden fenilketonürisi olanlarda tehlikeli olabilir.",
-   "neden": "\"Tehlikeli\" sözcüğü bağlamından koparılabilir.",
+   "neden": "\"Tehlikeli\" sözcüğü bağlamından koparılarak alıntılanabilir.",
    "baglam": "Uyarı yalnız fenilketonüri hastalarını ilgilendirir.",
    "kaynak": []
   },
   {
    "asi": "hexa",
    "alinti": "Aşı, üretim prosesi sırasında kullanılan eser miktarda glutaraldehit, formaldehit, neomisin, streptomisin ve polimiksin B içerebilir (bkz. Bölüm 4.3).",
-   "neden": "\"İçeriği belli olmayan kimyasallar\" algısı. Aynı ifade Tetraxim'de de var.",
-   "baglam": "Bkz. formaldehit, glutaraldehit ve antibiyotik artıkları.",
+   "neden": "Aşının içeriğinin belirsiz olduğu izlenimini verebilir. Aynı cümle Tetraxim talimatında da geçer.",
+   "baglam": "Formaldehit, glutaraldehit ve antibiyotik kalıntıları maddelerine bakınız.",
    "kaynak": [
     "fda_ing"
    ]
@@ -617,23 +623,24 @@ window.ICERIK = {
   {
    "asi": "vzv",
    "alinti": "Şu anda bu ürün için pazarlama sonrası veri bulunmamaktadır. Diğer ruhsatlı suçiçeği aşılarından kaynaklanan advers reaksiyonlar aşağıdaki gibi özetlenmiştir: ... Viral ensefalit, herpes zoster ve suçiçeği ... nöbet, inme, serebellar ataksi, menenjit, akut dissemine ensefalomiyelit, transvers miyelit, Guillain-Barre sendromu, Bell paralizisi.",
-   "neden": "Ağır nörolojik tabloların listesi, aşının bunlara yol açtığı biçiminde alıntılanabilir.",
-   "baglam": "Prospektüsün kendisi bu listenin bu ürüne ait olmadığını, başka suçiçeği aşılarının pazarlama sonrası bildirimlerinden derlendiğini ve bu ürün için pazarlama sonrası veri bulunmadığını belirtir. Pazarlama sonrası bildirimler tek başına nedensellik kanıtı değildir.",
+   "neden": "Ağır nörolojik tabloların sıralandığı bu liste, aşının bunlara yol açtığı biçiminde alıntılanabilir.",
+   "baglam": "Talimata göre liste başka suçiçeği aşılarının pazarlama sonrası bildirimlerinden derlenmiştir ve bu ürün için pazarlama sonrası veri bulunmamaktadır. Pazarlama sonrası bildirimler tek başına neden-sonuç ilişkisi göstermez.",
    "kaynak": []
   },
   {
    "asi": "hexa",
    "alinti": "Hepatit B antijeni içeren bir aşının uygulanmasından sonra, ... yüz felci, görme bozuklukları, ... beyin ve omuriliği etkileyen enflamatuvar (iltihabi) hastalık (merkezi sinir sistemi demiyelinizasyonu, multipl skleroz) bildirilmiştir.",
-   "neden": "\"Aşı MS yapar\" söyleminin kaynağı olarak alıntılanabilir.",
-   "baglam": "Belge bu yan etkilerin başka aşılarla \"zaman zaman bildirildiğini\" ve \"doğrudan HEXAXIM ile bağlantılı\" olmadığını yazar.",
+   "neden": "\"Aşı MS yapar\" iddiasına dayanak yapılabilir.",
+   "baglam": "Talimat bu yan etkilerin başka aşılarla \"zaman zaman bildirildiğini\" ve \"doğrudan HEXAXIM ile bağlantılı\" olmadığını yazar.",
    "kaynak": []
   }
  ],
  "acik": [
-  "KKK'deki jelatinin kaynağı (domuz veya sığır) Türkçe kısa ürün bilgisinde yazmıyor; üreticiden ya da Keymen'den doğrulanmalı.",
-  "KKK ve suçiçeği aşısının hücre kaynağı bilgisi Türkçe belgelerde yok; üreticinin İngilizce prospektüsünden ve DSÖ değerlendirme özetinden alındı.",
-  "Bevac'taki tiyomersal ve alüminyum miktarı belgede yazmıyor.",
-  "Prevenar 13 ve MenFive fotoğraflarındaki klinik çalışma tablolarının ve küçük yazının bir kısmı okunamadı.",
-  "Healive ve suçiçeği için internette Türkçe kısa ürün bilgisi dosyası bulunamadı; değerlendirme gönderilen fotoğraflara dayanıyor."
+  "KKK'deki jelatinin kaynağı (domuz ya da sığır) ne Türkçe kısa ürün bilgisinde ne de üreticinin yayımladığı belgelerde yazıyor. Bu bilgi üreticiden ya da Keymen'den istenmelidir.",
+  "KKK ve suçiçeği aşısının üretildiği hücreler Türkçe belgelerde yazmıyor; bu bilgi üreticinin İngilizce prospektüsünden ve DSÖ değerlendirme özetinden alındı.",
+  "Bevac'taki tiyomersal ve alüminyum miktarı kısa ürün bilgisinde verilmemiş.",
+  "Prevenar 13 kısa ürün bilgisinin altıncı fotoğrafındaki klinik çalışma tabloları büyük ölçüde okunamadı.",
+  "Healive'ın Türkçe KÜB'ü yayımlanmamış; aynı antijeni içeren Havtec Pediyatrik'in KÜB'ü eşdeğer belge olarak verildi.",
+  "Suçiçeği aşısının mümessili Keyvac'ın sitesine erişilemediği için firmanın yayımladığı bir KÜB veya KT dosyası olup olmadığı kontrol edilemedi."
  ]
 };

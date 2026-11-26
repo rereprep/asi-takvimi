@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 5
-_Kaynak: prevenar13-y5 — fonksiyonel antikor titreleri → PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 5
+_Fotoğraf: prevenar13-y5. Kapsam: fonksiyonel antikor titreleri ile PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği arası._
 
 fonksiyonel antikor titreleri de (OPA) karşılaştırılmıştır. Ek altı serotip için bu değerler, PREVENAR'ın 7V içeren formülasyonunu alanlarda ortak yedi serotip arasındaki en düşük yanıt ile karşılaştırılmıştır.
 

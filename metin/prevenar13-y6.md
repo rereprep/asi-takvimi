@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 6
-_Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik çalışmaları. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 6
+_Fotoğraf: prevenar13-y6. Kapsam: Tablo 1 ile 65 yaş ve üzeri erişkinlerde etkililik çalışmaları arası._
 
 ### Tablo 1
 

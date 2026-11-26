@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 5
-_Kaynak: menfive-y5 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 5
+_Fotoğraf: menfive-y5. Kapsam: 5.1. Farmakodinamik Özellikler ile 10. METNİN REVİZYON TARİHİ arası._
 
 | Serogrup | MenFive n (%) (%95 CI) | MenACWY-D (N=595) n (%) (%95 CI) |
 |---|---|---|

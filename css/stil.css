@@ -46,7 +46,7 @@ table.takvim{border-collapse:collapse;width:100%;min-width:900px}
 .kart p{margin:0;color:var(--soluk);font-size:.86rem}
 .rozetler{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
 .rozet{font-size:.72rem;font-weight:700;border-radius:6px;padding:2px 7px;border:1px solid currentColor}
-.rozet.foto{color:var(--mor)} .rozet.kub{color:var(--yesil)} .rozet.kt{color:var(--mavi)} .rozet.yok{color:var(--turuncu)}
+.rozet.foto{color:var(--mor)} .rozet.kub{color:var(--yesil)} .rozet.kt{color:var(--mavi)} .rozet.metin-r{color:var(--mavi)} .rozet.yok{color:var(--turuncu)}
 .kaynaklar{background:var(--beyaz);border:1px solid var(--cizgi);border-radius:14px;padding:18px 20px;font-size:.93rem}
 .kaynaklar p{color:var(--soluk);margin-bottom:0}
 .perde{position:fixed;inset:0;background:rgba(20,10,30,.45);z-index:20}

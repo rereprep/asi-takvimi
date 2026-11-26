@@ -1,9 +1,9 @@
 # Td-VAC 0,5 mL IM Enjeksiyonluk süspansiyon
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (td-vac-y1, td-vac-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (td-vac-y1, td-vac-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: td-vac-y1 — Genelge uyarısı → Diğer ilaçlar ile birlikte kullanımı)_
+_Fotoğraf 1 (td-vac-y1): Genelge uyarısı ile Diğer ilaçlar ile birlikte kullanımı arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -105,7 +105,7 @@ Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma
 
 ---
 
-_(Fotoğraf 2: td-vac-y2 — 3. Td-VAC nasıl kullanılır → Sağlık personeli için bilgiler)_
+_Fotoğraf 2 (td-vac-y2): 3. Td-VAC nasıl kullanılır ile Sağlık personeli için bilgiler arası_
 
 ## 3. Td-VAC nasıl kullanılır?
 ### Uygun kullanım ve doz/uygulama sıklığı için talimatlar:

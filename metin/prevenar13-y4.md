@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 4
-_Kaynak: prevenar13-y4 — 4.8. İstenmeyen etkiler → 5.1. Farmakodinamik özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 4
+_Fotoğraf: prevenar13-y4. Kapsam: 4.8. İstenmeyen etkiler ile 5.1. Farmakodinamik özellikler arası._
 
 *Klinik çalışmalardaki advers reaksiyonlar*
 7 çalışmadan, 6 klinik çalışmada her aşıdan sonra 14 gün boyunca ve geri kalan çalışmada 7 gün boyunca günlük olarak lokal reaksiyonlar ve sistemik olayların bildirimi istenmiştir. Aşağıdaki sıklıklar, erişkinlerde PREVENAR 13 ile aşılama ile ilişkili olarak değerlendirilen advers reaksiyonlara dayanmaktadır.

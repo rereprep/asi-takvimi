@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 1
-_Kaynak: menfive-y1 — KISA ÜRÜN BİLGİSİ → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 1
+_Fotoğraf: menfive-y1. Kapsam: KISA ÜRÜN BİLGİSİ ile 5.1. Farmakodinamik Özellikler arası._
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır.
 > Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.

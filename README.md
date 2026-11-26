@@ -1,11 +1,13 @@
-# Türkiye Aşı Takvimi 2026 · Prospektüsler
+# Türkiye aşı takvimi 2026 ve prospektüsler
 
-Sağlık Bakanlığı'nın 1 Eylül 2026 itibarıyla güncellenen Ulusal Çocukluk Dönemi Aşılama Takvimi (suçiçeği 2. doz 48. ayda) ve takvimde kullanılan aşıların prospektüs fotoğrafları, kısa ürün bilgisi (KÜB) ve kullanma talimatı (KT) bağlantıları.
+Sağlık Bakanlığı'nın 1 Eylül 2026'dan itibaren uygulanan Ulusal Çocukluk Dönemi Aşılama Takvimi ile takvimde kullanılan aşıların prospektüs fotoğrafları, prospektüs metinleri, kısa ürün bilgisi (KÜB) ve kullanma talimatı (KT) bağlantıları. Sitede ayrıca prospektüslerde geçen ve aşı karşıtı söylemde gündeme gelen içerik maddeleri kaynaklarıyla ele alınmıştır.
 
 Site: https://rereprep.github.io/asi-takvimi/
 
-- `index.html`, `css/`, `js/`: sayfa
-- `js/veri.js`: takvim, ürün bilgileri ve belge bağlantıları (güncelleme için düzenlenecek tek dosya)
+- `index.html`, `css/`, `js/uygulama.js`: sayfa
+- `js/veri.js`: takvim, ürün bilgileri ve belge bağlantıları
+- `js/icerik.js`: içerik maddeleri, prospektüs alıntıları ve kaynakça
 - `img/`: prospektüs fotoğrafları
-- `belgeler/`: resmî takvim PDF'i
+- `metin/`: fotoğraflardan aktarılan prospektüs metinleri
+- `belgeler/`: resmî takvim, metinlerin ve içerik raporunun Word ve düz metin sürümleri
 

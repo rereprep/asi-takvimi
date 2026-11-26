@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 4
-_Kaynak: menfive-y4 — 5.1. Farmakodinamik Özellikler → 5.3. Preklinik Güvenlilik Verileri. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 4
+_Fotoğraf: menfive-y4. Kapsam: 5.1. Farmakodinamik Özellikler ile 5.3. Preklinik Güvenlilik Verileri arası._
 
 28.Gün
 

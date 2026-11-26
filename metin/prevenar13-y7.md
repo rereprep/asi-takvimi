@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 7
-_Kaynak: prevenar13-y7 — Erişkinlerde PREVENAR 13 immünojenisite klinik çalışmaları → Özel popülasyonlar ile ilgili ek bilgi. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 7
+_Fotoğraf: prevenar13-y7. Kapsam: Erişkinlerde PREVENAR 13 immünojenisite klinik çalışmaları ile Özel popülasyonlar ile ilgili ek bilgi arası._
 
 ### Erişkinlerde (≥18 yaş) PREVENAR 13 immünojenisite klinik çalışmaları
 

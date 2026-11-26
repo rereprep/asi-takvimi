@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 8
-_Kaynak: prevenar13-y8 — HIV enfeksiyonu → KÜB'ÜN YENİLENME TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 8
+_Fotoğraf: prevenar13-y8. Kapsam: HIV enfeksiyonu ile KÜB'ÜN YENİLENME TARİHİ arası._
 
 13 dozundan yaklaşık 1 ay sonra 231-255 değerlendirilebilir deneğin bağışıklık yanıtları incelenmiştir. İlk dozdan sonra, PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci ve üçüncü doz PREVENAR 13'ten sonra bağışıklık yanıtları ilk dozdan sonraki yanıtlara benzer ya da daha yüksektir. Çalışmada, 162 denek daha önce bir doz 23-valan pnömokokal polisakkarid aşısı, 143 denek daha önce 2 doz ve 26 denek ise daha önce 2'den fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuştur. Daha önce iki veya daha fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuş deneklerde daha önce tek doz aşı olmuş deneklere benzer bağışıklık yanıtı alınmıştır.
 

@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 7
-_Kaynak: menfive-y7 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 7
+_Fotoğraf: menfive-y7. Kapsam: 5.1. Farmakodinamik Özellikler ile 10. METNİN REVİZYON TARİHİ arası._
 
 [kesik] seroyanıta sahip katılımcıların yüzdesi
 

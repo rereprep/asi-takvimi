@@ -1,9 +1,9 @@
 # Canlı Suçiçeği Aşısı
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (sucicegi-y1, sucicegi-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (sucicegi-y1, sucicegi-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: sucicegi-y1 — Genelge uyarısı → Kullanmanız gerekenden daha fazla Canlı Suçiçeği Aşısı kullandıysanız)_
+_Fotoğraf 1 (sucicegi-y1): Genelge uyarısı ile Kullanmanız gerekenden daha fazla Canlı Suçiçeği Aşısı kullandıysanız arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -94,7 +94,7 @@ Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ---
 
-_(Fotoğraf 2: sucicegi-y2 — Fazla doz devamı → Sağlık personeli için bilgiler)_
+_Fotoğraf 2 (sucicegi-y2): Fazla doz devamı ile Sağlık personeli için bilgiler arası_
 
 sağlık uzmanı tarafından uygulandığından, fazla miktarda verilmesi çok düşük ihtimaldir.
 

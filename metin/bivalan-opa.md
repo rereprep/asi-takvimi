@@ -1,9 +1,9 @@
 # Bivalan Oral Poliomyelit Aşısı Tip 1 ve 3 (20 dozluk)
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (bivalan-opa-y1, bivalan-opa-y2) — Kısa ürün bilgisi. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (bivalan-opa-y1, bivalan-opa-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: bivalan-opa-y1 — Genelge uyarısı → 4.8 İstenmeyen etkiler)_
+_Fotoğraf 1 (bivalan-opa-y1): Genelge uyarısı ile 4.8 İstenmeyen etkiler arası_
 
 > **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.**
 
@@ -71,7 +71,7 @@ Vakaların büyük çoğunluğunda hiçbir yan etkisi yoktur. Çok nadiren aşı
 
 ---
 
-_(Fotoğraf 2: bivalan-opa-y2 — 4.9 Doz Aşımı → 10. Metnin revizyon tarihi)_
+_Fotoğraf 2 (bivalan-opa-y2): 4.9 Doz Aşımı ile 10. Metnin revizyon tarihi arası_
 
 ### 4.9 Doz Aşımı:
 Ruhsatlandırıldığından beri hiç BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 e ait doz aşımı raporu almadık. Bu olayı destekleyecek veri yoktur.

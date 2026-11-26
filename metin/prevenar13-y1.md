@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 1
-_Kaynak: prevenar13-y1 — 1. Beşeri Tıbbi Ürünün Adı → 4.5. Diğer tıbbi ürünler ile etkileşimler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 1
+_Fotoğraf: prevenar13-y1. Kapsam: 1. Beşeri Tıbbi Ürünün Adı ile 4.5. Diğer tıbbi ürünler ile etkileşimler arası._
 
 Prevenar 13®
 
@@ -131,11 +131,11 @@ Buna karşılık, soğuk algınlı [kesik]
 ### 4.4. Özel kullanım uyarıla [kesik]
 **İntravasküler olarak uygul [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (41 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 41 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 veri mevcut değildir.
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (22 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 22 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **6-17 yaş arası çocuk [kesik]**
 Bu aşının diğer aşılar [kesik]
@@ -145,7 +145,7 @@ Bu aşının diğer aşıla [kesik]
 
 **50 yaş ve üzeri erişk [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (13 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 13 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.

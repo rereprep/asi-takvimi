@@ -1,9 +1,9 @@
 # Adacel 0,5 mL IM Enjeksiyonluk Süspansiyon İçeren Flakon
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (adacel-y1, adacel-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (adacel-y1, adacel-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: adacel-y1 — KULLANMA TALİMATI / Adacel → 3. ADACEL’i nasıl kullanılır?)_
+_Fotoğraf 1 (adacel-y1): KULLANMA TALİMATI / Adacel ile 3. ADACEL’i nasıl kullanılır? arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -167,7 +167,7 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ---
 
-_(Fotoğraf 2: adacel-y2 — ADACEL’i size kim uygulayacaktır? → Aşağıdaki bilgiler bu aşıyı uygulayacak sağlık personeli içindir)_
+_Fotoğraf 2 (adacel-y2): ADACEL’i size kim uygulayacaktır? ile Aşağıdaki bilgiler bu aşıyı uygulayacak sağlık personeli içindir arası_
 
 ### ADACEL’i size kim uygulayacaktır?
 

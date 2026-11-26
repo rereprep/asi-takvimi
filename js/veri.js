@@ -37,7 +37,7 @@ window.ASILAR = [
     "kaynak": "DSÖ"
    }
   ],
-  "not": "Kısa ürün bilgisinin iki sayfası fotoğraflarda var. İnternette Türkçe KÜB veya KT dosyası bulunamadı. Kutuda \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor.",
+  "not": "Kısa ürün bilgisinin iki sayfası ve kutu fotoğraflandı. İthalatçının sitesinde yayımlanmış Türkçe KÜB veya KT yok; metin fotoğraflardan alındı. Kutunun üzerinde \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor.",
   "metinler": [
    {
     "dosya": "bevac-1",
@@ -92,7 +92,8 @@ window.ASILAR = [
     "dosya": "bcg",
     "baslik": "Kısa ürün bilgisi (iki fotoğraftan birleştirildi)"
    }
-  ]
+  ],
+  "not": "Fotoğraflarda kısa ürün bilgisinin 7-10. bölümleri görünmüyor. Bu bölümler Keymen'in yayımladığı KÜB dosyasında var."
  },
  {
   "id": "kpa",
@@ -192,7 +193,7 @@ window.ASILAR = [
     "baslik": "Kısa ürün bilgisi, fotoğraf 8"
    }
   ],
-  "not": "Sekiz fotoğraf kısa ürün bilgisinin tamamını gösteriyor, ancak klinik çalışma bölümlerindeki küçük yazının bir kısmı okunamadı. Tam metin için Pfizer KÜB dosyasına bakınız."
+  "not": "Fotoğraflanan KÜB'ün ruhsat yenileme tarihi 09.10.2015. Altıncı fotoğraftaki klinik çalışma tablolarının çoğu okunamadı. Bu bölüm için Pfizer'in 2019 tarihli KÜB'üne bakılabilir; iki sürüm arasında fark olabilir."
  },
  {
   "id": "hexa",
@@ -256,7 +257,8 @@ window.ASILAR = [
     "dosya": "hexaxim",
     "baslik": "Kullanma talimatı (altı fotoğraftan birleştirildi)"
    }
-  ]
+  ],
+  "not": "Fotoğraflanan kullanma talimatı 20.12.2023 tarihinde onaylanmış. Sanofi'nin sitesindeki kullanma talimatı 02.10.2026 tarihli, daha yeni bir sürüm."
  },
  {
   "id": "opa",
@@ -295,7 +297,7 @@ window.ASILAR = [
     "kaynak": "DSÖ"
    }
   ],
-  "not": "Fotoğraflar kısa ürün bilgisinin iki yüzünü gösteriyor. Firma sitesinde indirilebilir KÜB/KT dosyası bulunamadı.",
+  "not": "Kısa ürün bilgisinin iki yüzü fotoğraflandı (metin revizyon tarihi Mayıs 2020). Keymen'in sitesinde bu ürün için indirilebilir KÜB veya KT yok.",
   "metinler": [
    {
     "dosya": "bivalan-opa",
@@ -345,7 +347,7 @@ window.ASILAR = [
     "kaynak": "TİTCK"
    }
   ],
-  "not": "1 Eylül 2026'dan itibaren ikinci doz 48. ayda uygulanıyor. Üretici ve mümessil bilgisi kullanma talimatından ve kutudan alındı.",
+  "not": "İkinci doz 1 Eylül 2026'dan itibaren 48. ayda yapılıyor. Üretici ve mümessil bilgisi kullanma talimatında ve kutuda yazıyor.",
   "metinler": [
    {
     "dosya": "sucicegi",
@@ -398,7 +400,7 @@ window.ASILAR = [
     "kaynak": "TİTCK"
    }
   ],
-  "not": "Fotoğraflar kısa ürün bilgisinin iki yüzünü gösteriyor; revizyon tarihi boş.",
+  "not": "Kısa ürün bilgisinin iki yüzü fotoğraflandı; revizyon tarihi alanı boş bırakılmış. Keymen'in sitesinde bu ürün için indirilebilir KÜB veya KT yok.",
   "metinler": [
    {
     "dosya": "kkk",
@@ -431,13 +433,19 @@ window.ASILAR = [
   ],
   "belgeler": [
    {
+    "tur": "KÜB",
+    "ad": "Havtec Pediyatrik kısa ürün bilgisi (aynı antijen, enjektör sunumu)",
+    "url": "https://www.keymen.com.tr/files/havtec-ped-kub.pdf",
+    "kaynak": "Keymen"
+   },
+   {
     "tur": "Diğer",
     "ad": "DSÖ ön yeterlilik kaydı (İngilizce)",
     "url": "https://extranet.who.int/prequal/vaccines/fvp-p-344",
     "kaynak": "DSÖ"
    }
   ],
-  "not": "İnternette Türkçe KÜB veya KT dosyası bulunamadı; gönderilen fotoğraflar ana kaynaktır.",
+  "not": "Fotoğraflanan ürün flakon sunumu (Healive). Aynı üreticinin aynı antijeni içeren enjektör sunumu Türkiye'de Havtec Pediyatrik adıyla Keymen ruhsatlı; bileşimi (250 U, TZ84 suşu, 2BS hücreleri, alüminyum hidroksit) fotoğraftaki belgeyle aynı. İki ürünün tek ruhsat altında olup olmadığı belgelerden anlaşılmıyor.",
   "metinler": [
    {
     "dosya": "healive",
@@ -502,7 +510,8 @@ window.ASILAR = [
     "dosya": "tetraxim",
     "baslik": "Kullanma talimatı (altı fotoğraftan birleştirildi)"
    }
-  ]
+  ],
+  "not": "Fotoğraflanan kullanma talimatı 12.08.2024 tarihinde onaylanmış."
  },
  {
   "id": "td",
@@ -546,7 +555,8 @@ window.ASILAR = [
     "dosya": "td-vac",
     "baslik": "Kullanma talimatı"
    }
-  ]
+  ],
+  "not": "Fotoğraflanan kullanma talimatı 27.12.2017 tarihinde onaylanmış; Keymen'in sitesindeki dosya da aynı tarihli."
  }
 ];
 
@@ -598,13 +608,14 @@ window.DIGER_ASILAR = [
     "dosya": "adacel",
     "baslik": "Kullanma talimatı"
    }
-  ]
+  ],
+  "not": "Fotoğraflanan kullanma talimatı 22.10.2024 tarihinde onaylanmış. Sanofi'nin sitesindeki KÜB ve KT 05.01.2024 tarihli, yani fotoğraftaki belgeden eski."
  },
  {
   "id": "men",
   "kisa": "Meningokok",
   "ad": "Meningokok konjuge aşısı (A, C, Y, W, X)",
-  "grup": "Risk gruplarında ve hac/umre yolcularında kullanılan meningokok aşısı",
+  "grup": "Risk gruplarında ve hac-umre yolcularında kullanılan meningokok aşısı",
   "urun": "MenFive",
   "tamAd": "MenFive, Konjuge Meningokokal (A,C,Y,W-135,X) Polisakkarit Aşısı (Liyofilize)",
   "bilesim": "0,5 mL'lik dozda A, C, Y, W ve X serogruplarının her birinden 5 µg polisakkarit; A ve X tetanoz toksoidine (7,8–33,4 µg), C, W ve Y CRM197'ye (11,7–50,1 µg) konjuge. Yardımcı maddeler: sükroz, sodyum sitrat dihidrat, Tris tamponu, sodyum klorür, enjeksiyonluk su. Aşıda ve sulandırıcıda koruyucu madde yoktur.",
@@ -665,7 +676,7 @@ window.DIGER_ASILAR = [
     "kaynak": "TİTCK"
    }
   ],
-  "not": "Sekiz fotoğraf Türkçe kısa ürün bilgisini gösteriyor; klinik çalışma tablolarındaki küçük yazının bir kısmı okunamadı.",
+  "not": "Türkçe kısa ürün bilgisinin sekiz fotoğrafı var. Klinik çalışma tablolarında birkaç hücre okunamadı. Revizyon tarihi alanı boş.",
   "metinler": [
    {
     "dosya": "menfive-y1",

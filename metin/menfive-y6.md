@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 6
-_Kaynak: menfive-y6 — 5.1. Farmakodinamik Özellikler → 5.2. Farmakokinetik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 6
+_Fotoğraf: menfive-y6. Kapsam: 5.1. Farmakodinamik Özellikler ile 5.2. Farmakokinetik Özellikler arası._
 
 [kesik]
 

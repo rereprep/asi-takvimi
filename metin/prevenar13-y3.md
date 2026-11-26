@@ -1,5 +1,5 @@
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 3
-_Kaynak: prevenar13-y3 — 4.5. Diğer tıbbi ürünler ile etkileşimler → 5.1. Farmakodinamik özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 3
+_Fotoğraf: prevenar13-y3. Kapsam: 4.5. Diğer tıbbi ürünler ile etkileşimler ile 5.1. Farmakodinamik özellikler arası._
 
 Değişik enjektabl aşılar her zaman farklı yerlere enjekte edilmelidir.
 
@@ -156,7 +156,7 @@ Merkezi (TÜFAM)’ne bildirim [kesik]
 
 ### 4.9. Doz aşımı ve tedavisi
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 7 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ATC kod: J07AL02
 
@@ -170,7 +170,7 @@ olarak 6 polisakkarid (1, 3, 5, 6 [kesik]
 
 *6 hafta-5 yaş arası bebek ve ço [kesik]*
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 7 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 *6-17 yaş arası çocuk ve adöles [kesik]*
 
@@ -179,7 +179,7 @@ mortalite riskinde artış oluşur.
 
 *18 yaş ve üstü erişkinler ve yaş [kesik]*
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **İnfantlar, çocuklar ve adölesan [kesik]**
 

@@ -1,5 +1,5 @@
-# MenFive — kısa ürün bilgisi, fotoğraf 8
-_Kaynak: menfive-y8 — 4.8. İstenmeyen Etkiler → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 8
+_Fotoğraf: menfive-y8. Kapsam: 4.8. İstenmeyen Etkiler ile 5.1. Farmakodinamik Özellikler arası._
 
 [kesik]
 

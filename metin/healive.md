@@ -1,9 +1,9 @@
 # Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik) — Healive
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (healive-y1, healive-y2) — Kısa ürün bilgisi. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (healive-y1, healive-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: healive-y1 — HEPATİT A AŞISI (İNSAN DİPLOİD HÜCRESİ), İNAKTİVE → İstenmeyen Etkiler)_
+_Fotoğraf 1 (healive-y1): HEPATİT A AŞISI (İNSAN DİPLOİD HÜCRESİ), İNAKTİVE ile İstenmeyen Etkiler arası_
 
 # HEPATİT A AŞISI
 
@@ -132,7 +132,7 @@ Yaygın olmayan: Başağrısı
 
 ---
 
-_(Fotoğraf 2: healive-y2 — Gastrointestinal hastalıklar → Mümessil Adı ve Adresi)_
+_Fotoğraf 2 (healive-y2): Gastrointestinal hastalıklar ile Mümessil Adı ve Adresi arası_
 
 _Gastrointestinal hastalıklar:_
 

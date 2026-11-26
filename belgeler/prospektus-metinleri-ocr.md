@@ -1,14 +1,14 @@
 # Aşı prospektüsleri: fotoğraflardan aktarılan metinler
 
-Bu dosya, 18 ve 23 Kasım 2026'da gönderilen prospektüs fotoğraflarının metne aktarılmış hâlidir. Metinler fotoğraflardan aktarıldı ve fotoğrafla satır satır ikinci kez karşılaştırıldı. Bevac'ın iki sayfası ve takvim listesi ilk gönderilen fotoğraflardan alındı.
+Bu dosya, aşı uygulamasında kullanılan ürünlerin kutularından çıkan prospektüslerin metnini içerir. Fotoğraflar 18 ve 23 Kasım 2026'da gönderilmiştir. Bevac'ın iki sayfası ve ürün listesi ilk fotoğraflardan, diğer metinler 23 Kasım fotoğraflarından aktarılmış ve fotoğraflarla ikinci kez karşılaştırılmıştır.
 
-Yalnız fotoğrafta görünen metin aktarıldı. Basılı yazım ve baskı hataları olduğu gibi korundu; her belgenin sonundaki notlarda listelendi. Metindeki işaretler şunlardır:
+Metinler fotoğrafta görünen haliyle verilmiştir. Basılı yazım ve baskı hataları düzeltilmemiş, her belgenin sonundaki notlarda gösterilmiştir. Köşeli parantezli işaretlerin anlamı şöyledir:
 
-- **[kesik]**: Sözcük ya da satır fotoğrafın kenarında kesiliyor; yalnız görünen harfler yazıldı.
-- **[?]**: Okuma kesin değil; en olası okuma yazıldı.
-- **[okunamadı]**: Fotoğrafta okunamayan yer.
+- [kesik]: satır fotoğrafın kenarında kesiliyor, yalnız görünen harfler yazılmıştır.
+- [?]: okuma kesin değildir.
+- [okunamadı]: bu kısım fotoğrafta okunamamıştır.
 
-Prevenar 13 ve MenFive kısa ürün bilgilerinde her fotoğrafın metni ayrı verildi. Prevenar 13'ün 6. fotoğrafındaki klinik çalışma tabloları büyük ölçüde okunamadı; bu bölümler için Pfizer'in yayımladığı kısa ürün bilgisine bakılmalıdır.
+Prevenar 13 ve MenFive kısa ürün bilgilerinde her fotoğrafın metni ayrı verilmiştir. Prevenar 13'ün altıncı fotoğrafındaki klinik çalışma tabloları büyük ölçüde okunamamıştır; bu bölüm için Pfizer'in yayımladığı kısa ürün bilgisine bakılabilir.
 
 
 
@@ -547,8 +547,8 @@ _[Bu bölüm fotoğraflarda yok]_
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 1
-_Kaynak: prevenar13-y1 — 1. Beşeri Tıbbi Ürünün Adı → 4.5. Diğer tıbbi ürünler ile etkileşimler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 1
+_Fotoğraf: prevenar13-y1. Kapsam: 1. Beşeri Tıbbi Ürünün Adı ile 4.5. Diğer tıbbi ürünler ile etkileşimler arası._
 
 Prevenar 13®
 
@@ -680,11 +680,11 @@ Buna karşılık, soğuk algınlı [kesik]
 ### 4.4. Özel kullanım uyarıla [kesik]
 **İntravasküler olarak uygul [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (41 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 41 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 veri mevcut değildir.
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (22 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 22 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **6-17 yaş arası çocuk [kesik]**
 Bu aşının diğer aşılar [kesik]
@@ -694,15 +694,15 @@ Bu aşının diğer aşıla [kesik]
 
 **50 yaş ve üzeri erişk [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (13 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 13 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 2
-_Kaynak: prevenar13-y2 — 4.2. Pozoloji ve uygulama şekli → 4.8. İstenmeyen etkiler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 2
+_Fotoğraf: prevenar13-y2. Kapsam: 4.2. Pozoloji ve uygulama şekli ile 4.8. İstenmeyen etkiler arası._
 
 Önceki pnömokokal aşılama durumundan bağımsız olarak 23-valanlı pnömokokal polisakkarid aşı kullanımı uygun görüldüğü durumlarda önce PREVENAR 13 verilmelidir.
 
@@ -823,7 +823,7 @@ yan etkiler geçici olarak araç ve makine [kesik]
 
 ### 4.8. İstenmeyen etkiler
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 6 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **Pediyatrik yaş grubu (6 hafta – 5 yaş)**
 Aşının güvenliliği, 6. haftada ilk bağış [kesik]
@@ -834,7 +834,7 @@ Daha önceden aşılanmamış 354 çocukta [kesik]
 6 haftalık-5 yaş arası bebek ve çocuklar [kesik]
 uykuda artma ve/veya azalmadır.
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (6 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 6 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 *Klinik Çalışmalardaki Advers Reaksiy [kesik]*
 Klinik çalışmalarda, PREVENAR 13’ [kesik]
@@ -898,15 +898,15 @@ görülme sıklığı benzerdir. Sadece b [kesik]
 
 **Erişkin yaş grubu (18 yaş ve üzer [kesik]**
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
 Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 3
-_Kaynak: prevenar13-y3 — 4.5. Diğer tıbbi ürünler ile etkileşimler → 5.1. Farmakodinamik özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 3
+_Fotoğraf: prevenar13-y3. Kapsam: 4.5. Diğer tıbbi ürünler ile etkileşimler ile 5.1. Farmakodinamik özellikler arası._
 
 Değişik enjektabl aşılar her zaman farklı yerlere enjekte edilmelidir.
 
@@ -1063,7 +1063,7 @@ Merkezi (TÜFAM)’ne bildirim [kesik]
 
 ### 4.9. Doz aşımı ve tedavisi
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 7 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ATC kod: J07AL02
 
@@ -1077,7 +1077,7 @@ olarak 6 polisakkarid (1, 3, 5, 6 [kesik]
 
 *6 hafta-5 yaş arası bebek ve ço [kesik]*
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (7 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 7 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 *6-17 yaş arası çocuk ve adöles [kesik]*
 
@@ -1086,7 +1086,7 @@ mortalite riskinde artış oluşur.
 
 *18 yaş ve üstü erişkinler ve yaş [kesik]*
 
-_[Fotoğrafın kenarında komşu sütunun yalnız satır başları görünüyor (10 kesik satır). Bu satırların tamamı aynı belgenin diğer fotoğraflarında aktarıldığı için burada tekrarlanmadı.]_
+_[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 **İnfantlar, çocuklar ve adölesan [kesik]**
 
@@ -1108,8 +1108,8 @@ Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiş
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 4
-_Kaynak: prevenar13-y4 — 4.8. İstenmeyen etkiler → 5.1. Farmakodinamik özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 4
+_Fotoğraf: prevenar13-y4. Kapsam: 4.8. İstenmeyen etkiler ile 5.1. Farmakodinamik özellikler arası._
 
 *Klinik çalışmalardaki advers reaksiyonlar*
 7 çalışmadan, 6 klinik çalışmada her aşıdan sonra 14 gün boyunca ve geri kalan çalışmada 7 gün boyunca günlük olarak lokal reaksiyonlar ve sistemik olayların bildirimi istenmiştir. Aşağıdaki sıklıklar, erişkinlerde PREVENAR 13 ile aşılama ile ilişkili olarak değerlendirilen advers reaksiyonlara dayanmaktadır.
@@ -1194,8 +1194,8 @@ Fotoğrafın kenarlarında komşu sayfalara ve başka prospektüslere ait kesilm
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 5
-_Kaynak: prevenar13-y5 — fonksiyonel antikor titreleri → PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 5
+_Fotoğraf: prevenar13-y5. Kapsam: fonksiyonel antikor titreleri ile PREVENAR'ın 7V içeren formülasyonunun bebekler ve çocuklarda koruyucu etkililiği arası._
 
 fonksiyonel antikor titreleri de (OPA) karşılaştırılmıştır. Ek altı serotip için bu değerler, PREVENAR'ın 7V içeren formülasyonunu alanlarda ortak yedi serotip arasındaki en düşük yanıt ile karşılaştırılmıştır.
 
@@ -1301,8 +1301,8 @@ Tablo 2: PREVENAR’ın 7V içeren formülasyonu etk[kesik]
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 6
-_Kaynak: prevenar13-y6 — Tablo 1 → 65 yaş ve üzeri erişkinlerde etkililik çalışmaları. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 6
+_Fotoğraf: prevenar13-y6. Kapsam: Tablo 1 ile 65 yaş ve üzeri erişkinlerde etkililik çalışmaları arası._
 
 ### Tablo 1
 
@@ -1379,8 +1379,8 @@ _[sağ sütun]_
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 7
-_Kaynak: prevenar13-y7 — Erişkinlerde PREVENAR 13 immünojenisite klinik çalışmaları → Özel popülasyonlar ile ilgili ek bilgi. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 7
+_Fotoğraf: prevenar13-y7. Kapsam: Erişkinlerde PREVENAR 13 immünojenisite klinik çalışmaları ile Özel popülasyonlar ile ilgili ek bilgi arası._
 
 ### Erişkinlerde (≥18 yaş) PREVENAR 13 immünojenisite klinik çalışmaları
 
@@ -1529,8 +1529,8 @@ Ruhsat yenileme tarihi: 09.10.2015
 
 ---
 
-# Prevenar 13 — kısa ürün bilgisi, fotoğraf 8
-_Kaynak: prevenar13-y8 — HIV enfeksiyonu → KÜB'ÜN YENİLENME TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# Prevenar 13 kısa ürün bilgisi, fotoğraf 8
+_Fotoğraf: prevenar13-y8. Kapsam: HIV enfeksiyonu ile KÜB'ÜN YENİLENME TARİHİ arası._
 
 13 dozundan yaklaşık 1 ay sonra 231-255 değerlendirilebilir deneğin bağışıklık yanıtları incelenmiştir. İlk dozdan sonra, PREVENAR 13'ün neden olduğu hem IgG GMC hem de OPA GMT testleri ile ölçülen antikor düzeyleri aşılamadan önceki değerlere göre istatistiksel olarak anlamlı derecede daha fazladır. İkinci ve üçüncü doz PREVENAR 13'ten sonra bağışıklık yanıtları ilk dozdan sonraki yanıtlara benzer ya da daha yüksektir. Çalışmada, 162 denek daha önce bir doz 23-valan pnömokokal polisakkarid aşısı, 143 denek daha önce 2 doz ve 26 denek ise daha önce 2'den fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuştur. Daha önce iki veya daha fazla dozda 23-valan pnömokokal polisakkarid aşısı olmuş deneklerde daha önce tek doz aşı olmuş deneklere benzer bağışıklık yanıtı alınmıştır.
 
@@ -1983,11 +1983,11 @@ _(foto: hexaxim-y5)_
 ---
 
 # Bivalan Oral Poliomyelit Aşısı Tip 1 ve 3 (20 dozluk)
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (bivalan-opa-y1, bivalan-opa-y2) — Kısa ürün bilgisi. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (bivalan-opa-y1, bivalan-opa-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: bivalan-opa-y1 — Genelge uyarısı → 4.8 İstenmeyen etkiler)_
+_Fotoğraf 1 (bivalan-opa-y1): Genelge uyarısı ile 4.8 İstenmeyen etkiler arası_
 
 > **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.**
 
@@ -2055,7 +2055,7 @@ Vakaların büyük çoğunluğunda hiçbir yan etkisi yoktur. Çok nadiren aşı
 
 ---
 
-_(Fotoğraf 2: bivalan-opa-y2 — 4.9 Doz Aşımı → 10. Metnin revizyon tarihi)_
+_Fotoğraf 2 (bivalan-opa-y2): 4.9 Doz Aşımı ile 10. Metnin revizyon tarihi arası_
 
 ### 4.9 Doz Aşımı:
 Ruhsatlandırıldığından beri hiç BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3 e ait doz aşımı raporu almadık. Bu olayı destekleyecek veri yoktur.
@@ -2142,11 +2142,11 @@ Mayıs 2020
 ---
 
 # Canlı Suçiçeği Aşısı
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (sucicegi-y1, sucicegi-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (sucicegi-y1, sucicegi-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: sucicegi-y1 — Genelge uyarısı → Kullanmanız gerekenden daha fazla Canlı Suçiçeği Aşısı kullandıysanız)_
+_Fotoğraf 1 (sucicegi-y1): Genelge uyarısı ile Kullanmanız gerekenden daha fazla Canlı Suçiçeği Aşısı kullandıysanız arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -2237,7 +2237,7 @@ Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ---
 
-_(Fotoğraf 2: sucicegi-y2 — Fazla doz devamı → Sağlık personeli için bilgiler)_
+_Fotoğraf 2 (sucicegi-y2): Fazla doz devamı ile Sağlık personeli için bilgiler arası_
 
 sağlık uzmanı tarafından uygulandığından, fazla miktarda verilmesi çok düşük ihtimaldir.
 
@@ -2613,11 +2613,11 @@ _[Revizyon tarihi fotoğrafta belirtilmemiş]_
 ---
 
 # Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik) — Healive
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (healive-y1, healive-y2) — Kısa ürün bilgisi. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (healive-y1, healive-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: healive-y1 — HEPATİT A AŞISI (İNSAN DİPLOİD HÜCRESİ), İNAKTİVE → İstenmeyen Etkiler)_
+_Fotoğraf 1 (healive-y1): HEPATİT A AŞISI (İNSAN DİPLOİD HÜCRESİ), İNAKTİVE ile İstenmeyen Etkiler arası_
 
 # HEPATİT A AŞISI
 
@@ -2746,7 +2746,7 @@ Yaygın olmayan: Başağrısı
 
 ---
 
-_(Fotoğraf 2: healive-y2 — Gastrointestinal hastalıklar → Mümessil Adı ve Adresi)_
+_Fotoğraf 2 (healive-y2): Gastrointestinal hastalıklar ile Mümessil Adı ve Adresi arası_
 
 _Gastrointestinal hastalıklar:_
 
@@ -3242,11 +3242,11 @@ Kullanmadan önce enjektörü “iyice” çalkalayınız. Sadece intramüsküle
 ---
 
 # Td-VAC 0,5 mL IM Enjeksiyonluk süspansiyon
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (td-vac-y1, td-vac-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (td-vac-y1, td-vac-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: td-vac-y1 — Genelge uyarısı → Diğer ilaçlar ile birlikte kullanımı)_
+_Fotoğraf 1 (td-vac-y1): Genelge uyarısı ile Diğer ilaçlar ile birlikte kullanımı arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -3348,7 +3348,7 @@ Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma
 
 ---
 
-_(Fotoğraf 2: td-vac-y2 — 3. Td-VAC nasıl kullanılır → Sağlık personeli için bilgiler)_
+_Fotoğraf 2 (td-vac-y2): 3. Td-VAC nasıl kullanılır ile Sağlık personeli için bilgiler arası_
 
 ## 3. Td-VAC nasıl kullanılır?
 ### Uygun kullanım ve doz/uygulama sıklığı için talimatlar:
@@ -3448,11 +3448,11 @@ Hadapsar/ Pune /Hindistan
 ---
 
 # Adacel 0,5 mL IM Enjeksiyonluk Süspansiyon İçeren Flakon
-_Kaynak: 23 Kasım 2026'da gönderilen fotoğraflar (adacel-y1, adacel-y2) — Kullanma talimatı. Her fotoğrafın metni ayrı bölümde; fotoğraflar arasında örtüşen kısımlar olabilir._
+_Kullanma talimatı, 23 Kasım 2026 tarihli fotoğraflar (adacel-y1, adacel-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
 
-_(Fotoğraf 1: adacel-y1 — KULLANMA TALİMATI / Adacel → 3. ADACEL’i nasıl kullanılır?)_
+_Fotoğraf 1 (adacel-y1): KULLANMA TALİMATI / Adacel ile 3. ADACEL’i nasıl kullanılır? arası_
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -3616,7 +3616,7 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ---
 
-_(Fotoğraf 2: adacel-y2 — ADACEL’i size kim uygulayacaktır? → Aşağıdaki bilgiler bu aşıyı uygulayacak sağlık personeli içindir)_
+_Fotoğraf 2 (adacel-y2): ADACEL’i size kim uygulayacaktır? ile Aşağıdaki bilgiler bu aşıyı uygulayacak sağlık personeli içindir arası_
 
 ### ADACEL’i size kim uygulayacaktır?
 
@@ -3826,8 +3826,8 @@ Tıpalı bir flakondan doz uygulanırken, tıpa veya tıpanın üzerindeki alüm
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 1
-_Kaynak: menfive-y1 — KISA ÜRÜN BİLGİSİ → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 1
+_Fotoğraf: menfive-y1. Kapsam: KISA ÜRÜN BİLGİSİ ile 5.1. Farmakodinamik Özellikler arası._
 
 > Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır.
 > Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
@@ -4042,8 +4042,8 @@ ile %100 arasında değişirken, MenACWY-D[kesik]
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 2
-_Kaynak: menfive-y2 — 4. KLİNİK ÖZELLİKLER → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 2
+_Fotoğraf: menfive-y2. Kapsam: 4. KLİNİK ÖZELLİKLER ile 5.1. Farmakodinamik Özellikler arası._
 
 Aşıda ve sulandırıcıda hiçbir koruyucu madde yoktur.
 
@@ -4271,8 +4271,8 @@ Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serog[kesik]
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 3
-_Kaynak: menfive-y3 — 5.1. Farmakodinamik Özellikler → Tablo 6. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 3
+_Fotoğraf: menfive-y3. Kapsam: 5.1. Farmakodinamik Özellikler ile Tablo 6 arası._
 
 [kesik]
 
@@ -4393,8 +4393,8 @@ _[sol sütun, alt bölüm]_
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 4
-_Kaynak: menfive-y4 — 5.1. Farmakodinamik Özellikler → 5.3. Preklinik Güvenlilik Verileri. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 4
+_Fotoğraf: menfive-y4. Kapsam: 5.1. Farmakodinamik Özellikler ile 5.3. Preklinik Güvenlilik Verileri arası._
 
 28.Gün
 
@@ -4581,8 +4581,8 @@ emzirme dönemlerinde maternal m[kesik]
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 5
-_Kaynak: menfive-y5 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 5
+_Fotoğraf: menfive-y5. Kapsam: 5.1. Farmakodinamik Özellikler ile 10. METNİN REVİZYON TARİHİ arası._
 
 | Serogrup | MenFive n (%) (%95 CI) | MenACWY-D (N=595) n (%) (%95 CI) |
 |---|---|---|
@@ -4781,8 +4781,8 @@ E-posta: keymen@keymen.com.tr
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 6
-_Kaynak: menfive-y6 — 5.1. Farmakodinamik Özellikler → 5.2. Farmakokinetik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 6
+_Fotoğraf: menfive-y6. Kapsam: 5.1. Farmakodinamik Özellikler ile 5.2. Farmakokinetik Özellikler arası._
 
 [kesik]
 
@@ -4871,8 +4871,8 @@ Uygulanabilir değil
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 7
-_Kaynak: menfive-y7 — 5.1. Farmakodinamik Özellikler → 10. METNİN REVİZYON TARİHİ. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 7
+_Fotoğraf: menfive-y7. Kapsam: 5.1. Farmakodinamik Özellikler ile 10. METNİN REVİZYON TARİHİ arası._
 
 [kesik] seroyanıta sahip katılımcıların yüzdesi
 
@@ -5092,8 +5092,8 @@ SERUM INSTITUTE OF INDIA PVT. LTD.
 
 ---
 
-# MenFive — kısa ürün bilgisi, fotoğraf 8
-_Kaynak: menfive-y8 — 4.8. İstenmeyen Etkiler → 5.1. Farmakodinamik Özellikler. Küçük yazının okunamayan kısımları [okunamadı] ile işaretlidir._
+# MenFive kısa ürün bilgisi, fotoğraf 8
+_Fotoğraf: menfive-y8. Kapsam: 4.8. İstenmeyen Etkiler ile 5.1. Farmakodinamik Özellikler arası._
 
 [kesik]
 
