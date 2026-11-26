@@ -148,4 +148,5 @@ Bu aşının diğer aşıla [kesik]
 _[Fotoğrafın kenarında komşu sütunun 13 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
-Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.
+
+- Sağ kenardaki komşu sayfanın büyük bölümü fotoğrafa girmemiş.

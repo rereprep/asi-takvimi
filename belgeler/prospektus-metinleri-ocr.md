@@ -13,7 +13,7 @@ Prevenar 13 ve MenFive kısa ürün bilgilerinde her fotoğrafın metni ayrı ve
 
 
 # Takvimde kullanılan aşı ürünleri listesi
-_Kaynak: temiz-fotograflar/takvim-urun-listesi.jpg — Ulusal Çocukluk Dönemi Aşılama Takvimi (2026) çıktısının sol kısmı ve yanına basılmış ürün adları; takvimin sağ kısmı fotoğrafta kesik._
+_Ulusal Çocukluk Dönemi Aşılama Takvimi (2026) çıktısının sol kısmı ve yanına basılmış ürün adları (fotoğraf takvim-urun-listesi). Takvimin sağ kısmı fotoğrafta yok._
 
 | Ürün adı (kâğıda basılı) | Takvimdeki aşı |
 |---|---|
@@ -42,14 +42,15 @@ Sayfanın altında:
 Tdab **(Adacel)**  
 **MenFive** (meningokok)
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): "BCG Live Attenüe"; açıklama kutusunda "ina ktif" (harf aralığı baskıda böyle görünüyor).
-- Kesik/okunamayan bölümler: Takvimin "DOĞUM" sütunundan sonrası ve açıklama kutusunun sağ yarısı fotoğrafta yok.
+## Notlar
+
+- Baskıdaki "BCG Live Attenüe" yazımı ve açıklama kutusundaki "ina ktif" aralığı olduğu gibi bırakıldı.
+- Takvimin "DOĞUM" sütunundan sonrası ve açıklama kutusunun sağ yarısı fotoğrafta yok.
 
 ---
 
 # BEVAC 10 mcg/0,5 mL Pediyatrik IM Hepatit B Aşısı
-_Kaynak: temiz-fotograflar/bevac-1.jpg — Kısa Ürün Bilgisi'nin ilk sayfasında görünen kısım._
+_Kısa ürün bilgisinin ilk sayfasında görünen kısım (fotoğraf bevac-1)._
 
 **Steril**
 
@@ -128,15 +129,14 @@ _Kullanmadan önce_, BEVAC® düzgün, beyazımsı yarı saydam bir süspansiyon
 
 _NOT:_ Hepatit-B virüsünün semptomları ortaya çıkarması için uzun bir kuluçka dönemi olduğundan, bazı kişiler enfeksiyon fark edilmeden aşı olabilir. Bu gibi durumlarda, BEVAC aşısı hepatit-B virüsüne bağlı hepatitin başlamasını önleyemeyebilir.
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): Erken doğan bebekler için programda üç zaman noktası sayılan seçenek de dört doz olarak belirtilmiştir.
-- Belirsiz okumalar: Yok.
-- Kesik/okunamayan bölümler: Yok.
+## Notlar
+
+- Erken doğan bebekler için verilen programda üç zaman noktası sayıldığı hâlde seçenek dört doz olarak yazılmış; baskıdaki gibi bırakıldı.
 
 ---
 
 # BEVAC
-_Kaynak: temiz-fotograflar/bevac-2.jpg — Kısa Ürün Bilgisi'nin devam sayfasında görünen kısım; 5.3 bölümünde sağ kenar kesik._
+_Kısa ürün bilgisinin devam sayfasında görünen kısım (fotoğraf bevac-2). 5.3 bölümünde sağ kenar kesik._
 
 BEVAC, hepatit A, hepatit C ve hepatit D gibi diğer virüslerin ve karaciğeri enfekte ettiği bilinen diğer ajanların neden olduğu hepatiti önlemeyecektir.
 
@@ -209,15 +209,15 @@ Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Ko
 Arvatera İlaç San. ve Tic. A.Ş. Sarıyer/İstanbul  
 Üretici: Biological E.Limited/Hindistan
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): “Bevacın”; “semptomlar şunlardır ... semptomlardır” ifadesindeki tekrar.
-- Belirsiz okumalar: 5.3 bölümünde sağ kenardaki “değerlendirmekti” sözcüğünün sonu.
-- Kesik/okunamayan bölümler: 5.3 bölümünde iki satırın sağ ucu fotoğraf kenarında kesik.
+## Notlar
+
+- Baskıdaki “Bevacın” yazımı ve “semptomlar şunlardır ... semptomlardır” tekrarı olduğu gibi bırakıldı.
+- 5.3 bölümünde iki satırın sağ ucu fotoğraf kenarında kesik; “değerlendirmekti” sözcüğünün sonu kesin okunmuyor.
 
 ---
 
 # BCG AŞISI
-_Kaynak: yeni-temiz-fotograflar/bcg-y1 ve bcg-y2 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
+_Kısa ürün bilgisi; fotoğraflarda görünen bölümler (fotoğraf bcg-y1 ve bcg-y2)._
 
 > Aşı ve Serum uygulamalarında, Genişletilmiş Bağışıklama Programı Genelgesi dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -535,15 +535,15 @@ Tel: 0312 4853760 Fax: 0312 4853761
 
 E-posta: keymen@keymen.com.tr
 
-## 7–10. Bölümler
+## 7-10. Bölümler
 
 _[Bu bölüm fotoğraflarda yok]_
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”, “sonuçölçümler”.
-- Belirsiz okumalar: 5.1 bölümünde örtülü alan [okunamadı] ve kısmen görünen satırlar [kesik] ile işaretlendi.
-- Eksik/kesik bölümler: 5.1'in bir kısmı kapalıdır; 7–10. bölümler fotoğraflarda görünmüyor. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
+- Baskıdaki “Attenüe”, “anaflaktik”, “Ertem” ve “sonuçölçümler” yazımları olduğu gibi bırakıldı.
+- 5.1 bölümünün bir kısmı fotoğrafta kapalı; görünmeyen yerler [okunamadı], kısmen görünen satırlar [kesik] ile gösterildi.
+- 7-10. bölümler fotoğraflarda yok. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
 
 ---
 
@@ -697,7 +697,8 @@ Bu aşının diğer aşıla [kesik]
 _[Fotoğrafın kenarında komşu sütunun 13 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
-Sağ kenardaki komşu sayfanın büyük bölümü fotoğraf dışında kalmaktadır.
+
+- Sağ kenardaki komşu sayfanın büyük bölümü fotoğrafa girmemiş.
 
 ---
 
@@ -901,7 +902,8 @@ görülme sıklığı benzerdir. Sadece b [kesik]
 _[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
-Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
+
+- Sağ kenardaki komşu sayfa kesik; okunamayan yerler işaretlendi.
 
 ---
 
@@ -1104,7 +1106,8 @@ düzenlenmiştir. Bu iki çalışmad [kesik]
 dışı eşdeğer etkinlik kriteri ile k [kesik]
 
 ### Notlar
-Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
+
+- Sağ kenardaki komşu sayfa kesik; okunamayan yerler işaretlendi.
 
 ---
 
@@ -1190,7 +1193,8 @@ PREVENAR 13’ün İPH’lerden koruma etkililiği çalışılmamıştır. Düny
 Birçok Avrupa ülkesi ile ABD’de, iki randomize eşdeğer etkinlik çalışması da dahil olmak üzere (Almanya’da, 2, 3, 4 ayda primer serinin uygulandığı [006] ve ABD’de 2, 4, 6 ayda primer serinin uygulandığı [004]) farklı bağışıklama şemalarının kullanıldığı klinik çalışmalar düzenlenmiştir. Bu iki çalışmada pnömokokal bağışıklama yanıtları, primer serilerden bir ay sonra serum antipolisakkarid serotip spesifik IgG ≥0,35 mikrogram/mL olan gönüllülerin yüzdesi ve IgG geometrik ortalama konsantrasyonlarının (ELISA GMC’ler) karşılaştırılması dahil bir dizi eşdeğer etkinlik kriteri ile karşılaştırılmıştır. Buna ek olarak, PREVENAR 13 ve PREVENAR’ın 7V içeren formülasyonunu alan gönüllülerin [kesik]
 
 ### Notlar
-Fotoğrafın kenarlarında komşu sayfalara ve başka prospektüslere ait kesilmiş metinler görünmektedir. Aktarılamayan metinler işaretlenmiştir.
+
+- Fotoğrafın kenarlarında komşu sayfalardan ve başka prospektüslerden kesik metinler görünüyor; okunamayan yerler işaretlendi.
 
 ---
 
@@ -1297,8 +1301,6 @@ Tablo 2: PREVENAR’ın 7V içeren formülasyonu etk[kesik]
 
 [okunamadı]
 
-### Notlar
-
 ---
 
 # Prevenar 13 kısa ürün bilgisi, fotoğraf 6
@@ -1374,8 +1376,6 @@ CAPiTA çalışması demografik özellikleri ve sağlık durumları açısından
 _[sağ sütun]_
 
 [okunamadı]
-
-### Notlar
 
 ---
 
@@ -1525,8 +1525,6 @@ Ruhsat yenileme tarihi: 09.10.2015
 
 13.05.2022
 
-### Notlar
-
 ---
 
 # Prevenar 13 kısa ürün bilgisi, fotoğraf 8
@@ -1606,12 +1604,10 @@ Ruhsat yenileme tarihi: 09.10.2015
 
 13.05.2022
 
-### Notlar
-
 ---
 
 # HEXAXIM
-_Kaynak: yeni-temiz-fotograflar/hexaxim-y1…y6 — Kullanma talimatı; başlangıç, 1–5. bölümler ve sağlık personeli için bilgiler._
+_Kullanma talimatı; başlangıç, 1-5. bölümler ve sağlık personeli için bilgiler (fotoğraf hexaxim-y1 ile hexaxim-y6 arası)._
 
 _(foto: hexaxim-y1)_
 
@@ -1974,11 +1970,11 @@ _(foto: hexaxim-y5)_
 
 İntradermal ya da intravenöz yollardan kullanılmamalıdır. İntravasküler enjeksiyon yoluyla uygulamayınız: iğnenin bir kan damarına girmediğinden emin olunuz.
 
-## Aktarım notları
+## Notlar
 
-- Basılı anlatım hataları (aynen korunanlar): “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
-- Belirsiz okumalar: Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net değildir; ilgili yerlere [?] eklenmiştir. Diğer miktarlar yalnız kaynak fotoğraftan okunmaya çalışılmıştır.
-- Fotoğraflardaki örtüşen metinler bir kez aktarılmıştır.
+- Baskıdaki anlatım bozuklukları olduğu gibi bırakıldı: “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
+- Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net okunmuyor; bu yerler [?] ile gösterildi.
+- Fotoğraflarda örtüşen kısımlar bir kez yazıldı.
 
 ---
 
@@ -2051,7 +2047,8 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3'ün araç ve makine kullanımı k
 Vakaların büyük çoğunluğunda hiçbir yan etkisi yoktur. Çok nadiren aşıya bağlı paralizi gelişebilir (uygulanan 1 milyon dozda bir vaka). Yakın zamanda aşılanan bir çocukla yakın temas halinde olan kişiler nadiren de olsa aşıya bağlı paralitik poliomyelit riski altında olabilirler.
 
 ### Notlar
-- “Haemophillus” yazımı görüntüdeki biçimiyle korunmuştur.
+
+- “Haemophillus” yazımı baskıdaki gibi bırakıldı.
 
 ---
 
@@ -2137,7 +2134,8 @@ GKL1502907036A1
 Mayıs 2020
 
 ### Notlar
-- Metindeki “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki biçimiyle korunmuştur.
+
+- “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki gibi bırakıldı.
 
 ---
 
@@ -2232,8 +2230,9 @@ Canlı Suçiçeği Aşısı, üst kol bölgesinde deri altına (subkutan) enjekt
 Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ### Notlar
-- Son cümle fotoğrafın alt kenarında kesilmektedir.
-- Etkin madde miktarı fotoğraftaki “3.3 lg PFU” yazımıyla aktarılmıştır.
+
+- Son cümle fotoğrafın alt kenarında kesiliyor.
+- Etkin madde miktarı fotoğraftaki gibi “3.3 lg PFU” biçiminde yazıldı.
 
 ---
 
@@ -2364,14 +2363,15 @@ Kullanım sırasında Canlı Suçiçeği Aşısı'nı dezenfektana maruz bırakm
 Kullanılmamış herhangi bir tıbbi ürün veya atık malzeme yerel gerekliliklere uygun olarak imha edilmelidir.
 
 ### Notlar
-- “Steve-Johnson” yazımı baskıdaki biçimiyle aktarılmıştır.
-- İlk paragraf önceki fotoğrafta başlayan cümlenin devamıdır.
+
+- “Steve-Johnson” yazımı baskıdaki gibi bırakıldı.
+- İlk paragraf, önceki fotoğrafta başlayan cümlenin devamı.
 
 ---
 
 # Kızamık, Kabakulak ve Kızamıkçık Aşısı Canlı, Atenüe (Liyofilize)
 
-_Kaynak: yeni-temiz-fotograflar/kkk-y1 ve kkk-y3 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
+_Kısa ürün bilgisi; fotoğraflarda görünen bölümler (fotoğraf kkk-y1 ve kkk-y3)._
 
 > **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır.**
 >
@@ -2604,15 +2604,15 @@ _(foto: kkk-y3)_
 
 _[Revizyon tarihi fotoğrafta belirtilmemiş]_
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “yada”, “malin”, “0,5 ml) ı”, “Gurup”.
-- Belirsiz okumalar: İşaretlenmiş belirsiz okuma yok.
-- Eksik/kesik bölümler: 10. bölümün başlığı ve altındaki boş alan görülüyor; tarih belirtilmemiş. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
+- Baskıdaki “yada”, “malin”, “0,5 ml) ı” ve “Gurup” yazımları olduğu gibi bırakıldı.
+- 10. bölümün başlığı basılı, revizyon tarihi alanı boş.
+- Belgedeki fosforlu kalem ve el yazısı işaretleri aktarılmadı.
 
 ---
 
-# Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik) — Healive
+# Healive Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik)
 _Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (healive-y1, healive-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
@@ -2738,11 +2738,9 @@ Yaygın olmayan: Başağrısı
 
 ### Notlar
 
-- Basılı yazım: “Başağrısı” kaynakta bitişik yazılmıştır.
-
-- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
-- Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
-- Kesik yer: Sol sütunun son satırı “akut atak” ile fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında görünür.
+- Baskıda “Başağrısı” bitişik yazılmış.
+- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okundu. Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmış.
+- Sol sütunun son satırı “akut atak” sözcükleriyle fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında.
 
 ---
 
@@ -2860,14 +2858,12 @@ E-posta: keyvac@keyvac.com.tr
 
 ### Notlar
 
-- Baskı hataları: Metindeki “degrade”, “geçimlilik” ve “hala” biçimleri görüntüde bu şekilde basılmıştır.
-- Belirsiz okumalar: Yok.
-- Kesik/okunamayan yerler: Yok.
+- Metindeki “degrade”, “geçimlilik” ve “hala” yazımları baskıdaki gibi bırakıldı.
 
 ---
 
 # Tetraxim
-_Kaynak: yeni-temiz-fotograflar/tetraxim-y1…y6 — Kullanma Talimatı; fotoğraflar talimatın beş bölümünü ve sağlık personeline yönelik bilgileri kapsamaktadır._
+_Kullanma talimatı; 1-5. bölümler ve sağlık personeli için bilgiler (fotoğraf tetraxim-y1 ile tetraxim-y6 arası)._
 
 _(foto: tetraxim-y1)_
 
@@ -3233,11 +3229,12 @@ Kullanmadan önce enjektörü “iyice” çalkalayınız. Sadece intramüsküle
 
 **İntravasküler yoldan vermeyiniz.** İğnenin bir kan damarına girmemesine dikkat edin. İntradermal yoldan enjekte etmeyiniz.
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”, “Yan etkile”; dipnotta “Alüminyum” yazılmıştır.
-- Belirsiz okumalar: Yok olarak işaretlendi; fotoğraflardaki küçük baskı ve kıvrımlar okumayı güçleştirmektedir.
-- Eksik/kesik bölümler: Kullanma talimatının 1–5 numaralı bölümleri görüntülerde yer alıyor. Kısa Ürün Bilgisi fotoğraflarda bulunmadığından onun 2 ve 6.1 bölümleri görülemiyor. El yazısı ve fosforlu kalem işaretleri aktarılmadı.
+- Baskıdaki “Aluminyum”, “bir kaç”, “farkederseniz” ve “Yan etkile” yazımları olduğu gibi bırakıldı; dipnotta “Alüminyum” doğru yazılmış.
+- Baskı küçük ve kâğıt yer yer kıvrık, ancak belirsiz okuma kalmadı.
+- Fotoğraflar kullanma talimatının 1-5. bölümlerini içeriyor. Kısa ürün bilgisi fotoğraflanmadığı için onun 2. ve 6.1 bölümleri görülemiyor.
+- El yazısı ve fosforlu kalem işaretleri aktarılmadı.
 
 ---
 
@@ -3343,8 +3340,9 @@ Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma
 *Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.*
 
 ### Notlar
-- Ürün adının bulunduğu satır görüntüde beyaz alanla örtülüdür.
-- “bağışık gelişmektedir” ve “Corynebacterium diphteriae” baskıdaki biçimiyle korunmuştur.
+
+- Ürün adının bulunduğu satır fotoğrafta beyaz bir alanla örtülü.
+- “bağışık gelişmektedir” ve “Corynebacterium diphteriae” baskıdaki gibi bırakıldı.
 
 ---
 
@@ -3443,7 +3441,8 @@ Hadapsar/ Pune /Hindistan
 > - Aşılama genel olarak Ulusal Tavsiyelere uygun olarak yapılmalıdır.
 
 ### Notlar
-- Sıklık kategorilerindeki eşik ifadeleri ve “sonra ... / son ... önce” ifadesi baskıdaki biçimiyle korunmuştur.
+
+- Sıklık kategorilerindeki eşik ifadeleri ve “sonra ... / son ... önce” ifadesi baskıdaki gibi bırakıldı.
 
 ---
 
@@ -3611,8 +3610,8 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ### Notlar
 
-- Baskıda “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi bu biçimde yer almaktadır.
-- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri “Lf” olarak okunmaktadır.
+- “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi baskıda bu biçimde.
+- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimi “Lf” olarak okundu.
 
 ---
 
@@ -3821,8 +3820,8 @@ Tıpalı bir flakondan doz uygulanırken, tıpa veya tıpanın üzerindeki alüm
 
 ### Notlar
 
-- Metin fotoğrafta soldan sağa ardışık sütunlar halinde okunmuştur.
-- Basılı metinde “Aşıyı uygulamadan önce ... kullanmadan önce” ifadesinde “önce” tekrarı bulunmaktadır; aynen korunmuştur.
+- Sütunlar soldan sağa sırayla aktarıldı.
+- “Aşıyı uygulamadan önce ... kullanmadan önce” cümlesindeki “önce” tekrarı baskıdaki gibi bırakıldı.
 
 ---
 
@@ -4037,8 +4036,7 @@ ile %100 arasında değişirken, MenACWY-D[kesik]
 
 ### Notlar
 
-- Sağ sütunun büyük bölümü fotoğrafın sağ kenarında kesilmiştir; okunamayan içerik işaretlenmiştir.
-- 4.5 bölümü fotoğrafın alt kenarında kesilmektedir.
+- Sağ sütunun büyük bölümü fotoğrafın sağ kenarında kesik; okunamayan yerler işaretlendi. 4.5 bölümü fotoğrafın alt kenarında kesiliyor.
 
 ---
 
@@ -4267,7 +4265,7 @@ Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serog[kesik]
 
 ### Notlar
 
-- Tabloların sayıları bu görüntüden güvenle aktarılamadı; sağ sütun sağ kenarda kesilmektedir.
+- Sağ sütun sağ kenarda kesik ve tablolardaki sayılar bu fotoğraftan güvenilir biçimde okunamadı.
 
 ---
 
@@ -4389,7 +4387,7 @@ _[sol sütun, alt bölüm]_
 
 ### Notlar
 
-- Sol taraftaki metin fotoğraf kenarında kesiktir. Tabloların bir bölümü henüz güvenle aktarılmamıştır.
+- Sol taraftaki metin fotoğrafın kenarında kesik. Tabloların bir bölümü okunamadı.
 
 ---
 
@@ -4577,7 +4575,7 @@ emzirme dönemlerinde maternal m[kesik]
 
 ### Notlar
 
-- Fotoğrafın sağ kenarındaki metin kesiktir; tabloların bir bölümü güvenle aktarılamamıştır.
+- Fotoğrafın sağ kenarındaki metin kesik; tabloların bir bölümü okunamadı.
 
 ---
 
@@ -4777,7 +4775,7 @@ E-posta: keymen@keymen.com.tr
 
 ### Notlar
 
-- Sağ sütunun sağ kenarı kesiktir; tabloların bir bölümü güvenle aktarılamamıştır.
+- Sağ sütunun sağ kenarı kesik; tabloların bir bölümü okunamadı.
 
 ---
 
@@ -4867,7 +4865,7 @@ Uygulanabilir değil
 
 ### Notlar
 
-- Sol sütun büyük ölçüde kesiktir; diğer metin ve tabloların bir bölümü güvenle aktarılamamıştır.
+- Sol sütunun büyük bölümü kesik; kalan metnin ve tabloların bir bölümü okunamadı.
 
 ---
 
@@ -5088,7 +5086,7 @@ SERUM INSTITUTE OF INDIA PVT. LTD.
 
 ### Notlar
 
-- Sol sütun fotoğrafın sol kenarında kesiktir; metnin bir bölümü güvenle aktarılamamıştır.
+- Sol sütun fotoğrafın sol kenarında kesik; metnin bir bölümü okunamadı.
 
 ---
 
@@ -5180,4 +5178,4 @@ Tablo 4: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Popülas
 
 ### Notlar
 
-- Sol sütun fotoğrafın sol kenarında, Tablo 4 fotoğrafın alt kenarında kesiktir. Bazı paragraflar güvenle aktarılamamıştır.
+- Sol sütun fotoğrafın sol kenarında, Tablo 4 alt kenarında kesik. Bazı paragraflar okunamadı.

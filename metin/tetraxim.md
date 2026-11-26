@@ -1,5 +1,5 @@
 # Tetraxim
-_Kaynak: yeni-temiz-fotograflar/tetraxim-y1…y6 — Kullanma Talimatı; fotoğraflar talimatın beş bölümünü ve sağlık personeline yönelik bilgileri kapsamaktadır._
+_Kullanma talimatı; 1-5. bölümler ve sağlık personeli için bilgiler (fotoğraf tetraxim-y1 ile tetraxim-y6 arası)._
 
 _(foto: tetraxim-y1)_
 
@@ -365,8 +365,9 @@ Kullanmadan önce enjektörü “iyice” çalkalayınız. Sadece intramüsküle
 
 **İntravasküler yoldan vermeyiniz.** İğnenin bir kan damarına girmemesine dikkat edin. İntradermal yoldan enjekte etmeyiniz.
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “Aluminyum”, “bir kaç”, “farkederseniz”, “Yan etkile”; dipnotta “Alüminyum” yazılmıştır.
-- Belirsiz okumalar: Yok olarak işaretlendi; fotoğraflardaki küçük baskı ve kıvrımlar okumayı güçleştirmektedir.
-- Eksik/kesik bölümler: Kullanma talimatının 1–5 numaralı bölümleri görüntülerde yer alıyor. Kısa Ürün Bilgisi fotoğraflarda bulunmadığından onun 2 ve 6.1 bölümleri görülemiyor. El yazısı ve fosforlu kalem işaretleri aktarılmadı.
+- Baskıdaki “Aluminyum”, “bir kaç”, “farkederseniz” ve “Yan etkile” yazımları olduğu gibi bırakıldı; dipnotta “Alüminyum” doğru yazılmış.
+- Baskı küçük ve kâğıt yer yer kıvrık, ancak belirsiz okuma kalmadı.
+- Fotoğraflar kullanma talimatının 1-5. bölümlerini içeriyor. Kısa ürün bilgisi fotoğraflanmadığı için onun 2. ve 6.1 bölümleri görülemiyor.
+- El yazısı ve fosforlu kalem işaretleri aktarılmadı.

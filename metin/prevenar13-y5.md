@@ -100,5 +100,3 @@ Tablo 2: PREVENAR’ın 7V içeren formülasyonu etk[kesik]
 ### 65 yaş ve üzeri erişkinlerde etkililik çalışmaları
 
 [okunamadı]
-
-### Notlar

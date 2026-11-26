@@ -215,4 +215,4 @@ SERUM INSTITUTE OF INDIA PVT. LTD.
 
 ### Notlar
 
-- Sol sütun fotoğrafın sol kenarında kesiktir; metnin bir bölümü güvenle aktarılamamıştır.
+- Sol sütun fotoğrafın sol kenarında kesik; metnin bir bölümü okunamadı.

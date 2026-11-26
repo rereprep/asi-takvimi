@@ -1,6 +1,6 @@
 # Kızamık, Kabakulak ve Kızamıkçık Aşısı Canlı, Atenüe (Liyofilize)
 
-_Kaynak: yeni-temiz-fotograflar/kkk-y1 ve kkk-y3 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
+_Kısa ürün bilgisi; fotoğraflarda görünen bölümler (fotoğraf kkk-y1 ve kkk-y3)._
 
 > **Aşı ve Serum uygulamalarında, GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMI GENELGESİ dikkate alınmalıdır.**
 >
@@ -233,8 +233,8 @@ _(foto: kkk-y3)_
 
 _[Revizyon tarihi fotoğrafta belirtilmemiş]_
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “yada”, “malin”, “0,5 ml) ı”, “Gurup”.
-- Belirsiz okumalar: İşaretlenmiş belirsiz okuma yok.
-- Eksik/kesik bölümler: 10. bölümün başlığı ve altındaki boş alan görülüyor; tarih belirtilmemiş. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
+- Baskıdaki “yada”, “malin”, “0,5 ml) ı” ve “Gurup” yazımları olduğu gibi bırakıldı.
+- 10. bölümün başlığı basılı, revizyon tarihi alanı boş.
+- Belgedeki fosforlu kalem ve el yazısı işaretleri aktarılmadı.

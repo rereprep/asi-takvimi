@@ -116,4 +116,4 @@ _[sol sütun, alt bölüm]_
 
 ### Notlar
 
-- Sol taraftaki metin fotoğraf kenarında kesiktir. Tabloların bir bölümü henüz güvenle aktarılmamıştır.
+- Sol taraftaki metin fotoğrafın kenarında kesik. Tabloların bir bölümü okunamadı.

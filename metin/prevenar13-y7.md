@@ -143,5 +143,3 @@ Ruhsat yenileme tarihi: 09.10.2015
 ### 10. KÜB’ÜN YENİLENME TARİHİ
 
 13.05.2022
-
-### Notlar

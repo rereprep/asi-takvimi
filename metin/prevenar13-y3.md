@@ -197,4 +197,5 @@ düzenlenmiştir. Bu iki çalışmad [kesik]
 dışı eşdeğer etkinlik kriteri ile k [kesik]
 
 ### Notlar
-Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
+
+- Sağ kenardaki komşu sayfa kesik; okunamayan yerler işaretlendi.

@@ -80,4 +80,5 @@ PREVENAR 13’ün İPH’lerden koruma etkililiği çalışılmamıştır. Düny
 Birçok Avrupa ülkesi ile ABD’de, iki randomize eşdeğer etkinlik çalışması da dahil olmak üzere (Almanya’da, 2, 3, 4 ayda primer serinin uygulandığı [006] ve ABD’de 2, 4, 6 ayda primer serinin uygulandığı [004]) farklı bağışıklama şemalarının kullanıldığı klinik çalışmalar düzenlenmiştir. Bu iki çalışmada pnömokokal bağışıklama yanıtları, primer serilerden bir ay sonra serum antipolisakkarid serotip spesifik IgG ≥0,35 mikrogram/mL olan gönüllülerin yüzdesi ve IgG geometrik ortalama konsantrasyonlarının (ELISA GMC’ler) karşılaştırılması dahil bir dizi eşdeğer etkinlik kriteri ile karşılaştırılmıştır. Buna ek olarak, PREVENAR 13 ve PREVENAR’ın 7V içeren formülasyonunu alan gönüllülerin [kesik]
 
 ### Notlar
-Fotoğrafın kenarlarında komşu sayfalara ve başka prospektüslere ait kesilmiş metinler görünmektedir. Aktarılamayan metinler işaretlenmiştir.
+
+- Fotoğrafın kenarlarında komşu sayfalardan ve başka prospektüslerden kesik metinler görünüyor; okunamayan yerler işaretlendi.

@@ -223,4 +223,4 @@ Tablo 6: Her enjeksiyondan önce ve 28 gün sonra Serog[kesik]
 
 ### Notlar
 
-- Tabloların sayıları bu görüntüden güvenle aktarılamadı; sağ sütun sağ kenarda kesilmektedir.
+- Sağ sütun sağ kenarda kesik ve tablolardaki sayılar bu fotoğraftan güvenilir biçimde okunamadı.

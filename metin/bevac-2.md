@@ -1,5 +1,5 @@
 # BEVAC
-_Kaynak: temiz-fotograflar/bevac-2.jpg — Kısa Ürün Bilgisi'nin devam sayfasında görünen kısım; 5.3 bölümünde sağ kenar kesik._
+_Kısa ürün bilgisinin devam sayfasında görünen kısım (fotoğraf bevac-2). 5.3 bölümünde sağ kenar kesik._
 
 BEVAC, hepatit A, hepatit C ve hepatit D gibi diğer virüslerin ve karaciğeri enfekte ettiği bilinen diğer ajanların neden olduğu hepatiti önlemeyecektir.
 
@@ -72,7 +72,7 @@ Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Ko
 Arvatera İlaç San. ve Tic. A.Ş. Sarıyer/İstanbul  
 Üretici: Biological E.Limited/Hindistan
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): “Bevacın”; “semptomlar şunlardır ... semptomlardır” ifadesindeki tekrar.
-- Belirsiz okumalar: 5.3 bölümünde sağ kenardaki “değerlendirmekti” sözcüğünün sonu.
-- Kesik/okunamayan bölümler: 5.3 bölümünde iki satırın sağ ucu fotoğraf kenarında kesik.
+## Notlar
+
+- Baskıdaki “Bevacın” yazımı ve “semptomlar şunlardır ... semptomlardır” tekrarı olduğu gibi bırakıldı.
+- 5.3 bölümünde iki satırın sağ ucu fotoğraf kenarında kesik; “değerlendirmekti” sözcüğünün sonu kesin okunmuyor.

@@ -198,4 +198,5 @@ görülme sıklığı benzerdir. Sadece b [kesik]
 _[Fotoğrafın kenarında komşu sütunun 10 satırının yalnız başı görünüyor. Bu sütunun tam metni diğer fotoğraflarda yer alıyor.]_
 
 ### Notlar
-Sağ kenardaki komşu sayfa kesilmiştir. Aktarılamayan metinler işaretlenmiştir.
+
+- Sağ kenardaki komşu sayfa kesik; okunamayan yerler işaretlendi.

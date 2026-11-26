@@ -84,4 +84,4 @@ Uygulanabilir değil
 
 ### Notlar
 
-- Sol sütun büyük ölçüde kesiktir; diğer metin ve tabloların bir bölümü güvenle aktarılamamıştır.
+- Sol sütunun büyük bölümü kesik; kalan metnin ve tabloların bir bölümü okunamadı.

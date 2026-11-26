@@ -162,8 +162,8 @@ Hamileyseniz hamilelik sırasında ADACEL almanız gerekip gerekmediğine karar 
 
 ### Notlar
 
-- Baskıda “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi bu biçimde yer almaktadır.
-- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimleri “Lf” olarak okunmaktadır.
+- “ADACEL kullanmadan önce dikkat edilmesi gerekenler” ifadesi baskıda bu biçimde.
+- Etkin madde tablosunda difteri ve tetanoz toksoidi miktarlarının birimi “Lf” olarak okundu.
 
 ---
 
@@ -372,5 +372,5 @@ Tıpalı bir flakondan doz uygulanırken, tıpa veya tıpanın üzerindeki alüm
 
 ### Notlar
 
-- Metin fotoğrafta soldan sağa ardışık sütunlar halinde okunmuştur.
-- Basılı metinde “Aşıyı uygulamadan önce ... kullanmadan önce” ifadesinde “önce” tekrarı bulunmaktadır; aynen korunmuştur.
+- Sütunlar soldan sağa sırayla aktarıldı.
+- “Aşıyı uygulamadan önce ... kullanmadan önce” cümlesindeki “önce” tekrarı baskıdaki gibi bırakıldı.

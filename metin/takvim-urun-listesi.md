@@ -1,5 +1,5 @@
 # Takvimde kullanılan aşı ürünleri listesi
-_Kaynak: temiz-fotograflar/takvim-urun-listesi.jpg — Ulusal Çocukluk Dönemi Aşılama Takvimi (2026) çıktısının sol kısmı ve yanına basılmış ürün adları; takvimin sağ kısmı fotoğrafta kesik._
+_Ulusal Çocukluk Dönemi Aşılama Takvimi (2026) çıktısının sol kısmı ve yanına basılmış ürün adları (fotoğraf takvim-urun-listesi). Takvimin sağ kısmı fotoğrafta yok._
 
 | Ürün adı (kâğıda basılı) | Takvimdeki aşı |
 |---|---|
@@ -28,7 +28,7 @@ Sayfanın altında:
 Tdab **(Adacel)**  
 **MenFive** (meningokok)
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): "BCG Live Attenüe"; açıklama kutusunda "ina ktif" (harf aralığı baskıda böyle görünüyor).
-- Kesik/okunamayan bölümler: Takvimin "DOĞUM" sütunundan sonrası ve açıklama kutusunun sağ yarısı fotoğrafta yok.
+## Notlar
 
+- Baskıdaki "BCG Live Attenüe" yazımı ve açıklama kutusundaki "ina ktif" aralığı olduğu gibi bırakıldı.
+- Takvimin "DOĞUM" sütunundan sonrası ve açıklama kutusunun sağ yarısı fotoğrafta yok.

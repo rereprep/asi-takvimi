@@ -194,4 +194,4 @@ E-posta: keymen@keymen.com.tr
 
 ### Notlar
 
-- Sağ sütunun sağ kenarı kesiktir; tabloların bir bölümü güvenle aktarılamamıştır.
+- Sağ sütunun sağ kenarı kesik; tabloların bir bölümü okunamadı.

@@ -89,8 +89,9 @@ Canlı Suçiçeği Aşısı, üst kol bölgesinde deri altına (subkutan) enjekt
 Aşı tek dozluk flakon şeklinde bulunduğundan ve doktorunuz veya [kesik]
 
 ### Notlar
-- Son cümle fotoğrafın alt kenarında kesilmektedir.
-- Etkin madde miktarı fotoğraftaki “3.3 lg PFU” yazımıyla aktarılmıştır.
+
+- Son cümle fotoğrafın alt kenarında kesiliyor.
+- Etkin madde miktarı fotoğraftaki gibi “3.3 lg PFU” biçiminde yazıldı.
 
 ---
 
@@ -221,5 +222,6 @@ Kullanım sırasında Canlı Suçiçeği Aşısı'nı dezenfektana maruz bırakm
 Kullanılmamış herhangi bir tıbbi ürün veya atık malzeme yerel gerekliliklere uygun olarak imha edilmelidir.
 
 ### Notlar
-- “Steve-Johnson” yazımı baskıdaki biçimiyle aktarılmıştır.
-- İlk paragraf önceki fotoğrafta başlayan cümlenin devamıdır.
+
+- “Steve-Johnson” yazımı baskıdaki gibi bırakıldı.
+- İlk paragraf, önceki fotoğrafta başlayan cümlenin devamı.

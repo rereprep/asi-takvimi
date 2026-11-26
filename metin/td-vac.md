@@ -100,8 +100,9 @@ Bu aşı BCG, Kızamık, Polio aşıları (IPV ve OPV), Hepatitis B, Sarı humma
 *Eğer reçeteli ya da reçetesiz herhangi bir ilacı şu anda kullanıyorsanız veya son zamanlarda kullandınız ise veya son zamanlarda bu aşı dışında herhangi bir aşılama yapıldıysa lütfen doktorunuza veya eczacınıza bunlar hakkında bilgi veriniz.*
 
 ### Notlar
-- Ürün adının bulunduğu satır görüntüde beyaz alanla örtülüdür.
-- “bağışık gelişmektedir” ve “Corynebacterium diphteriae” baskıdaki biçimiyle korunmuştur.
+
+- Ürün adının bulunduğu satır fotoğrafta beyaz bir alanla örtülü.
+- “bağışık gelişmektedir” ve “Corynebacterium diphteriae” baskıdaki gibi bırakıldı.
 
 ---
 
@@ -200,4 +201,5 @@ Hadapsar/ Pune /Hindistan
 > - Aşılama genel olarak Ulusal Tavsiyelere uygun olarak yapılmalıdır.
 
 ### Notlar
-- Sıklık kategorilerindeki eşik ifadeleri ve “sonra ... / son ... önce” ifadesi baskıdaki biçimiyle korunmuştur.
+
+- Sıklık kategorilerindeki eşik ifadeleri ve “sonra ... / son ... önce” ifadesi baskıdaki gibi bırakıldı.

@@ -1,5 +1,5 @@
 # HEXAXIM
-_Kaynak: yeni-temiz-fotograflar/hexaxim-y1…y6 — Kullanma talimatı; başlangıç, 1–5. bölümler ve sağlık personeli için bilgiler._
+_Kullanma talimatı; başlangıç, 1-5. bölümler ve sağlık personeli için bilgiler (fotoğraf hexaxim-y1 ile hexaxim-y6 arası)._
 
 _(foto: hexaxim-y1)_
 
@@ -362,8 +362,8 @@ _(foto: hexaxim-y5)_
 
 İntradermal ya da intravenöz yollardan kullanılmamalıdır. İntravasküler enjeksiyon yoluyla uygulamayınız: iğnenin bir kan damarına girmediğinden emin olunuz.
 
-## Aktarım notları
+## Notlar
 
-- Basılı anlatım hataları (aynen korunanlar): “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
-- Belirsiz okumalar: Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net değildir; ilgili yerlere [?] eklenmiştir. Diğer miktarlar yalnız kaynak fotoğraftan okunmaya çalışılmıştır.
-- Fotoğraflardaki örtüşen metinler bir kez aktarılmıştır.
+- Baskıdaki anlatım bozuklukları olduğu gibi bırakıldı: “Çocuğunuza enjeksiyonun uygulandıktan sonra”, “renginin soluk, gevşek olduğu” ve “aşısı ... dozundan önceki 7 gün içinde”.
+- Etkin madde tablosundaki iki üst simge grubu ve tetanoz proteinine konjuge miktarın aralığı fotoğrafta net okunmuyor; bu yerler [?] ile gösterildi.
+- Fotoğraflarda örtüşen kısımlar bir kez yazıldı.

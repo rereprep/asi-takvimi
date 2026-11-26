@@ -182,4 +182,4 @@ emzirme dönemlerinde maternal m[kesik]
 
 ### Notlar
 
-- Fotoğrafın sağ kenarındaki metin kesiktir; tabloların bir bölümü güvenle aktarılamamıştır.
+- Fotoğrafın sağ kenarındaki metin kesik; tabloların bir bölümü okunamadı.

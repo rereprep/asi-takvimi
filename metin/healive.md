@@ -1,4 +1,4 @@
-# Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik) — Healive
+# Healive Hepatit A Aşısı (İnsan Diploid Hücresi), İnaktive (Pediatrik)
 _Kısa ürün bilgisi, 23 Kasım 2026 tarihli fotoğraflar (healive-y1, healive-y2). Fotoğraflar kısmen örtüştüğü için bazı paragraflar iki kez geçebilir._
 
 ---
@@ -124,11 +124,9 @@ Yaygın olmayan: Başağrısı
 
 ### Notlar
 
-- Basılı yazım: “Başağrısı” kaynakta bitişik yazılmıştır.
-
-- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okunmuştur.
-- Belirsiz okumalar: Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmıştır.
-- Kesik yer: Sol sütunun son satırı “akut atak” ile fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında görünür.
+- Baskıda “Başağrısı” bitişik yazılmış.
+- Antijen miktarının yanındaki dipnot işareti büyütülmüş görüntüde ³ olarak okundu. Doz tablosundaki “u” birimi ve antijen satırındaki dipnot işaretleri çok küçük basılmış.
+- Sol sütunun son satırı “akut atak” sözcükleriyle fotoğrafın alt kenarında kesiliyor; devamı sağ sütunun başında.
 
 ---
 
@@ -246,6 +244,4 @@ E-posta: keyvac@keyvac.com.tr
 
 ### Notlar
 
-- Baskı hataları: Metindeki “degrade”, “geçimlilik” ve “hala” biçimleri görüntüde bu şekilde basılmıştır.
-- Belirsiz okumalar: Yok.
-- Kesik/okunamayan yerler: Yok.
+- Metindeki “degrade”, “geçimlilik” ve “hala” yazımları baskıdaki gibi bırakıldı.

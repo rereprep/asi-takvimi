@@ -86,4 +86,4 @@ Tablo 4: Serogrup Başına rSBA Geometrik Ortalama Titreleri - Protokol Popülas
 
 ### Notlar
 
-- Sol sütun fotoğrafın sol kenarında, Tablo 4 fotoğrafın alt kenarında kesiktir. Bazı paragraflar güvenle aktarılamamıştır.
+- Sol sütun fotoğrafın sol kenarında, Tablo 4 alt kenarında kesik. Bazı paragraflar okunamadı.

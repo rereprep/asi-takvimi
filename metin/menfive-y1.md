@@ -209,5 +209,4 @@ ile %100 arasında değişirken, MenACWY-D[kesik]
 
 ### Notlar
 
-- Sağ sütunun büyük bölümü fotoğrafın sağ kenarında kesilmiştir; okunamayan içerik işaretlenmiştir.
-- 4.5 bölümü fotoğrafın alt kenarında kesilmektedir.
+- Sağ sütunun büyük bölümü fotoğrafın sağ kenarında kesik; okunamayan yerler işaretlendi. 4.5 bölümü fotoğrafın alt kenarında kesiliyor.

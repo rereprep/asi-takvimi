@@ -1,5 +1,5 @@
 # BCG AŞISI
-_Kaynak: yeni-temiz-fotograflar/bcg-y1 ve bcg-y2 — Kısa Ürün Bilgisi; fotoğraflarda görünen bölümlerin aktarımı._
+_Kısa ürün bilgisi; fotoğraflarda görünen bölümler (fotoğraf bcg-y1 ve bcg-y2)._
 
 > Aşı ve Serum uygulamalarında, Genişletilmiş Bağışıklama Programı Genelgesi dikkate alınmalıdır. Bu konuda karşılaşılacak her türlü soru ve problemlerle ilgili olarak, T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Daire Başkanlığı veya İl Sağlık Müdürlükleri ile temasa geçilmelidir.
 
@@ -317,12 +317,12 @@ Tel: 0312 4853760 Fax: 0312 4853761
 
 E-posta: keymen@keymen.com.tr
 
-## 7–10. Bölümler
+## 7-10. Bölümler
 
 _[Bu bölüm fotoğraflarda yok]_
 
-## Aktarım notları
+## Notlar
 
-- Basılı yazım hataları (aynen korunanlar): “Attenüe”, “anaflaktik”, “Ertem”, “sonuçölçümler”.
-- Belirsiz okumalar: 5.1 bölümünde örtülü alan [okunamadı] ve kısmen görünen satırlar [kesik] ile işaretlendi.
-- Eksik/kesik bölümler: 5.1'in bir kısmı kapalıdır; 7–10. bölümler fotoğraflarda görünmüyor. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.
+- Baskıdaki “Attenüe”, “anaflaktik”, “Ertem” ve “sonuçölçümler” yazımları olduğu gibi bırakıldı.
+- 5.1 bölümünün bir kısmı fotoğrafta kapalı; görünmeyen yerler [okunamadı], kısmen görünen satırlar [kesik] ile gösterildi.
+- 7-10. bölümler fotoğraflarda yok. Fosforlu kalem ve el yazısı işaretleri aktarılmadı.

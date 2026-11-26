@@ -1,5 +1,5 @@
 # BEVAC 10 mcg/0,5 mL Pediyatrik IM Hepatit B Aşısı
-_Kaynak: temiz-fotograflar/bevac-1.jpg — Kısa Ürün Bilgisi'nin ilk sayfasında görünen kısım._
+_Kısa ürün bilgisinin ilk sayfasında görünen kısım (fotoğraf bevac-1)._
 
 **Steril**
 
@@ -78,7 +78,6 @@ _Kullanmadan önce_, BEVAC® düzgün, beyazımsı yarı saydam bir süspansiyon
 
 _NOT:_ Hepatit-B virüsünün semptomları ortaya çıkarması için uzun bir kuluçka dönemi olduğundan, bazı kişiler enfeksiyon fark edilmeden aşı olabilir. Bu gibi durumlarda, BEVAC aşısı hepatit-B virüsüne bağlı hepatitin başlamasını önleyemeyebilir.
 
-## Aktarım notları
-- Basılı yazım hataları (aynen korunanlar): Erken doğan bebekler için programda üç zaman noktası sayılan seçenek de dört doz olarak belirtilmiştir.
-- Belirsiz okumalar: Yok.
-- Kesik/okunamayan bölümler: Yok.
+## Notlar
+
+- Erken doğan bebekler için verilen programda üç zaman noktası sayıldığı hâlde seçenek dört doz olarak yazılmış; baskıdaki gibi bırakıldı.

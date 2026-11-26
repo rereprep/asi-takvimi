@@ -71,5 +71,3 @@ CAPiTA çalışması demografik özellikleri ve sağlık durumları açısından
 _[sağ sütun]_
 
 [okunamadı]
-
-### Notlar

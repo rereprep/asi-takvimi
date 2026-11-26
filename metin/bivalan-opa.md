@@ -67,7 +67,8 @@ BİVALAN ORAL POLİOMYELİT AŞISI TİP 1 VE 3'ün araç ve makine kullanımı k
 Vakaların büyük çoğunluğunda hiçbir yan etkisi yoktur. Çok nadiren aşıya bağlı paralizi gelişebilir (uygulanan 1 milyon dozda bir vaka). Yakın zamanda aşılanan bir çocukla yakın temas halinde olan kişiler nadiren de olsa aşıya bağlı paralitik poliomyelit riski altında olabilirler.
 
 ### Notlar
-- “Haemophillus” yazımı görüntüdeki biçimiyle korunmuştur.
+
+- “Haemophillus” yazımı baskıdaki gibi bırakıldı.
 
 ---
 
@@ -153,4 +154,5 @@ GKL1502907036A1
 Mayıs 2020
 
 ### Notlar
-- Metindeki “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki biçimiyle korunmuştur.
+
+- “28 güne kullanımı” ve “3 e” ifadeleri baskıdaki gibi bırakıldı.
