@@ -575,7 +575,7 @@ window.ICERIK = {
   {
    "asi": "hepb",
    "alinti": "Gebelik kategorisi: C ... Gebe kadınların rekombinant hepatit-B aşısı ile rutin olarak aşılanması, fetüs üzerindeki etkilerine ilişkin verilerin yetersiz olması nedeniyle önerilmemektedir.",
-   "neden": "Gebelikte aşının güvenli olmadığı biçiminde yorumlanabilir.",
+   "neden": "Aşının gebelikte güvenli olmadığı sonucu çıkarılabilir.",
    "baglam": "Harfli gebelik kategorileri tek başına zarar gösterildiği anlamına gelmez. FDA, A, B, C, D ve X kategorilerini 30 Haziran 2015'te yürürlüğe giren gebelik ve emzirme etiketleme kuralıyla kaldırmıştır.",
    "kaynak": [
     "fda_pllr"
@@ -598,7 +598,7 @@ window.ICERIK = {
   {
    "asi": "td",
    "alinti": "Bu tıbbi ürün koruyucu olarak tiyomersal ihtiva etmektedir ve sizin ya da çocuğunuzun alerjik reaksiyon göstermesi ihtimali vardır.",
-   "neden": "Cıva itirazını belgenin kendisinin doğruladığı biçiminde okunabilir.",
+   "neden": "Belgenin cıva itirazını doğruladığı düşünülebilir.",
    "baglam": "Tiyomersal maddesine bakınız.",
    "kaynak": [
     "gacvs"
