@@ -35,9 +35,15 @@ window.ASILAR = [
     "ad": "DSÖ ön yeterlilik kaydı (İngilizce)",
     "url": "https://extranet.who.int/prequal/vaccines/p/bevacr",
     "kaynak": "DSÖ"
+   },
+   {
+    "tur": "Diğer",
+    "ad": "Üreticinin Hindistan kısa ürün bilgisi (İngilizce, Eylül 2016)",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadSmPC/13happ.pdf",
+    "kaynak": "CDSCO"
    }
   ],
-  "not": "Kısa ürün bilgisinin iki sayfası ve kutu fotoğraflandı. İthalatçının sitesinde yayımlanmış Türkçe KÜB veya KT yok; metin fotoğraflardan alındı. Kutunun üzerinde \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor.",
+  "not": "Kısa ürün bilgisinin iki sayfası ve kutu fotoğraflandı. İthalatçının sitesinde yayımlanmış Türkçe KÜB veya KT yok; metin fotoğraflardan alındı. Kutunun üzerinde \"T.C. Sağlık Bakanlığı malıdır, satılamaz\" yazıyor. Alüminyum ve tiyomersal miktarı fotoğraftaki belgede yok. Üreticinin Hindistan için hazırladığı kısa ürün bilgisine (CDSCO, Eylül 2016) göre 0,5 mL'lik pediyatrik dozda 0,25 mg alüminyum (Al³⁺) ve 0,025 mg (25 µg) tiyomersal bulunur. Türkiye'ye gelen ürünün bileşimi bu belgedekinden farklı olabilir.",
   "metinler": [
    {
     "dosya": "bevac-1",

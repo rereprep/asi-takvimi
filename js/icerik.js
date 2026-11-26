@@ -1,6 +1,10 @@
 // İçerik maddeleri, prospektüs ifadeleri ve kaynakları. F: prospektüs fotoğrafı, K: firma KÜB, D: üreticinin yabancı belgesi veya DSÖ kaynağı.
 window.ICERIK = {
  "kaynaklar": {
+  "cdsco_bevac": {
+   "ad": "Biological E. Limited, BEVAC (Hepatitis B Vaccine, rDNA) kısa ürün bilgisi, Eylül 2016 (CDSCO, Hindistan)",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadSmPC/13happ.pdf"
+  },
   "edqm": {
    "ad": "Avrupa Farmakopesi (EDQM), aşı metinleri; 0153 Vaccines for human use",
    "url": "https://www.edqm.eu/documents/52006/277487/Free%2Baccess%2Bto%2Bsupportive%2Bpharmacopoeial%2Btexts%2Bin%2Bthe%2Bfield%2Bof%2Bvaccines%2Bfor%2Bhuman%2Buse%2Bduring%2Bthe%2Bcoronavirus%2Bdisease%2B%28COVID-19%29%2Bpandemic%2BUpdated%2Bpackage%2B-%2BOctober%2B2020.pdf/72875b16-432e-3854-36ca-51422e221d68?download=true&version=1.1"
@@ -137,8 +141,8 @@ window.ICERIK = {
     ],
     [
      "hepb",
-     "alüminyum hidroksit; miktar fotoğrafta yok",
-     "F"
+     "0,25 mg Al³⁺ (üreticinin Hindistan KÜB'üne göre; fotoğrafta miktar yok)",
+     "D"
     ],
     [
      "hepa",
@@ -161,7 +165,8 @@ window.ICERIK = {
    "kaynak": [
     "edqm",
     "fda_ing",
-    "mitkus11"
+    "mitkus11",
+    "cdsco_bevac"
    ]
   },
   {
@@ -176,8 +181,8 @@ window.ICERIK = {
     ],
     [
      "hepb",
-     "koruyucu olarak; miktar fotoğrafta yok",
-     "F"
+     "doz başına 25 µg tiyomersal, yaklaşık 12,5 µg cıva (hesaplanan); üreticinin Hindistan KÜB'üne göre, fotoğrafta miktar yok",
+     "D"
     ]
    ],
    "soylem": "\"Aşıda cıva var\" itirazının konusu; otizm ve sinir sistemi hasarıyla ilişkilendirilir. Td-VAC talimatında tiyomersale alerji gelişebileceğinin yazması da bu itiraza dayanak yapılabilir.",
@@ -185,7 +190,8 @@ window.ICERIK = {
    "kaynak": [
     "gacvs",
     "who_thio",
-    "pich"
+    "pich",
+    "cdsco_bevac"
    ]
   },
   {
@@ -638,7 +644,6 @@ window.ICERIK = {
  "acik": [
   "KKK'deki jelatinin kaynağı (domuz ya da sığır) ne Türkçe kısa ürün bilgisinde ne de üreticinin yayımladığı belgelerde yazıyor. Bu bilgi üreticiden ya da Keymen'den istenmelidir.",
   "KKK ve suçiçeği aşısının üretildiği hücreler Türkçe belgelerde yazmıyor; bu bilgi üreticinin İngilizce prospektüsünden ve DSÖ değerlendirme özetinden alındı.",
-  "Bevac'taki tiyomersal ve alüminyum miktarı kısa ürün bilgisinde verilmemiş.",
   "Prevenar 13 kısa ürün bilgisinin altıncı fotoğrafındaki klinik çalışma tabloları büyük ölçüde okunamadı.",
   "Healive'ın Türkçe KÜB'ü yayımlanmamış; aynı antijeni içeren Havtec Pediyatrik'in KÜB'ü eşdeğer belge olarak verildi.",
   "Suçiçeği aşısının mümessili Keyvac'ın sitesine erişilemediği için firmanın yayımladığı bir KÜB veya KT dosyası olup olmadığı kontrol edilemedi."
